@@ -1,0 +1,6 @@
+-e .
+click==7.1.2
+google-api-python-client==1.12.8
+google-auth-oauthlib==0.4.2
+pendulum==2.1.2
+requests==2.25.1

@@ -1,0 +1,4 @@
+[flake8]
+extend-ignore =
+    E203, # Whitespace before ':'
+    E501  # Line too long
