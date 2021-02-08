@@ -14,3 +14,11 @@ Check file format before commit
 ```shell
 make fmt
 ```
+
+## Tools
+
+Save blogger posts as json files
+
+```shell
+apod backup --help
+```
