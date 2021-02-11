@@ -156,9 +156,6 @@ tags: {tags}
 image: {image or video}
 ---
 
-# {title}
-
-![]({image or video})
 - [{source_title}]({source_url})
 {newline.join(['- ' +m for m in meta])}
 
