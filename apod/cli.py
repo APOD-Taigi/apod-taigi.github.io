@@ -153,6 +153,7 @@ title: {title}
 description:
 date: {date.format("YYYY-MM-DD")}
 tags: {tags}
+image: {image or video}
 ---
 
 # {title}

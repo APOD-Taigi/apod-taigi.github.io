@@ -8,10 +8,10 @@
   {{- $summary = $params.description }}
 {{- end }}
 {{- $summary = truncate 160 "" $summary }}
-{{- $logo := absURL (printf "images/%s" $params.logo) }}
+{{- $logo := absURL (printf "%s" $params.logo) }}
 {{ $image := "" }}
 {{- with .Params.image }}
-  {{- $image = absURL (printf "images/%s" .) }}
+  {{- $image = absURL (printf "%s" .) }}
 {{- else }}
   {{- $image = $logo }}
 {{- end }}
