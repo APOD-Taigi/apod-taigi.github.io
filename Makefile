@@ -9,4 +9,4 @@ fmt:
 backup:
 	apod backup -o backup
 convert:
-	apod convert-blogger-posts-to-markdown -i backup -o content
+	apod convert-blogger-posts-to-markdown -i backup -o content/posts
