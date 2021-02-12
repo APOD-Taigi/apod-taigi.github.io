@@ -147,17 +147,20 @@ def _convert_blogger_post_to_markdown(post):
     words_str = re.sub(r"[ ]{2,}", "  ", words_str)
     words = words_str.split("  ")
 
+    summary = hanlo.split("。")[0] + "。"
+    summary = summary.replace("[", "").replace("]", "")
+    summary = re.sub(r"\(.*\)", "", summary)
+
     newline = "\n"
     markdown = f"""---
 title: {title}
 description:
 date: {date.format("YYYY-MM-DD")}
 tags: {tags}
+image: {image or video}
+summary: {summary}
 ---
 
-# {title}
-
-![]({image or video})
 - [{source_title}]({source_url})
 {newline.join(['- ' +m for m in meta])}
 
