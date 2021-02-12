@@ -163,6 +163,8 @@ aliases:
   - /{date.format("YYYY/MM/YYYYMMDD")}.html
 ---
 
+{{{{< apod_links >}}}}
+
 - [{source_title}]({source_url})
 {newline.join(['- ' +m for m in meta])}
 
@@ -185,6 +187,8 @@ aliases:
 ## {words_title}
 
 {newline.join(['- ' +w for w in words])}
+
+{{{{< what_is_apod >}}}}
 
 """
     return markdown
