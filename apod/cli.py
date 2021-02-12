@@ -159,6 +159,8 @@ date: {date.format("YYYY-MM-DD")}
 tags: {tags}
 image: {image or video}
 summary: {summary}
+aliases:
+  - /{date.format("YYYY/MM/YYYYMMDD")}.html
 ---
 
 - [{source_title}]({source_url})
