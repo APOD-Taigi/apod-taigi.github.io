@@ -1,12 +1,12 @@
-(function(){
+(function () {
   const doc = document.documentElement;
   const parentURL = '{{ absURL "/" }}';
 
-  function createEl(element='div') {
+  function createEl(element = 'div') {
     return document.createElement(element);
   }
 
-  function elem(selector){
+  function elem(selector) {
     let elem = document.querySelector(selector);
     return elem != false ? elem : false;
   }
@@ -47,11 +47,11 @@
 
   function isChild(node, parentClass) {
     let isNode = node && typeof node == 'object';
-    if (isNode){
+    if (isNode) {
       if (Array.isArray(parentClass)) {
         // return true if at least one is child
         let child = false;
-        parentClass.forEach(function(parent){
+        parentClass.forEach(function (parent) {
           if (node.closest(parent) != null) {
             child = true;
           }
@@ -63,13 +63,13 @@
     }
   }
 
-  function isTarget(target,selector,specifity=false) {
+  function isTarget(target, selector, specifity = false) {
     const isIt = containsClass(target, selector);
     const isInIt = target.closest(`.${selector}`);
-    if(specifity && isIt) {
+    if (specifity && isIt) {
       return isIt;
     }
-    if(!specifity) {
+    if (!specifity) {
       return isIt || isInIt;
     }
   }
@@ -88,7 +88,7 @@
     }
   })();
 
-  (function() {
+  (function () {
     let bar = 'nav_bar-wrap';
     let navBar = elem(`.${bar}`);
     let nav = elem('.nav-body');
@@ -99,7 +99,7 @@
     let navDrop = elem(`.${drop}`);
     let hidden = 'hidden';
 
-    function toggleMenu(){
+    function toggleMenu() {
       modifyClass(navDrop, pop);
       modifyClass(navBar, hidden);
       let menuOpen = containsClass(nav, open);
@@ -111,16 +111,16 @@
       status ? modifyClass(nav, open) : modifyClass(nav, exit);
     }
 
-    doc.addEventListener('click', function(event) {
+    doc.addEventListener('click', function (event) {
       let target = event.target;
       const isNavDrop = isTarget(target, 'nav-drop', true);
-      const isNavClose = isTarget(target,'nav-close', true);
+      const isNavClose = isTarget(target, 'nav-close', true);
       const isNavBar = isTarget(target, 'nav_bar-wrap');
       isNavDrop || isNavClose || isNavBar ? toggleMenu() : false;
     });
   })();
 
-  (function share(){
+  (function share() {
     let share = elem('.share');
     let open = 'share-open';
     let close = 'share-close';
@@ -136,7 +136,7 @@
       deleteClass(share, close);
     }
     if (button) {
-      button.addEventListener('click', function() {
+      button.addEventListener('click', function () {
         showShare();
         setTimeout(hideShare, 5000);
       });
@@ -154,11 +154,11 @@
 
   (function wrapOrphanedPreElements() {
     const pres = elems('pre');
-    if(pres) {
-      Array.from(pres).forEach(function(pre){
+    if (pres) {
+      Array.from(pres).forEach(function (pre) {
         const parent = pre.parentNode;
         const isOrpaned = !containsClass(parent, 'highlight');
-        if(isOrpaned) {
+        if (isOrpaned) {
           const preWrapper = createEl();
           pushClass(preWrapper, 'highlight');
           pushClass(preWrapper, 'sans'); // has no lines
@@ -172,14 +172,14 @@
     */
   })();
 
-  (function(){
+  (function () {
     let links = document.querySelectorAll('a');
-    if(links) {
-      Array.from(links).forEach(function(link){
+    if (links) {
+      Array.from(links).forEach(function (link) {
         let target, rel, blank, noopener, attr1, attr2, url, isExternal;
         url = elemAttribute(link, 'href');
         isExternal = (url && typeof url == 'string' && url.startsWith('http')) && !containsClass(link, 'nav_item') && !isChild(link, ['.archive', '.article', '.post_nav', '.pager']) ? true : false;
-        if(isExternal) {
+        if (isExternal) {
           target = 'target';
           rel = 'rel';
           blank = '_blank';
@@ -196,31 +196,31 @@
   function loadSvg(file, parent, path = 'icons/') {
     const link = `${parentURL}${path}${file}.svg`;
     fetch(link)
-    .then((response) => {
-      const data = response.status == 200 ? response.text() : "";
-      return data;
-    })
-    .then((data) => {
-      parent.innerHTML = data;
-    });
+      .then((response) => {
+        const data = response.status == 200 ? response.text() : "";
+        return data;
+      })
+      .then((data) => {
+        parent.innerHTML = data;
+      });
   }
 
   let headingNodes = [], results, link, icon, current, id,
-  tags = ['h2', 'h3', 'h4', 'h5', 'h6'];
+    tags = ['h2', 'h3', 'h4', 'h5', 'h6'];
 
   current = document.URL;
 
-  tags.forEach(function(tag){
+  tags.forEach(function (tag) {
     results = document.getElementsByTagName(tag);
     Array.prototype.push.apply(headingNodes, results);
   });
 
-  headingNodes.forEach(function(node){
+  headingNodes.forEach(function (node) {
     link = createEl('a');
     link.className = 'link';
     id = node.getAttribute('id');
     loadSvg('link', link, 'images/icons/')
-    if(id) {
+    if (id) {
       link.href = `${current}#${id}`;
       node.appendChild(link);
       pushClass(node, 'link_owner');
@@ -241,9 +241,9 @@
     document.body.appendChild(el);
     // Check if there is any content selected previously
     const selected =
-    document.getSelection().rangeCount > 0
-    ? document.getSelection().getRangeAt(0)   // Store selection if found
-    : false;                                  // Mark as false to know no selection existed before
+      document.getSelection().rangeCount > 0
+        ? document.getSelection().getRangeAt(0)   // Store selection if found
+        : false;                                  // Mark as false to know no selection existed before
     el.select();                              // Select the <textarea> content
     document.execCommand('copy'); // Copy - only works as a result of a user action (e.g. click events)
     document.body.removeChild(el);                  // Remove the <textarea> element
@@ -256,9 +256,8 @@
   (function copyHeadingLink() {
     let deeplink = 'link';
     let deeplinks = document.querySelectorAll(`.${deeplink}`);
-    if(deeplinks) {
-      document.body.addEventListener('click', function(event)
-      {
+    if (deeplinks) {
+      document.body.addEventListener('click', function (event) {
         let target = event.target;
         if (target.classList.contains(deeplink) || target.parentNode.classList.contains(deeplink)) {
           event.preventDefault();
@@ -270,39 +269,39 @@
   })();
 
   (function copyLinkToShare() {
-    let  copy, copied, excerpt, isCopyIcon, isInExcerpt, link, page, postCopy, postLink, target;
+    let copy, copied, excerpt, isCopyIcon, isInExcerpt, link, page, postCopy, postLink, target;
     copy = 'copy';
     copied = 'copy_done';
     excerpt = 'excerpt';
     postCopy = 'post_copy';
     postLink = 'post_card';
 
-    doc.addEventListener('click', function(event) {
+    doc.addEventListener('click', function (event) {
       target = event.target;
       const isInCopyIcon = target.closest(`.${copy}`)
-      isCopyIcon = isTarget(target,copy);
+      isCopyIcon = isTarget(target, copy);
       isInExcerpt = containsClass(target, postCopy);
       if (isCopyIcon) {
         event.preventDefault();
         if (isInExcerpt) {
           link = target.closest(`.${excerpt}`).previousElementSibling;
-          link = containsClass(link, postLink)? elemAttribute(link, 'href') : false;
+          link = containsClass(link, postLink) ? elemAttribute(link, 'href') : false;
         } else {
           link = window.location.href;
         }
-        if(link) {
+        if (link) {
           copyToClipboard(link);
-          isInCopyIcon ? pushClass(isInCopyIcon, copied): pushClass(target, copied);
+          isInCopyIcon ? pushClass(isInCopyIcon, copied) : pushClass(target, copied);
         }
       }
     });
   })();
 
-  (function hideAside(){
+  (function hideAside() {
     let aside, title, posts;
     aside = elem('.aside');
     title = aside ? aside.previousElementSibling : null;
-    if(aside && title.nodeName.toLowerCase() === 'h3') {
+    if (aside && title.nodeName.toLowerCase() === 'h3') {
       posts = Array.from(aside.children);
       posts.length < 1 ? title.remove() : false;
     }
@@ -312,7 +311,7 @@
     let backBtn = elem('.btn_back');
     let history = window.history;
     if (backBtn) {
-      backBtn.addEventListener('click', function(){
+      backBtn.addEventListener('click', function () {
         history.back();
       });
     }
@@ -330,7 +329,7 @@
     acceptableChars = [...acceptableChars];
     let mode = getComputedStyle(doc).getPropertyValue(key).replace(/\"/g, '').trim();
 
-    mode = [...mode].filter(function(letter){
+    mode = [...mode].filter(function (letter) {
       return acceptableChars.includes(letter);
     });
 
@@ -338,7 +337,7 @@
   }
 
   function changeMode(isDarkMode) {
-    if(isDarkMode) {
+    if (isDarkMode) {
       bank.setItem(storageKey, light)
       elemAttribute(doc, data, light);
     } else {
@@ -350,8 +349,8 @@
   (function lazy() {
     function lazyLoadMedia(element) {
       let mediaItems = elems(element);
-      if(mediaItems) {
-        Array.from(mediaItems).forEach(function(item) {
+      if (mediaItems) {
+        Array.from(mediaItems).forEach(function (item) {
           item.loading = "lazy";
         });
       }
@@ -363,14 +362,14 @@
   function setUserColorMode(mode = false) {
     const isDarkMode = currentMode() == dark;
     const storedMode = bank.getItem(storageKey);
-    if(storedMode) {
-      if(mode) {
+    if (storedMode) {
+      if (mode) {
         changeMode(isDarkMode);
       } else {
         elemAttribute(doc, data, storedMode);
       }
     } else {
-      if(mode === true) {
+      if (mode === true) {
         changeMode(isDarkMode)
       }
     }
@@ -378,11 +377,11 @@
 
   setUserColorMode();
 
-  doc.addEventListener('click', function(event) {
+  doc.addEventListener('click', function (event) {
     let target = event.target;
     let modeClass = 'color_choice';
     let isModeToggle = containsClass(target, modeClass);
-    if(isModeToggle) {
+    if (isModeToggle) {
       setUserColorMode(true);
     }
   });

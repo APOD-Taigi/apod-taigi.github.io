@@ -5,10 +5,10 @@
   &_title
     margin: 0
   &_excerpt
+    transition: height 0.5s, opacity 0.5s
     &:not(.visible)
       height: 0
       opacity: 0
-    transition: height 0.5s, opacity 0.5s
   &_excerpt,
   &_meta
     transform-origin: bottom
@@ -94,7 +94,7 @@
   margin: 1rem 0 1.5rem
   display: inline-block
   padding: 7.5px 12.5px
-  background-color:var(--theme)
+  background-color: var(--theme)
   box-shadow: 0 1rem 4rem rgba(0,0,0,0.5)
   color: var(--light)
   text-align: center
@@ -182,7 +182,7 @@
     padding-bottom: 1.5rem !important
 
   a
-    color:var(--theme)
+    color: var(--theme)
     opacity: 0.8
     transition: opacity 0.3s ease-in-out
     &:hover
