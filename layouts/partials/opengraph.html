@@ -10,8 +10,13 @@
 {{- $summary = truncate 160 "" $summary }}
 {{- $logo := absURL (printf "%s" $params.logo) }}
 {{ $image := "" }}
-{{- with .Params.image }}
-  {{- $image = absURL (printf "%s" .) }}
+{{ if isset .Params "hero" }}
+  {{ if hasPrefix .Params.hero "https://www.youtube.com/" }}
+    {{- $videoId := index (last 1 (split .Params.hero "=")) 0 }}
+    {{- $image = absURL (printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $videoId) }}
+  {{ else }}
+    {{- $image = absURL (printf "%s" .Params.hero) }}
+  {{ end }}
 {{- else }}
   {{- $image = $logo }}
 {{- end }}

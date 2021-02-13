@@ -5,11 +5,13 @@
   {{- $size := $paginator.PageSize }}
   {{- $scratch := newScratch }}
   {{- range $index, $value := $paginator.Pages }}
-    {{ if isset .Params "video" }}
-      {{ $videoId := index (last 1 (split .Params.video "=")) 0 }}
-      {{ $scratch.Set "image" (printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $videoId) }}
-    {{ else if isset .Params "image" }}
-      {{ $scratch.Set "image" .Params.image }}
+    {{ if isset .Params "hero" }}
+      {{ if hasPrefix .Params.hero "https://www.youtube.com/" }}
+        {{ $videoId := index (last 1 (split .Params.hero "=")) 0 }}
+        {{ $scratch.Set "image" (printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $videoId) }}
+      {{ else }}
+        {{ $scratch.Set "image" .Params.hero }}
+      {{ end }}
     {{ else }}
       {{ $scratch.Set "image" "thumbnail.svg" }}
     {{ end }}
