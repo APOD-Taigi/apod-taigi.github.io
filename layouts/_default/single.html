@@ -6,9 +6,13 @@
       <h1 class="post_title">{{ .Title }}</h1>
       <div class="post_body">
         <div class="post_inner">
-        {{ with .Params.image }}
-          {{- $image := absURL (printf "%s" .) }}
-          <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail">
+        {{ if isset .Params "video" }}
+          <div class="video">
+            {{ $videoId := index (last 1 (split .Params.video "=")) 0 }}
+            <iframe src="https://youtube.com/embed/{{ $videoId }}"></iframe>
+          </div>
+        {{ else if isset .Params "image" }}
+          <img src="{{ .Params.image }}" alt="{{ . }}" class="post_thumbnail">
         {{ end }}
           {{ .Content }}
         </div>
