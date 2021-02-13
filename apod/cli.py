@@ -106,9 +106,12 @@ def _convert_blogger_post_to_markdown(post):
 
     try:
         image = soup.find(href=re.compile("https://1.bp.blogspot.com/")).get("href")
+        video = None
     except Exception:
         image = None
-        video = soup.find(src=re.compile("https://youtube.com/embed")).get("src")
+        video_embed = soup.find(src=re.compile("https://youtube.com/embed")).get("src")
+        video_id = video_embed.split("/")[-1]
+        video = f"https://www.youtube.com/watch?v={video_id}"
 
     source = soup.find(href=re.compile("https://apod.nasa.gov/apod/ap"))
     source_title = source.text.strip()
@@ -157,7 +160,7 @@ title: {title}
 description:
 date: {date.format("YYYY-MM-DD")}
 tags: {tags}
-image: {image or video}
+hero: {video or image}
 summary: {summary}
 aliases:
   - /{date.format("YYYY/MM/YYYYMMDD")}.html

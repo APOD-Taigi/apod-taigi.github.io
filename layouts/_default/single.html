@@ -6,9 +6,15 @@
       <h1 class="post_title">{{ .Title }}</h1>
       <div class="post_body">
         <div class="post_inner">
-        {{ with .Params.image }}
-          {{- $image := absURL (printf "%s" .) }}
-          <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail">
+        {{ if isset .Params "hero" }}
+          {{ if hasPrefix .Params.hero "https://www.youtube.com/" }}
+            <div class="video">
+              {{ $videoId := index (last 1 (split .Params.hero "=")) 0 }}
+              <iframe src="https://youtube.com/embed/{{ $videoId }}"></iframe>
+            </div>
+          {{ else }}
+            <img src="{{ .Params.hero }}" alt="{{ . }}" class="post_thumbnail">
+          {{ end }}
         {{ end }}
           {{ .Content }}
         </div>
