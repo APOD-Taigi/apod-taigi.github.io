@@ -28,15 +28,17 @@
     </div>
     {{ if eq .Type "posts" }}
       <div class = 'grid-2 post_nav'>
-        {{ with .Prev }}
+        {{ with .PrevInSection }}
           <span class="post_prev">
             <svg class="icon icon_scale">
               <use xlink:href="#double-arrow-left"></use>
             </svg>
             <a href="{{ .Permalink }}">昨昏 ê 圖：{{ .Title }}</a>
           </span>
+        {{ else }}
+          <div></div>
         {{ end }}
-        {{ with .Next }}
+        {{ with .NextInSection }}
           <span class="post_next">
             <a href="{{ .Permalink }}">明仔載 ê 圖：{{ .Title }}</a>
               <svg class="icon icon_scale">
