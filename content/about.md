@@ -30,5 +30,9 @@ aliases:
 
 台語現代化還需要大家一起努力，若有翻譯錯誤或者更好的翻法，也歡迎大家不吝給予指教與建議。
 
+## 【Podcast】
+
+{{< podcast "https://open.firstory.me/embed/story/ckksc17z7h0s30813i7s86nv7" >}}
+
 [1]: https://www.apod.tw/
 [2]: https://apod.nasa.gov/apod/lib/about_apod.html
