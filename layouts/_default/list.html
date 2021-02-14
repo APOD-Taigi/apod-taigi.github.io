@@ -1,5 +1,12 @@
 {{- define "main" }}
-  {{- partial "archive" . }}
+  <div class="archive wrap mt">
+    <h1 class="archive_title">{{ .Title }}</h1>
+    {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "").ByPublishDate.Reverse }}
+    {{- range $paginator.Pages }}
+      {{- partial "item" . }}
+    {{- end -}}
+  </div>
+
   <div class="wrap">
     {{- partial "pager" . }}
   </div>
