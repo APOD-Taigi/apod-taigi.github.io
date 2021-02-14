@@ -40,7 +40,7 @@
     img
       width: 100%
       max-width: 100%
-  &_inner
+  &_inner,&_nav
     a
       color: var(--theme)
       transition: all 0.3s
@@ -93,7 +93,6 @@
     align-items: center
     border-radius: 0.3rem
     color: var(--dark)
-    text-transform: capitalize
     a
       &:hover
         color: var(--theme)
@@ -110,7 +109,6 @@
     background: var(--theme)
     color: var(--light)
     padding: 0.25rem 0.67rem !important
-    text-transform: uppercase
     display: inline-flex
     border-radius: 5px
 
@@ -134,7 +132,6 @@
     text-align: center
     color: var(--theme)
     // box-shadow: 0 1rem 3rem -1rem rgba(0,0,0,0.15)
-    text-transform: uppercase
     &, span
       position: relative
       z-index: 3
@@ -150,17 +147,17 @@
       z-index: 1
       border-radius: 1rem
 
+  &_prev
+    display: inline-grid
+    margin: 0 auto 0 0
+    width: 1fr
+    grid-template-columns: 1.33rem 1fr
+
   &_next
     display: inline-grid
-    margin: 0 auto
-    width: 10rem
+    margin: 0 0 0 auto
+    width: 1fr
     grid-template-columns: 1fr 1.33rem
-    &::after
-      content: ""
-      background-image: url($next-icon-path)
-      background-repeat: repeat no-repeat
-      background-size: 0.8rem
-      background-position: center right
 
 .pager
   display: grid

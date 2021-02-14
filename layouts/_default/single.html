@@ -26,10 +26,25 @@
         </div>
       </div>
     </div>
-    <a href="{{ $.Site.BaseURL }}" class="post_nav"><span class="post_next">The Latest
-      <svg class="icon icon_scale">
-        <use xlink:href="#double-arrow"></use>
-      </svg>
-    </span></a>
+    {{ if eq .Type "posts" }}
+      <div class = 'grid-2 post_nav'>
+        {{ with .Prev }}
+          <span class="post_prev">
+            <svg class="icon icon_scale">
+              <use xlink:href="#double-arrow-left"></use>
+            </svg>
+            <a href="{{ .Permalink }}">昨昏 ê 圖：{{ .Title }}</a>
+          </span>
+        {{ end }}
+        {{ with .Next }}
+          <span class="post_next">
+            <a href="{{ .Permalink }}">明仔載 ê 圖：{{ .Title }}</a>
+              <svg class="icon icon_scale">
+                <use xlink:href="#double-arrow-right"></use>
+              </svg>
+          </span>
+        {{ end }}
+      </div>
+    {{ end }}
   </div>
 {{ end }}
