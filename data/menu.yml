@@ -1,4 +1,6 @@
 - item: Archive
   url: posts/
+- item: Tags
+  url: tags/
 - item: About
   url: about/

@@ -1,0 +1,10 @@
+{{- define "main" }}
+  <div class="wrap mt post">
+    <h1 class="archive_title">Tags</h1>
+    <ul class="post_inner">
+      {{ range .Site.Taxonomies.tags.ByCount }}
+        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+      {{ end }}
+    </ul>
+  </div>
+{{- end }}
