@@ -1,7 +1,10 @@
 {{ $home := absURL "" }}
 <header class="nav">
   <nav class="nav-menu">
-    <a href="{{ $home }}" class="nav-brand nav_item">{{ .Site.Title }}</a>
+    <div>
+      <a href="{{ $home }}" class="nav-brand nav_item">{{ .Site.Title }}</a>
+      <a href="https://apod.nasa.gov/apod/astropix.html" class="nav-subtitle nav_item">Astronomy Picture of the Day Taiwanese</a>
+    </div>
     <div class="nav_bar-wrap">
       <div class="nav_bar"></div>
     </div>
