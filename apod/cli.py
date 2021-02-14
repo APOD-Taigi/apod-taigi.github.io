@@ -162,6 +162,12 @@ def _convert_blogger_post_to_markdown(post):
 
     words = [new_style(w) for w in words]
 
+    # append tags
+    for w in words:
+        m = re.findall(r"^【(\w+)】.*", w)
+        if m:
+            tags.append(m[0])
+
     summary = hanlo.split("。")[0] + "。"
     summary = summary.replace("[", "").replace("]", "")
     summary = re.sub(r"\(.*\)", "", summary)
