@@ -1,12 +1,10 @@
 ---
-title: 逐工一幅天文圖 APOD Taiwanese
+title: 關於我
 date: 2020-12-28
 tags: ['公告']
 aliases:
   - /2020/12/apod-taiwanese.html
 ---
-
-## 【台語】
 
 「[逐工一幅天文圖 APOD Taiwanese][1]」是 [NASA 佮 Michigan 理工大學共同支援 ê Astronomy Picture of the Day (APOD)][2] 正式授權翻譯的台語版。
 
