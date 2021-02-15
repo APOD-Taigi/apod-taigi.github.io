@@ -1,7 +1,7 @@
 {{- define "main" }}
-  <div class="wrap mt post">
-    <h1 class="archive_title">Tags</h1>
-    <ul class="post_inner">
+  <div class="wrap mt post post_inner">
+    <h1 class="archive_title">所有標籤</h1>
+    <ul class="grid-4 grid-nogap tags">
       {{ range .Site.Taxonomies.tags.ByCount }}
         <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
       {{ end }}

@@ -1,4 +1,4 @@
 baseurl: "https://test.apod.tw/"
-title: "逐工一幅天文圖 APOD Taiwanese"
+title: 逐工一幅天文圖
 theme: "newsroom"
 paginate: 31
