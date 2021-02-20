@@ -124,6 +124,7 @@ def _convert_blogger_post_to_markdown(post):
     meta = meta_str.split("\t")
     meta = [m for m in meta if "###" not in m]
     meta = [m for m in meta if not (m.startswith("昨昏") or m.startswith("明仔載"))]
+    meta = [m.strip() for m in meta if m.strip()]
 
     # 漢羅
     hanlo_title = find_subtitle("漢羅")
