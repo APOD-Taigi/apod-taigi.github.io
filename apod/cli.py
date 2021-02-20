@@ -103,6 +103,7 @@ def _convert_blogger_post_to_markdown(post):
     title = post["title"].split("-")[0].strip()
     date = pendulum.parse(post["published"]).in_timezone("Asia/Taipei")
     tags = post["labels"]
+    tags = [t for t in tags if t != "逐工一幅天文圖"]
 
     try:
         image = soup.find(href=re.compile("https://1.bp.blogspot.com/")).get("href")
