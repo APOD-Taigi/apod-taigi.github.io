@@ -2,3 +2,6 @@ baseurl: "https://apod.tw/"
 title: 逐工一幅天文圖
 theme: "newsroom"
 paginate: 31
+
+permalinks:
+  daily: /daily/:filename/
