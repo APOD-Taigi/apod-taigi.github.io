@@ -103,6 +103,7 @@ def _convert_blogger_post_to_markdown(post):
     title = post["title"].split("-")[0].strip()
     date = pendulum.parse(post["published"]).in_timezone("Asia/Taipei")
     tags = post["labels"]
+    tags = [t for t in tags if t != "逐工一幅天文圖"]
 
     try:
         image = soup.find(href=re.compile("https://1.bp.blogspot.com/")).get("href")
@@ -123,6 +124,8 @@ def _convert_blogger_post_to_markdown(post):
     meta_str = re.sub(r"[ ]{2,}", "\t", meta_str)
     meta = meta_str.split("\t")
     meta = [m for m in meta if "###" not in m]
+    meta = [m for m in meta if not (m.startswith("昨昏") or m.startswith("明仔載"))]
+    meta = [m.strip() for m in meta if m.strip()]
 
     # 漢羅
     hanlo_title = find_subtitle("漢羅")
@@ -175,7 +178,6 @@ def _convert_blogger_post_to_markdown(post):
     newline = "\n"
     markdown = f"""---
 title: {title}
-description:
 date: {date.format("YYYY-MM-DD")}
 tags: {tags}
 hero: {video or image}
@@ -186,7 +188,7 @@ aliases:
 
 {{{{% apod %}}}}
 
-- [{source_title}]({source_url})
+- 原始文章：[{source_title}]({source_url})
 {newline.join(['- ' +m for m in meta])}
 
 ## {hanlo_title}
