@@ -177,7 +177,6 @@ def _convert_blogger_post_to_markdown(post):
     newline = "\n"
     markdown = f"""---
 title: {title}
-description:
 date: {date.format("YYYY-MM-DD")}
 tags: {tags}
 hero: {video or image}

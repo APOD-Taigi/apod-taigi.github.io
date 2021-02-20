@@ -3,9 +3,7 @@
 {{ $st := .Site.Title }}
 {{- $summary := "" }}
 {{- with .Summary }}
-  {{-  $summary = . }}
-{{- else  }}
-  {{- $summary = $params.description }}
+  {{- $summary = . }}
 {{- end }}
 {{- $summary = truncate 160 "" $summary }}
 {{- $logo := absURL (printf "%s" $params.logo) }}
