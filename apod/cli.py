@@ -187,7 +187,7 @@ aliases:
 
 {{{{% apod %}}}}
 
-- [{source_title}]({source_url})
+- 原始文章：[{source_title}]({source_url})
 {newline.join(['- ' +m for m in meta])}
 
 ## {hanlo_title}
