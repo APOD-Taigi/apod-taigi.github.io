@@ -6,3 +6,8 @@ paginate: 31
 
 permalinks:
   daily: /daily/:filename/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
