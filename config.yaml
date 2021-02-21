@@ -4,6 +4,9 @@ theme: "newsroom"
 hasCJKLanguage: true
 paginate: 31
 
+params:
+  ga_analytics: UA-190309286-1
+
 permalinks:
   daily: /daily/:filename/
 
