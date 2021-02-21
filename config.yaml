@@ -1,6 +1,7 @@
 baseurl: "https://apod.tw/"
 title: 逐工一幅天文圖
 theme: "newsroom"
+hasCJKLanguage: true
 paginate: 31
 
 permalinks:
