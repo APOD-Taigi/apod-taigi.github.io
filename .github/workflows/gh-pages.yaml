@@ -6,7 +6,7 @@ on:
     branches:
     - main
   schedule:
-    - cron: "* */12 * * *"  # every day at 8am and 8pm Taiwan time
+    - cron: "* 5 * * *"  # 13:00+08:00 daily
 
 jobs:
   deploy:
