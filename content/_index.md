@@ -1,3 +1,3 @@
 ---
-hero: /images/share.png
+hero: /images/og_image.png
 ---
