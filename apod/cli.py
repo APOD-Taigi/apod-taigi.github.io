@@ -5,15 +5,64 @@ from pathlib import Path, PurePath
 
 import click
 import pendulum
+import yaml
 from bs4 import BeautifulSoup
 from markdownify import markdownify
 
+from apod import rss
 from apod.blogger import Blogger
 
 
 @click.group()
 def cli():
     pass
+
+
+@cli.command()
+def update_podcasts():
+    firstory_ids = rss.get_firstory_ids()
+    for date, firstory_id in firstory_ids.items():
+        path = f"content/daily/{date.format('YYYY/MM/YYYYMMDD')}.md"
+
+        # ignore updated post
+        with open(path) as fp:
+            if "{{< podcast " in fp.read():
+                continue
+
+        with open(path) as fp:
+            lines = fp.readlines()
+
+        # ignore post without 漢羅
+        index_hanlo = -1
+        for i, line in enumerate(lines):
+            if "[漢羅]" in line:
+                index_hanlo = i
+
+        if not index_hanlo:
+            continue
+
+        # update post
+        new_lines = (
+            lines[:index_hanlo]
+            + [f'{{{{< podcast "{firstory_id}" >}}}}\n', "\n"]
+            + lines[index_hanlo:]
+        )
+        MAX_TAGS_LEN = 1000
+        with open(path, "w") as fp:
+            for line in new_lines:
+                if line.startswith("tags:"):
+                    # add podcast to tags
+                    tags = yaml.safe_load(line)["tags"]
+                    tags.append("podcast")
+                    tags = yaml.dump(
+                        tags,
+                        width=MAX_TAGS_LEN,
+                        allow_unicode=True,
+                        default_flow_style=True,
+                    )
+                    fp.write(f"tags: {tags}")
+                else:
+                    fp.write(line)
 
 
 @cli.command()
