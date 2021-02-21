@@ -1,0 +1,32 @@
+name: update podcasts
+
+on:
+  schedule:
+    - cron: "10 * * * *"  # every day at 2am Taiwan time
+
+jobs:
+  pre-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update podcasts
+        run: apod update-podcasts
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: badboy99tw
+          author_email: taiwan.badboy99@gmail.com
+          branch: main
+          message: 'bot: update podcasts'
+          add: 'content/daily/**/*.md'
