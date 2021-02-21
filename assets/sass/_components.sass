@@ -7,8 +7,9 @@
   &_excerpt
     transition: height 0.5s, opacity 0.5s
     &:not(.visible)
-      height: 0
-      opacity: 0
+      @media screen and (min-width: 42rem)
+        height: 0
+        opacity: 0
   &_excerpt,
   &_meta
     transform-origin: bottom
@@ -69,8 +70,9 @@
       opacity: 0.5
 
   &:hover &_excerpt:not(.visible)
-    height: 75px
-    opacity: 1
+    @media screen and (min-width: 42rem)
+      height: 75px
+      opacity: 1
 
   &:hover &_meta
     &:not(.center_y)
