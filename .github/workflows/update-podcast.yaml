@@ -5,7 +5,7 @@ on:
     - cron: "10 * * * *"  # every day at 2am Taiwan time
 
 jobs:
-  pre-commit:
+  update-podcasts:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
