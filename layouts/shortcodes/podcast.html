@@ -1,4 +1,4 @@
-{{- $podcast_url := .Get 0 }}
+{{- $firstory_id := .Get 0 }}
 <div class="podcast">
-  <iframe src="{{ $podcast_url }}" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://open.firstory.me/embed/story/{{ $firstory_id }}" height="180" width="500" frameborder="0" scrolling="no"></iframe>
 </div>
