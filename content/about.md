@@ -30,7 +30,7 @@ aliases:
 
 ## 【Podcast】
 
-{{< podcast "https://open.firstory.me/embed/story/ckksc17z7h0s30813i7s86nv7" >}}
+{{< podcast "ckksc17z7h0s30813i7s86nv7" >}}
 
 [1]: https://www.apod.tw/
 [2]: https://apod.nasa.gov/apod/lib/about_apod.html
