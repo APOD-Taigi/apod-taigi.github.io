@@ -7,6 +7,11 @@ on:
     - main
   schedule:
     - cron: "* 5 * * *"  # 13:00+08:00 daily
+  workflow_run:
+    workflows:
+      - update podcasts
+    types:
+      - completed
 
 jobs:
   deploy:
