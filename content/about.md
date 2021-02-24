@@ -16,7 +16,7 @@ aliases:
 
 台語現代化需要逐家做伙來拍拚，若是有翻譯錯誤抑是其他閣較好 ê 翻法，請逐家予我建議佮指教。
 
-## 【華語】
+## 【華語翻譯】
 
 「[逐工一幅天文圖 APOD Taiwanese][1]」為 [NASA 和密西根理工大學共同支援的 Astronomy Picture of the Day (APOD)][2] 正式授權翻譯的台語版。
 
@@ -32,7 +32,7 @@ aliases:
 
 {{< podcast "ckksc17z7h0s30813i7s86nv7" >}}
 
-## 啥物是 APOD
+## 【啥物是 APOD】
 
 [本站 ê 介紹 (台語/華語)](/about/)
 
