@@ -40,4 +40,4 @@ summary: 毋知逐家昨暗（抑是透早？）有綴著 NASA ê 直播看毅�
 
 按呢是毋是攏學起來矣 neh ？
 
-
+[1]: https://mars.nasa.gov/news/8843/nasas-perseverance-rover-22-days-from-mars-landing/?fbclid=IwAR2hRlJI9KFkwHhp-_6fV8TV92w_2eQn_9boHNU4PdZ2aPPvmgaQK0XuuUQ
