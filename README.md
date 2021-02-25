@@ -7,7 +7,9 @@
 
 ## 上稿教學
 
-- 請在 `content/daily` 底下對應日期的資料夾新增檔案，例如 `content/daily/2021/01/20210122.md`
+- 每日翻譯請在 `content/daily` 底下對應日期的資料夾新增檔案，例如 `content/daily/2021/01/20210122.md`
+- 其他文章請在 `content/bonus` 底下新增檔案，例如 `content/bonus/12-steps-to-touchdown.md`
+  - 注意檔名不要有空格，因為檔名是網址
 - 參考以下說明填入對應資料
 
 ### 格式說明
