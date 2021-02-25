@@ -53,8 +53,8 @@ NASA ê 聲明：[NASA Web Privacy Policy and Important Notices][NASA Web Privac
 [english]: https://apod.nasa.gov/apod/lib/about_apod.html
 [Arabic]: http://www.apodar.com/
 [Catalan]: http://www.apod.cat/
-[Chinese1]: http://www.bjp.org.cn/mryt/) (Beijing)
-[Chinese2]: http://sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/apod.html) (Taiwan)
+[Chinese1]: http://www.bjp.org.cn/mryt/ (Beijing)
+[Chinese2]: http://sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/apod.html (Taiwan)
 [Croatian]: http://www.apod.rs/Croatia.html
 [Czech]: http://www.astro.cz/apod/
 [Dutch]: http://www.apod.nl/
