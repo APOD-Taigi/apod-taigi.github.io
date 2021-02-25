@@ -6,9 +6,9 @@ hero: https://mars.nasa.gov/system/news_items/main_images/8843_2-pia24285_1a-edl
 summary: 毋知逐家昨暗（抑是透早？）有綴著 NASA ê 直播看毅力號登陸火星成功無？咱來複習一下「毅力號登陸火星大事記」ê 12个階段。
 ---
 
+影像提供：NASA/JPL-Caltech; [NASA's Perseverance Rover 22 Days From Mars Landing][1]
 
-- 影像提供：NASA/JPL-Caltech; [NASA's Perseverance Rover 22 Days From Mars Landing][1]
-
+## 毅力號登陸火星大事記
 
 毋知逐家昨暗（抑是透早？）有綴著 NASA ê 直播看毅力號登陸火星成功無？
 
