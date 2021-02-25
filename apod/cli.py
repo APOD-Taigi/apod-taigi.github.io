@@ -4,6 +4,7 @@ import re
 from pathlib import Path, PurePath
 
 import click
+import markdown
 import pendulum
 import yaml
 from bs4 import BeautifulSoup
@@ -16,6 +17,37 @@ from apod.blogger import Blogger
 @click.group()
 def cli():
     pass
+
+
+@cli.command()
+@click.argument("date")
+def transcript(date):
+    d = pendulum.from_format(date, "YYYYMMDD")
+    path = f"content/daily/{d.format('YYYY/MM/YYYYMMDD')}.MD"
+    with open(path) as fp:
+        text = fp.read()
+
+    html = markdown.markdown(text)
+    soup = BeautifulSoup(html, "html.parser")
+
+    def find_content(subtitle):
+        target = soup.find(text=re.compile(f"\\[{subtitle}\\]"))
+        p = target.find_next("p")
+        return str(target), p.get_text()
+
+    hanlo_title, hanlo_text = find_content("漢羅")
+    hanlo_sentences = hanlo_text.split("。")
+    poj_title, poj_text = find_content("POJ")
+    poj_sentences = poj_text.split(". ")
+
+    print(hanlo_title)
+    print(poj_title)
+    print()
+
+    for h, p in zip(hanlo_sentences, poj_sentences):
+        print(h)
+        print(p)
+        print()
 
 
 @cli.command()
