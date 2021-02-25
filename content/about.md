@@ -86,7 +86,3 @@ NASA ê 聲明：[NASA Web Privacy Policy and Important Notices][NASA Web Privac
 [GSFC]: https://www.nasa.gov/centers/goddard/
 [Michigan Tech. U.]: http://www.mtu.edu/
 [NCU]: https://www.astro.ncu.edu.tw/
-
-
-
-
