@@ -5,7 +5,7 @@
     {{ range $paginator.Pages }}
       <h1 class="archive_title">{{ .Title }} 年 ê 圖</h1>
       {{ range (where ($.Site.Pages.GroupByDate "2006") "Key" "==" .Title) }}
-        {{ range (where .Pages "IsPage" "=" true) }}
+        {{ range (where (where .Pages "Section" "daily" ) "IsPage" "=" true) }}
           {{- partial "item" . }}
         {{ end }}
       {{ end }}

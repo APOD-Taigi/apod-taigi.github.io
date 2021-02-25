@@ -1,10 +1,9 @@
 ---
 title: 毅力號登陸火星大事記
 date: 2021-02-18
-draft: true
-tags: [哈伯，捲螺仔星系， M66，M65, NGC 3628, 獅仔座三生仔, 厝邊星系，]
+tags: [哈伯, 捲螺仔星系, M66, M65, NGC 3628, 獅仔座三生仔, 厝邊星系]
 hero: https://mars.nasa.gov/system/news_items/main_images/8843_2-pia24285_1a-edl-annotated-web.jpg
-summary: 看著老朋友 ê 新造型總是會感覺心適。這張遮爾媠 ê，用哈伯太空望遠鏡 hip--ê 厝邊 ê 捲螺仔星系 M66，to̍h 是按呢。
+summary: 毋知逐家昨暗（抑是透早？）有綴著 NASA ê 直播看毅力號登陸火星成功無？咱來複習一下「毅力號登陸火星大事記」ê 12个階段。
 ---
 
 {{% apod %}}
