@@ -1,6 +1,8 @@
-- item: 探索宇宙
-  url: daily/
+- item: 往年 ê 圖
+  url: /daily/
+- item: 有錄音 ê 圖
+  url: /tags/podcast/
 - item: 所有標籤
-  url: tags/
-- item: 關於我
-  url: about/
+  url: /tags/
+- item: 本站 ê 介紹
+  url: /about/
