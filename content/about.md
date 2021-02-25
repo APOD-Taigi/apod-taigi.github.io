@@ -34,21 +34,59 @@ aliases:
 
 ## 【啥物是 APOD】
 
-[本站 ê 介紹 (台語/華語)](/about/)
+[APOD ê 介紹 (英語)][english]
 
-[APOD ê 介紹 (英語)](https://apod.nasa.gov/apod/lib/about_apod.html)
+APOD ê 各種語言：[Arabic][Arabic], [Catalan][Catalan], [Chinese][Chinese1] (Beijing), [Chinese][Chinese2] (Taiwan), [Croatian][Croatian], [Czech][Czech], [Dutch][Dutch], [Farsi][Farsi], [French][French], [German][German], [Hebrew][Hebrew], [Indonesian][Indonesian], [Japanese][Japanese], [Korean][Korean], [Montenegrin][Montenegrin], [Polish][Polish], [Russian][Russian], [Serbian][Serbian], [Slovenian][Slovenian], [Spanish][Spanish], [**Taiwanese**][Taiwanese], [Turkish][Turkish], [Turkish][Turkish], and [Ukrainian][Ukrainian].
 
-APOD ê 各種語言：[Arabic](http://www.apodar.com/), [Catalan](http://www.apod.cat/), [Chinese](http://www.bjp.org.cn/mryt/) (Beijing), [Chinese](http://sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/apod.html) (Taiwan), [Croatian](http://www.apod.rs/Croatia.html), [Czech](http://www.astro.cz/apod/), [Dutch](http://www.apod.nl/), [Farsi](http://www.skypix.org/apod/), [French](http://www.cidehom.com/apod.php), [German](http://www.starobserver.org/), [Hebrew](http://www.astronomia2009.org.il/info/apod/apod.htm), [Indonesian](http://apod.infoastronomy.org/), [Japanese](http://home.u05.itscom.net/apodjpn/apodj/apodj0.htm), [Korean](http://wouldyoulike.org/apod/), [Montenegrin](http://www.apod.rs/Montenegro.html), [Polish](http://apod.pl/apod/), [Russian](http://www.astronet.ru/db/apod.html), [Serbian](http://www.apod.rs/), [Slovenian](http://apod.fmf.uni-lj.si/), [Spanish](http://observatorio.info/), [**Taiwanese**](https://www.apod.tw/), [Turkish](https://www.uzaydanhaberler.com/category/gorsel/apod/), [Turkish](https://rasyonalist.org/kategori/apod/), and [Ukrainian](http://astronomy.pp.ua/).
+作者佮編輯：[Robert Nemiroff][Robert Nemiroff] ([MTU][MTU]) & [Jerry Bonnell][Jerry Bonnell] ([UMCP][UMCP])
 
-作者佮編輯：[Robert Nemiroff](http://www.phy.mtu.edu/faculty/Nemiroff.html) ([MTU](http://www.phy.mtu.edu/)) & [Jerry Bonnell](https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html) ([UMCP](http://www.astro.umd.edu/))
+NASA 辦公室：Phillip Newman [Specific rights apply][Specific rights apply].
 
-NASA 辦公室：Phillip Newman [Specific rights apply](https://apod.nasa.gov/apod/lib/about_apod.html#srapply) .
+NASA ê 聲明：[NASA Web Privacy Policy and Important Notices][NASA Web Privacy Policy and Important Notices]
 
-NASA ê 聲明：[NASA Web Privacy Policy and Important Notices](https://www.nasa.gov/about/highlights/HP_Privacy.html)
+服務提供：[ASD][ASD] at [NASA][NASA] / [GSFC][GSFC] & [Michigan Tech. U.][Michigan Tech. U.]
 
-服務提供：[ASD](https://astrophysics.gsfc.nasa.gov/) at [NASA](https://www.nasa.gov/) / [GSFC](https://www.nasa.gov/centers/goddard/) & [Michigan Tech. U.](http://www.mtu.edu/)
-
-台文翻譯：An-Li Tsai ([NCU](https://www.astro.ncu.edu.tw/))
+台文翻譯：An-Li Tsai ([NCU][NCU])
 
 [1]: https://www.apod.tw/
 [2]: https://apod.nasa.gov/apod/lib/about_apod.html
+[english]: https://apod.nasa.gov/apod/lib/about_apod.html
+[Arabic]: http://www.apodar.com/
+[Catalan]: http://www.apod.cat/
+[Chinese1]: http://www.bjp.org.cn/mryt/) (Beijing)
+[Chinese2]: http://sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/apod.html) (Taiwan)
+[Croatian]: http://www.apod.rs/Croatia.html
+[Czech]: http://www.astro.cz/apod/
+[Dutch]: http://www.apod.nl/
+[Farsi]: http://www.skypix.org/apod/
+[French]: http://www.cidehom.com/apod.php
+[German]: http://www.starobserver.org/
+[Hebrew]: http://www.astronomia2009.org.il/info/apod/apod.htm
+[Indonesian]: http://apod.infoastronomy.org/
+[Japanese]: http://home.u05.itscom.net/apodjpn/apodj/apodj0.htm
+[Korean]: http://wouldyoulike.org/apod/
+[Montenegrin]: http://www.apod.rs/Montenegro.html
+[Polish]: http://apod.pl/apod/
+[Russian]: http://www.astronet.ru/db/apod.html
+[Serbian]: http://www.apod.rs/
+[Slovenian]: http://apod.fmf.uni-lj.si/
+[Spanish]: http://observatorio.info/
+[Taiwanese]: https://www.apod.tw/
+[Turkish]: https://www.uzaydanhaberler.com/category/gorsel/apod/
+[Turkish]: https://rasyonalist.org/kategori/apod/
+[Ukrainian]: http://astronomy.pp.ua/
+[Robert Nemiroff]: http://www.phy.mtu.edu/faculty/Nemiroff.html
+[MTU]: http://www.phy.mtu.edu/
+[Jerry Bonnell]: https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html
+[UMCP]: http://www.astro.umd.edu/
+[Specific rights apply]: https://apod.nasa.gov/apod/lib/about_apod.html#srapply
+[NASA Web Privacy Policy and Important Notices]: https://www.nasa.gov/about/highlights/HP_Privacy.html
+[ASD]: https://astrophysics.gsfc.nasa.gov/
+[NASA]: https://www.nasa.gov/
+[GSFC]: https://www.nasa.gov/centers/goddard/
+[Michigan Tech. U.]: http://www.mtu.edu/
+[NCU]: https://www.astro.ncu.edu.tw/
+
+
+
+
