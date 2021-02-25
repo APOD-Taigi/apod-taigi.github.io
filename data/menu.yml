@@ -1,6 +1,6 @@
 - item: 往年 ê 圖
-  url: daily/
+  url: /daily/
 - item: 所有標籤
-  url: tags/
+  url: /tags/
 - item: 本站 ê 介紹
-  url: about/
+  url: /about/
