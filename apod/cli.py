@@ -23,7 +23,7 @@ def cli():
 @click.argument("date")
 def transcript(date):
     d = pendulum.from_format(date, "YYYYMMDD")
-    path = f"content/daily/{d.format('YYYY/MM/YYYYMMDD')}.MD"
+    path = f"content/daily/{d.format('YYYY/MM/YYYYMMDD')}.md"
     with open(path) as fp:
         text = fp.read()
 
