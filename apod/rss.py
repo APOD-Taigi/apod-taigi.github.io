@@ -1,13 +1,22 @@
 import re
+from dataclasses import dataclass
 
 import feedparser
 import pendulum
 
 
-def get_firstory_ids():
+@dataclass
+class Episode:
+    id: str
+    title: str
+    vocal: str
+    date: pendulum.DateTime
+
+
+def get_episodes():
     url = "https://open.firstory.me/rss/user/ckjojbgnfh77i0820urx6iba5"
 
-    firstory_ids = {}
+    episodes = []
     d = feedparser.parse(url)
     for e in d["entries"]:
         title = e["title"]
@@ -18,14 +27,17 @@ def get_firstory_ids():
         if type_ != "full":
             continue
 
-        # ignore episode without date
-        # valid title: NGC 2174 ê 雲山 ft. 阿錕 (20210116)
-        finds = re.findall(r".+\(([0-9]{8})\)$", title.strip())
-        date = finds[0] if finds else None
-        if not date:
-            continue
-        date = pendulum.from_format(date, "YYYYMMDD", tz="Asia/Taipei")
+        match = re.match(
+            r".+ ft. (?P<vocal>\w+) \(((?P<date>[0-9]{8}))\)$", title.strip()
+        )
+        if match:
+            date = pendulum.from_format(
+                match.group("date"), "YYYYMMDD", tz="Asia/Taipei"
+            )
+            vocal = match.group("vocal")
+        else:
+            raise RuntimeError(f"Invalid Episode Title: {title}")
 
-        firstory_ids[date] = id_
+        episodes.append(Episode(id=id_, title=title, vocal=vocal, date=date))
 
-    return firstory_ids
+    return episodes
