@@ -52,9 +52,9 @@ def transcript(date):
 
 @cli.command()
 def update_podcasts():
-    firstory_ids = rss.get_firstory_ids()
-    for date, firstory_id in firstory_ids.items():
-        path = f"content/daily/{date.format('YYYY/MM/YYYYMMDD')}.md"
+    episodes = rss.get_episodes()
+    for episode in episodes:
+        path = f"content/daily/{episode.date.format('YYYY/MM/YYYYMMDD')}.md"
 
         # ignore updated post
         with open(path) as fp:
@@ -76,16 +76,16 @@ def update_podcasts():
         # update post
         new_lines = (
             lines[:index_hanlo]
-            + [f'{{{{< podcast "{firstory_id}" >}}}}\n', "\n"]
+            + [f'{{{{< podcast "{episode.id}" >}}}}\n', "\n"]
             + lines[index_hanlo:]
         )
         MAX_TAGS_LEN = 1000
         with open(path, "w") as fp:
             for line in new_lines:
                 if line.startswith("tags:"):
-                    # add podcast to tags
+                    # add podcast and vocal to tags
                     tags = yaml.safe_load(line)["tags"]
-                    tags.append("podcast")
+                    tags.extend(["podcast", episode.vocal])
                     tags = yaml.dump(
                         tags,
                         width=MAX_TAGS_LEN,
