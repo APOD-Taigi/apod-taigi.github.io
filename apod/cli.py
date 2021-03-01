@@ -36,9 +36,9 @@ def transcript(date):
         return str(target), p.get_text()
 
     hanlo_title, hanlo_text = find_content("漢羅")
-    hanlo_sentences = re.split(r"[。！]{1}", hanlo_text)
+    hanlo_sentences = re.split(r"[。！？]{1}", hanlo_text.replace("\n", ""))
     poj_title, poj_text = find_content("POJ")
-    poj_sentences = re.split(r"[. |! ]{2}", poj_text)
+    poj_sentences = re.split(r"[. |! |? ]{2}", poj_text.replace("\n", " "))
 
     print(hanlo_title)
     print(poj_title)
