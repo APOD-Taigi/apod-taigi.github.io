@@ -79,22 +79,26 @@ def update_podcasts():
             + [f'{{{{< podcast "{episode.id}" >}}}}\n', "\n"]
             + lines[index_hanlo:]
         )
-        MAX_TAGS_LEN = 1000
+
         with open(path, "w") as fp:
-            for line in new_lines:
-                if line.startswith("tags:"):
-                    # add podcast and vocal to tags
-                    tags = yaml.safe_load(line)["tags"]
-                    tags.extend(["podcast", episode.vocal])
-                    tags = yaml.dump(
-                        tags,
-                        width=MAX_TAGS_LEN,
+            meta_start_passed = False
+            for line_no, line in enumerate(new_lines):
+                if line.startswith("---") and meta_start_passed:
+                    categories = yaml.dump(
+                        ["podcast"],
+                        default_flow_style=True,
+                    )
+                    vocals = yaml.dump(
+                        [episode.vocal],
                         allow_unicode=True,
                         default_flow_style=True,
                     )
-                    fp.write(f"tags: {tags}")
-                else:
-                    fp.write(line)
+                    fp.write(f"categories: {categories}")
+                    fp.write(f"vocals: {vocals}")
+                elif line.startswith("---") and not meta_start_passed:
+                    meta_start_passed = True
+
+                fp.write(line)
 
 
 @cli.command()
