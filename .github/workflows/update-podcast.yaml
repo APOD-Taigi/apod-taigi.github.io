@@ -26,7 +26,7 @@ jobs:
         uses: EndBug/add-and-commit@v7
         with:
           author_name: badboy99tw
-          author_email: taiwan.badboy99@gmail.com
+          author_email: 594553+badboy99tw@users.noreply.github.com
           branch: main
           message: 'bot: update podcasts'
           add: 'content/daily/**/*.md'
