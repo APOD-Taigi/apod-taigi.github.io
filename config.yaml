@@ -11,6 +11,11 @@ params:
 permalinks:
   daily: /daily/:filename/
 
+taxonomies:
+  category: categories
+  tag: tags
+  vocal: vocals
+
 markup:
   goldmark:
     renderer:
