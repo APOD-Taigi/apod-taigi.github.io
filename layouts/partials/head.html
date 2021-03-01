@@ -4,6 +4,9 @@
   {{- with .Site.Params.ga_verify }}
   <meta name="google-site-verification" content="{{ . }}" />
   {{- end }}
+  {{- with .Site.Params.ApplePodcastID }}
+  <meta name="apple-itunes-app" content="app-id={{ . }}">
+  {{ end }}
   <meta name="viewport" content ="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   {{- partial "analytics" . }}
