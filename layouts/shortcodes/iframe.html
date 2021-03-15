@@ -1,0 +1,5 @@
+{{- $url := .Get 0 }}
+{{- $padding_bottom := .Get 1 }}
+<div class="iframe" style="padding-bottom: {{ $padding_bottom }} !important;">
+  <iframe src="{{ $url }}"></iframe>
+</div>

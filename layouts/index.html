@@ -13,7 +13,7 @@
         {{ $scratch.Set "image" .Params.hero }}
       {{ end }}
     {{ else }}
-      {{ $scratch.Set "image" "thumbnail.svg" }}
+      {{ $scratch.Set "image" "" }}
     {{ end }}
     {{ $image := $scratch.Get "image" }}
     {{ $bg := (absURL (printf "%s" $image)) }}
