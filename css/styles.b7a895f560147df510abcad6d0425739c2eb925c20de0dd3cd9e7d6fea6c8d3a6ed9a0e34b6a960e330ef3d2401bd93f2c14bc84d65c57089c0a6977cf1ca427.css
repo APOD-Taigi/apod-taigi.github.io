@@ -435,7 +435,7 @@ aside h3 {
   }
 }
 
-.video, .podcast {
+.video, .podcast, .iframe {
   overflow: hidden;
   padding-bottom: 56.25%;
   position: relative;
@@ -446,7 +446,7 @@ aside h3 {
   box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.17);
 }
 
-.video iframe, .podcast iframe {
+.video iframe, .podcast iframe, .iframe iframe {
   left: 0;
   top: 0;
   height: 100%;
@@ -455,7 +455,7 @@ aside h3 {
   transform: scale(1.03);
 }
 
-.podcast {
+.podcast, .iframe {
   overflow: visible;
   border-radius: 0;
   max-width: 840px !important;
