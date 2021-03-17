@@ -1,5 +1,5 @@
 ---
-title: "啥人讀予你聽-高小糕 Gao Xiao Gao"
+title: "啥人讀予你聽：高小糕 Gao Xiao Gao"
 date: 2021-03-17
 publishdate: 2021-03-17T13:00:00+08:00
 tags: [啥人讀予你聽, 高小糕, Gao Xiao Gao, 白目樂隊, 靈性暴女, 登陸月球]
