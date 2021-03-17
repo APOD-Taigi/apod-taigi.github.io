@@ -1,10 +1,10 @@
 ---
-title: Ùi 金星 13 號看著 ê 金星表面
+title: "啥人讀予你聽-高小糕 Gao Xiao Gao"
 date: 2021-03-17
 publishdate: 2021-03-17T13:00:00+08:00
-tags: [金星, 金星 13 號, 金星高速衛星太空船, 活火山, la̍k-khá-sàng, 空氣擋仔]
+tags: [啥人讀予你聽, 高小糕, Gao Xiao Gao, 白目樂隊, 靈性暴女, 登陸月球]
 hero: https://apod.nasa.gov/apod/fap/image/2103/Venus_Venera13_1705.jpg
-summary: 你若是徛 tī 金星，會當看著啥物？這張影像是 ùi 金星 13 號翕 ê。伊是一台蘇聯 ê 登陸船。Tī 1982 年 3 月，這台登陸船降落 ê 時陣，用 la̍k-khá-sàng kah 空氣擋仔，通過金星厚厚 ê 大氣層。
+summary: 咱 ê 新單元 #啥人讀予你聽 頭一集邀請著台灣音樂界真出名 ê #靈性暴女 高小糕 Gao Xiao Gao，嘛是 白目樂隊 The White Eyes ê 主唱，連紲三工登陸月球，來講天文 ê 故事。
 
 ---
 
@@ -27,6 +27,11 @@ summary: 你若是徛 tī 金星，會當看著啥物？這張影像是 ùi 金�
 
 ➠ [https://is.gd/AXSQYB][2]
 
+高小糕讀 ê 文章，全文 tī 遮
+
+➠ [https://apod.tw/daily/20210203/][3]
+
+
 ## 華文
 \#誰讀給你聽 有新單元囉！我們第一集邀請到台灣音樂界知名靈性暴女──#高小糕，也是白目樂隊的主唱，連續三天登陸月球，講天文的故事給你聽。
 
@@ -42,6 +47,10 @@ summary: 你若是徛 tī 金星，會當看著啥物？這張影像是 ùi 金�
 
 ➠ [https://is.gd/AXSQYB][2]
 
+高小糕閱讀的文章，全文在此
+
+➠ [https://apod.tw/daily/20210203/][3]
+
 ✩✩✩✩✩ Credit ✩✩✩✩✩
 
 - 聲優 / 高小糕
@@ -55,3 +64,4 @@ summary: 你若是徛 tī 金星，會當看著啥物？這張影像是 ùi 金�
 
 [1]: https://is.gd/GXKkkY
 [2]: https://is.gd/AXSQYB
+[3]: https://apod.tw/daily/20210203/
