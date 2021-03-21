@@ -46,7 +46,7 @@ NASA ê 聲明：[NASA Web Privacy Policy and Important Notices][NASA Web Privac
 
 服務提供：[ASD][ASD] at [NASA][NASA] / [GSFC][GSFC] & [Michigan Tech. U.][Michigan Tech. U.]
 
-台文翻譯：An-Li Tsai ([NCU][NCU])
+台文翻譯：[An-Li Tsai][email] ([NCU][NCU])
 
 [1]: https://www.apod.tw/
 [2]: https://apod.nasa.gov/apod/lib/about_apod.html
@@ -86,3 +86,4 @@ NASA ê 聲明：[NASA Web Privacy Policy and Important Notices][NASA Web Privac
 [GSFC]: https://www.nasa.gov/centers/goddard/
 [Michigan Tech. U.]: http://www.mtu.edu/
 [NCU]: https://www.astro.ncu.edu.tw/
+[email]: mailto:thianbun.taigi@gmail.com
