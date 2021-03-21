@@ -3,7 +3,7 @@ title: "啥人讀予你聽：高小糕 Gao Xiao Gao - Day 1"
 date: 2021-03-17
 publishdate: 2021-03-17T13:00:00+08:00
 tags: [啥人讀予你聽, 高小糕, Gao Xiao Gao, 白目樂隊, 靈性暴女, 登陸月球]
-hero: https://apod.nasa.gov/apod/fap/image/2103/Venus_Venera13_1705.jpg
+hero:
 summary: 咱 ê 新單元 啥人讀予你聽 頭一集邀請著台灣音樂界真出名 ê 靈性暴女 高小糕 Gao Xiao Gao，嘛是 白目樂隊 The White Eyes ê 主唱，連紲三工登陸月球，來講天文 ê 故事。
 
 ---

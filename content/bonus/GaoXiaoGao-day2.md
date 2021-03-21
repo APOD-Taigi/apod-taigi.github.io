@@ -3,7 +3,7 @@ title: "啥人讀予你聽：高小糕 Gao Xiao Gao - Day 2"
 date: 2021-03-18
 publishdate: 2021-03-18T13:00:00+08:00
 tags: [啥人讀予你聽, 高小糕, Gao Xiao Gao, 白目樂隊, 靈性暴女, 登陸月球]
-hero: https://apod.nasa.gov/apod/fap/image/2103/Venus_Venera13_1705.jpg
+hero:
 summary: 小糕這擺配 ê 音樂是符合70年代科幻片 ê 感覺，雖然講只是短短仔 ê 文章，毋閣嘛是用創作一條歌的方式來完成，kā 登陸月球 ê 過程變做敢若 leh 講故事仝款。
 ---
 
