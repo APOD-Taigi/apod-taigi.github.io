@@ -4,7 +4,7 @@ date: 2021-03-21
 tags: ['公告']
 ---
 
-✩「[逐工一幅天文圖][APOD TW]」是什麼？
+✩ 請問「[逐工一幅天文圖][APOD TW]」是什麼？
 
 - 「[逐工一幅天文圖][APOD TW]」是 [NASA Astronomy Picture of the Day (APOD)][APOD] 正式授權翻譯的台語版。詳細介紹請看這篇：[本站 ê 介紹（台語/華語）][about]。
 
@@ -17,7 +17,7 @@ tags: ['公告']
 
 - 請在右上角選單中選取「[往年 ê 圖][voice]」，就可以看到過去所有的文章內容。
 
-✩ 我看不懂台語字，能念給我聽嗎？
+✩ 我看不懂台語字，請問能念給我聽嗎？
 
 - 請在右上角選單中選取「[有聲 ê 圖][voice]」，裡面都會附上 podcast 的錄音檔，點選播放就可以收聽當天文章的內容。
 
@@ -72,18 +72,7 @@ tags: ['公告']
 
 - 若有此市場需求，未來累積足夠曲目之後，會向各作曲者洽談發行音樂專輯的相關事宜。
 
-✩ 請問你們目前有哪些媒體平台？
 
-- 本站: [https://www.apod.tw/][APOD TW]
-- Facebook: [https://www.facebook.com/APOD.Taigi][facebook]
-- Podcast: [https://apod-taigi.firstory.io/][podcast]
-- Instagram: [https://www.instagram.com/apod_taigi/][instagram]
-- Twitter: [https://twitter.com/ApodTaigi][twitter]
-- 未來還會有 YouTube，敬請期待。
-
-✩ 請問你們的聯絡方式？
-
-- 可以在各大媒體平台留言，或者 email 到：[thianbun.taigi@gmail.com][email]
 
 ✩ 請問「逐工一幅天文圖」是如何維持運作的？
 
@@ -95,7 +84,7 @@ tags: ['公告']
 
 ✩ 請問可以加入你們團隊嗎？
 
-- 歡迎，不過這裡沒有薪水領，你願意犧牲自己照亮大家的話就來吧！
+- 歡迎，不過這裡沒有薪水領，可能還要自掏腰包，你願意犧牲自己照亮大家的話就來吧！
 
 ✩ 請問我台語不好也可以加入你們團隊嗎？
 
@@ -104,6 +93,24 @@ tags: ['公告']
 ✩ 我的台語還不錯，請問我可以挑戰念一篇文章嗎？
 
 - 歡迎，請與我們聯絡。
+
+✩ 我有自己的媒體頻道，請問能跟你們合作做一集節目嗎？
+
+- 歡迎，請與我們聯絡。
+
+
+✩ 請問你們目前有哪些媒體頻道？
+
+- 本站: [https://www.apod.tw/][APOD TW]
+- Facebook: [https://www.facebook.com/APOD.Taigi][facebook]
+- Podcast: [https://apod-taigi.firstory.io/][podcast]
+- Instagram: [https://www.instagram.com/apod_taigi/][instagram]
+- Twitter: [https://twitter.com/ApodTaigi][twitter]
+- YouTube: 目前人手不足，期待有緣人的出現。
+
+✩ 請問你們的聯絡方式？
+
+- 可以在各大媒體頻道留言，或者 email 到：[thianbun.taigi@gmail.com][email]
 
 
 
