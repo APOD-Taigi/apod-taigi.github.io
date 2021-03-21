@@ -49,7 +49,7 @@ tags: ['公告']
 ✩ 請問翻譯好的台語文章可以印下來在課堂上使用嗎？
 
 - 可以，為了教育的目的、非商業用途，歡迎使用。不用事先知會我們，但請註明來源。
-- 加註方式：逐工一幅天文圖 [https://apod.tw](https://apod.tw)
+- 加註方式：逐工一幅天文圖 [https://apod.tw][APOD TW]
 
 ✩ 請問「逐工一幅天文圖」內翻譯好的台語文章的版權歸屬為何？
 
@@ -62,7 +62,7 @@ tags: ['公告']
 ✩ 請問我可以把網站內的台語文整理成開放資料的形式給大家使用嗎？
 
 - 可以，只要是為了教育的目的，以公開給大眾使用的方式，都非常歡迎。但請事先知會我們，並註明來源。
-- 加註方式：逐工一幅天文圖 [https://apod.tw](https://apod.tw)
+- 加註方式：逐工一幅天文圖 [https://apod.tw][APOD TW]
 
 ✩ 逐工一幅天文圖 podcast 的音樂好好聽，請問作曲者是誰？
 
@@ -101,7 +101,7 @@ tags: ['公告']
 
 ✩ 請問你們目前有哪些媒體頻道？
 
-- 本站: [https://www.apod.tw/][APOD TW]
+- 本站: [https://apod.tw/][APOD TW]
 - Facebook: [https://www.facebook.com/APOD.Taigi][facebook]
 - Podcast: [https://apod-taigi.firstory.io/][podcast]
 - Instagram: [https://www.instagram.com/apod_taigi/][instagram]
@@ -115,7 +115,7 @@ tags: ['公告']
 
 
 
-[APOD TW]: https://www.apod.tw/
+[APOD TW]: https://apod.tw/
 [APOD]: https://apod.nasa.gov/apod/lib/about_apod.html
 [about]: https://apod.tw/about/
 [voice]: https://apod.tw/categories/podcast/
