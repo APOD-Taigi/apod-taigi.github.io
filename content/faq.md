@@ -52,7 +52,7 @@ tags: ['公告']
 
 ✩ 請問翻譯好的台語文章的版權歸屬為何？
 
-- 文章版權歸屬於翻譯者，若有改變翻譯內容、二創的需求等，請與譯者聯絡。譯者聯絡方式在每篇文章的天文圖下方。
+- 文章版權歸屬於翻譯者，若有改變翻譯內容、二創的需求等，請與我們聯絡。
 
 ✩ 請問翻譯好的台語文章會出書嗎？
 
@@ -71,10 +71,26 @@ tags: ['公告']
 
 - 若有此市場需求，未來累積足夠曲目之後，會向各作曲者洽談發行音樂專輯的相關事宜。
 
+✩ 請問你們目前有哪些媒體平台？
 
+- 本站: [https://www.apod.tw/][APOD TW]
+- Facebook: [https://www.facebook.com/APOD.Taigi][facebook]
+- Podcast: [https://apod-taigi.firstory.io/][podcast]
+- Instagram: [https://www.instagram.com/apod_taigi/][instagram]
+- Twitter: [https://twitter.com/ApodTaigi][twitter]
+- 未來還會有 YouTube，敬請期待。
 
+✩ 請問你們的聯絡方式？
 
+- 可以在各大媒體平台留言，或者 email 到： [thianbun.taigi@gmail.com][email]
 
+✩ 請問「逐工一幅天文圖」是如何維持運作的？
+
+- 目前團隊成員都各自有自己的正職工作，都是利用下班或者休假時間，貢獻自己的專業、金錢來一起完成這個 project，純服務性質，請大家給予掌聲鼓勵。
+
+✩ 請問可以捐款給你們嗎？
+
+- 目前還沒有募款管道，未來如果有再通知大家。
 
 
 
@@ -85,3 +101,7 @@ tags: ['公告']
 [voice]: https://apod.tw/categories/podcast/
 [bonus]: https://apod.tw/bonus/
 [podcast]: https://apod-taigi.firstory.io/
+[facebook]: https://www.facebook.com/APOD.Taigi
+[instagram]: https://www.instagram.com/apod_taigi/
+[twitter]: https://twitter.com/ApodTaigi
+[email]: mailto:thianbun.taigi@gmail.com
