@@ -76,8 +76,14 @@ tags: ['公告']
 
 ✩ 請問 podcast 哪裡可以訂閱？
 
-- 請在各大 podcast 平台搜尋「APOD Taigi」就可以找到。
-- 或者點選下列連結：[https://apod-taigi.firstory.io/][podcast]
+- 請在各大 podcast 平台搜尋「APOD Taigi」就可以找到。包括：
+  - [Firstory][Firstory]
+  - [KKBox][KKBox]
+  - [Spotify][Spotify]
+  - [Apple Podcast][Apple Podcast]
+  - [Google Podcast][Google Podcast]
+  - [Pocket Casts][Pocket Casts]
+  - [Sound On][Sound On]
 
 ✩ 逐工一幅天文圖 podcast 的音樂好好聽，請問作曲者是誰？
 
@@ -134,3 +140,10 @@ tags: ['公告']
 [instagram]: https://www.instagram.com/apod_taigi/
 [twitter]: https://twitter.com/ApodTaigi
 [email]: mailto:thianbun.taigi@gmail.com
+[Firstory]: https://apod-taigi.firstory.io/
+[KKBox]: https://podcast.kkbox.com/channel/4qStKnADCn0NiFPMVA
+[Spotify]: https://open.spotify.com/show/2HPCBScM4aJfij0X8C2v0B
+[Apple Podcast]: https://podcasts.apple.com/podcast/id1552530873
+[Google Podcast]: https://podcasts.google.com/search/apod%20taigi
+[Pocket Casts]: https://pca.st/65pw2m2k
+[Sound On]: https://player.soundon.fm/p/742eaad8-f792-4de9-81c8-876610b545a8
