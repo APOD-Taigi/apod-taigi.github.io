@@ -79,7 +79,6 @@ tags: ['公告']
 - 請在各大 podcast 平台搜尋「APOD Taigi」就可以找到。
 - 或者點選下列連結：[https://apod-taigi.firstory.io/][podcast]
 
-
 ✩ 逐工一幅天文圖 podcast 的音樂好好聽，請問作曲者是誰？
 
 - 每則 podcast 的配樂是由不同人特別為「逐工一幅天文圖」製作的，可以在每則 podcast 說明中找到作曲者。
