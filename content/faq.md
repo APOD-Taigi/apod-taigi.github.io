@@ -8,7 +8,7 @@ tags: ['公告']
 
 ✩ 請問「[逐工一幅天文圖][APOD TW]」是什麼？
 
-- 「[逐工一幅天文圖][APOD TW]」是 [NASA Astronomy Picture of the Day (APOD)][APOD] 正式授權翻譯的台語版。詳細介紹請看這篇：[本站 ê 介紹（台語/華語）][about]。
+- 「[逐工一幅天文圖][APOD TW]」是 [NASA Astronomy Picture of the Day (APOD)][APOD] 正式授權翻譯的台語版。是為了推廣天文教育以及台語文而開始的一個 project。詳細請看這篇：[本站 ê 介紹（台語/華語）][about]。
 
 ✩ 請問文章每日幾點更新？
 
@@ -81,6 +81,10 @@ tags: ['公告']
   - [Google Podcast][Google Podcast]
   - [Pocket Casts][Pocket Casts]
   - [Sound On][Sound On]
+
+✩ 請問 podcast 會有哪些內容？
+
+- 除了每天都會讀一篇翻譯文章給大家聽以外，還會不定期邀請特別來賓來上節目，並講解天文學知識（當然是以全台語講解）。
 
 ✩ 逐工一幅天文圖 podcast 的音樂好好聽，請問作曲者是誰？
 
