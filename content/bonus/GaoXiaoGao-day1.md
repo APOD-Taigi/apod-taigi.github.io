@@ -8,8 +8,6 @@ summary: 咱 ê 新單元 啥人讀予你聽 頭一集邀請著台灣音樂界�
 
 ---
 
-{{% apod %}}
-
 
 ## 台文
 
@@ -68,7 +66,6 @@ summary: 咱 ê 新單元 啥人讀予你聽 頭一集邀請著台灣音樂界�
 - [高小糕登陸月球第三工 ê 介紹][intro3]
 
 
-{{% /apod %}}
 
 [talk]: https://is.gd/GXKkkY
 [day1]: https://is.gd/AXSQYB

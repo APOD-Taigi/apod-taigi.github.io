@@ -8,7 +8,6 @@ summary: 高小糕這擺登陸月球來到最後一工，阿波羅 14 號嘛欲�
 
 ---
 
-{{% apod %}}
 
 
 ## 台文 Only
@@ -51,7 +50,7 @@ summary: 高小糕這擺登陸月球來到最後一工，阿波羅 14 號嘛欲�
 
 
 
-{{% /apod %}}
+
 
 [talk]: https://is.gd/GXKkkY
 [day1]: https://is.gd/AXSQYB

@@ -7,7 +7,6 @@ hero:
 summary: APOD Taigi 有 podcast 矣！先來聽第一集「踏話頭」，看 APOD Taigi 到底是啥物？是 leh 創啥？是按怎欲做這件代誌？嘛希望逐家予阮意見 kah 指教，勞力 neh ！
 ---
 
-{{% apod %}}
 
 
 ## 台文
@@ -50,7 +49,6 @@ APOD Taigi 有 podcast 囉！
 
 
 
-{{% /apod %}}
 [podcast]: https://apod-taigi.firstory.io/
 [Firstory]: https://is.gd/gkYo8k
 [KKBOX]: https://is.gd/yysRDA
