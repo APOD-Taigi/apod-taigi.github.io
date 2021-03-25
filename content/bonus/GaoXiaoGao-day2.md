@@ -7,9 +7,6 @@ hero:
 summary: 小糕這擺配 ê 音樂是符合70年代科幻片 ê 感覺，雖然講只是短短仔 ê 文章，毋閣嘛是用創作一條歌的方式來完成，kā 登陸月球 ê 過程變做敢若 leh 講故事仝款。
 ---
 
-
-
-
 ## 台文
 
 咱 ê 新單元 #啥人讀予你聽 昨日訪問 白目樂隊 The White Eyes ê 主唱高小糕 Gao Xiao Gao，伊講 bat 寫過兩條台語歌「母親 [https://is.gd/ZM79UC][mother] 」kah「可笑的一天 [https://is.gd/ylXHBR][funny] 」。
@@ -28,7 +25,6 @@ summary: 小糕這擺配 ê 音樂是符合70年代科幻片 ê 感覺，雖然�
 高小糕登陸前 ê 訪問 ➠ [https://is.gd/GXKkkY][talk]
 
 想欲知影頭一工小糕登陸月球 ê 狀況，請聽 ➠ [https://is.gd/AXSQYB][day1]
-
 
 
 ## 華文
@@ -63,7 +59,6 @@ summary: 小糕這擺配 ê 音樂是符合70年代科幻片 ê 感覺，雖然�
 
 
 
-{{% /apod %}}
 
 [talk]: https://is.gd/GXKkkY
 [day1]: https://is.gd/AXSQYB
