@@ -6,7 +6,9 @@ tags: [烏洞, 磁場, 偏振光, EHT, 事件視平線望遠鏡, M87, 噴流]
 hero: https://s23527.pcdn.co/wp-content/uploads/2021/03/black-hole-magnetic-field-738x745.jpg.optimal.jpg
 summary: 兩年前 ê 2019/4/11，事件視平線望遠鏡 (Event Horizon Telescope, EHT) 公佈人類歷史上頭一擺觀測著 ê 烏洞 M87。這馬，事件視平線望遠鏡 EHT 閣一擺公佈烏洞 M87 ê 偏振光影像！
 ---
-(Photo credit: EHT Collaboration)
+Photo credit: EHT Collaboration
+
+[原文 (華語版)][fb]：中央研究院天文及天文物理研究所 (ASIAA)
 
 
 
@@ -51,9 +53,7 @@ EHT 理論模型工作小組協調人之一，嘛是國立臺灣師範大學助�
 - [https://press.asiaa.sinica.edu.tw/ASIAA_TAIWAN_News/1235235][press]
 
 
-✩ 原文（華語版）是 中央研究院天文及天文物理研究所(ASIAA) tī 遮發表 ê：
 
-- [中央研究院天文及天文物理研究所(ASIAA) Facebook][fb]
 
 \#黑洞 \#EHT \#blackhole \#universe
 
