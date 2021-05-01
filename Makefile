@@ -10,3 +10,5 @@ backup:
 	apod backup -o backup
 convert:
 	apod convert-blogger-posts-to-markdown -i backup -o content/posts
+run:
+	hugo server -p 5566
