@@ -21,6 +21,51 @@ def cli():
 
 @cli.command()
 @click.argument("date")
+@click.argument("vocal")
+def shownotes(date, vocal):
+    d = pendulum.from_format(date, "YYYYMMDD")
+    path = f"content/daily/{d.format('YYYY/MM/YYYYMMDD')}.md"
+    with open(path) as fp:
+        text = fp.read()
+
+    html = markdown.markdown(text)
+    soup = BeautifulSoup(html, "html.parser")
+
+    def find_content(subtitle):
+        target = soup.find(text=re.compile(f"\\[{subtitle}\\]"))
+        p = target.find_next("p")
+        return str(target), p.get_text()
+
+    hanlo_title, hanlo_text = find_content("漢羅")
+    hanlo_title = hanlo_title.replace("[漢羅] ", "")
+    hanlo_text = hanlo_text.replace("\n", "")
+
+    print(f"{hanlo_title} ft. {vocal} ({date})")
+    print(
+        f"""
+{hanlo_title}
+https://apod.tw/daily/{date}/
+
+{hanlo_text}
+
+———
+這是 NASA Astronomy Picture of the Day ê 台語文 podcast
+原文版：https://apod.nasa.gov/
+台文版：https://apod.tw/
+
+今仔日 ê 文章：
+影像：
+音樂：PiSCO - 鼎鼎
+聲優：{vocal}
+翻譯：An-Li Tsai (NCU)
+原文：https://apod.nasa.gov/apod/ap{date[2:]}.html\n"""
+    )
+
+    print("台語, Taiwanese, 天文, astronomy, APOD, Taigi")
+
+
+@cli.command()
+@click.argument("date")
 def transcript(date):
     d = pendulum.from_format(date, "YYYYMMDD")
     path = f"content/daily/{d.format('YYYY/MM/YYYYMMDD')}.md"
