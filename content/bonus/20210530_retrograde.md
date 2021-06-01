@@ -15,8 +15,8 @@ summary: 台灣後日暗 (5/26) 暗時六點半開始，一直到九點攏有月
 - 「火逆 Hóe-ge̍k」火星逆行 Hóe-chhiⁿ Ge̍k-hêng
 - 「木逆 Bo̍k-ge̍k」木星逆行 Bo̍k-chhiⁿ Ge̍k-hêng
 - 「土逆 Thó͘-ge̍k」土星逆行 Thó͘-chhiⁿ Ge̍k-hêng
-- 天王星逆行 Thian-ông-chhiⁿ Ge̍k-hêng
-- 海王星逆行 Hái-ông-chhiⁿ Ge̍k-hêng
+- 「天逆 Thian-ge̍k」天王星逆行 Thian-ông-chhiⁿ Ge̍k-hêng
+- 「海逆 Hái-ge̍k」海王星逆行 Hái-ông-chhiⁿ Ge̍k-hêng
 
 而且離地球上近 ê 是金星，紲落來是火星，閣來才是水星。
 若是講行星逆行會影響著你，按呢你應該愛先怪金星，毋是水星。
