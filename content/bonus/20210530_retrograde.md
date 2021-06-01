@@ -2,7 +2,7 @@
 title: 啥物是「水逆 Chúi-ge̍k」？
 date: 2021-05-30
 publishdate: 2021-05-30T21:00:00+08:00
-tags: [水逆, 金逆, 火逆, 土逆, 天逆, 海逆, 地逆, 逆行, 順行, 行星逆行]
+tags: [水逆, 金逆, 火逆, 土逆, 天王逆, 海王逆, 地逆, 逆行, 順行, 行星逆行]
 hero:
 summary: 台灣後日暗 (5/26) 暗時六點半開始，一直到九點攏有月食 (Lunar Eclipse) 通看!
 ---
@@ -15,8 +15,8 @@ summary: 台灣後日暗 (5/26) 暗時六點半開始，一直到九點攏有月
 - 「火逆 Hóe-ge̍k」火星逆行 Hóe-chhiⁿ Ge̍k-hêng
 - 「木逆 Bo̍k-ge̍k」木星逆行 Bo̍k-chhiⁿ Ge̍k-hêng
 - 「土逆 Thó͘-ge̍k」土星逆行 Thó͘-chhiⁿ Ge̍k-hêng
-- 「天逆 Thian-ge̍k」天王星逆行 Thian-ông-chhiⁿ Ge̍k-hêng
-- 「海逆 Hái-ge̍k」海王星逆行 Hái-ông-chhiⁿ Ge̍k-hêng
+- 「天王逆 Thian-ông-ge̍k」天王星逆行 Thian-ông-chhiⁿ Ge̍k-hêng
+- 「海王逆 Hái-ông-ge̍k」海王星逆行 Hái-ông-chhiⁿ Ge̍k-hêng
 
 而且離地球上近 ê 是金星，紲落來是火星，閣來才是水星。
 若是講行星逆行會影響著你，按呢你應該愛先怪金星，毋是水星。
