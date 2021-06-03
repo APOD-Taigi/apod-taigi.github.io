@@ -6,7 +6,7 @@ on:
     branches:
     - main
   schedule:
-    - cron: "50 3-12 * * *"  # 11:50-23:50 daily
+    - cron: "55 3-12 * * *"  # 11:50-23:50 daily
   workflow_run:
     workflows:
       - update podcasts
