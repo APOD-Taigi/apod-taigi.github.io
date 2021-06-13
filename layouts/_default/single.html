@@ -12,6 +12,11 @@
               {{ $videoId := index (last 1 (split .Params.hero "=")) 0 }}
               <iframe src="https://youtube.com/embed/{{ $videoId }}"></iframe>
             </div>
+          {{ else if hasPrefix .Params.hero "https://vimeo.com/" }}
+            <div class="video">
+              {{ $videoId := index (last 1 (split .Params.hero "/")) 0 }}
+              <iframe src="https://player.vimeo.com/video/{{ $videoId }}?title=0&byline=0&portrait=0" allow="fullscreen" allowfullscreen></iframe>
+            </div>
           {{ else }}
             <img src="{{ .Params.hero }}" alt="{{ . }}" class="post_thumbnail">
           {{ end }}
