@@ -11,8 +11,10 @@
       {{ if hasPrefix .Params.hero "https://www.youtube.com/" }}
         {{ $videoId := index (last 1 (split .Params.hero "=")) 0 }}
         {{ $scratch.Set "image" (printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $videoId) }}
-      {{ else }}
+      {{ else if hasPrefix .Params.hero "http" }}
         {{ $scratch.Set "image" .Params.hero }}
+      {{ else }}
+        {{ $scratch.Set "image" (printf "%s%s" .Permalink .Params.hero) }}
       {{ end }}
     {{ else }}
       {{ $scratch.Set "image" "" }}
