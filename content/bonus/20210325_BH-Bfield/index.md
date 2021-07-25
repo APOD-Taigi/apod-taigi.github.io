@@ -3,7 +3,7 @@ title: 看著烏洞 M87 ê 磁場矣！
 date: 2021-03-25
 #publishdate: 2021-03-25T023:00:00+08:00
 tags: [烏洞, 磁場, 偏振光, EHT, 事件視平線望遠鏡, M87, 噴流]
-hero: https://s23527.pcdn.co/wp-content/uploads/2021/03/black-hole-magnetic-field-738x745.jpg.optimal.jpg
+hero: hero.jpg
 summary: 兩年前 ê 2019/4/11，事件視平線望遠鏡 (Event Horizon Telescope, EHT) 公佈人類歷史上頭一擺觀測著 ê 烏洞 M87。這馬，事件視平線望遠鏡 EHT 閣一擺公佈烏洞 M87 ê 偏振光影像！
 ---
 <div style="text-align: center">
