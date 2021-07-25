@@ -10,6 +10,14 @@
 - 每日翻譯請在 `content/daily` 底下對應日期的資料夾新增檔案，例如 `content/daily/2021/01/20210122.md`
 - 其他文章請在 `content/bonus` 底下新增檔案，例如 `content/bonus/12-steps-to-touchdown.md`
   - 注意檔名不要有空格，因為檔名是網址
+- 如果要用 self-hosted images，可以用 [page bundle] 處理
+  - 建立資料夾，以上面提過的文章類型當例子的話就是
+    - `content/daily/2021/01/20210122`
+    - `content/bonus/12-steps-to-touchdown`
+  - 文章放在該資料夾下的 `index.md`
+  - 圖片也放在該資料夾下，例如 `hero.jpg`
+  - 文章的 meta 填相對路徑，例如 `hero: hero.jpg`
+  - 可以參考 `content/bonus/20210110_LimLiongKun/` 的做法
 - 參考以下說明填入對應資料
 
 ### 格式說明
@@ -58,3 +66,5 @@ summary: 咱 ê 銀河盤面頂，有闊莽莽 ê 宇宙塗粉、恆星、佮星
 
 - 漢羅排版可參考 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - APOD 很多接在一起的連結，所以連結前後要空格
+
+[page bundle]: https://gohugo.io/content-management/page-bundles/
