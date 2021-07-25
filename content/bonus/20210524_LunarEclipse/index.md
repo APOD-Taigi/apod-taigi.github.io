@@ -3,7 +3,7 @@ title: "台灣 5 月 26 有月全食通看喔！"
 date: 2021-05-24
 publishdate: 2021-05-24T21:00:00+08:00
 tags: [月全食, 月食, 月偏食, 台灣]
-hero:
+hero: hero.jpg
 summary: 台灣後日暗 (5/26) 暗時六點半開始，一直到九點攏有月食 (Lunar Eclipse) 通看!
 ---
 
