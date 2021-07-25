@@ -3,7 +3,7 @@ title: 逐工一幅天文圖有 podcast 矣！
 date: 2021-02-05
 publishdate: 2021-02-05T13:00:00+08:00
 tags: [踏話頭, podcast]
-hero:
+hero: hero.png
 summary: APOD Taigi 有 podcast 矣！先來聽第一集「踏話頭」，看 APOD Taigi 到底是啥物？是 leh 創啥？是按怎欲做這件代誌？嘛希望逐家予阮意見 kah 指教，勞力 neh ！
 ---
 
