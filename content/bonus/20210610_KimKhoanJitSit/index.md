@@ -3,7 +3,7 @@ title: 6 月 10 號 ê 金環日食
 date: 2021-06-10
 publishdate: 2021-06-08T14:00:00+08:00
 tags: [日食, 本影, 半影, 偽本影, 日全食, 金環日食, 日偏食, 日環食]
-hero:
+hero: hero.png
 summary: 月球行到地球 kah 太陽中央 ê 時陣，to̍h 會發生日食 (ji̍t-si̍t)。
 
 ---
