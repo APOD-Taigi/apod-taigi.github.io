@@ -36,7 +36,7 @@ summary: 毋知逐家昨暗（抑是透早？）有綴著 NASA ê 直播看毅�
 
 - Step 11 | Rover Separation/Sky Crane 探測船脫離/天空吊車 Thàm-chhek-chûn thoat-lî/Thian-khong tiàu-chhia
 
-- Step 12 | Touchdown! 著陸 Tio̍h-lio̍k
+- Step 12 | Touchdown! 登陸 Teng-lio̍k
 
 按呢是毋是攏學起來矣 neh ？
 
