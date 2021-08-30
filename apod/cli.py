@@ -43,9 +43,6 @@ def shownotes(date, vocal):
     print(f"{hanlo_title} ft. {vocal} ({date})")
     print(
         f"""
-{hanlo_title}
-https://apod.tw/daily/{date}/
-
 {hanlo_text}
 
 ———
@@ -54,6 +51,7 @@ https://apod.tw/daily/{date}/
 台文版：https://apod.tw/
 
 今仔日 ê 文章：
+https://apod.tw/daily/{date}/
 影像：
 音樂：PiSCO - 鼎鼎
 聲優：{vocal}
