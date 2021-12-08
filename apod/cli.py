@@ -31,6 +31,9 @@ def shownotes(date, vocal):
     html = markdown.markdown(text)
     soup = BeautifulSoup(html, "html.parser")
 
+    tags_str = [line for line in text.split("\n") if line.startswith("tags")][0]
+    tags = [t.strip() for t in tags_str[7:-1].split(",")]
+
     def find_content(subtitle):
         target = soup.find(text=re.compile(f"\\[{subtitle}\\]"))
         p = target.find_next("p")
@@ -59,7 +62,7 @@ https://apod.tw/daily/{date}/
 原文：https://apod.nasa.gov/apod/ap{date[2:]}.html\n"""
     )
 
-    print("台語, Taiwanese, 天文, astronomy, APOD, Taigi")
+    print(", ".join(set(["台語, Taiwanese, 天文, astronomy, APOD, Taigi"] + tags)))
 
 
 @cli.command()
