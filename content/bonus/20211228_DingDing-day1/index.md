@@ -65,5 +65,6 @@ P!SCO 樂團 12/25-26 舉辦 ê 頭一屆「般若電司音樂祭 More Than Danc
 ## 相關文章
 
 - [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 1](https://apod.tw/bonus/20211228_dingding-day1/)
-- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 2](https://apod.tw/bonus/20211228_dingding-day2/)
-- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 3](https://apod.tw/bonus/20211228_dingding-day3/)
+- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 2](https://apod.tw/bonus/20211229_dingding-day2/)
+- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 3](https://apod.tw/bonus/20211230_dingding-day3/)
+- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 4](https://apod.tw/bonus/20211231_dingding-day4/)
