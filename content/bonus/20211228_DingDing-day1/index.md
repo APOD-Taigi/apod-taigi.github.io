@@ -8,7 +8,7 @@ summary: 啥人讀予你聽 這擺邀請來 ê 來賓是 逐工一幅天文圖 P
 
 ---
 
-{{% apod %}}
+
 
 ## 來賓介紹
 \#啥人讀予你聽 這擺邀請來 ê 來賓是「[逐工一幅天文圖 Podcast](https://is.gd/pwXwpT)」背景音樂 ê 作曲家 [PiSCO - 鼎鼎](https://www.facebook.com/pisco88)，[伊](https://www.instagram.com/pisco88ding/) 其實是 P!SCO 樂團 ê Keyboard 手！
@@ -28,9 +28,7 @@ P!SCO 樂團 12/25-26 舉辦 ê 頭一屆「般若電司音樂祭 More Than Danc
 按呢咱緊來聽鼎鼎 ê 訪問：
 
 【啥人讀予你聽 - 佮 P!SCO 鼎鼎 做伙來講火星任務】
-
 ➠ [Youtube](https://youtu.be/_2EtCB2n73o)
-
 ➠ [Podcast](https://is.gd/ZGk9Ih)
 
 
@@ -38,9 +36,7 @@ P!SCO 樂團 12/25-26 舉辦 ê 頭一屆「般若電司音樂祭 More Than Danc
 聽煞了後，才閣來聽鼎鼎讀 ê 頭一篇文章！
 
 【毅力號：是按怎登陸火星 ê】
-
 ➠ [Podcast](https://is.gd/MKussT)
-
 ➠ [文章](https://apod.tw/daily/20210220/)
 
 今年 2021 年上尾這四工 12/28-31，咱 to̍h 做伙來聽鼎鼎讀 ê 文章！明仔載才閣繼續來聽鼎鼎讀第二篇！
@@ -66,14 +62,8 @@ P!SCO 樂團 12/25-26 舉辦 ê 頭一屆「般若電司音樂祭 More Than Danc
 
 
 
+## 相關文章
 
-
-
-{{% /apod %}}
-
----
-相關文章
-
-- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 1][intro1]
-- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 2][intro2]
-- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 3][intro3]
+- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 1](https://apod.tw/bonus/20211228_dingding-day1/)
+- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 2](https://apod.tw/bonus/20211228_dingding-day2/)
+- [啥人讀予你聽：佮 P!SCO 鼎鼎 做伙來講火星任務 - Day 3](https://apod.tw/bonus/20211228_dingding-day3/)
