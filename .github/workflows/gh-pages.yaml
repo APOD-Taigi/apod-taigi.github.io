@@ -36,3 +36,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         cname: apod.tw
+        force_orphan: true
