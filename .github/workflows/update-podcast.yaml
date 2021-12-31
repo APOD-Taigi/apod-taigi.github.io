@@ -1,4 +1,4 @@
-name: update podcasts
+name: update-podcasts
 
 on:
   schedule:
