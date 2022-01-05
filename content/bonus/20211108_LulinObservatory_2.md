@@ -2,7 +2,7 @@
 title: 中央大學鹿林天文台（二）LOT 一公尺望遠鏡 ê 介紹
 date: 2021-11-08
 publishdate: 2021-11-08T12:00:00+08:00
-tags: [中央大學, 鹿林天文台, SLT, LOT]
+tags: [中央大學, 鹿林天文台, SLT, LOT, 圓厝頂]
 hero: https://www.youtube.com/watch?v=DEJPiVYEmvg
 summary: 第二集咱來看台灣上大 ê 天文台：LOT 直徑一公尺闊 ê 望遠鏡。
 

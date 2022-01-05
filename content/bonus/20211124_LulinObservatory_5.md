@@ -2,7 +2,7 @@
 title: 中央大學鹿林天文台（五）LOT 實際上是按怎操作 ê ？
 date: 2021-11-24
 publishdate: 2021-11-24T12:00:00+08:00
-tags: [中央大學, 鹿林天文台, SLT, LOT]
+tags: [中央大學, 鹿林天文台, SLT, LOT, 圓厝頂]
 hero: https://www.youtube.com/watch?v=wvQFGLHHa-k
 summary: 第五集咱來 LOT 實際上是按怎操作 ê ？
 
