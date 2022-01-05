@@ -121,12 +121,12 @@ tags: ['公告']
 
 ✩ 請問你們目前有使用哪些媒體平台？
 
-- 本站: [https://apod.tw/][APOD TW]
-- Facebook: [https://www.facebook.com/APOD.Taigi][facebook]
-- Podcast: [https://apod-taigi.firstory.io/][podcast]
-- Instagram: [https://www.instagram.com/apod_taigi/][instagram]
-- Twitter: [https://twitter.com/ApodTaigi][twitter]
-- YouTube: 目前人手不足，期待有緣人的出現。
+- [本站](https://apod.tw/)
+- [Facebook](https://www.facebook.com/APOD.Taigi)
+- [Podcast](https://apod-taigi.firstory.io/)
+- [Instagram](https://www.instagram.com/apod_taigi/)
+- [Twitter](https://twitter.com/ApodTaigi)
+- [YouTube](https://www.youtube.com/channel/UCYVba_DGrS093Oy4hnP28SQ)
 
 ✩ 請問你們的聯絡方式？
 
