@@ -15,11 +15,7 @@ summary: 趁這个機會來 kā 逐家介紹一下仔台灣上大 ê 天文台�
 
 ### 仝這个系列 ê 介紹
 - [中央大學鹿林天文台（一）環境介紹](https://apod.tw/bonus/20211105_lulinobservatory_1/)
-
-- [中央大學鹿林天文台（二）LOT 一公尺望遠鏡 ê 介紹](https://apod.tw/bonus/20211105_lulinobservatory_2/)
-
-- [中央大學鹿林天文台（三）LOT 一公尺望遠鏡 ê 介紹](https://apod.tw/bonus/20211108_lulinobservatory_3/)
-
-- [中央大學鹿林天文台（四）圓厝頂是按怎 leh 踅 ê？](https://apod.tw/bonus/20211110_lulinobservatory_4/)
-
+- [中央大學鹿林天文台（二）LOT 一公尺望遠鏡 ê 介紹](https://apod.tw/bonus/20211108_lulinobservatory_2/)
+- [中央大學鹿林天文台（三）LOT 一公尺望遠鏡 ê 介紹](https://apod.tw/bonus/20211110_lulinobservatory_3/)
+- [中央大學鹿林天文台（四）圓厝頂是按怎 leh 踅 ê？](https://apod.tw/bonus/20211114_lulinobservatory_4/)
 - [中央大學鹿林天文台（五）LOT 實際上是按怎操作 ê？](https://apod.tw/bonus/20211124_lulinobservatory_5/)
