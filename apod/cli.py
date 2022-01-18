@@ -56,7 +56,7 @@ def shownotes(date, vocal):
 今仔日 ê 文章：
 https://apod.tw/daily/{date}/
 影像：
-音樂：PiSCO - 鼎鼎
+音樂：P!SCO - 鼎鼎
 聲優：{vocal}
 翻譯：An-Li Tsai (NCU)
 原文：https://apod.nasa.gov/apod/ap{date[2:]}.html\n"""
