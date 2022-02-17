@@ -3,7 +3,7 @@ title: 是「月食」抑是「月蝕」？
 date: 2021-05-27
 publishdate: 2021-05-27T21:00:00+08:00
 tags: [月食]
-hero: eclipse.jpg
+hero: eclipse.png
 summary: 定定寫毋著 ê 漢字！
 ---
 
