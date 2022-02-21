@@ -70,6 +70,6 @@ summary: 咱 ê 新單元 啥人讀予你聽 頭一集邀請著台灣音樂界�
 [talk]: https://is.gd/GXKkkY
 [day1]: https://is.gd/AXSQYB
 [article1]: https://apod.tw/daily/20210203/
-[intro1]: https://apod.tw/bonus/gaoxiaogao-day1/
-[intro2]: https://apod.tw/bonus/gaoxiaogao-day2/
-[intro3]: https://apod.tw/bonus/gaoxiaogao-day3/
+[intro1]: https://apod.tw/bonus/20210317_gaoxiaogao-day1/
+[intro2]: https://apod.tw/bonus/20210318_gaoxiaogao-day2/
+[intro3]: https://apod.tw/bonus/20210319_gaoxiaogao-day3/

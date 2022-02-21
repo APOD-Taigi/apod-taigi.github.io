@@ -59,6 +59,6 @@ summary: 高小糕這擺登陸月球來到最後一工，阿波羅 14 號嘛欲�
 [article2]: https://apod.tw/daily/20210204/
 [day3]: https://is.gd/uxm8tu
 [article3]: https://apod.tw/daily/20210205/
-[intro1]: https://apod.tw/bonus/gaoxiaogao-day1/
-[intro2]: https://apod.tw/bonus/gaoxiaogao-day2/
-[intro3]: https://apod.tw/bonus/gaoxiaogao-day3/
+[intro1]: https://apod.tw/bonus/20210317_gaoxiaogao-day1/
+[intro2]: https://apod.tw/bonus/20210318_gaoxiaogao-day2/
+[intro3]: https://apod.tw/bonus/20210319_gaoxiaogao-day3/

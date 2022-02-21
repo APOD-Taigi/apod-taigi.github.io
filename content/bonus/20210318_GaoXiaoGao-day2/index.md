@@ -67,6 +67,6 @@ summary: 小糕這擺配 ê 音樂是符合70年代科幻片 ê 感覺，雖然�
 [article2]: https://apod.tw/daily/20210204/
 [mother]: https://is.gd/ZM79UC
 [funny]: https://is.gd/ylXHBR
-[intro1]: https://apod.tw/bonus/gaoxiaogao-day1/
-[intro2]: https://apod.tw/bonus/gaoxiaogao-day2/
-[intro3]: https://apod.tw/bonus/gaoxiaogao-day3/
+[intro1]: https://apod.tw/bonus/20210317_gaoxiaogao-day1/
+[intro2]: https://apod.tw/bonus/20210318_gaoxiaogao-day2/
+[intro3]: https://apod.tw/bonus/20210319_gaoxiaogao-day3/
