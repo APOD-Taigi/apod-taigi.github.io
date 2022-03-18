@@ -20,15 +20,17 @@ def get_episodes():
     for e in d["entries"]:
         title = e["title"]
         id_ = e["id"]
-        type_ = e["itunes_episodetype"]
 
-        # ignore trailer or bonus
-        if type_ != "full":
-            continue
+        # FIXME: Get episode from e["itunes_episodetype"] error
+        # We need it to ignore episodes whose types are not "full"
 
         vocal = title.split("ft.")[-1].split("(")[0].strip()
         date = title.split("(")[-1].split(")")[0].strip()
-        date = pendulum.from_format(date, "YYYYMMDD", tz="Asia/Taipei")
+        try:
+            date = pendulum.from_format(date, "YYYYMMDD", tz="Asia/Taipei")
+        except ValueError:
+            continue
+
         if not (vocal and date):
             raise RuntimeError(f"Invalid Episode Title: {title}")
 
