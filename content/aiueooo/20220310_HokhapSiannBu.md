@@ -2,9 +2,7 @@
 title: 複合母音 ai au ia iu io ui oa oe iau oai
 date: 2022-03-10
 publishdate: 2022-03-10T00:00:00+08:00
-tags: [天文台語 o i u e o o͘]
-summary: 複合母音 ai au ia iu io ui oa oe iau oai
-
+tags: [天文台語教室 a i u e o o͘]
 ---
 
 ## 雙母音 ai
