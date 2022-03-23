@@ -2,7 +2,7 @@
 title: 生日星座
 date: 2022-03-20
 publishdate: 2022-03-20T00:00:00+08:00
-tags: [天文台語教室 a i u e o o͘]
+tags: [天文台語教室]
 summary: 生日星座
 ---
 
