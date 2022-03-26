@@ -141,6 +141,7 @@ tags: ['公告']
 [about]: https://apod.tw/about/
 [voice]: https://apod.tw/categories/podcast/
 [bonus]: https://apod.tw/bonus/
+[lecture]: https://apod.tw/lecture/
 [podcast]: https://apod-taigi.firstory.io/
 [facebook]: https://www.facebook.com/APOD.Taigi
 [instagram]: https://www.instagram.com/apod_taigi/
