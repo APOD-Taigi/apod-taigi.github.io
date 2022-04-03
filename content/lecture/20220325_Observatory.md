@@ -27,7 +27,7 @@ summary: Kah 天文台有關 ê 台語
 - 黃色 n̂g-sek
 - 青色 chhiⁿ-sek
 - 藍色 nâ-sek
-- 靛色 tiān-sek
+- 紺色 khóng-sek
 - 茄仔色(紫色) kiô-á-sek (chí-sek)
 - 濾光片lū-kng-phìⁿ
 - 濾鏡 lū-kiàⁿ
