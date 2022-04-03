@@ -10,16 +10,17 @@ summary: Kah 天文台有關 ê 台語
 - 天文台 thian-bûn-tâi
 - 圓厝頂 îⁿ-chhù-téng
 - 平厝頂 pêⁿ-chhù-téng
+- 天頂 thian-téng (zenith)
 - 望遠鏡 bōng-oán-kiàⁿ
-- 反射式 hoán-siā-sek
-- 屈折式 khut-chiat-sek
+- 反射式 hoán-siā-sek (reflaction)
+- 屈折式 khut-chiat-sek (refraction)
 - 屈反式 khut-hoán-sek
 - 赤道儀 chhek-tō-gî
 - 經緯儀 keng-hūi-gî
 - 追蹤 tui-chong
 - 導星 tō-chhiⁿ
 - 導星鏡 tō-chhiⁿ-kiàⁿ
-- 目鏡 bo̍k-kiàⁿ
+- 目鏡 bo̍k-kiàⁿ (eyepiece)
 - 光譜儀 kng-phó͘-gî
 - 虹 khēng
 - 紅色 Âng-sek
