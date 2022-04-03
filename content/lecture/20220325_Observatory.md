@@ -14,24 +14,25 @@ summary: Kah 天文台有關 ê 台語
 - 反射式 hoán-siā-sek
 - 屈折式 khut-chiat-sek
 - 屈反式 khut-hoán-sek
-- 赤道儀chhek-tō-gî
+- 赤道儀 chhek-tō-gî
 - 經緯儀 keng-hūi-gî
 - 追蹤 tui-chong
 - 導星 tō-chhiⁿ
 - 導星鏡 tō-chhiⁿ-kiàⁿ
-- 目鏡bo̍k-kiàⁿ
-- 光譜儀kng-phó͘-gî
+- 目鏡 bo̍k-kiàⁿ
+- 光譜儀 kng-phó͘-gî
 - 虹 khēng
 - 紅色 Âng-sek
-- 柑仔色(橙色) kam-á-sek (têng-sek)
+- 柑仔色 kam-á-sek (橙色 têng-sek)
 - 黃色 n̂g-sek
 - 青色 chhiⁿ-sek
 - 藍色 nâ-sek
-- 紺色 khóng-sek
-- 茄仔色(紫色) kiô-á-sek (chí-sek)
-- 濾光片lū-kng-phìⁿ
+- 紺色 khóng-sek (靛色 tiān-sek)
+- 茄仔色 kiô-á-sek (紫色 chí-sek)
+- 濾光片 lū-kng-phìⁿ
 - 濾鏡 lū-kiàⁿ
-- 濾鏡盤lū-kiàⁿ-pôaⁿ
+- 濾鏡盤 lū-kiàⁿ-pôaⁿ
 - 透鏡 thàu-kiàⁿ
 - 凹鏡/塌鏡 lap-kiàⁿ
 - 凸鏡/膨鏡 phòng-kiàⁿ
+- 凹凸鏡/膨塌鏡 phòng-lap-kiàⁿ
