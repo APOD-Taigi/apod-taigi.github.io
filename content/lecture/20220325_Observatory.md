@@ -36,4 +36,4 @@ summary: Kah 天文台有關 ê 台語
 - 透鏡 thàu-kiàⁿ
 - 凹鏡/塌鏡 lap-kiàⁿ
 - 凸鏡/膨鏡 phòng-kiàⁿ
-- 凹凸鏡/膨塌鏡 phòng-lap-kiàⁿ
+- 凸凹鏡/膨塌鏡 phòng-lap-kiàⁿ
