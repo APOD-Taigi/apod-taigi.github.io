@@ -7,7 +7,7 @@ hero: moon-phases-timeanddate_taigi_north_south.png
 summary: 到底月相 ê 台語愛按怎講 leh？
 ---
 
-## 基本母音 a
+## 月相 ê 台語
 到底月相 ê 台語愛按怎講 leh？
 
 - 【烏月/新月/初一/朔】
