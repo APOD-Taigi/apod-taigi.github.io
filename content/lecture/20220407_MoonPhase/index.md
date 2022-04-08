@@ -10,10 +10,10 @@ summary: 到底月相 ê 台語愛按怎講 leh？
 ## 月相 ê 台語
 到底月相 ê 台語愛按怎講 leh？
 
-### 【烏月/新月/初一/朔】
+### 【新月/初一/朔】
 
-- o͘-goe̍h/sin-goe̍h/chhoe-it/sok
-- oo-gue̍h/sin-gue̍h/tshue-it/sok
+- sin-goe̍h/chhoe-it/sok
+- sin-gue̍h/tshue-it/sok
 
 ### 【頂月眉】
 - téng-goe̍h-bâi
@@ -27,9 +27,9 @@ summary: 到底月相 ê 台語愛按怎講 leh？
 - téng-phòng-goe̍h
 - tíng-phòng-gue̍h
 
-### 【月圓/圓月/十五/望】
-- goe̍h-îⁿ/îⁿ-goe̍h/cha̍p-gō͘/bōng
-- gue̍h-înn/înn-gue̍h/tsa̍p-gōo/bōng
+### 【月圓/十五/望】
+- goe̍h-îⁿ/cha̍p-gō͘/bōng
+- gue̍h-înn/tsa̍p-gōo/bōng
 
 ### 【下膨月】
 - ē-phòng-goe̍h
