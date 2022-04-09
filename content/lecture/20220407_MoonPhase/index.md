@@ -12,8 +12,8 @@ summary: 到底月相 ê 台語愛按怎講 leh？
 
 ### 【新月/初一/朔】
 
-- sin-goe̍h/chhoe-it/sok
-- sin-gue̍h/tshue-it/sok
+- sin-goe̍h/chhe-it/sok
+- sin-gue̍h/tshe-it/sok
 
 ### 【頂月眉】
 - téng-goe̍h-bâi
