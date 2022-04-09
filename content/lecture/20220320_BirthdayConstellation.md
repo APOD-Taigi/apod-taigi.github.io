@@ -13,7 +13,7 @@ summary: 生日星座
 -  6/22 –  7/22  巨蟹座  Kū-hē-chō
 -  7/23 –  8/22  獅子座  Sai-chú-chō / 獅仔座 Sai-á-chō
 -  8/23 –  9/22  處女座  Chhú-lú-chō / 室女座 Sek-lú-chō
--  9/23 – 10/23 天秤座  Thian-chhìn-chō / 天平座 Thian-pêng-chō
+-  9/23 – 10/23 天秤座  Thian-chhìn-chō / 天平座 Thian-pêng-chō / 秤仔座 Chhìn-á-chō
 - 10/24 – 11/22 天蠍座  Thian-giat-chō / 蠍仔座 Giat-á-chō
 - 11/23 – 12/21 射手座  Siā-chhiú-chō / 人馬座 Jîn-má-chō
 - 12/22 –  1/20  摩羯座  Mô͘-kiat-chō / 山羊座 San-iûⁿ-chō
