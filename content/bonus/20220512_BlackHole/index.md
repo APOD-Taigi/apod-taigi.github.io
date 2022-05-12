@@ -34,5 +34,4 @@ summary: 「銀河中心的大烏洞」全球記者會
 
 ---
 
-影像來源：Event Horizon Telescope (EHT)
-https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy?fbclid=IwAR3a-WZe_laQ-VWOZuww-hvWhmd0CfxYH3UI5VrPCbChZ_lKa-gBSh_RIIY
+影像來源：[Event Horizon Telescope (EHT)](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy?fbclid=IwAR3a-WZe_laQ-VWOZuww-hvWhmd0CfxYH3UI5VrPCbChZ_lKa-gBSh_RIIY)
