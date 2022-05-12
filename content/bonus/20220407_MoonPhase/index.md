@@ -2,7 +2,7 @@
 title: 月相 ê 台語按怎講？
 date: 2022-04-07
 publishdate: 2022-04-07T00:00:00+08:00
-tags: [天文台語教室]
+tags: [月相]
 hero: moon-phases-timeanddate_taigi_north_south_wide.png
 summary: 到底月相 ê 台語愛按怎講 leh？
 ---
