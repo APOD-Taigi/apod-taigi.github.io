@@ -10,7 +10,7 @@ summary: 村裡來了個暴走女外科 ê 小行星 - 這篇毋是 NASA 寫的�
 {{% apod %}}
 
 - 影像來源 kah 版權：[Wikipedia - 192 Nausikaa][wiki]
-- 台文翻譯：[An-Li Tsai][An-Li Tsai] ([NCU][NCU])
+- 台文撰寫：[An-Li Tsai][An-Li Tsai] ([NCU][NCU])
 
 ## [漢羅] 村裡來了個暴走女外科 ê 小行星 - 這篇毋是 NASA 寫的
 
