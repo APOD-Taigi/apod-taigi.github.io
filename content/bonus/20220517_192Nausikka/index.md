@@ -12,6 +12,10 @@ summary: 村裡來了個暴走女外科 ê 小行星 - 這篇毋是 NASA 寫的�
 - 影像來源 kah 版權：[Wikipedia - 192 Nausikaa][wiki]
 - 台文撰寫：[An-Li Tsai][An-Li Tsai] ([NCU][NCU])
 
+{{< podcast "cl3ad9ug402uy01wo4jeaf0ad" >}}
+
+
+
 ## [漢羅] 村裡來了個暴走女外科 ê 小行星 - 這篇毋是 NASA 寫的
 
 公視「村裡來了個暴走女外科」第四集內底，小劉醫師用著一款手術叫做「王蟲縫法（王蟲紩法）」，是臺大病院婦產部 ê 施景中醫師發明--ê。
