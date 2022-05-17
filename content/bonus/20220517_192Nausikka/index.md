@@ -15,14 +15,13 @@ summary: 村裡來了個暴走女外科 ê 小行星 - 這篇毋是 NASA 寫的�
 {{< podcast "cl3ad9ug402uy01wo4jeaf0ad" >}}
 
 
-
 ## [漢羅] 村裡來了個暴走女外科 ê 小行星 - 這篇毋是 NASA 寫的
 
-公視「村裡來了個暴走女外科」第四集內底，小劉醫師用著一款手術叫做「王蟲縫法（王蟲紩法）」，是臺大病院婦產部 ê 施景中醫師發明--ê。
+公視「[村裡來了個暴走女外科][dr.liu]」第四集內底，小劉醫師用著一款手術叫做「王蟲縫法（王蟲紩法）」，是臺大病院婦產部 ê 施景中醫師發明--ê。
 
 這款紩法，會當佇產婦生產過程拄著性命危險 ê 時陣，莫 kā 產婦 ê 子宮提掉，閣有法度 kā 產婦 ê 命救轉來。
 
-[施景中醫師解說][Doctor] 講，這款紩法 ê 英文叫做 Nausicaa sutures，會按呢號名是因為 Nausicaa 是希臘神話「Odyssey」內底一个國王 ê 查某囝，這个名有「重生」ê 意思，有一粒小行星嘛號做這个名。
+[施景中醫師解說][dr.sih] 講，這款紩法 ê 英文叫做 Nausicaa sutures，會按呢號名是因為 Nausicaa 是希臘神話「Odyssey」內底一个國王 ê 查某囝，這个名有「重生」ê 意思，有一粒小行星嘛號做這个名。
 
 確實！有一粒小行星就叫做 [192 Nausikaa][wiki]，伊行佇火星佮木星之間 ê 小行星帶內底。伊 ê 直徑才 100 公里闊，差不多 ùi 台北到苗栗 ê 距離。
 
@@ -47,4 +46,5 @@ summary: 村裡來了個暴走女外科 ê 小行星 - 這篇毋是 NASA 寫的�
 [NCU]: https://www.astro.ncu.edu.tw
 
 [wiki]: https://en.wikipedia.org/wiki/192_Nausikaa
-[Doctor]:https://www.facebook.com/jinchung.shih/posts/10228473998136369
+[dr.sih]:https://www.facebook.com/jinchung.shih/posts/10228473998136369
+[dr.liu]:https://www.facebook.com/MadDoctor.series
