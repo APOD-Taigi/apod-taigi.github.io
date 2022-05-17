@@ -30,7 +30,7 @@ summary: 村裡來了個暴走女外科 ê 小行星 - 這篇毋是 NASA 寫的�
 
 
 ## 詞彙學習（漢羅/POJ/KIP/華語/English）
-- 【王蟲紩法】Ông-thâng-thíⁿ-hoat/Ông-thâng-thínn-huat/王蟲縫法/Nausicaa sutures
+- 【王蟲紩法】Ông-thâng-thīⁿ-hoat/Ông-thâng-thīnn-huat/王蟲縫法/Nausicaa sutures
 - 【小行星】sió-kiâⁿ-chhiⁿ/sió-kiânn-tshinn/小行星/astroid
 - 【192 Nausikaa】i̍t-kiú-jī Nausikaa/i̍t-kiú-jī Nausikaa/192 Nausikaa/192 Nausikaa
 - 【火星】Hóe-chhiⁿ/Hué-tshinn/火星/Mars
