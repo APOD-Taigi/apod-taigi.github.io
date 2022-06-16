@@ -4,12 +4,12 @@
   url: /categories/podcast/
 - item: 其他文章
   url: /bonus/
-- item: 所有標籤
-  url: /tags/
 - item: 天文台語教室
   url: /lecture/
 - item: 天文𥴊仔店
   url: /kamatiam/
+- item: 所有標籤
+  url: /tags/
 - item: 本站 ê 介紹
   url: /about/
 - item: FAQ
