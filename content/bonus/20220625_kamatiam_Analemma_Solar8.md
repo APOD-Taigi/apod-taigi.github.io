@@ -1,7 +1,7 @@
 ---
 title: 天文𥴊仔店 Thian-bûn Kám-á-tiàm：台北天頂 ê 日行軌跡
 date: 2022-06-25
-publishdate: 2022-06-25T18:00:00+08:00
+publishdate: 2022-06-25T00:00:00+08:00
 tags: [天文𥴊仔店, Thian-bûn Kám-á-tiàm, 日行軌跡]
 hero: https://www.youtube.com/watch?v=_IDc2ucnl0I
 summary: 天文𥴊仔店 Thian-bûn Kám-á-tiàm：台北天頂 ê 日行軌跡
