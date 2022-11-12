@@ -1,7 +1,7 @@
 ---
 title: 昨暗 ê 月食 kah 天王星
-date: 2022-11-8
-publishdate: 2022-11-08T23:00:00+0800
+date: 2022-11-09
+publishdate: 2022-11-09T22:00:00+0800
 tags: [LATTE 望遠鏡, 月全食, 全食, 月掩天王星, 月全食掩天王星]
 hero: lunar_eclipse_uranus_20221108.jpg
 summary: 昨暗 ê 月食 kah 天王星
