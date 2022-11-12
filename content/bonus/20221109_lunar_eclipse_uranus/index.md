@@ -31,6 +31,10 @@ summary: 昨暗 ê 月食 kah 天王星
 
 感謝昨暗翕相/處理影像忝甲欲死 ê 中研院天文所 王為豪研究員，猶是撨時間處理這張美麗 ê 相片予咱看！
 
+（[華語原文][chinese]）
+
+
+
 ## 詞彙學習（漢羅/POJ/KIP/華語/English）
 - 【天王星】Thian-ông-chhiⁿ / Thian-ông-tshinn / 天王星
 - 【月全食】goe̍h-choân-si̍t / gue̍h-tsuân-si̍t / 月全食
@@ -45,3 +49,4 @@ summary: 昨暗 ê 月食 kah 天王星
 [asiaa]: https://www.facebook.com/asiaa.tw
 [latte]: https://www.facebook.com/profile.php?id=100083033237244
 [blood_moon]: https://www.facebook.com/photo?fbid=504906301656117&set=a.451463753667039
+[chinese]: https://www.facebook.com/photo/?fbid=146035978174176&set=a.107057958738645
