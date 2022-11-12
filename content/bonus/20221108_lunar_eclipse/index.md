@@ -3,7 +3,7 @@ title: LATTE 望遠鏡 ê 月全食
 date: 2022-11-8
 publishdate: 2022-11-08T23:00:00+0800
 tags: [LATTE 望遠鏡, 月全食, 全食]
-hero: lunar_eclipse_20221108_latte.png
+hero: lunar_eclipse_20221108.jpg
 summary: LATTE 望遠鏡 ê 月全食
 ---
 
