@@ -24,6 +24,9 @@ summary: LATTE 望遠鏡 ê 月全食
 
 雖罔講天王星出來 ê 時陣，LATTE 望遠鏡有翕著，毋過負責翕相 kah 處理相片 ê 中研院天文所 王為豪研究員 已經忝甲欲死矣，伊講先按呢生，有閒才欲處理，所以這張就先予逐家鼻芳一下。
 
+（[原文華語版][chinse]）
+
+
 
 ## 詞彙學習（漢羅/POJ/KIP/華語/English）
 - 【天王星】Thian-ông-chhiⁿ / Thian-ông-tshinn / 天王星
@@ -39,4 +42,5 @@ summary: LATTE 望遠鏡 ê 月全食
 [lulin]: https://www.facebook.com/LuLinObservatory
 [asiaa]: https://www.facebook.com/asiaa.tw
 [latte]: https://www.facebook.com/profile.php?id=100083033237244
+[chinese]: https://www.facebook.com/photo?fbid=145877861523321&set=a.107057958738645
 
