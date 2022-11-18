@@ -7,7 +7,7 @@ paginate: 31
 params:
   applePodcastID: 1552530873
   locale: zh-Hant-TW
-  ga_analytics: UA-190309286-1
+  ga_analytics: G-TSYX69CJNK
 
 permalinks:
   daily: /daily/:filename/
