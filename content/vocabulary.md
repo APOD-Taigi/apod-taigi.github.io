@@ -6,48 +6,164 @@ tags: [天文台語詞彙對照表]
 summary: 天文台語詞彙對照表
 ---
 ## 【漢羅】POJ/KIP/華語/English
+- 【+0.5 星等】chiàⁿ lêng-tiám-gō͘ seng-téng/tsiànn lîng-tiám-gōo sing-tíng/+0.5 星等/0.5 magnitude
 - 【10 葩】cha̍p-pha/tsa̍p-pha/百分之 10/10%
-- 【192 Nausikaa】i̍t-kiú-jī Nausikaa/i̍t-kiú-jī Nausikaa/192 Nausikaa/192 Nausikaa
+- 【11.5 公里】cha̍p-it tiám gō͘ kong-lí/tsa̍p-it tiám gōo kong-lí/11.5 公里/11.5 kilometers
+- 【1/20 秒】jī-cha̍p hun chi it bió/jī-tsa̍p hun tsi it bió/ 1/20 秒/ 1/20 seond
+- 【13 光年】cha̍p-saⁿ kng-nî/tsa̍p-sann kng-nî/13 光年/13 light years
+- 【1/4 度】sì hun chi i̍t tō͘/sì hun tsi i̍t tōo/ 1/4 度/a quarter of a degree
+- 【1500 光年】chi̍t-chheng-gō͘-pah kng-nî/tsi̍t-tshing-gōo-pah kng-nî/1500 光年/1500 light-year
+- 【1500 光年】chi̍t-chheng-gō͘-pah kng-nî/tsi̍t-tshing-gōo-pah kng-nî/1500 光年/1500 light years
+- 【1500 光年】chi̍t-chheng-gō͘-pah kng-nî/tsi̍t-tshing-gōo-pah kng-nî/1500 光年/1500 light-years
+- 【1/5】gō͘-hun-chi-it/gōo-hun-tsi-it/五分之一/ 1/5
+- 【1.5 度】it tiám gō͘ tō͘/it tiám gōo tōo/1.5 度/1.5 degrees
+- 【1716 年】it-chhit-it-lio̍k nî/it-tshit-it-lio̍k nî/1716 年/in 1716
+- 【180 公尺】chi̍t-pah-peh-cha̍p kong-chhioh/tsi̍t-pah-peh-tsa̍p kong-tshioh/180 公尺/180 meters
+- 【1830 年代】it-pat-sam-khòng nî-tāi/it-pat-sam-khòng nî-tāi/1830 年代/in the 1830s
+- 【1924 年】i̍t-kiú-jī-sù nî/i̍t-kiú-jī-sù nî/in 1924/in 1924
+- 【1960 年】i̍t-kiú-lio̍k-khòng nî/i̍t-kiú-lio̍k-khòng nî/in 1960/in 1960
+- 【1966 年】i̍t-kiú-lio̍k-lio̍k nî/i̍t-kiú-lio̍k-lio̍k nî/1966 年/in 1966
+- 【1972 年 4 月 20】i̍t-kiú-chhit-jī nî sì goe̍h jī-cha̍p/i̍t-kiú-tshit-jī nî sì gue̍h jī-tsa̍p/1972 年 4 月 20/April 20, 1972
+- 【1980 年代】i̍t-kiú-pat-khòng nî-tāi/i̍t-kiú-pat-khòng nî-tāi/1980 年代/in the 1980s
+- 【1993 年】i̍t-kiú-kiú-sam nî/i̍t-kiú-kiú-sam nî/1993 年/in 1993
+- 【1996 年 5 月底】i̍t-kiú-kiú-lio̍k nî gō͘ goe̍h té/i̍t-kiú-kiú-lio̍k nî gōo gue̍h té/1996 年 5 月底/late May 1996
+- 【1997 年 4 月 1 號】i̍t-kiú-kiú-chhit nî sì goe̍h it hō/i̍t-kiú-kiú-tshit nî sì gue̍h it hō/1997 年 4 月 1 號/on April 1, 1997
+- 【1997 年 9 月】it-kiú-kiú-chhit nî káu goe̍h/it-kiú-kiú-tshit nî káu gue̍h/1997 年 9 月/September 1997
+- 【19 分鐘】cha̍p-káu hun-cheng/tsa̍p-káu hun-tsing/19 分鐘/19 minutes
+- 【1P/Halley】it P Halley/it P Halley/ 1P/Halley / 1P/Halley
+- 【2000 光年】nn̄g-chheng kng-nî/nn̄g-tshing kng-nî/2000 光年/2000 light-years
 - 【2001 太空漫遊】jī-khòng-khòng-it Thài-khong bān-iû/jī-khòng-khòng-it Thài-khong bān-iû/2001 太空漫遊/2001: A Space Odyssey
+- 【2001 年 6 月】jī-khòng-khòng-it nî la̍k goe̍h/jī-khòng-khòng-it nî la̍k gue̍h/2001 年 6 月/June of 2001
+- 【2001 年】jī-khòng-khòng-it nî/jī-khòng-khòng-it nî/2001 年/in 2001
+- 【2004 年】jī-khòng-khòng-sù nî/jī-khòng-khòng-sù nî/2004 年/in 2004
+- 【2006 年】jī-khòng-khòng-lio̍k nî/jī-khòng-khòng-lio̍k nî/2006 年/during 2006
+- 【2010 年】jī-khòng-it-khòng nî/jī-khòng-it-khòng nî/2010 年/in 2010
+- 【2011 年】jī-khòng-it-it nî/jī-khòng-it-it nî/2011 年/in 2011
+- 【2012 年】jī-khòng-it-jī nî/jī-khòng-it-jī nî/2012 年/in 2012
+- 【2014 年】jī-khòng-it-sù nî/jī-khòng-it-sù nî/2014 年/in 2014
+- 【2015 年 3 月】jī-khòng-it-ngó͘ nî saⁿ goe̍h/jī-khòng-it-ngóo nî sann gue̍h/2015 年 3 月/March of 2015
+- 【2015 年 7 月】jī-khòng-it-ngó͘ nî chhit goe̍h/jī-khòng-it-ngóo nî tshit gue̍h/2015 年 7 月/July of 2015
+- 【2015 年】jī-khòng-it-ngó͘ nî/jī-khòng-it-ngóo nî/2015 年/in 2015
+- 【2017 年】jī-khòng-it-chhit nî/jī-khòng-it-tshit nî/2017 年/in 2017
+- 【2018 年 7 月】jī-khòng-it-pat nî chhit goe̍h/jī-khòng-it-pat nî tshit gue̍h/2018 年 7 月/2018 July
+- 【2019 年】jī-khòng-i̍t-kiú nî/jī-khòng-i̍t-kiú nî/2019 年/in 2019
+- 【2020 年】jī-khòng-jī-khòng nî/jī-khòng-jī-khòng nî/2020 年/in 2020
+- 【2021】jī-khòng-jī-it/jī-khòng-jī-it/2021/2021
+- 【2021 年】jī-khòng-jī-it/jī-khòng-jī-it/2021 年 /year 2021
+- 【2021 年】jī-khòng-jī-it nî/jī-khòng-jī-it nî/2021 年/in 2021
+- 【2022】jī-khòng-jī-jī/jī-khòng-jī-jī/2022/2022
+- 【2022 年 3 月 15】jī-khòng-jī-jī nî saⁿ goe̍h cha̍p-gō͘/jī-khòng-jī-jī nî sann gue̍h tsa̍p-gōo/2022 年 3 月 15 日/March 15, 2022
+- 【2022 年】jī-khòng-jī-jī nî/jī-khòng-jī-jī nî/2022 年/in 2022
+- 【2023 CX1】jī-khòng-jī-sam CX it/jī-khòng-jī-sam CX it/2023 CX1/2023 CX1
+- 【2049 年】jī-khòng-sù-kiú nî/jī-khòng-sù-kiú nî/2049 年/in 2049
+- 【2117 年】jī-it-it-chhit nî/jī-it-it-tshit nî/2117 年/2117
+- 【2122 年】jī-it-jī-jī nî/jī-it-jī-jī nî/2122 年/in 2122
+- 【25 粒月娘】jī-cha̍p-gō͘ lia̍p goe̍h-niû/jī-tsa̍p-gōo lia̍p gue̍h-niû/25 顆月亮/25 full moons
+- 【2800 萬光年】nn̄g-chheng-peh-pah-bān kng-nî/nn̄g-tshing-peh-pah-bān kng-nî/2800 萬光年/28 million light-years
+- 【29.5 工】jī-cha̍p-káu tiám gō͘ kang/jī-tsa̍p-káu tiám gōo kang/29.5 天/29.5 days
 - 【2D】jī-D/jī-D/2D/2D
 - 【2I/Borisov 彗星】jī I Borisov hui-chhiⁿ/jī I Borisov hui-tshinn/ 2I/鮑里索夫彗星 / Comet 2I/Borisov
 - 【2MASS J17554042+6551277】Two MASS J it-chhit ngó͘-ngó͘ sù-khòng sù-jī ka lio̍k-ngó͘ ngó͘-it jī-chhit-chhit/Two MASS J it-tshit ngóo-ngóo sù-khòng sù-jī ka lio̍k-ngóo ngóo-it jī-tshit-tshit/2MASS J17554042+6551277/2MASS J17554042+6551277
+- 【2 萬 1 千公里】nn̄g bān chi̍t chheng kong-lí/nn̄g bān tsi̍t tshing kong-lí/2 萬 1 千公里/21,000 kilometers
+- 【2 葩】nn̄g pha/nn̄g pha/2%/2 percent
+- 【3000 粒恆星】saⁿ-chheng lia̍p hêng-chhiⁿ/sann-tshing lia̍p hîng-tshinn/3000 顆恆星/3000 stars
+- 【300 光年】saⁿ-pah kng-nî/sann-pah kng-nî/300 光年/300 light years
+- 【35mm】saⁿ-cha̍p-gō͘ mm/sann-tsa̍p-gōo mm/35mm/35mm
+- 【3800 萬光年】saⁿ-chheng-peh-pah-bān kng-nî/sann-tshing-peh-pah-bān kng-nî/3800 萬光年/38 million light-years
+- 【390 公里】saⁿ-pah-káu-cha̍p kong-lí/sann-pah-káu-tsa̍p kong-lí/390 公里/211 nautical miles
+- 【39B 發射場】hoat-siā-tiûⁿ/huat-siā-tiûnn/39B 發射場/Launch Complex 39B
 - 【3C 75】saⁿ-C chhit-cha̍p-gō͘/sann-C tshit-tsa̍p-gōo/3C 75/3C 75
 - 【3D】saⁿ-D/sann-D/3D/3D
-- 【3D 模型】saⁿ-D bô͘-hêng/sann-D bôo-hîng/3D 模型/three-dimensional model
+- 【3D 影像】saⁿ-D iáⁿ-siōng/sann-D iánn-siōng/3D 影像/stereo image
+- 【3D 浮雕】saⁿ-D phû-tiau/sann-D phû-tiau/3D 浮雕/3D anaglyph
+- 【3D 目鏡】saⁿ-D ba̍k-kiàⁿ/sann-D ba̍k-kiànn/3D 目鏡/ red/blue glasses
+- 【3D 目鏡】saⁿ-D ba̍k-kiàⁿ/sann-D ba̍k-kiànn/3D 眼鏡/red/blue glasses
+- 【-3 星等】hū saⁿ seng-téng/hū sann sing-tíng/-3 星等/-3 magnitude
+- 【3 月 27】saⁿ goe̍h jī-chhit/sann gue̍h jī-tshit/3 月 27/March 27
+- 【3 月 30】saⁿ goe̍h saⁿ-cha̍p/sann gue̍h sann-tsa̍p/3 月 30/March 30
+- 【3 月 31】saⁿ goe̍h saⁿ-it/sann gue̍h sann-it/3 月 31/March 31
+- 【400 光年】sì-pah kng-nî/sì-pah kng-nî/400 光年/400 light years
+- 【4.3 光年】sì-tiám-saⁿ kng-nî/sì-tiám-sann kng-nî/4.3 光年/4.3 light-years
+- 【45 倍】sì-cha̍p-gō͘ pōe/sì-tsa̍p-gōo puē/45 倍/45 times
+- 【4.5 光時】sì-tiám-gō͘ kng-sî/sì-tiám-gōo kng-sî/4.5 光時/4.5 light-hours
+- 【49 億公里】sì-cha̍p-káu ek kong-lí/sì-tsa̍p-káu ik kong-lí/49 億公里/4.9 billion kilometers
+- 【4 月 15】sì goe̍h cha̍p-gō͘/sì gue̍h tsa̍p-gōo/4 月 15 日/April 15
+- 【4 月 24】sì goe̍h jī-sì/sì gue̍h jī-sì/4 月 24 日/April 24
+- 【4 月 4 號】sì goe̍h sì hō/sì gue̍h sì hō/4 月 4 號/April 4
+- 【5000 萬年】gō͘-chheng-bān nî/gōo-tshing-bān nî/5000 萬年/50 million years
+- 【5.5 公里】gō͘-tiám-gō͘ kong-lí/gōo-tiám-gōo kong-lí/5.5 公里/5.5 kilometer
+- 【60 光年】la̍k-cha̍p kng-nî/la̍k-tsa̍p kng-nî/60 光年/60 light-year
+- 【6.2】la̍k-tiám-jī/la̍k-tiám-jī/6.2/6.2
+- 【6500 光年】la̍k-chheng-gō͘-pah kng-nî/la̍k-tshing-gōo-pah kng-nî/6500 光年/6500 light-year
+- 【6.5 公尺】la̍k-tiám-gō͘ kong-chhioh/la̍k-tiám-gōo kong-tshioh/6.5 公尺/6.5 meter
+- 【6 億歲】la̍k-ek hòe/la̍k-ik huè/6 億歲/600 million years old
+- 【7100 光年】chhit-chheng-chi̍t-pah kng-nî/tshit-tshing-tsi̍t-pah kng-nî/7100 光年/7100 light-years
+- 【7500 光年】chhit-chheng-gō͘-pah kng-nî/tshit-tshing-gōo-pah kng-nî/7500 光年/7500 light-years
+- 【7x4】chhit sêng sì/tshit sîng sì/7x4/7x4
+- 【8.2】peh-tiám-jī/peh-tiám-jī/8.2/8.2
+- 【90%】káu-cha̍p pha/káu-tsa̍p pha/90%/90%
 - 【Abel 400】Abel sì-pah/Abel sì-pah/Abel 400/Abel 400
 - 【Abell 21】Abell jī-it/Abell jī-it/Abell 21/Abell 21
 - 【Abell 7】Abell chhit/Abell tshit/Abell 7/Abell 7
+- 【Abel 隕石坑】Abel ún-se̍k-kheⁿ/Abel ún-si̍k-khenn/阿貝爾隕石坑/Abel crater 
 - 【Alice 夢遊仙境】Alice Bāng-iû-sian-kéng/Alice Bāng-iû-sian-kíng/愛麗絲夢遊仙境/Alice in Wonderland
 - 【Alqueva 夜空保護區】Alqueva Iā-khong pó-hō͘-khu/Alqueva Iā-khong pó-hōo-khu/阿爾克瓦暗空保護區/the Dark Sky Alqueva reserve
+- 【a-lú-mih】a-lú-mih/a-lú-mih/鋁/aluminum
+- 【Amundsen-Scott 南極研究站】Amundsen-Scott Lâm-ke̍k gián-kiù-chām/Amundsen-Scott Lâm-ki̍k gián-kiù-tsām/阿蒙森-史考特南極站/the Amundsen-Scott South Pole Station
+- 【Amundsen-Scott 南極站】Amundsen-Scott Lâm-ke̍k-chām/Amundsen-Scott Lâm-ki̍k-tsām/阿蒙森-斯科特南極站/Amundsen-Scott South Pole Station
 - 【Amundsen-Scott 研究站】Amundsen-Scott gián-kiù-chām/Amundsen-Scott gián-kiù-tsām/Amundsen-Scott 研究站/Amundsen-Scott station
 - 【AR3038】AR sam-khòng-sam-pat/AR sam-khòng-sam-pat/AR3038/AR3038
 - 【Ariane 五號火箭】Ariane gō͘-hō hóe-chìⁿ/Ariane gōo-hō/Ariane 五號火箭/Ariane V rocket
 - 【Arp 244】Arp jī-sù-sù/Arp jī-sù-sù/Arp 244/Arp 244
+- 【Arp 248】Arp jī-sù-pat/Arp jī-sù-pat/Arp 248/Arp 248
 - 【Arp 273】Arp jī-chhit-sam/Arp jī-tshit-sam/Arp 273/Arp 273
+- 【Arp 274】Arp jī-chhit-sù/Arp jī-tshit-sù/Arp 274/Arp 274
 - 【Arp 286】Arp jī-pat-lio̍k/Arp jī-pat-lio̍k/Arp 286/Arp 286
+- 【Arp 78】Arp chhit-cha̍p-peh/Arp tshit-tsa̍p-peh/Arp 78/Arp 78
 - 【Arp 78】Arp chhit-cha̍p-poeh/Arp tshit-tsa̍p-pueh/Arp 78/Arp 78
+- 【Artemis 1 號】Artemis it hō/Artemis it hō/阿提米絲 1 號/Artemis 1
+- 【Artemis 1 號】Artemis it hō/Artemis it hō/阿提米絲1號/Artemis 1
+- 【AS11-37-5449】AS cha̍p-it saⁿ-cha̍p-chhit ngó͘-sù-sù-kiú/AS tsa̍p-it sann-tsa̍p-tshit ngóo-sù-sù-kiú/AS11-37-5449/AS11-37-5449
 - 【AS16-117-18814】AS it-lio̍k it-it-chhit it-it-chhit it-pat-pat/AS it-lio̍k it-it-tshit it-it-tshit it-pat-pat/AS16-117-18814/AS16-117-18814
 - 【AS16-117-18820】AS it-lio̍k it-it-chhit it-pat-pat jī-khòng/AS it-lio̍k it-it-tshit it-pat-pat jī-khòng/AS16-117-18820/AS16-117-18820
 - 【Atacama 大型次毫米波陣列】Atacama tōa-hêng chhù-hô-bí-pho tīn-lia̍t/Atacama tuā-hîng tshù-hô-bí-pho tīn-lia̍t/Atacama 大型次毫米波陣列/the Atacama Large Millimeter Array (ALMA)
 - 【Atacama 大型毫米波陣列】Atacama tōa-hêng hô-bí-pho tīn-lia̍t/Atacama tuā-hîng hô-bí-pho tīn-lia̍t/阿塔卡瑪大型毫米波陣列/Atacama Large Millimeter Array (ALMA)
 - 【Atacama 沙漠】Atacama soa-bo̍k/Atacama sua-bo̍k/阿塔卡馬沙漠/Atacama desert
+- 【ATLAS 小行星挵地球 ê 最後警報系統】ATLAS Sió-kiâⁿ-chhiⁿ lòng Tē-kiû ê chòe-āu Kéng-pò-hē-thóng/ATLAS Sió-kiânn-tshinn lòng Tē-kiû ê tsuè-āu Kíng-pò-hē-thóng/小行星撞地球之最後警報系統/Asteroid Terrestrial-impact Last Alert System
+- 【ATLAS 彗星】ATLAS hūi-chhiⁿ/ATLAS/ATLAS 彗星/comet ATLAS
 - 【Atlas 特殊星系星表】Atlas Te̍k-sû-seng-hē-seng-pió/Atlas Ti̍k-sû-sing-hē-sing-pió/Atlas 特殊星系星表/Atlas of Peculiar Galaxies
 - 【B92】B káu-cha̍p-jī/B káu-tsa̍p-jī/B92/B92
 - 【B93】B káu-cha̍p-saⁿ/B káu-tsa̍p-sann/B93/B93
+- 【Barnard 22】Barnard jī-cha̍p-jī/Barnard jī-tsa̍p-jī/Barnard 22/Barnard 22
 - 【Barnard 33】Barnard saⁿ-cha̍p-saⁿ/Barnard sann-tsa̍p-sann/Barnard 33/Barnard 33
+- 【Barnard 3】Barnard saⁿ/Barnard sann/Barnard 3/Barnard 3
+- 【Barnard 4】Barnard sì/Barnard sì/Barnard 4/Barnard 4
+- 【Barnard 68】Barnard la̍k-cha̍p-peh/Barnard la̍k-tsa̍p-peh/Barnard 68/Barnard 68
 - 【Barnard 環】Barnard khoân/Barnard khuân/巴納德環/Barnard's Loop
 - 【Barnard 環】Barnard khoân/Barnard khuân/巴納環/Barnard's Loop
 - 【BepiColombo 太空船】BepiColombo thài-khong-chûn/BepiColombo thài-khong-tsûn/貝皮可倫坡號太空船/BepiColombo
+- 【BICEP 望遠鏡】BICEP Bōng-oán-kiàⁿ/BICEP Bōng-oán-kiàⁿ/BICEP 望遠鏡/BICEP telescope
 - 【BICEP 望遠鏡】BICEP bōng-oán-kiàⁿ/BICEP bōng-uán-kiànn/BICEP 望遠鏡/
+- 【Bode 星系】Bode seng-hē/Bode sing-hē/波德星系/Bode's galaxy
+- 【Bok 雲球】Bok hûn-kiû/Bok hûn-kiû/包克雲球/Bok Globule
 - 【C/1995 O1】C it-kiú-kiú-ngó͘ O-one/C it-kiú-kiú-ngóo O-one/ C/1995 O1 / C/1995 O1
+- 【C/2017 K2】C jī-khòng-it-chhit K-two/ C jī-khòng-it-tshit K-two / C/2017 K2 / C/2017 K2
+- 【C/2017 K2 (PanSTARRS) 彗星】C jī-khòng-it-chhit K-two (PanSTARRS) hui-chhiⁿ / C jī-khòng-it-chhit K-two (PanSTARRS) hui-chhiⁿ / C/2017 K2 (PanSTARRS) 彗星 / comet C/2017 K2 (PanSTARRS)
+- 【C/2020 F3】C jī-khòng-jī-khòng F-saⁿ/C jī-khòng-jī-khòng F-sann/ C/2020 F3 / C/2020 F3
+- 【Cassini 任務】Casini Jīm-bū/Casini Jīm-bū/卡西尼號任務/Cassini mission
+- 【Cassini 太空船】Cassini thài-khong-chûn/Cassini thài-khong-tsûn/Cassini 太空船/Cassini spacecraft
+- 【Cassini 太空船】Cassini Thài-khong-chûn/Cassini Thài-khong-tsûn/Cassini 太空船/Cassini spacecraft
 - 【Cassini 太空船】Cassini thài-khong-chûn/Cassini thài-khong-tsûn/卡西尼太空船/Cassini spacecraft
 - 【Cassini 太空船】Cassini Thài-khong-chûn/Cassini Thài-khong-tsûn/卡西尼太空船/Cassini spacecraft
+- 【Cassini 太空船】Cassini Thài-khong-chûn/Cassini Thài-khong-tsûn/卡西尼號太空船/Cassini spacecraft
 - 【Cassini 太空船】Khah-si-nî thài-khong-chûn/Khah-si-nî thài-khong-tsûn/卡西尼太空船/Cassini spacecraft
 - 【Cassini 機器人太空船】Cassini Ke-khì-lâng Thài-khong-chûn/Cassini Ke-khì-lâng Thài-khong-tsûn/卡西尼機器人太空船/robotic Cassini spacecraft
+- 【Cassini 溝仔】Cassini kau-á/Cassini kau-á/卡西尼環縫/Cassini Division
 - 【Ced 110】Ced it-it-khòng/Ced it-it-khòng/Ced 110/Ced 110
 - 【Ced 111】Ced it-it-it/Ced it-it-it/Ced 111/Ced 111
+- 【Cerro Tololo 美洲洲際天文台】Cerro Tololo Bí-chiu Chiu-chè Thian-bûn-tâi/Cerro Tololo Bí-tsiu Tsiu-tsè Thian-bûn-tâi/托洛洛山美洲際天文台/Cerro Tololo Inter-American Observatory
 - 【CFHT 望遠鏡】CFHT bōng-oán-kiàⁿ/CFHT bōng-uán-kiànn/CFHT 望遠鏡/Canada-France-Hawaii Telescope (CFHT)
+- 【CG4】CG-sù/CG-sù/CG4/CG4
 - 【Chandrasekhar 極限】Chandrasekhar ke̍k-hān/Chandrasekhar ki̍k-hān/錢卓拉塞卡極限/Chandrasekhar Limit
 - 【Chandra X-光 天文台】Chandra X-kng Thian-bûn-tâi/Chandra X-kng Thian-bûn-tâi/Chandra X-光 天文台/Chandra X-ray Observatory
 - 【Chandra X 光衛星天文台】Chandra X-kng ūi-chhiⁿ-thian-bûn-tâi/Chandra X-kng uī-tshinn-thian-bûn-tâi/Chandra X 光衛星天文台/Chandra X-ray Observatory
@@ -56,68 +172,142 @@ summary: 天文台語詞彙對照表
 - 【Charles Messier 星表】Charles Messier seng-piáu/Charles Messier sing-piáu/梅西爾星表/Charles Messier's catalog
 - 【Chhì-lè】Chhì-lè/Tshì-lè/智利/Chile
 - 【chu-ná-mih】chu-ná-mih/tsu-ná-mih/海嘯/tsunami
+- 【Clavius 隕石坑】Clavius ún-se̍k-kheⁿ/Clavius ún-si̍k-khenn/克拉維斯隕石坑/Clavius crater
 - 【Collinder 249】Collinder jī-sù-kiú/Collinder jī-sù-kiú/Collinder 249/Collinder 249
+- 【Comet C/2022E3】Comet C jī-khòng-jī-jī E saⁿ/Comet C jī-khòng-jī-jī E sann/ Comet C/2022E3 / Comet C/2022E3 (ZTF)
+- 【CTB 1】CTB one/CTB one/CTB 1/CTB 1
 - 【Czech 共和國】Czech kiōng-hô-kok/Czech kiōng-hô-kok/Czech 共和國/Czech Republic
 - 【Da Vinci ê 光】Da Vinci ê kng/Da Vinci ê kng/達文西光/Da Vinci Glow
 - 【Djoser 樓梯金字塔】Djoser Lâu-thui Kim-jī-thah/Djoser Lâu-thui Kim-jī-thah/左塞爾階梯金字塔/the Step Pyramid of Djoser
+- 【DOE 烏暗能量相機】DOE O͘-àm Lêng-liōng Siòng-ki/DOE Oo-àm Lîng-liōng Siòng-ki/DOE 暗能量相機/DOE's Dark Energy Camera
 - 【EGGs】Cheng-hoat Khì-thé-kiû/Tsing-huat Khì-thé-kiû/蒸發氣體球/evaporating gaseous globules
+- 【Elysium 平原】Elysium pêng-goân/Elysium pîng-guân/埃律西昂平原/Elysium Planitia
 - 【Etruscan 花矸效應】Etruscan hoe-kan hāu-èng/Etruscan hue-kan hāu-ìng/Etruscan 花瓶效應/Etruscan vase effect
+- 【Fermi Gamma-光 太空望遠鏡】Fermi Gamma-kng Thài-khong Bōng-oán-kiàⁿ/Fermi Gamma-kng Thài-khong Bōng-uán-kiànn/費米伽瑪射線太空望遠鏡/Fermi Gamma Ray Space Telescope
+- 【Fermi 大面積望遠鏡】Fermi Tōa-bīn-chek Bōng-oán-kiàⁿ/Fermi Tuā-bīn-tsik Bōng-uán-kiànn/費米大面積望遠鏡/Fermi’s Large Area Telescope
 - 【Fleming 三角精靈】Fleming Saⁿ-kak-cheng-lêng/Fleming Sann-kak-tsing-lîng/弗萊明三角精靈/Fleming's Triangular Wisp
+- 【Gabriela Mistral 星雲】Gabriela Mistral seng-hûn/Gabriela Mistral sing-hûn/加夫列拉．米斯特拉爾星雲/Gabriela Mistral Nebula
 - 【Gabriela Mistral 星雲】Gabriela Mistral seng-hûn/Gabriela Mistral sing-hûn/加夫列拉．米斯特拉爾星雲/the Gabriela Mistral Nebula
 - 【Gaia 衛星天文台】Gaia Ūi-chhiⁿ-thian-bûn-tâi/Gaia Uī-tshinn-thian-bûn-tâi/Gaia 衛星天文台/Gaia satellite
 - 【GAL-CLUS-022058c】Gal Clus khòng-jī jī-khòng ngó͘-pat c/Gal Clus khòng-jī jī-khòng ngóo-pat c/GAL-CLUS-022058c/GAL-CLUS-022058c
 - 【Gale 隕石坑】Gale ún-se̍k-kheⁿ/Gale ún-si̍k-khenn/Gale 隕石坑/Gale crater
 - 【gamma-光】gamma-kng/gamma-kng/gamma-光/gamma-ray
+- 【Gamma-光暴天體】Gamma-kng-pō thian-thé/Gamma-kng-pō thian-thé/伽瑪射線暴/Gamma-ray burst
+- 【Gamma-光暴天體】Gamma-kng-pō thian-thé/Gamma-kng-pō thian-thé/伽瑪射線暴/Gamma-ray burst (GRB)
+- 【gamma-光暴天體】gamma-kng-pō thian-thé/gamma-kng-pō thian-thé/伽瑪射線暴/gamma-ray bursts
 - 【gih-tah】gih-tah/gih-tah/吉他/guitar
+- 【Goddard 太空研究所】Goddard Thài-khong-gián-kiù-só͘/Goddard Thài-khong-gián-kiù-sóo/戈達德太空研究所/Goddard Institute for Space Studies
 - 【GRB 090423】GRB khòng-kiú khòng-sù jī-sam/GRB khòng-kiú khòng-sù jī-sam/GRB 090423/GRB 090423
+- 【GRB 221009A】GRB jī-jī it-khòng khòng-kiú A/GRB jī-jī it-khòng khòng-kiú A/GRB 221009A/GRB 221009A
+- 【GRB 221009A】GRB jī-jī-it-khòng-khòng-kiú A/RB jī-jī-it-khòng-khòng-kiú A/GRB 221009A/GRB 221009A
+- 【Gum 星雲】Gum seng-hûn/Gum sing-hûn/古姆星雲/Gum Nebula
 - 【Gum 星雲】Gum seng-hûn/Gum sing-hûn/古姆星雲/the Gum Nebula
 - 【Hale-Bopp 彗星】Hale-Bopp hui-chhiⁿ/Hale-Bopp hui-tshinn/海爾-波普彗星/Comet Hale-Bopp
+- 【HDE 22701】HDE jī-jī-chhit-khóng-it/HDE jī-jī-tshit-khóng-it/HDE 22701/HDE 22701
+- 【Herbig-Haro 168 (HH 168)】Herbig-Haro it-lio̍k-pat/Herbig-Haro it-lio̍k-pat/Herbig-Haro 168 (HH 168)/Herbig-Haro 168 (HH 168)
+- 【Herbig-Haro 天體】Herbig-Haro thian-thé/Herbig-Haro thian-thé/赫比-哈羅天體/Herbig-Haro object
+- 【Herbig-Haro 天體】Herbig-Haro thian-thé/Herbig-Haro thian-thé/赫比格-哈羅天體/Herbig-Haro object
+- 【Herbig-Haro 天體】Herbig-Haro thian-thé/Herbig-Haro thian-thé/赫比格-哈羅天體/Herbig-Haro objects
 - 【Herschel 36】Herschel saⁿ-cha̍p-la̍k/Herschel sann-tsa̍p-la̍k/Herschel 36/Herschel 36
+- 【Herschel 隕石坑】Herschel ún-se̍k-kheⁿ/Herschel ún-si̍k-khenn/赫歇爾隕石坑/Herschel crater
+- 【HH32】HH saⁿ-cha̍p-jī/HH sann-tsa̍p-jī/HH32/HH32
+- 【HH 555】HH ngó͘-ngó͘-ngó͘/HH ngóo-ngóo-ngóo/HH 555/HH 555
 - 【HH 666 天體】HH lio̍k-lio̍k柱-lio̍k thian-thé/HH lio̍k-lio̍k-lio̍k thian-thé/HH 666 天體/Herbig-Haro 666
 - 【HH 天體】HH thian-thé/HH thian-thé/HH 天體/Herbig-Haro (HH) objects
 - 【HH 天體】HH thian-thé/HH thian-thé/HH 天體/Herbig-Haro object
 - 【HH 天體】HH thian-thé/HH thian-thé/HH 天體/Herbig Haro objects
 - 【HH 天體】HH thian-thé/HH thian-thé/HH 天體/Herbig-Haro objects
 - 【HH 天體】HH thian-thé/HH thian-thé/HH 天體/Herbig-Haro objects (HH objects)
+- 【H II 區】H two khu/H two khu/H II 區/H II region
 - 【HII 區】H-two khu/H-two khu/HII 區/HII region
 - 【Hind 變光星雲】Hind Piàn-kng seng-hûn/Hind Piàn-kng sing-hûn/Hind 變光星雲/Hind's Variable Nebula
+- 【HR8119】HR pat-it-i̍t-kiú/HR pat-it-i̍t-kiú/HR8119/HR8119
 - 【Hubble 太空望遠鏡】Hubble Thài-khong-bōng-oán-kiàⁿ/Hubble Thài-khong-bōng-uán-kiànn/Hubble 太空望遠鏡/Hubble Space Telescope
 - 【Hubble 太空望遠鏡】Hubble thài-khong-bōng-oán-kiàⁿ/Hubble thài-khong-bōng-uán-kiànn/哈伯太空望遠鏡/Hubble space telescope
 - 【Hubble 太空望遠鏡】Hubble Thài-khong-bōng-oán-kiàⁿ/Hubble Thài-khong-bōng-uán-kiànn/哈伯太空望遠鏡/Hubble Space Telescope
+- 【Hubble 太空望遠鏡】Hubble Thài-khong Bōng-oán-kiàⁿ/Hubble Thài-khong Bōng-uán-kiànn/哈伯太空望遠鏡/Hubble Space Telescope
+- 【Hubble 太空望遠鏡】Hubble Thài-khong Bōng-oán-kiàⁿ/Hubble Thài-khong Bōng-uán-kiànn/哈伯太空望遠鏡/Hubble Space Telescope (HST)
 - 【Hubble 太空望遠鏡】Hubble Thài-khong-bōng-oán-kiàⁿ/Hubble Thài-khong-bōng-uán-kiànn/哈伯太空望遠鏡/the Hubble Space Telescope
+- 【Hubble 色盤】Hubble sek-pôaⁿ/Hubble sik-puânn/哈伯色盤/Hubble palette
+- 【Humboldt 隕石坑】Humboldt ún-se̍k-kheⁿ/Humboldt ún-si̍k-khenn/洪堡隕石坑/Humboldt crater
 - 【Huygens 探測船】Hūi-kiⁿ-su thàm-chhek-chûn/Huī-kinn-su thàm-tshik-tsûn/惠更斯探測船/Huygens probe
 - 【Huygens 探測船】Huygens thài-khong-chûn/Huygens thài-khong-tsûn/惠更斯探測船/Huygens probe
+- 【H-α】H-alpha/H-alpha/H-α/H-alpha
 - 【iăn-jín】iăn-jín/iăn-jín/引擎/engine
 - 【Ia 型超新星】It a hêng chhiau-sin-seng/It a hîng tshiau-sin-sing/Ia 型超新星/Type Ia supernova
 - 【IC 1318】IC it-sam-it-pa̍t/IC it-sam-it-pa̍t/IC 1318/IC 1318
+- 【IC 1396】IC it-sam-kiú-lio̍k/IC it-sam-kiú-lio̍k/IC 1396/IC 1396
+- 【IC1590】IC it-ngó͘-kiú-khòng/IC it-ngóo-kiú-khòng/IC1590/IC1590
 - 【IC 1805】IC it-pat-khòng-ngó͘/IC it-pat-khòng-ngóo/IC 1805/IC 1805
+- 【IC 1871】IC it-pat-chhit-it/IC it-pat-tshit-it/IC 1871/IC 1871
+- 【IC 2177】I-C jī-it-chhit-chhit/I-C jī-it-tshit-tshit/IC 2177/IC 2177
 - 【IC 2944】IC jī-kiú-sù-sù/IC jī-kiú-sù-sù/IC 2944/IC 2944
 - 【IC 342】IC sam-sù-jī/IC sam-sù-jī/IC 342/IC 342
 - 【IC 348】IC sam-sù-pat/IC sam-sù-pat/IC 348/IC 348
 - 【IC 410】IC sù-it-khòng/IC sù-it-khòng/IC 410/IC 410
 - 【IC 446】IC sù-sù-la̍k/IC sù-sù-la̍k/IC 446/IC 446
 - 【IC 447】IC sù-sù-chhit/IC sù-sù-tshit/IC 447/IC 447
+- 【IC 4592 星雲】IC sù-ngó͘-kiú-jī seng-hûn/IC sù-ngóo-kiú-jī sing-hûn/IC 4592 星雲/nebula IC 4592
 - 【IC 4665】IC sù-lio̍k-lio̍k-ngó͘/IC sù-lio̍k-lio̍k-ngóo/IC 4665/IC 4665
+- 【IC 5067】IC ngó͘-khòng-lio̍k-chhit/IC ngóo-khòng-lio̍k-tshit/IC 5067/IC 5067
+- 【IC 5070】IC ngó͘-khòng-chhit-khóng/IC ngóo-khòng-tshit-khóng/IC 5070/IC 5070
+- 【IC 5070】IC ngó͘-khòng-chhit-khòng/IC ngóo-khòng-tshit-khòng/IC 5070/IC 5070
+- 【IC 5146】IC ngô͘-it-sù-lio̍k/IC ngô͘-it-sù-lio̍k/IC 5146/IC 5146
+- 【IC 5146】IC ngó͘-it-sù-lio̍k/IC ngóo-it-sù-lio̍k/IC 5146/IC 5146
+- 【IIZw096】IIZw khòng-kiú-lio̍k/IIZw khòng-kiú-lio̍k/IIZw096/IIZw096
+- 【James Webb 太空望遠鏡】James Webb Thài-khong bōng-oán-kiàⁿ/James Webb Thài-khong bōng-oán-kiàⁿ/詹姆士韋伯太空望遠鏡/James Webb Space Telescope (JWST)
+- 【James Webb 太空望遠鏡】James Webb Thài-khong-bōng-oán-kiàⁿ/James Webb Thài-khong-bōng-uán-kiànn/太空望遠鏡/James Webb Space Telescope
 - 【James Webb 太空望遠鏡】James Webb Thài-khong-bōng-oán-kiàⁿ/James Webb Thài-khong-bōng-uán-kiànn/詹姆斯·韋伯太空望遠鏡/James Webb Space Telescope
+- 【James Webb 太空望遠鏡】James Webb Thài-khong-bōng-oán-kiàⁿ/James Webb Thài-khong-bōng-uán-kiànn/詹姆斯韋伯太空望遠鏡/James Webb Space Telescope
+- 【James Webb 太空望遠鏡】James Webb Thài-khong Bōng-oán-kiàⁿ/James Webb Thài-khong Bōng-uán-kiànn/詹姆斯韋伯太空望遠鏡/James Webb Space Telescope
+- 【James Webb 太空望遠鏡】James Webb thài-khong bōng-oán-kiàⁿ/James Webb thài-khong bōng-uán-kiànn/詹姆斯韋伯太空望遠鏡/James Webb Space Telescope (JWST)
 - 【James Webb 太空望遠鏡】James Webb Thài-khong-bōng-oán-kiàⁿ/James Webb Thài-khong-bōng-uán-kiànn/詹姆斯·韋伯太空望遠鏡/James Webb Space Telescope (JWST)
+- 【James Webb 太空望遠鏡】James Webb Thài-khong Bōng-oán-kiàⁿ/James Webb Thài-khong Bōng-uán-kiànn/詹姆斯韋伯太空望遠鏡/James Webb Space Telescope (JWST)
+- 【James Webb 太空望遠鏡】James Webb Thài-khong bōng-oán-kiàⁿ/James Webb Thài-khong bōng-uán-kiànn/詹姆斯韋伯太空望遠鏡/the James Webb Space Telescope
 - 【Jezero 隕石坑】Jezero Ún-se̍k-kheⁿ/Jezero Ún-si̍k-khenn/Jezero 隕石坑/Jezero Crater
+- 【Juno 太空船】Juno thài-khong-chûn/Juno thài-khong-tsûn/Juno 太空船/Juno spacecraft
 - 【Juno 太空船】Juno Thài-khong-chûn/Juno Thài-khong-tsûn/朱諾太空船/Juno spacecraft
 - 【Juno 太空船】Juno Thài-khong-chûn/Juno Thài-khong-tsûn/朱諾號太空船/Juno spacecraft
+- 【Juno 號太空船】Juno hō thài-khong-chûn/Juno hō thài-khong-tsûn/朱諾號/Juno spacecraft
 - 【JWST 太空望遠鏡】JWST thài-khong bōng-oán-kiàⁿ/JWST thài-khong bōng-uán-kiànn/JWST 太空望遠鏡/James Webb Space Telescope
 - 【JWST 太空望遠鏡】JWST thài-khong-bōng-oán-kiàⁿ/JWST thài-khong-bōng-uán-kiànn/JWST 太空望遠鏡/James Webb Space Telescope
+- 【Kemble ê 天星袚鍊】Kemble ê Thiⁿ-chhiⁿ-phoa̍h-liān/Kemble ê Thinn-tshinn-phua̍h-liān/甘伯串珠/Kemble’s Cascade of stars
+- 【Kennedy 太空中心】Kennedy Thài-khong Tiong-sim/Kennedy Thài-khong Tiong-sim/甘迺迪太空中心/Kennedy Space Center
+- 【Kepler 踅地衛星】Kepler se̍h-tē ūi-chhiⁿ/Kepler se̍h-tē uī-tshinn/克卜勒繞地衛星/Kepler satellite
+- 【Kepler 隕石坑】Kepler ún-se̍k-kheⁿ/Kepler ún-si̍k-khenn/克卜勒隕石坑/crater Kepler
 - 【kha-mé-lah】kha-mé-lah/kha-mé-lah/相機/camera
+- 【kha-tián】kha-tián/kha-tián/窗簾/curtains
+- 【Kitt Peak 國家天文台】Kitt Peak Kok-ka Thian-bûn-tâi/Kitt Peak Kok-ka Thian-bûn-tâi/基特峰國家天文台/Kitt Peak National Observatory 
+- 【Kuiper 帶】Kuiper tòa/Kuiper tuà/古柏帶/Kuiper belt
 - 【Kuiper 帶】Kuiper tòa/Kuiper tuà/古柏帶/the Kuiper Belt
 - 【K-型巨星】K-hêng kū-chhiⁿ/K-hîng kū-tshinn/K-型巨星/K-type giant star
+- 【L1527】L it-ngó͘-jī-chhit/L it-ngóo-jī-tshit/L1527/L1527
 - 【L2 點】L-two tiám/L-two tiám/L2 點/L2 Lagrange point
 - 【L2 點】L-two tiám/L-two tiám/L2 點/Lagrange point L2
 - 【la̍k-ká-sáng】la̍k-ká-sáng/la̍k-ká-sáng/降落傘/parachute
 - 【LBN 777】LBN chhit-chhit-chhit/LBN tshit-tshit-tshit/LBN 777/LBN 777
+- 【LBN 7】LBN chhit/LBN tshit/LBN 7/LBN 7
+- 【LDN 1251】LDN it-jī-ngó͘-it/LDN it-jī-ngóo-it/LDN 1251/LDN 1251
+- 【LDN 1622】LDN it-lio̍k-jī-jī/LDN it-lio̍k-jī-jī/LDN 1622/LDN 1622
+- 【LDN 43】LDN sì-cha̍p-saⁿ/LDN sì-tsa̍p-sann/LDN 43/LDN 43
+- 【LDN 673】LDN lio̍k-chhit-sam/LDN lio̍k-tshit-sam/LDN 673/LDN 673
 - 【lè-sù】lè-sù/lè-sù/蕾絲/lace
+- 【LHS 475 b】LHS sù-chhit-ngó͘ b/LHS sù-tshit-ngóo b/LHS 475 b/LHS 475 b
+- 【LMC】LMC/LMC/大麥哲倫星系/Large Magellanic Cloud (LMC)
+- 【Lynds 烏暗星雲】//暗星雲/dark nebula
 - 【M104】M it-khòng-sù/M it-khòng-sù/M104/Messier 104
+- 【M110】M it-it-khòng/M it-it-khòng/M110/M110
+- 【M13】M cha̍p-saⁿ/M tsa̍p-sann/M13/M13
+- 【M16】M cha̍p-la̍k/M16/M16
 - 【M16】M cha̍p-la̍k/M tsa̍p-la̍k/M16/M16
 - 【M1】M it/M it/M1/M1
+- 【M20】M jī-cha̍p/M jī-tsa̍p/M20/M20
+- 【M21】M jī-it/M jī-it/M21/M21
 - 【M24】M jī-cha̍p-sì/M jī-tsa̍p-sì/M24/Messier 24
 - 【M31】M saⁿ-cha̍p-it/M sann-tsa̍p-it/M31/M31
+- 【M31】M saⁿ-cha̍p-it/M saⁿ-tsa̍p-it/M31/M31
+- 【M33】M saⁿ-cha̍p-saⁿ/M sann-tsa̍p-sann/M33/M33
+- 【M42】M sì-cha̍p-jī/M sì-tsa̍p-jī/M42/M42
 - 【M44】M sì-cha̍p-sì/M sì-tsa̍p-sì/M44/M44
 - 【M45】M sì-cha̍p-gō͘/M sì-tsa̍p-gōo/M45/M45
 - 【M46】M sì-cha̍p-la̍k/M sì-tsa̍p-la̍k/M46/M46
@@ -127,107 +317,229 @@ summary: 天文台語詞彙對照表
 - 【M65】M la̍k-cha̍p-gō͘/M la̍k-tsa̍p-gōo/M65/M65
 - 【M66】M la̍k-cha̍p-la̍k/la̍k-tsa̍p-la̍k/M66/M66
 - 【M66】M la̍k-cha̍p-la̍k/M la̍k-tsa̍p-la̍k/M66/M66
+- 【M74】M chhit-cha̍p-sì/M tshit-tsa̍p-sì/M74/M74
+- 【M81】M peh-cha̍p-it/M peh-tsa̍p-it/M81/M81
+- 【M82】M peh-cha̍p-jī/M peh-tsa̍p-jī/M82/M82
 - 【M84】M peh-cha̍p-sì/M peh-tsa̍p-sì/M84/M84
 - 【M86】M peh-cha̍p-la̍k/M peh-tsa̍p-la̍k/M86/M86
 - 【M87 星系】M peh-cha̍p-chhit seng-hē/M peh-tsa̍p-tshit sing-hē/M87 星系/M87 galaxy
+- 【M88】M peh-cha̍p-peh/M peh-tsa̍p-peh/M88/M88
+- 【M8】M peh/M peh/M8/M8
 - 【M8】M poeh/M pueh/M8/M8
+- 【M94】M káu-cha̍p-sì/M káu-tsa̍p-sì/M94/M94
 - 【M96】M káu-cha̍p-la̍k/M káu-tsa̍p-la̍k/M96/M96
+- 【MACS0647-JD】MACS0647 khòng-lio̍k-sù-chhit JD/MACS0647 khòng-lio̍k-sù-tshit JD/MACS0647-JD/MACS0647-JD
+- 【MACS0647】MACS0647 khòng-lio̍k-sù-chhit/MACS0647 khòng-lio̍k-sù-tshit/MACS0647/MACS0647
+- 【MAGIC 望遠鏡】MAGIC bōng-oán-kiàⁿ/MAGIC bōng-uán-kiànn/MAGIC 望遠鏡/Major Atmospheric Gamma Imaging Cherenkov (MAGIC)
+- 【Marius 隕石坑】Marius ún-se̍k-kheⁿ/Marius ún-si̍k-khenn/馬利厄斯隕石坑/crater Marius
 - 【Markarian ê 目睭】Markarian ê ba̍k-chiu/Markarian ê ba̍k-tsiu/馬卡萊恩之眼/Markarian's Eyes
 - 【Markarian ê 目睭】Markarian ê ba̍k-chiu/Markarian ê ba̍k-tsiu/馬卡里安的眼睛/Markarian's Eyes
 - 【Markarian 鍊仔】Markarian lián-á/Markarian lián-á/馬卡萊恩鍊/Markarian's Chain
 - 【Martinique 海岸省立公園】Martinique hái-hōaⁿ séng-li̍p kong-hn̂g/Martinique hái-huānn síng-li̍p kong-hn̂g/Martinique 海岸省立公園/Martinique Beach Provincial Park
+- 【MBM 54】MBM gō͘-cha̍p-sì/MBM gōo-tsa̍p-sì/MBM 54/MBM 54
 - 【Medusa 星雲】Medusa seng-hûn/Medusa sing-hûn/美杜莎星雲/the Medusa Nebula
 - 【Medusa 星雲】Medusa seng-hûn/Medusa sing-hûn/蛇妖星雲/Medusa Nebula
 - 【MeerKAT 陣列】MeerKAT tīn-lia̍t/MeerKAT tīn-lia̍t/MeerKAT 陣列/MeerKAT array
 - 【MeerKAT 電波陣列望遠鏡】MeerKAT tiān-pho tīn-lia̍t bōng-oán-kiàⁿ/MeerKAT tiān-pho tīn-lia̍t bōng-uán-kiànn/MeerKAT 電波陣列望遠鏡/MeerKAT array
 - 【Messier 104】Messier it-khòng-sù/Messier it-khòng-sù/Messier 104/Messier 104
+- 【Messier 10】Messier cha̍p/Messier tsa̍p/Messier 10/Messier 10
+- 【Messier 16】Messier cha̍p-la̍k/Messier tsa̍p-la̍k/Messier 16/Messier 16 (M16)
+- 【Messier 45】Messier sì-cha̍p-gō͘/sī-sòaⁿMessier sì-tsa̍p-gōo/Messier 45/Messier 45
+- 【Messier 94】Messier káu-cha̍p-sì/Messier káu-tsa̍p-sì/Messier 94/Messier 94
 - 【Messier 96】Messier káu-cha̍p-la̍k/Messier káu-tsa̍p-la̍k/Messier 96/Messier 96
+- 【Messier 天體】Messier thian-thé/Messier thian-thé/梅西爾天體/Messier object
 - 【Messier 星系】Messier seng-hē/Messier sing-hē/梅西爾星系/Messier galaxies
 - 【Messier 星表】Messier seng-piáu/Messier sing-piáu/梅西爾星表/Messier's list
+- 【Messier 星表】Messier seng-pió/Messier sing-pió/梅西爾星表/Messier catalog
 - 【Miú-子】miú-chú/miú-tsú/緲子、渺子/muon
+- 【MK2】MK two/MK two/MK2/MK2
 - 【Moreton 波】Moreton pho/Moreton pho/莫爾頓波/Moreton wave
 - 【N11】N cha̍p-it/N tsa̍p-it/N11/N11
 - 【N66】N la̍k-cha̍p-la̍k/N la̍k-tsa̍p-la̍k/N66/N66
 - 【Nambung 國家公園】Nambung Kok-ka-kong-hn̂g/Nambung Kok-ka-kong-hn̂g/南邦國家公園/Nambung National Park
 - 【NASA 控制中心】NASA khòng-chè-tiong-sim/NASA khòng-tsè-tiong-sim/NASA 控制中心/NASA controllers
+- 【Neil Armstrong】Neil Armstrong/Neil Armstrong/尼爾 阿姆斯壯/Neil Armstrong
+- 【NEOWISE 彗星】NEOWISE hui-chhiⁿ/NEOWISE hui-tshinn/NEOWISE 彗星/comet NEOWISE
 - 【NGC 104】NGC it-khòng-sù/NGC it-khòng-sù/NGC 104/NGC 104
+- 【NGC 1097】NGC it-khòng-kiú-chhit/NGC it-khòng-kiú-tshit/NGC 1097/NGC 1097
+- 【NGC 1275】NGC it-jī-chhit-ngó͘/NGC it-jī-tshit-ngóo/NGC 1275/NGC 1275
+- 【NGC 1300】NGC chi̍t-chheng-saⁿ/NGC tsi̍t-tshing-sann/NGC 1300/NGC 1300
 - 【NGC 1316】NGC it-sam-it-lio̍k/NGC it-sam-it-lio̍k/NGC 1316/NGC 1316
 - 【NGC 1317】NGC it-sam-it-chhit/NGC it-sam-it-tshit/NGC 1317/NGC 1317
+- 【NGC 1333】NGC it-sam-sam-sam/NGC it-sam-sam-sam/NGC 1333/NGC 1333
+- 【NGC 1365】NGC it-sam-lio̍k-ngó͘/NGC it-sam-lio̍k-ngóo/NGC 1365/NGC 1365
 - 【NGC 1499】NGC it-sù-kiú-kiú/NGC it-sù-kiú-kiú/NGC 1499/NGC 1499
+- 【NGC 1502】NGC it-ngó͘-khòng-jī/NGC it-ngóo-khòng-jī/NGC 1502/NGC 1502
 - 【NGC 1512】NGC it-ngó͘-it-jī/NGC it-ngóo-it-jī/NGC 1512/NGC 1512
 - 【NGC 1555】NGC it-ngó͘-ngó͘-ngó͘/NGC it-ngóo-ngóo-ngóo/NGC 1555/NGC 1555
 - 【NGC 1763】NGC it-chhit-lio̍k-sam/NGC it-tshit-lio̍k-sam/NGC 1763/NGC 1763
+- 【NGC 1893】NGC it-pat-kiú-sam/NGC it-pat-kiú-sam/NGC 1893/NGC 1893
+- 【NGC 1973】NGC it-kiú-chhit-sam/NGC it-kiú-tshit-sam/NGC 1973/NGC 1973
+- 【NGC 1975】NGC it-kiú-chhit-ngó͘/NGC it-kiú-tshit-ngóo/NGC 1975/NGC 1975
+- 【NGC 1977】NGC it-kiú-chhit-chhit/NGC it-kiú-tshit-tshit/NGC 1977/NGC 1977
+- 【NGC 2023】NGC jī-khòng-jī-sam/NGC jī-khòng-jī-sam/NGC 2023/NGC 2023
+- 【NGC 2024】NGC jī-khòng-jī-sù/NGC jī-khòng-jī-sù/NGC 2024/NGC 2024
+- 【NGC 2070】NGC jī-khòng chhit-khóng/NGC jī-khòng chhit-khóng/NGC 2070/NGC 2070
+- 【NGC 2070】NGC jī-khòng-chhit-khòng/NGC jī-khòng-tshit-khòng/NGC 2070/NGC 2070
+- 【NGC 2244】NGC jī-jī-sù-sù/NGC jī-jī-sù-sù/NGC 2244/NGC 2244
+- 【NGC 2264 IRS】NGC jī-jī-lio̍k-sù IRS/NGC jī-jī-lio̍k-sù IRS/NGC 2264 IRS/NGC 2264 IRS
+- 【NGC 2264】NGC jī-jī-lio̍k-sù/NGC jī-jī-lio̍k-sù/NGC 2264/NGC 2264
 - 【NGC 2423】NGC jī-sù-jī-sam/NGC jī-sù-jī-sam/NGC 2423/NGC 2423
 - 【NGC 2438】NGC jī-sù-sam-pat/NGC jī-sù-sam-pat/NGC 2438/NGC 2438
+- 【NGC 2626】NGC jī-lio̍k-jī-lio̍k/NGC jī-lio̍k-jī-lio̍k/NGC 2626/NGC 2626
+- 【NGC 281】NGC jī-pat-it/NGC jī-pat-it/NGC 281/NGC 281
 - 【NGC 2841】NGC jī-pat-sù-it/NGC jī-pat-sù-it/NGC 2841/NGC 2841
+- 【NGC 2976】NGC jī-kiú-chhit-lio̍k/NGC jī-kiú-tshit-lio̍k/NGC 2976/NGC 2976
+- 【NGC 3077】NGC sam-khòng-chhit-chhit/NGC sam-khòng-tshit-tshit/NGC 3077/NGC 3077
+- 【NGC 3132】NGC sam-it-sam-jī/NGC sam-it-sam-jī/NGC 3132/NGC 3132
+- 【NGC 3199】NGC sam-it-kiú-kiú/NGC sam-it-kiú-kiú/NGC 3199/NGC 3199
 - 【NGC 3324】NGC sam-sam-jī-sù/NGC sam-sam-jī-sù/NGC 3324/NGC 3324
 - 【NGC 3372】NGC sam-sam-chhit-jī/NGC sam-sam-tshit-jī/NGC 3372/NGC 3372
 - 【NGC 346】NGC sam-sù-lio̍k/NGC sam-sù-lio̍k/NGC 346/NGC 346
 - 【NGC 3521】NGC sam-ngó͘-jī-it/NGC sam-ngóo-jī-it/NGC 3521/NGC 3521
 - 【NGC 3572】NGC sam-ngó͘-chhit-jī/NGC sam-ngóo-tshit-jī/NGC 3572/NGC 3572
+- 【NGC 3576】NGC sam-ngó-chhit-lio̍k/NGC sam-ngó-tshit-lio̍k/NGC 3576/NGC 3576
+- 【NGC 3582】NGC sam-ngó͘-pat-jī/NGC sam-ngóo-pat-jī/NGC 3582/NGC 3582
+- 【NGC 3584】NGC sam-ngó͘-pat-sù/NGC sam-ngóo-pat-sù/NGC 3584/NGC 3584
 - 【NGC 3628】NGC sam-lio̍k-jī-pat/NGC sam-lio̍k-jī-pat/NGC 3628/NGC 3628
 - 【NGC 4038】NGC sù-khòng-sam-pat/NGC sù-khòng-sam-pat/NGC 4038/NGC 4038
 - 【NGC 4039】NGC sù-khòng-sam-kiú/NGC sù-khòng-sam-kiú/NGC 4039/NGC 4039
 - 【NGC 4388】NGC sù-sam-pat-pat/NGC sù-sam-pat-pat/NGC 4388/NGC 4388
 - 【NGC 4565】NGC sù-ngó͘-lio̍k-ngó͘/NGC sù-ngóo-lio̍k-ngóo/NGC 4565/NGC 4565
 - 【NGC 4584】NGC sù-ngó͘-pat-sù/NGC sù-ngóo-pat-sù/NGC 4584/NGC 4584
+- 【NGC 4627】NGC sù-lio̍k-jī-chhit/NGC sù-lio̍k-jī-tshit/NGC 4627/NGC 4627
+- 【NGC 4631】NGC sù-lio̍k-sam-it/NGC sù-lio̍k-sam-it/NGC 4631/NGC 4631
 - 【NGC 4651】NGC sù-lio̍k-ngó͘-it/NGC sù-lio̍k-ngóo-it/NGC 4651/NGC 4651
 - 【NGC 4945】NGC sù-kiú-sù-ngó͘/NGC sù-kiú-sù-ngóo/NGC 4945/NGC 4945
 - 【NGC 5128】NGC ngó͘-it-jī-pat/NGC ngóo-it-jī-pat/NGC 5128/NGC 5128
 - 【NGC 5194】NGC ngó͘-it-kiú-sù/NGC ngóo-it-kiú-sù/NGC 5194/NGC 5194
+- 【NGC 5195】NGC ngó͘-it-kiú-ngó͘/NGC ngóo-it-kiú-ngóo/NGC 5195/NGC 5195
 - 【NGC 5560】NGC ngó͘-ngó͘-lio̍k-khòng/NGC ngóo-ngóo-lio̍k-khòng/NGC 5560/NGC 5560
 - 【NGC 5566】NGC ngó͘-ngó͘-lio̍k-lio̍k/NGC ngóo-ngóo-lio̍k-lio̍k/NGC 5566/NGC 5566
 - 【NGC 5569】NGC ngó͘-ngó͘-lio̍k-kiú/NGC ngóo-ngóo-lio̍k-kiú/NGC 5569/NGC 5569
+- 【NGC 5679】NGC ngó͘-lio̍k-chhit-kiú/NGC ngóo-lio̍k-tshit-kiú/NGC 5679/NGC 5679
+- 【NGC 604】NGC liok-khòng-sù/NGC liok-khòng-sù/NGC 604/NGC 604
 - 【NGC 6164】NGC lio̍k-it-lio̍k-sù/NGC lio̍k-it-lio̍k-sù/NGC 6164/NGC 6164
 - 【NGC 6188】NGC lio̍k-it-pat-pat/NGC lio̍k-it-pat-pat/NGC 6188/NGC 6188
+- 【NGC 6207】NGC lio̍k-jī-khòng-chhit/NGC lio̍k-jī-khòng-tshit/NGC 6207/NGC 6207
 - 【NGC 6217】NGC lio̍k-jī-it-chhit/NGC lio̍k-jī-it-tshit/NGC 6217/NGC 6217
+- 【NGC 628】NGC lio̍k-jī-pat/NGC lio̍k-jī-pat/NGC 628/NGC 628
+- 【NGC 6302】NGC lio̍k-sam-khòng-jī/NGC lio̍k-sam-khòng-jī/NGC 6302/NGC 6302
 - 【NGC 6334】NGC lio̍k-sam-sam-sù/NGC lio̍k-sam-sam-sù/NGC 6334/NGC 6334
+- 【NGC 6355】NGC lio̍k-sam-ngó͘-ngó͘/NGC lio̍k-sam-ngóo-ngóo/NGC 6355/NGC 6355
+- 【NGC 6357】NGC lio̍k-sam-ngó͘-chhit/NGC lio̍k-sam-ngóo-tshit/NGC 6357/NGC 6357
+- 【NGC 6530】NGC lio̍k-ngó͘-sam-khòng/NGC lio̍k-ngóo-sam-khòng/NGC 6530/NGC 6530
+- 【NGC 6543】NGC lio̍k-ngó͘-sù-sam/NGC lio̍k-ngóo-sù-sam/NGC 6543/NGC 6543
 - 【NGC 6744A】NGC lio̍k-tshit-sù-sù A/NGC lio̍k-tshit-sù-sù A/NGC 6744A/NGC 6744A
 - 【NGC 6744】NGC lio̍k-chhit-sù-sù/NGC lio̍k-tshit-sù-sù/NGC 6744/NGC 6744
 - 【NGC 6888】NGC lio̍k-pat-pat-pat/NGC lio̍k-pat-pat-pat/NGC 6888/NGC 6888
 - 【NGC 6910】NGC lio̍k-kiú-it-khòng/NGC lio̍k-kiú-it-khòng/NGC 6910/NGC 6910
+- 【NGC 6914】NGC lio̍k-kiú-it-sù/NGC lio̍k-kiú-it-sù/NGC 6914/NGC 6914
+- 【NGC 7000】NGC chhit-chheng/NGC tshit-tshing/NGC 7000/NGC 7000
+- 【NGC 7293】NGC chhit-jī-kiú-sam/NGC tshit-jī-kiú-sam/NGC 7293/NGC 7293
+- 【NGC 7331】NGC chhit-sam-sam-it/NGC tshit-sam-sam-it/NGC 7331/NGC 7331
+- 【NGC 7380】NGC chhit-sam-pat-khòng/NGC tshit-sam-pat-khòng/NGC 7380/NGC 7380
+- 【NGC 7497】NGC chhit-sù-kiú-chhit/NGC tshit-sù-kiú-tshit/NGC 7497/NGC 7497
 - 【NGC 7635】NGC chhit-lio̍k-sam-ngó͘/NGC tshit-lio̍k-sam-ngóo/NGC 7635/NGC 7635
 - 【NGC 770】NGC chhit-chhit-khòng/NGC tshit-tshit-khòng/NGC 770/NGC 770
 - 【NGC 772】NGC chhit-chhit-jī/NGC tshit-tshit-jī/NGC 772/NGC 772
+- 【NGC 869】NGC pat-lio̍k-kiú/NGC pat-lio̍k-kiú/NGC 869/NGC 869
+- 【NGC 884】NGC pat-pat-sù/NGC pat-pat-sù/NGC 884/NGC 884
 - 【Niú-iok】Niú-iok/Niú-iok/紐約/New York
 - 【OB1 星協】OB-one seng-hiap/OB-one sing-hiap/OB1 星協/OB1 association
+- 【OB1 星協】OB-one seng-hia̍p/OB-one sing-hia̍p/OB1 星協/OB1 association
+- 【OB2 星協】OB-two seng-hiap/OB-two sing-hiap/OB2 星協/OB2 association
 - 【OB3 星協】OB-sam seng-hiap/OB-sam sing-hiap/OB3 星協/OB3 association
+- 【OB3 星協】OB-three seng-hiap/OB-three sing-hiap/OB3 星協/OB3 association
 - 【OB 星協】OB seng-hiap/OB sing-hiap/OB 星協/OB association
 On November 12, the com- 【】///et's perigee, its closest approach to Earth, will bring it within about 0.42 astronomical units.
 - 【Oort 雲】Oort hûn/Oort hûn/歐特雲/Oort cloud
+- 【Oort 雲】Oort hûn/Oort hûn/歐特雲/Oort Cloud
+- 【Oort 雲】Oort-hûn/Oort-hûn/歐特雲/Oort Cloud
 - 【ORC-1】ORC-it/ORC-it/ORC-1/ORC-1
+- 【Ou4】O U sì/O U sì/Ou4/Ou4
 - 【O-型恆星】O-hêng hêng-chhiⁿ/O-hîng hîng-tshinn/O-型恆星/O-type star
 - 【O-型恆星】O-hêng hêng-chhiⁿ/O-hîng hîng-tshinn/O-型恆星/O-type stars
+- 【O 型星】O hêng chhiⁿ/O hîng tshinn/O 型星/O star
 - 【O 型星】O-hêng chhiⁿ/O-hîng tshinn/O 型星/O star
+- 【O 型星】O hêng chhiⁿ/v/O 型星/O-type star
 - 【peh-升】peh-seng/peh-sing/上升/rising
 - 【peh-升區氣體】peh-seng-khu khì-thé/peh-sing-khu khì-thé/上升區氣體/rising zone gas
 - 【peh-升空氣柱】peh-seng khong-khì-thiāu/peh-sing khong-khì-thiāu/上升氣體柱/rising air column
+- 【peh 升節火箭】peh-seng chat hóe-chìⁿ/peh-sing tsat hué-tsìnn/上升節火箭/ascent stage
+- 【Pismis 24】Pismis jī-cha̍p-sì/Pismis jī-tsa̍p-sì/Pismis 24/Pismis 24
+- 【PSR J0002+6216】PSR J khòng-khòng-khòng-jī ka lio̍k-jī-it-lio̍k/PSR J khòng-khòng-khòng-jī ka lio̍k-jī-it-lio̍k/PSR J0002+6216/PSR J0002+6216
+- 【R136】R it-sam-lio̍k/R it-sam-lio̍k/R136/R136
+- 【RCW 27】RCW jī-chhit/RCW jī-tshit/RCW 27/RCW 27
+- 【RCW 57】RCW gō͘-cha̍p-chhit/RCW gōo-tsa̍p-tshit/RCW 57/RCW 57
+- 【RCW 58】RCW gō͘-cha̍p-peh/RCW gōo-tsa̍p-peh/RCW 58/RCW 58
 - 【RCW 86】RCW peh-cha̍p-la̍k/RCW peh-tsa̍p-la̍k/RCW 86/RCW 86
+- 【RNO 109】RNO it-khòng-kiú/RNO it-khòng-kiú/RNO 109/RNO 109
+- 【sa-bì-suh】sa-bì-suh/sa-bì-suh/紅利/bonus
 - 【Saqqara 大墓地】Saqqara Tōa-bōng-tē/Saqqara Tuā-bōng-tē/薩卡拉墓地/the Saqqara necropolis
 - 【sà-suh】sà-suh/sà-suh/沙士/root beer
 - 【Schrödinger 的貓咪仔】Schrödinger ê niau-mi-á/Schrödinger ê niau-mi-á/薛丁格的貓/Schrödinger's cat
+- 【Seyfert 星系】Seyfert seng-hē/Seyfert seng-hē/西佛星系/Seyfert galaxy
 - 【Seyfert 星系】Seyfert seng-hē/Seyfert sing-hē/西佛星系/Seyfert galaxy
 - 【Sh2-101】Sh-two it-khòng-it/Sh-two it-khòng-it/Sh2-101/Sh2-101
+- 【Sh2-129】S-H-jī it-jī-kiú/S-H-jī it-jī-kiú/Sh2-129/Sh2-129
+- 【Sh2-296】S-H-two jī-kiú-lio̍k/S-H-two jī-kiú-lio̍k/Sh2-296/Sh2-296
+- 【Sharpless 126】Sharpless it-jī-lio̍k/Sharpless it-jī-lio̍k/Sharpless 126/Sharpless 126 (Sh2-126)
+- 【Sharpless 155 (Sh 155)】Sharpless it-ngó͘-ngó͘/Sharpless it-ngóo-ngóo/Sharpless 155 (Sh 155)/Sharpless 155 (Sh 155)
 - 【Sharp 山】Sharp soaⁿ/Sharp suann/夏普山/Mount Sharp
 - 【sió】sió/sió/秀/show
 - 【SKA 探路者】SKA Thàm-lō͘-chiá/SKA Thàm-lōo-tsiá/平方千米陣探路者/Square Kilometer Array (SKA) Pathfinder
+- 【Slovakia 共和國】Slovakia Kiōng-hô-kok/Slovakia Kiōng-hô-kok/斯洛伐克共和國/Slovak Republic
+- 【SMACS0723-73】SMACS khòng-chhit-jī-sam chhit-sam/SMACS khòng-tshit-jī-sam tshit-sam/SMACS0723-73/SMACS0723-73
+- 【Smythii 海】Smythii hái/Smythii hái/史密斯海/Smythii Sea
+- 【SN 1987A】SN i̍t-kiú-pat-chhit A/SN i̍t-kiú-pat-tshit A/SN 1987A/SN 1987A
+- 【SOFIA 平流層紅外線天文台】SOFIA Pêng-liû-chân Âng-gōa-sòaⁿ Thian-bûn-tâi/SOFIA Pîng-liû-tsân Âng-guā-suànn Thian-bûn-tâi/SOFIA 平流層紅外線天文台/Stratospheric Observatory for Infrared Astronomy (SOFIA)
 - 【SOHO 太空天文台】SOHO Thài-khong-thian-bûn-tâi/SOHO Thài-khong-thian-bûn-tâi/SOHO 太空天文台/the space-based SOHO observatory
 - 【Spitzer 太空望遠鏡】Spitzer thài-khong bōng-oán-kiàⁿ/Spitzer thài-khong bōng-uán-kiànn/Spitzer 太空望遠鏡/Spitzer Space Telescope
+- 【Spitzer 太空望遠鏡】Spitzer Thài-khong Bōng-oán-kiàⁿ/Spitzer Thài-khong Bōng-uán-kiànn/史匹哲太空望遠鏡/Spitzer Space Telescope
+- 【Spitzer 紅外線太空望遠鏡】Spitzer Âng-gōa-sòaⁿ Thài-khong Bōng-oán-kiàⁿ/Spitzer Âng-guā-suànn Thài-khong Bōng-uán-kiànn/史匹哲太空望遠鏡/Spitzer Space Telescope
 - 【Stephan 五重奏】Stephan gō͘-têng-chàu/Stephan gōo-tîng-tsàu/Stephan 五重奏/Stephan's Quintet
+- 【Stephan 五重奏】Stephan Gō͘-têng-chàu/Stephan Gōo-tîng-tsàu/Stephan 五重奏/Stephan's Quintet
+- 【Subaru 望遠鏡】Subaru Bōng-oán-kiàⁿ/Subaru Bōng-uán-kiànn/速霸陸望遠鏡/Subaru telescope
 - 【Suomi NPP 極地軌道氣象衛星】Suomi NPP Ke̍k-tē kúi-tō khì-siōng ūi-chhiⁿ/Suomi NPP Ki̍k-tē kuí-tō khì-siōng uī-tshinn/Suomi NPP 極地軌道氣象衛星/Suomi National Polar-orbiting Partnership (NPP) satellite
+- 【Swift-Tuttle 彗星】Swift-Tuttle hui-chhiⁿ/Swift-Tuttle hui-tshinn/Swift-Tuttle 彗星/Comet Swift-Tuttle
+- 【Tajikistan 共和國】Tajikistan kiōng-hô-kok/Tajikistan kiōng-hô-kok/塔吉克共和國/Tajikistan
 - 【𠕇】tēng/tīng/硬/hard
+- 【TESS 任務】TESS jīm-bū/TESS jīm-bū/TESS 任務/TESS mission
+- 【TESS 衛星望遠鏡】TESS ōe-chheⁿ bōng-oán-kiàⁿ/TESS uē-tshenn bōng-uán-kiànn/TESS 衛星望遠鏡/TESS satellite
 - 【Thackeray 雲球】Thackeray hûn-kiû/Thackeray hûn-kiû/Thackeray 雲球/Thackeray's Globules
 - 【TNG50】TNG gō͘-cha̍p/TNG gōo-tsa̍p/TNG50/TNG50
 - 【To̍h 是按呢 ê 故事】To̍h sī án-ne ê kò͘-sū/To̍h sī án-ne ê kòo-sū/就是這樣的故事/Just So Story
+- 【TRAPPIST-1h】Trappist it h/Trappist it h/TRAPPIST-1h/TRAPPIST-1h
+- 【Trappist-1】Trappist it/Trappist it/Trappist-1/Trappist-1
 - 【Trojan 小行星】Trojan sió-kiâⁿ-chhiⁿ/Trojan sió-kiânn-tshinn/特洛伊小行星/Trojan asteroids
+- 【Tycho 隕石坑】Tycho ún-se̍k-kheⁿ/Tycho ún-si̍k-khenn/第谷隕石坑/Tycho crater
 - 【UGC 1810】UGC it-pat-it-khòng/UGC it-pat-it-khòng/UGC 1810/UGC 1810
+- 【US 101】US it-khòng-it/US it-khòng-it/US 101/US 101
 - 【UT】Úi-Thi/Úi-Thi/世界時/UT (Universal Time)
+- 【vdB 155】vdB it-ngó͘-ngó͘/vdB it-ngóo-ngóo/vdB 155/vdB 155
+- 【vdB 62】vdB la̍k-cha̍p-jī/vdB la̍k-tsa̍p-jī/vdB 62/vdB 62
+- 【VIP 點】VIP tiám/VIP tiám/VIP 點/VIP Site
+- 【V 形船碇】V hêng chûn-tiàⁿ/V hîng tsûn-tiànn/V 形船錨/anchor the V-shape
+- 【Webb 太空望遠鏡】Úi-peh Thài-khong-bōng-oán-kiàⁿ/Uí-peh Thài-khong-bōng-uán-kiànn/韋伯太空望遠鏡/Webb Space Telescope
+- 【Webb 太空望遠鏡】Webb Thài-khong-bōng-oán-kiàⁿ/Webb Thài-khong-bōng-uán-kiànn/韋伯太空望遠鏡/the Webb Space Telescope
+- 【Webb 太空望遠鏡】Webb Thài-khong Bōng-oán-kiàⁿ/Webb Thài-khong Bōng-uán-kiànn/韋伯太空望遠鏡/Webb Space Telescope
+- 【Wild 三生仔】Wild Saⁿ-siⁿ-á/Wild Sann-sinn-á/懷爾德三重星系/Wild's Triplet
+- 【Wild 三重奏】Wild Saⁿ-têng-chàu/Wild Sann-tîng-tsàu/懷爾德三重星系/Wild's Triplet
+- 【Wolf Rayet 星】Wolf Rayet chhiⁿ/Wolf Rayet tshinn/沃夫瑞葉星/Wolf Rayet star
 - 【Wolf-Rayet 星】Wolf-Rayet chhiⁿ/Wolf-Rayet tshinn/沃夫–瑞葉星/Wolf-Rayet star
 - 【Wolf-Rayet 星】Wolf-Rayet chhiⁿ/Wolf-Rayet tshinn/沃爾夫–拉葉星/the Wolf-Rayet star
 - 【Wolf-Rayet 星】Wolf-Rayet chhiⁿ/Wolf-Rayet tshinn/沃爾夫-拉葉星/Wolf-Rayet star
+- 【WR 140】WR it-sù-khòng/WR it-sù-khòng/WR 140/WR 140
+- 【WR-18】WR cha̍p-peh/WR tsa̍p-peh/WR-18/WR-18
+- 【WR 40】WR sì-cha̍p/WR sì-tsa̍p/WR 40/WR 40
 - 【WR 星】WR chhiⁿ/WR tshinn/WR 星/Wolf-Rayet star
 - 【X-光】X-kng/X-kng/X-光/X-ray
 - 【Yosemite 國家公園】Yosemite Kok-ka-kong-hn̂g/Yosemite Kok-ka-kong-hn̂g/優勝美地國家公園/Yosemite National Park
+- 【ZTF 凌星觀測儀器】Zwicky Lêng-chhiⁿ Koan-chhek gî-khì/Zwicky Lîng-tshinn Kuan-tshik gî-khì/ZTF 凌星觀測儀器/Zwicky Transient Facility
+- 【ZTF 彗星】ZTF hūi-chheⁿ/ZTF huī-tshenn/ZTF 彗星/Comet ZTF
+- 【ZTF 彗星】ZTF hūi-chhiⁿ/ZTF huī-tshinn/ZTF 彗星/Comet ZTF
+- 【ZTF 彗星】ZTF Hūi-chhiⁿ/ZTF Huī-tshinn/ZTF 彗星/Comet ZTF
 - 【一條一條】chi̍t-liâu chi̍t-liâu/tsi̍t-liâu tsi̍t-liâu/條紋/striped
 - 【一氧化碳】it-ióng-hòa-thòaⁿ/it-ióng-huà-thuànn/一氧化碳/carbon monoxide
 - 【一維】it-ûi/it-uî/一維/one side
@@ -235,33 +547,49 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【七姊妹仔】Chhit-chí-mōe-á/Tshit-tsí-muē-á/七姊妹/the Seven Sisters
 - 【七姊妹仔】Chhit-chí-mōe-á/Tshit-tsí-muē-á/七姊妹仔/Seven Sisters
 - 【七姊妹仔星團】Chhit-chí-mōe-á seng-thoân/Tshit-tsí-muē-á sing-thuân/七姊妹仔星團/The Seven Sisters Star Cluster
+- 【七姊妹仔星團】Chhit-chí-mōe-á seng-thoân/Tshit-tsí-muē-á sing-thuân/七姊妹星團/seven daughters
 - 【七姊妹仔星團】Chhit-chí-mōe-á seng-thoân/Tshit-tsí-muē-á sing-thuân/七姊妹星團/Seven Sisters
+- 【七姊妹仔星團】Chhit-chí-mōe-á seng-thoân/Tshit-tsí-muē-á sing-thuân/七姊妹星團/Seven Sisters star cluster
 - 【七姊妹仔星團】Chhit-chí-mōe-á/Tshit-tsí-muē-á/七姊妹星團/Seven Sisters star cluster
+- 【七姊妹仔星團】Chhit-chí-mōe-á/Tshit-tsí-muē-á/七姊妹星團/the Seven Sisters
 - 【三叉星雲】Sam-chhe-seng-hûn/Sam-tshe-sing-hûn/三裂星雲/the Trifid nebula
 - 【三叉星雲】Sam-chhe-seng-hûn/Sam-tshe-sing-hûn/三裂星雲/Trifid Nebula
+- 【三叉星雲】Sam-chhe-seng-hûn/Sam-tshe-sing-hûn/三裂星雲、三葉星雲/Trifid Nebula
 - 【三星系統】saⁿ-chhiⁿ-hē-thóng/sann-tshinn-hē-thóng/三星系統/three-star system
+- 【三星系統】saⁿ-chhiⁿ hē-thóng/sann-tshinn hē-thóng/三星系統/triple system
 - 【三生仔】saⁿ-siⁿ-á/sann-sinn-á/三胞胎/triplet
 - 【三裂星雲】Saⁿ-lih seng-hûn/Jîn-má-tsō/三裂星雲/Trifid Nebula
 - 【三裂星雲】Saⁿ-lih-seng-hûn/Sann-lih-sing-hûn/三裂星雲/the Trifid
+- 【三視圖】saⁿ-sī-tô͘/sann-sī-tôo/三視圖/triple view
+- 【三角座】Saⁿ-kak-chō/Sann-kak-tsō/三角座/Triangulum
+- 【三角座星系】Saⁿ-kak-chō seng-hē/Sann-kak-tsō sing-hē/三角座星系/the Triangulum Galaxy
 - 【三角座星系】Saⁿ-kak-seng-hē/Sann-kak-sing-hē/三角座星系/Triangulum galaxy
 - 【三角星系】Saⁿ-kak-seng-hē/Sann-kak-sing-hē/三角星系/the Triangulum Galaxy
 - 【三角星系】Saⁿ-kak-seng-hē/Sann-kak-sing-hē/三角星系/Triangulum galaxy
 - 【三跤馬】saⁿ-kha-bé/saⁿ-kha-bé/三腳架/tripod
 - 【三跤馬】saⁿ-kha-bé/sann-kha-bé/三腳架/tripod
 - 【三跤馬】Saⁿ-kha-bé/Sann-kha-bé/三腳架/tripod
+- 【三跤馬】saⁿ-kha-bé/sann-kha-bé/腳架/tripod
 - 【三跤馬】saⁿ-kha-bé/sann-kha-bé/角架/tripod
 - 【三重奏】saⁿ-têng-chàu/sann-tîng-tsàu/三重奏/the trio
 - 【三重奏】saⁿ-têng-chàu/sann-tîng-tsàu/三重奏/Triply
+- 【下半月】ē-pòaⁿ-goe̍h/ē-puànn-gue̍h/下半月/waning crescent phase
+- 【下半月】ē-pòaⁿ-goe̍h/ē-puànn-gue̍h/下弦月/last quarter Moon
 - 【下半月】ē-pòaⁿ-goe̍h/ē-puànn-gue̍h/下弦月/third quarter moon
 - 【下合】Ē-hap/Ē-hap/下合/inferior conjunction
 - 【下旬】hā-sûn/hā-sûn/下旬/late third of the month
 - 【下月眉】ē-goe̍h-bâi/ē-gue̍h-bâi/殘月/waning crescent Moon
 - 【下降帶氣體】hā-kàng-tài khì-thé/hā-kàng-tài khì-thé/下降帶氣體/falling belt gas
 - 【下降氣體】hā-kàng khì-thé/hā-kàng khì-thé/下降氣體/falling air
+- 【不規則星系】put-kui-chek-seng-hē/put-kui-tsik-sing-hē/不規則星系/irregular galaxy
 - 【不規則矮星系】put-kui-chek é-seng-hē/put-kui-tsik é-sing-hē/不規則矮星系/dwarf irregular galaxy
+- 【不規則矮星系】put-kui-chek é-seng-hē/put-kui-tsik é-sing-hē/不規則矮星系/irregular dwarf galaxies
 - 【不規則體】put-kui-chek-thé/put-kui-tsik-thé/不規則體/irregularities
 - 【丑時】thiú-sî/thiú-sî/凌晨一點到三點/the early hours of a day
+- 【世界協調時】sè-kài-hia̍p-tiau-sî/sè-kài-hia̍p-tiau-sî/世界協調時/Coordinated Universal Time (UTC)
 - 【世界協調時】Sè-kài-hia̍p-tiau-sî/Sè-kài-hia̍p-tiau-sî/世界協調時/Coordinated Universal Time (UTC)
+- 【世界時】sè-kài-sî/sè-kài-sî/世界時/Universal Time Coordinated (UTC)
+- 【世界時】Sè-kài-sî/Sè-kài-sî/世界時/Universal Time Coordinated (UTC)
 - 【世界時】Sè-kài-sî/Sè-kài-sî/世界時/Universal Time (UT)
 - 【世界時】sè-kài-sî/sè-kài-sî/世界時/UTC
 - 【世界遺產】Sè-kài-ûi-sán/Sè-kài-uî-sán/世界遺產/World Heritage
@@ -270,25 +598,32 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【中央帶】tiong-iong-tòa/tiong-iong-tuà/中央帶/central band
 - 【中央帶】tiong-iong-tòa/tiong-iong-tuà/中央帶/the central band
 - 【中央帶】tiong-ng-tòa/tiong-ng-tuà/中央帶/central band
+- 【中央帶】tiong-ng-tòa/tiong-ng-tuà/中央帶/the central band
 - 【中央本影】tiong-iong pún-iáⁿ/tiong-iong pún-iánn/中央本影/central umbra
 - 【中央核球】tiong-iong he̍k-kiû/tiong-iong hi̍k-kiû/中央核球/central bulge
 - 【中央核球】tiong-ng he̍k-kiû/tiong-ng hi̍k-kiû/中央核球/central bulge
 - 【中央盤】tiong-iong-pôaⁿ/tiong-iong-pûann/中央盤/central disk
 - 【中央盤】tiong-iong-pôaⁿ/tiong-iong-puânn/中央盤面/central band
 - 【中央盤】tiong-ng-pôaⁿ/tiong-ng-puânn/中央盤/central disk
+- 【中央盤】tiong-ng-pôaⁿ/tiong-ng-puânn/中央盤/central plane
+- 【中子星】tiong-chú-chheⁿ/tiong-tsú-tshenn/中子星/neutron star
 - 【中子星】tiong-chú-chhiⁿ/tiong-tsú-tshinn/中子星/neutron star
 - 【中子星】tiōng-chú-chhiⁿ/tiong-tsú-tshinn/中子星/neutron star
 - 【中子星】tiōng-chú-chhiⁿ/tiōng-tsú-tshinn/中子星/neutron star
+- 【中子星】tiōng-chú-seng/tiōng-tsú-sing/中子星/neutron star
 - 【中性水素】tiong-sèng-chúi-sò͘/tiong-sìng-tsuí-sòo/中性氫/neutral hydrogen
 - 【中歐時間】Tiong-au-sî-kan/Tiong-au-sî-kan/中歐時間/Central European Time (CET)
 - 【中氣層】tiong-khì-chân/tiong-khì-tsân/中氣層/mesophere
 - 【中氣層】tiong-khì-chân/tiong-khì-tsân/中氣層/mesosphere
+- 【中紅外線】tiong-âng-gōa-sòaⁿ/tiong-âng-guā-suànn/中紅外線/mid-infrared
 - 【中緯度】tiong hūi-tō͘/tiong huī-tōo/中緯度/mid-latitude
+- 【中美洲】Tiong-bí-chiu/Tiong-bí-tsiu/中美洲/Central America
 - 【主人星系】chú-lâng-seng-hē/tsú-lâng-sing-hē/宿主星系/host galaxy
 - 【主小行星帶】chú-sió-kiâⁿ-chhiⁿ-tòa/tsú-sió-kiânn-tshinn-tuà/主小行星帶/the main asteroid belt
 - 【主序帶】chú-sī-tài/tsú-sī-tài/主序帶/main sequence
 - 【主序帶】Chú-sī-tòa/Tsú-sī-tuà/主序帶/Main Sequence
 - 【主鏡】chú-kiàⁿ/tsú-kiànn/主鏡/primary mirror
+- 【主鏡】chù-kiàⁿ/tsù-kiànn/主鏡/primary mirror
 - 【乾冰】kan-peng/kan-ping/乾冰/dry ice
 - 【乾冰】kan-peng/kan-ping/乾冰/ice of carbon monoxide
 - 【乾冰冰晶】kan-peng peng-chiⁿ/kan-ping ping-tsinn/乾冰冰晶/crystals of dry ice
@@ -297,7 +632,6 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【事件地平線望遠鏡】Sū-kiāⁿ Tē-pêng-sòaⁿ Bōng-oán-kiàⁿ/Sū-kiānn Tē-pîng-suànn Bōng-uán-kiànn/事件視界望遠鏡/Event Horizon Telescope
 - 【事件地平線望遠鏡】Sū-kiāⁿ Tē-pêng-sòaⁿ Bōng-oán-kiàⁿ/Sū-kiānn Tē-pîng-suànn Bōng-uán-kiànn/事件視界望遠鏡/Event Horizon Telescope (EHT)
 - 【事件視平線】sū-kiāⁿ-sī-pêng-sòaⁿ/sū-kiānn-sī-pîng-suànn/事件視界/event horizon
-- 【事件視平線望遠鏡】Sū-kiāⁿ tē-pêng-sòaⁿ bōng-oán-kiàⁿ/Bé-ia̍h-tshiu sing-hē/事件視界望遠鏡/Event Horizon Telescope, EHT
 - 【事件視界】sū-kiāⁿ sī-kài/sū-kiānn sī-kài/事件視界/event horizon
 - 【事件視界】sū-kiāⁿ-sī-kài/sū-kiānn-sī-kài/事件視界/event horizon
 - 【事件視界望遠鏡】Sū-kiāⁿ sī-kài bōng-oán-kiàⁿ/Sū-kiānn sī-kài bōng-uán-kiànn/事件視界望遠鏡/Event Horizon Telescope (EHT)
@@ -308,18 +642,24 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【二酸化碳素】jī-sng-hòa-thòaⁿ-sò͘/jī-sng-huà-thuànn-sòo/二氧化碳/carbon dioxide
 - 【互食事件】hō͘-si̍t-sū-kiāⁿ/hōo-si̍t-sū-kiānn/互食事件/Mutual Events
 - 【互食星團】hō͘-chia̍h seng-thoân/hōo-tsia̍h sing-thuân/互食星團/Cannibal Cluster
-- 【五仁節】Ngó͘-jîn-chiat/Ngóo-jîn-tsiat/愚人節/April Fool's Day
 - 【五星連珠】Ngó͘-chhiⁿ-liân-chu/Ngóo-tshinn-liân-tsu/五星連珠/parade of 5 planets
 - 【五車二】Ngó͘-ki-jī/Ngóo-ki-jī/五車二/Capella
+- 【亞得里亞海】A-tek-lí-a-hái/A-tik-lí-a-hái/亞得里亞海/Adriatic Sea
+- 【交互作用】kau-hō͘-chok-iōng/kau-hōo-tsok-iōng/交互作用/interacting
 - 【交互作用】kau-hō͘-chok-iōng/kau-hōo-tsok-iōng/交互作用/interaction
 - 【交互作用】kāu-hō͘-chok-iōng/kāu-hōo-tsok-iōng/交互作用/interaction
 - 【交互作用】kau-hō͘-chok-iōng/kau-hōo-tsok-iōng/交互作用/interactions
 - 【交互作用星系】kau-hō͘-chok-iōng seng-hē/kau-hōo-tsok-iōng sing-hē/交互作用星系/interacting galaxies
 - 【交互作用星系】kāu-hō͘-chok-iōng seng-hē/kāu-hōo-tsok-iōng sing-hē/交互作用星系/interacting galaxies
+- 【交互星系】kau-hō͘-seng-hē/kau-hōo-sing-hē/交互星系/interacting galaxies
 - 【交互星系】kāu-hō͘-seng-hē/kāu-hōo-sing-hē/交互星系/interacting galaxies
 - 【交叉】kau-chhe/kau-tshe/交叉/cross
+- 【交叉點】kau-chhe-tiám/kau-tshe-tiám/交叉點/intersection point
+- 【人工智慧】jîn-kang tì-hūi/jîn-kang tì-huī/人工智慧/artificial intelligence (AI)
+- 【人工造雪機】jîn-kang chō-soat-ki/jîn-kang tsō-suat-ki/人工造雪機/snow cannons
 - 【人造星】jîn-chō-chhiⁿ/jîn-tsō-tshinn/人造星/artificial stars
 - 【人造衛星】jîn-chō-ūi-chhiⁿ/jîn-tsō-uī-tshinn/人造衛星/artificial satellite
+- 【人造雲】Jîn-chō-hûn/Jîn-tsō-hûn/人造雲/artificial cloud
 - 【人造雲】jîn-chō-hûn/jîn-tsō-hûn/人造雲/human-made clouds
 - 【人類視覺科學】jîn-lūi-sī-kak-kho-ha̍k/jîn-lūi-sī-kak-kho-ha̍k/人類視覺科學/human vision science
 - 【人馬座 A】Jîn-má-chō A/Jîn-má-tsō A/人馬座 A/Centaurus A
@@ -330,6 +670,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【人馬座】Jîn-má-chō/Jîn-má-tsō/人馬座/zodiacal light
 - 【人馬座】Lîn-má-chō/Lîn-má-tsō/人馬座/Sagittarius
 - 【人馬座恆星雲】Jîn-má-chō hêng-chhiⁿ-hûn/Jîn-má-tsō hîng-tshinn-hûn/人馬座恆星雲/the Small Sagittarius Star Cloud
+- 【仙人掌】sian-jîn-chiáng/sian-jîn-tsiáng/仙人掌/cacti
 - 【仙后座 A】Sian-hiō-chō A/Sian-hiō-tsō A/仙后座 A/Cassiopeia A
 - 【仙后座 II】Sian-hiō-chō Jī/Sian-hiō-tsō Jī/仙后座 II/Cassiopeia II
 - 【仙后座】Sian-hiō-chō/Sian-hiō-tsō/仙后座/Cassiopeia
@@ -340,7 +681,9 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【仙女座 β】Sian-lú-chō Beta/Sian-lú-tsō Beta/仙女座 β/Beta Andromedae
 - 【仙女座 β】Sian-lú-chō beta/Sian-lú-tsō beta/仙女座 β/Mirach
 - 【仙女座星系】Sian-lú-chō seng-hē/Sian-lú-tsō sing-hē/仙女座星系/Andromeda
+- 【仙女座星系】Sian-lú-chō seng-hē/Sian-lú-tsō sing-hē/仙女座星系/Andromeda galaxy
 - 【仙女座星系】Sian-lú-chō seng-hē/Sian-lú-tsō sing-hē/仙女座星系/Andromeda Galaxy
+- 【仙女座星系】Sian-lú-chō-seng-hē/Sian-lú-tsō-sing-hē/仙女座星系/Andromeda Galaxy
 - 【仙女座星系】Sian-lú-chō seng-hē/Sian-lú-tsō sing-hē/仙女座星系/the Andromeda galaxy
 - 【仙女座星系】Sian-lú-chō seng-hē/Sian-lú-tsō sing-hē/仙女座星系/the Andromeda Galaxy
 - 【仙女座星系】Sian-lú-chō/Sian-lú-tsō/仙女座星系/Andromeda galaxy
@@ -348,8 +691,11 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【仙女座星雲】Sian-lú-chō seng-hûn/Sian-lú-tsō sing-hûn/仙女座星雲/the Andromeda nebulae
 - 【仙王座】Sian-ông-chō/Sian-ông-tsō/仙王座/Cepheus
 - 【仙王座】Sian-ông-chō/Sian-ông-tsō/仙王座/Cepheus the King
+- 【仙王座爆發區】Sian-ông-chō po̍k-hoat-khu/Sian-ông-tsō po̍k-huat-khu/仙王座爆發區/Cepheus flare
 - 【仝心圓】kāng-sim-îⁿ/kāng-sim-înn/同心圓/concentric circle
+- 【仝心圓弧】kāng-sim iⁿ-hô͘/kāng-sim inn-hôo/同心圓弧/concentric arcs
 - 【仝心圓筒形】kāng-sim îⁿ-tâng-hêng/kāng-sim înn-tâng-hîng/同心圓柱體/concentric cylinders
+- 【仝心弧】kāng-sim-hô͘/kāng-sim-hôo/同心弧/concentric arcs
 - 【仰望一號太空望遠鏡】Gióng-bōng-it-hō thài-khong-bōng-oán-kiàⁿ/Gióng-bōng-it-hō thài-khong-bōng-uán-kiànn/仰望一號太空望遠鏡/Yangwang-1
 - 【仰望一號太空望遠鏡】Gióng-bōng-it-hō thài-khong bōng-oán-kiàⁿ/Gióng-bōng-it-hō thài-khong bōng-uán-kiànn/仰望一號太空望遠鏡/Yangwang-1 space telescope
 - 【位元】ūi-goân/uī-guân/位元/bit
@@ -358,77 +704,105 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【低質量恆星】kē-chit-liōng hêng-chhiⁿ/kē tsit-liōng hîng-tshinn/低質量恆星/low mass star
 - 【低質量恆星】kē-chit-liōng hêng-chhiⁿ/kē-tsit-liōng hîng-tshinn/低質量恆星/low-mass star
 - 【低軌道踅地衛星】kē kúi-tō se̍h-tē-ūi-chhiⁿ/kē kuí-tō se̍h-tē-uī-chhiⁿâ/低軌道繞地衛星/low-Earth orbit satellite
+- 【佛光】hu̍t-kng/hu̍t-kng/佛光/crepuscular rays
 - 【佛光】hu̍t-kng/hu̍t-kng/佛光、耶穌光/crepuscular rays
 - 【侏儒星雲】Chu-jû-seng-hûn/Tsu-jû-sing-hûn/侏儒星雲/Homunculus Nebula
 - 【侵蝕】chhim-sit/tshim-sit/侵蝕/erode
 - 【侵蝕】chhim-si̍t/tshim-si̍t/侵蝕/erode
+- 【侵蝕風】chhim-sit-hong/tshim-sit-hong/侵蝕風/abrasive wind
 - 【信使號太空船】Sìn-sú-hō thài-khong-chûn/Sìn-sú-hō thài-khong-tsûn/信使號太空船/MESSENGER spacecraft
+- 【倒反彗尾】tò-péng hūi-bóe/tò-píng huī-bué/反彗尾/anti-tail
+- 【倒反色】tò-péng-sek/tò-píng-sik/反轉色/color-inverted
+- 【倒反色】tò-péng-sek/tò-píng-sik/反轉色/inverted color
 - 【倒照影】tò-chiò-iáⁿ/tò-tsiò-iánn/倒影/watery reflection
+- 【候選天體】hāu-soán thian-thé/hāu-suán thian-thé/候選天體/candidates
+- 【假色】ká-sek/ká-sik/假色/false color
 - 【假色】ká-sek/ká-sik/假色/false-color
 - 【假色影像】ká-sek iáⁿ-siōng/ká-sik iánn-siōng/假色影像/false-color image
+- 【假說】ká-soat/ká-suat/假說/hypothes
 - 【假說】ká-soat/ká-suat/假說/hypothesis
 - 【偏光鏡】phian-kng-kiàⁿ/phian-kng-kiànn/偏光鏡/polaroid glasses
 - 【偏振儀】phian-chìn-gî/phian-tsìn-gî/偏振儀/Polarimetry
-- 【偏振光】phian-chìn-kng/phian-tsìn-kng/偏振光/polarization
 - 【偏振光】phian-chìn-kng/phian-tsìn-kng/偏振光/polarized light
 - 【偏食】phian-si̍t/phian-si̍t/環食/partial eclipse
 - 【偏食月】phian-si̍t-goe̍h/phian-si̍t-gue̍h/偏食月/partially eclipsed Moon
 - 【停車跤】thêng-chhia-kha/thîng-tshia-kha/降落支架/landing leg
 - 【側向】chhek-hiòng/chhek-hiòng/側向/edge-on
+- 【側向】chhek-hiòng/tshik-hiòng/側向/edge-on
 - 【側向星系】chhek-hiòng seng-hē/tshik-hiòng sing-hē/側向星系/edge-on galaxy
 - 【側向星系】chhek-hiòng-seng-hē/tshik-hiòng-sing-hē/側向星系/edge-on galaxy
 - 【側向速度】chhek-hiòng-sok-tō͘/tshik-hiòng-sok-tōo/側向速度/sideway velocity
+- 【側爿】chhek-pêng/tshik-pîng/側方/side
 - 【側面】chhek-bīn/tshik-bīn/側面/side
+- 【偵察兵】cheng-chhat-peng/tsing-tshat-ping/偵察兵/scout
 - 【偵探】cheng-thàm/tsing-thàm/偵探/detective
+- 【偵測】cheng-chhek/tsing-tshik/偵測/detect
 - 【備用地圖】pī-iōng tē-tô͘/pī-iōng tē-tôo/備用地圖/spare maps
 - 【像素】siōng-sò͘/siōng-sòo/像素/pixel
 - 【儉】khiām/khiām/存/hold
+- 【元素】goân-sò͘/guân-sòo/元素/element
 - 【兆】tiāu/tiāu/兆/trillion
 - 【先進巡天 kha-mé-lah】Sian-chìn-sûn-thian kha-mé-lah/Sian-tsìn-sûn-thian kha-mé-lah/先進巡天照相機/Advanced Camera for Surveys
 - 【先進巡天 Kha-mé-lah】Sian-chìn Sûn-thian Kha-mé-lah/Sian-tsìn Sûn-thian Kha-mé-lah/先進巡天照相機/Advanced Camera for Surveys
 - 【光分】kng-hun/kng-hun/光分/light-minute
+- 【光分】kng-hun/kng-hun/光分/light-minutes
+- 【光分】kng-hun/kng-hun/光分/light-minutes 
+- 【光區】kng-khu/kng-khu/光區/light zone
+- 【光區】kng-khu/kng-khu/光區/light zones
 - 【光區】kng-khu/kng-khu/區/zones
 - 【光奈秒】kng-nāi-bió/kng-nāi-bió/光奈秒/light-nanosecond
+- 【光子】kng-chú/kng-tsú/光子/photon
 - 【光子環】kng-chú-khoân/kng-tsú-khuân/光子環/event horizon
 - 【光學望遠鏡】kng-ha̍k bōng-oán-kiàⁿ/kng-ha̍k bōng-uán-kiànn/光學望遠鏡/optical telescope
+- 【光學望遠鏡】kng-ha̍k bōng-oán-kiàⁿ/kng-ha̍k bōng-uán-kiànn/光學望遠鏡/optical telescopes
 - 【光學望遠鏡陣列】kng-ha̍k bōng-oán-kiàⁿ tīn-lia̍t/kng-ha̍k bōng-uán-kiànn tīn-lia̍t/光學望遠鏡陣列/an array of optical telescopes
 - 【光害】kng-hāi/kng-hāi/光害/light pollution
+- 【光尖】kng-chiam/kng-tsiam/針狀光芒/spike
 - 【光巡】kng-sûn/kng-sûn/光痕/streak
 - 【光帶】kng-tòa/kng-tuà/光帶/bands of light
 - 【光帶】kng-tòa/kng-tuà/光帶/light band
 - 【光年】kng-nî/kng-nî/光年/light year
 - 【光年】kng-nî/kng-nî/光年/light-year
 - 【光度】kng-tō͘/kng-tōo/光度/luminosity
-- 【光度資料】kng-tō͘ chu-liāu/kng-tō͘ chu-liāu/光度資料/photometry
 - 【光弧】kng-hô͘/kng-hôo/光弧/arc
 - 【光弧】kng-hô͘/kng-hôo/光弧/light arc
 - 【光弧】kng-hô͘/kng-hôo/光弧/luminous arc
 - 【光批】kng-phoe/kng-phue/明信片/postcard
 - 【光映映】kng-iàⁿ-iàⁿ/kng-iànn-iànn/光采奪目燈火通明/brightly-lit
+- 【光時】kng-sî/kng-sî/光時/light-hour
 - 【光暈】kng-n̄g/kng-n̄g/光暈/halo
 - 【光暗對比】kng-àm tùi-pí/kng-àm tùi-pí/明暗對比/chiaroscuro
 - 【光柱】kng-thiāu/kng-thiāu/光柱/light pillar
 - 【光柱】kng-thiāu/kng-thiāu/光柱/light pillars
 - 【光爆】kng-po̍k/kng-po̍k/光爆/burst of light
 - 【光球層】kng-kiû-chân/kng-kiû-tsân/光球層/photosphere
+- 【光產物】kng-sán-bu̍t/kng-sán-bu̍t/光產物/the production of light
+- 【光秒】kng-bió/kng-bió/光秒/light-second
 - 【光節】kng-chat/kng-tsat/光節/knot
 - 【光致發光】kng-tì hoat-kng/kng-tì huat-kng/光致發光/photoluminesence
 - 【光譜】kng-phó͘/kng-phóo/光譜/spectrum
 - 【光譜儀】kng-phó͘-gî/kng-phóo-gî/光譜儀/spectrograph
 - 【光跡】kng-jiah/kng-jiah/星軌/star trail
+- 【光跡】kng-jiah/kng-jiah/軌跡/track
 - 【光路】kng-lō͘/kng-lōo/光徑/light path
 - 【光錐】kng-chui/kng-tsui/光錐/cone of light
 - 【入侵星系】ji̍p-chhim seng-hē/ji̍p-tshim sing-hē/入侵星系/intruder galaxy
 - 【入侵星系】ji̍p-chhim-seng-hē/ji̍p-tshim-sing-hē/入侵星系/intruder galaxy
+- 【內反射】lōe-hoán-siā/luē-huán-siā/內反射/internal reflection
 - 【內在自旋】lōe-chāi-chū-soân/luē-tsāi-tsū-suân/內在自旋/intrinsic spin
+- 【內太陽系】Lāi Thài-iông-hē/Lāi Thài-iông-hē/內太陽系/Inner Solar System
+- 【內太陽系】lāi-thài-iông-hē/lāi-thài-iông-hē/內太陽系/the inner Solar System
 - 【內太陽系】lōe thài-iông-hē/luē thài-iông-hē/內太陽系/inner solar system
 - 【內太陽系】lōe-thài-iông-hē/luē-thài-iông-hē/內太陽系/inner Solar System
 - 【內太陽系】Lōe-thài-iông-hē/Luē-thài-iông-hē/內太陽系/inner solar system
+- 【內太陽系】Lōe-thài-iông-hē/Luē-thài-iông-hē/內太陽系/inner-Solar System
 - 【內太陽系】Lōe-thài-iông-hē/Luē-thài-iông-hē/內太陽系/Inner solar system
 - 【內太陽系】Lōe-thài-iông-hē/Luē-thài-iông-hē/內太陽系/Inner Solar system
+- 【內太陽系】Lōe Thài-iông-hē/Luē Thài-iông-hē/內太陽系/inner Solar System
 - 【內太陽系】Lōe Thài-iông-hē/Luē Thài-iông-hē/內太陽系/Inner Solar System
 - 【內太陽系】lōe-thài-iông-hē/luē-thài-iông-hē/內太陽系/the inner Solar System
 - 【內太陽系】Lōe-thài-iông-hē/Luē-thài-iông-hē/內太陽系/the inner Solar System
+- 【內捲螺仔手骨】lāi kńg-lê-á chhiú-kut/lāi kńg-lê-á tshiú-kut/內旋臂/inner spiral arm
 - 【內海仔星雲】Lāi-hái-á seng-hûn/Lāi-hái-á sing-hûn/星雲/the Lagoon Nebula
 - 【內海仔星雲】Lāi-hái-á seng-hûn/Lāi-hái-á sing-hûn/潟湖星雲/Lagoon Nebula
 - 【內海仔星雲】Lāi-hái-á-seng-hûn/Lāi-hái-á-sing-hûn/潟湖星雲/Lagoon Nebula
@@ -436,13 +810,15 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【內海仔星雲】Lāi-hái-á seng-hûn/Lāi-hái-á sing-hûn/礁湖星雲/Lagoon Nebula
 - 【內海仔星雲】Lāi-hái-á-seng-hûn/Lāi-hái-á-sing-hûn/礁湖星雲/Lagoon Nebula
 - 【內海仔星雲】Lāi-hái-á-seng-hûn/Lāi-hái-á-sing-hûn/礁湖星雲/the Lagoon nebula
+- 【內海仔星雲】Lāi-hái-á-seng-thoân/Lāi-hái-á-sing-thuân/潟湖星雲/the Lagoon Nebula
 - 【內環】lāi-khoân/lāi-khuân/內環/inner ring
 - 【內蒙古】Lāi-bông-kó͘/Lāi-bông-kóo/內蒙古/Inner Mongolia
+- 【內行星】lōe-kiâⁿ-chheⁿ/luē-kiânn-tshenn/內行星/inner planets
 - 【內行星】lōe-kiâⁿ-chhiⁿ/luē-kiânn-tshinn/內行星/inner planet
 - 【內行星】Lōe-kiâⁿ-chhiⁿ/Luē-kiânn-tshinn/內行星/inner planet
+- 【內行星】lōe-kiâⁿ-chhiⁿ/luē-kiânn-tshinn/內行星/inner planets
 - 【內部太陽系】lōe-pō͘ Thài-iông-hē/luē-pōo Thài-iông-hē/內部太陽系/innter Solar System
 - 【內部太陽系】Lōe-pō͘ Thài-iông-hē/Luē-pōo Thài-iông-hē/內部太陽系/the Inner Solar System
-- 【內部結構地動實驗】Lōe-pō͘ Kiat-kò͘ Tē--tāng Si̍t-giām/Luē-pōo Kiat-kòo Tē--tāng Si̍t-giām/內部結構地動實驗/the Seismic Experiment for Interior Structure (SEIS)
 - 【全像原理】Choân-siōng-goân-lí/Tsuân-siōng-guân-lí/全像原理/the Holographic Principle
 - 【全天投影圖】choân-thian tâu-iáⁿ-tô͘/tsuân-thian tâu-iánn-tôo/全天投影圖/the projected all-sky view
 - 【全家福】choân-ka-hok/tsuân-ka-hok/全家福/family portrait
@@ -454,8 +830,10 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【全球暖化】choân-kiû loán-hòa/tsuân-kiû luán-huà/全球暖化/global warming
 - 【全食】choân-si̍t/tsuân-si̍t/全食/total eclipse
 - 【八大行星】Pe̍h-tōa-kiâⁿ-chhiⁿ/Pe̍h-tuā-kiânn-tshinn/八大行星/planets of the Solar System
+- 【八星連珠】peh-chhiⁿ-liân-chu/peh-tshinn-liân-tsu/八星連珠/line up of 8 objects
 - 【八星連珠】peh-chhiⁿ-liân-chu/peh-tshinn-liân-tsu/八星連珠/line up of 8 planets
 - 【公寓】kong-gū/kong-gū/公寓/apartment
+- 【公轉】kong-choán/kong-tsuán/公轉/orbit
 - 【六角形】la̍k-kak-hêng/la̍k-kak-hîng/六角形/hexagonal
 - 【六角形】la̍k-kak-hêng/la̍k-kak-hîng/六邊形/hexagonal
 - 【六角形冰晶】la̍k-kak-hêng peng-chiⁿ/la̍k-kak-hîng ping-tsinn/六角形冰晶/hexagonal ice crystals
@@ -463,78 +841,122 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【六角柱仔形冰】la̍k-kak-thiāu-á-hêng-peng/la̍k-kak-thiāu-á-hîng-ping/六角形冰柱/hexagon-shaped ice-tube
 - 【六角盤仔形冰】la̍k-kak-pôaⁿ-á-hêng-peng/la̍k-kak-puânn-á-hîng-ping/六角形冰盤/hexagon-shaped ice-disk
 - 【六角鏡】la̍k-kak-kiàⁿ/la̍k-kak-kiànn/六角形鏡/hexagonal mirror
+- 【六角鏡】la̍k-kak-kiàⁿ/la̍k-kak-kiànn/六角鏡/hexagonal mirror
+- 【六角雲】la̍k-kak-hûn/la̍k-kak-hûn/六角雲/hexagonal cloud
+- 【六角雲】la̍k-kak-hûn/la̍k-kak-hûn/六角雲/hexagon cloud
 - 【共同質心】kiōng-tông chit-sim/kiōng-tông tsit-sim/共同質心/a common center of mass
 - 【共生變星】kiōng-seng piàn-seng/kiōng-sing piàn-sing/共生變星/symbiotic variable
+- 【冥王星】Bêng-ông-chheⁿ/Bîng-ông-tshenn/冥王星/Pluto
 - 【冥王星】Bêng-ông-chhiⁿ/Bîng-ông-tshinn/冥王星/Pluto
+- 【冬夏至點】tang-hā chì-tiám/tang-hā tsì-tiám/冬夏至點/solstice
 - 【冬季六角形】Tang-kùi la̍k-kak-hêng/Tang-kuì la̍k-kak-hîng/冬季六角形/Winter hexagon
 - 【冬季六角形星群】Tang-kùi-la̍k-kak-hêng seng-kûn/Tang-kuì-la̍k-kak-hîng sing-kûn/冬季六邊形星群/the winter hexagon asterism
 - 【冬節】tang-cheh/tang-tseh/冬節/December Solstice
 - 【冬節】tang-cheh/tang-tseh/冬節/winter solstice
+- 【冬節】tang-cheh/tang-tseh/冬至/the December solstice
 - 【冬節】tang-cheh/tang-tseh/冬至/winter solstice
 - 【冬至】tang-chi/tang-tsi/冬至/winter solstice
 - 【冰原】peng-goân/ping-guân/冰原/ice plains
 - 【冰崖】peng-gâi/ping-gâi/冰崖/ice cliff
+- 【冰巨行星】peng-kū-kiâⁿ-chhiⁿ/ping-kū-kiânn-tshinn/冰巨行星/ice giant
 - 【冰巨行星】Peng-kū kiâⁿ-chhiⁿ/Ping-kū kiânn-tshinn/冰巨行星/Ice giant
+- 【冰巨行星】Peng-kū-kiâⁿ-chhiⁿ/Ping-kū-kiânn-tshinn/冰巨行星/Ice Giant
 - 【冰晶】peng-chiⁿ/ping-tsinn/冰晶/ice crystal
 - 【冰晶】peng-chiⁿ/ping-tsinn/冰晶/ice crystals
 - 【冰晶】peng-chiⁿ/ping-tsinn/冰晶/ice-crystals
+- 【冰晶煙】peng-chiⁿ-ian/ping-tsinn-ian/冰晶羽流/plumes of ice crystals
 - 【冰暈】peng-n̄g/ping-n̄g/冰暈/ice halo
+- 【冰珠】peng-chu//冰粒/droplet of ice
+- 【凌日】lêng-ji̍t/lîng-ji̍t/凌日/solar transit
 - 【凌日】lêng-ji̍t/lîng-ji̍t/凌日/transit
+- 【凌星】lêng-chhiⁿ/lîng-tshinn/凌星/transit
+- 【凌星行星佮原行星小望遠鏡】lêng-chheⁿ kiâⁿ-chheⁿ kah goân-kiâⁿ-chheⁿ sió bōng-oán-kiàⁿ/lîng-tshenn kiânn-tshenn kah guân-kiânn-tshenn sió bōng-uán-kiànn/凌星行星及原行星小望遠鏡/Transiting Planets and Planetesimals Small Telescope (TRAPPIST)
+- 【凌月】lêng-goe̍h/lîng-gue̍h/凌月/lunar transit
 - 【凌木現象】lêng-bo̍k hiān-siōng/lîng-bo̍k hiān-siōng/凌木現象/transit Jupiter
+- 【分子氣體】hun-chú-khì-thé/hun-tsú-khì-thé/分子氣體/molecular gas
 - 【分子複合體】hun-chú-ho̍k-ha̍p-thé/hun-tsú-ho̍k-ha̍p-thé/分子複合體/molecular complex
 - 【分子雲】hun-chú-hûn/hun-tsú-hûn/分子雲/molecular cloud
 - 【分子雲】hūn-chú-hûn/hūn-tsú-hûn/分子雲/molecular cloud
+- 【分子雲複合體】hun-chú-hûn hok-ha̍p-thé/hun-tsú-hûn hok-ha̍p-thé/分子雲複合體/molecular cloud complex
 - 【分子雲複合體】hun-chú-hûn ho̍k-ha̍p-thé/hun-tsú-hûn ho̍k-ha̍p-thé/分子雲複合體/molecular cloud complex
 - 【分子雲複合體】hūn-chú-hûn ho̍k-ha̍p-thé/hūn-tsú-hûn ho̍k-ha̍p-thé/分子雲複合體/Molecular Cloud Complex
 - 【分解】hun-kái/hun-kái/分解/break
+- 【初期恆星體】chho͘-kî hêng-chheⁿ-thé/tshoo-kî hîng-tshenn-thé/初期恆星體/young stellar object (YSO)
 - 【到今】kàu-taⁿ/kàu-tann/至今/till now
 - 【剛性轉踅運動】kong-sèng tńg-se̍h ūn-tōng/kong-sìng tńg-se̍h ūn-tōng/剛性旋轉運動/rigidly-rotation motion
 - 【剪切風】chián-chhiat-hong/tsián-tshiat-hong/剪切風/shearing wind
+- 【剪影】chián-iáⁿ/tsián-iánn/剪影/silhouette
 - 【創生之柱】Chhòng-seng-chi-thiāu/Tshòng-sing-tsi-thiāu/創生之柱/Pillars of Creation
+- 【創生之柱】Chhòng-seng chi Thiāu/Tshòng-sing tsi Thiāu/創生之柱/Pillars of Creation
+- 【劍魚座 30】Kiàm-hî-chō saⁿ-cha̍p/Kiàm-hî-tsō sann-tsa̍p/劍魚座 30/30 Doradus
 - 【劍魚座】Kiàm-hî-chō/Kiàm-hî-tsō/劍魚座/Dorado
+- 【加利略】Ka-lī-lio̍h/Ka-lī-lio̍h/加利略/Galileo
 - 【加利略四大衛星】Ka-lī-lio̍h Sù-tōa-ūi-chhiⁿ/Ka-lī-lio̍h Sù-tuā-uī-tshinn/加利略四大衛星/Galileon moon
+- 【加利略太空船】Ka-lī-lioh thài-khong-chûn/Ka-lī-lioh thài-khong-tsûn/加利略太空船/Galileo spacecraft
 - 【加利略太空船】Ka-lī-lio̍h thài-khong-chûn/Ka-lī-lio̍h thài-khong-tsûn/加利略太空船/Galileo spacecraft
+- 【加利略太空船】Ka-lī-lio̍h Thài-khong-chûn/Ka-lī-lio̍h Thài-khong-tsûn/加利略太空船/Galileo spacecraft
+- 【加利略衛星】Ka-lī-lioh ōe-chheⁿ/Ka-lī-lioh uē-tshenn/加利略衛星/Galilean moons
+- 【加利略衛星】Ka-lī-lio̍h ūi-chhiⁿ/Ka-lī-lio̍h uī-tshinn/加利略衛星/Galilean moon
 - 【加利略衛星】Ka-lī-lio̍h ūi-chhiⁿ/Ka-lī-lio̍h uī-tshinn/加利略衛星/Galilean moons
 - 【加州星雲】Ka-chiu-seng-hûn/Ka-chiu-sing-hûn/加州星雲/the California Nebula
 - 【加州星雲】Ka-chiu-seng-hûn/Ka-tsiu-sing-hûn/加州星雲/California Nebula
 - 【加州星雲】Ka-chiu-seng-hûn/Ka-tsiu-sing-hûn/加州星雲/the California
 - 【加州星雲】Ka-chiu seng-hûn/Ka-tsiu sing-hûn/加州星雲/the California Nebula
+- 【加州星雲】Ka-chiu-seng-hûn/Ka-tsiu-sing-hûn/加州星雲/the California Nebula
 - 【加拿大】Ka-ná-tà/Ka-ná-tà/加拿大/Canada
+- 【動力飛行】tōng-le̍k hui-hêng/tōng-li̍k hui-hîng/動力飛行/powered fly by
+- 【動力飛行】tōng-le̍k hui-hêng/tōng-li̍k hui-hîng/動力飛行/powered flyby
 - 【動態視覺化】tōng-thài sī-kak-hòa/tōng-thài sī-kak-huà/動態視覺化/dynamic visualization
+- 【動畫】tōng-ōe/tōng-uē/動畫/animation
 - 【勼】kiu/kiu/縮短的/foreshortened
 - 【匈牙利】Hiong-gâ-lī/Hiong-gâ-lī/匈牙利/Hungary
 - 【匕首形】pí-siú hêng/pí-siú hîng/匕首形/dagger-like
 - 【化學分析儀】hòa-ha̍k hun-sek-gî/huà-ha̍k hun-sik-gî/化學分析儀/chemical analyzers
+- 【化學性發光】hòa-ha̍k-sèng hoat-kng/huà-ha̍k-sìng huat-kng/化學發光/chemiluminescence
 - 【化石】hòa-chio̍h/huà-tsio̍h/化石/fossil
+- 【北冕座】Pak-bián-chō/Pak-bián-tsō/北冕座/Corona Borealis
 - 【北十字】Pak-si̍p-jī/Pak-si̍p-jī/北十字/Northern Cross
 - 【北十字】Pak-si̍p-jī/Pak-si̍p-jī/北十字座/the Northern Cross
 - 【北十字座】Pak-si̍p-jī-chō/Pak-si̍p-jī-tsō/北十字座/the Northern Cross
 - 【北半球】pak-pòaⁿ-kiû/pak-puànn-kiû/北半球/northern hemisphere
 - 【北半球】Pak-pòaⁿ-kiû/Pak-puànn-kiû/北半球/northern hemisphere
+- 【北半球】pak-pòaⁿ-kiû/pak-puànn-kiû/北半球/north hemishpere
 - 【北半球】pak-pòaⁿ-kiû/pak-puànn-kiû/北半球/north hemisphere
 - 【北半球】pak-pòaⁿ-kiû/pak-puànn-kiû/北半球/the northern hemisphere
+- 【北半球】pak-pòaⁿ-kiû/pak-puànn-kiû/北半球/thenorthern hemisphere
 - 【北半球】pak-pòaⁿ-kiû/pak-puànn-kiû/北半球/the North hemisphere
+- 【北天極】Pak-thian-ke̍k/Pak-thian-ki̍k/北天極/the North Celestial Pole
 - 【北天極】Pak-thian-ke̍k/Pak-thian-ki̍k/北天極/the North Celestial Pole (NCP)
 - 【北斗星】Pak-táu-chhiⁿ/Pak-táu-tshinn/北斗七星/Big Dipper
+- 【北斗星】Pak-táu-chhiⁿ/Pak-táu-tshinn/北斗七星/Big Dipper 
 - 【北斗星】Pak-táu-chhiⁿ/Pak-táu-tshinn/北斗七星/the Big Dipper
 - 【北斗星】Pak-tâu-chhiⁿ/Pak-tâu-tshinn/北斗七星/the Big Dipper
 - 【北斗星群】Pak-táu-seng-kûn/Pak-táu-sing-kûn/北斗星群/the Big Dipper asterism
 - 【北極】Pak-ke̍k/Pak-ki̍k/北極/Arctic
 - 【北極】pak-ke̍k/pak-ki̍k/北極/north pole
+- 【北極】pak-ke̍k/pak-ki̍k/北極/North Pole
+- 【北極】pak-ke̍k/pak-ki̍k/北極/the northernmost point
+- 【北極】Pak-ke̍k/Pak-ki̍k/北極/the North Pole
 - 【北極光】pak-ke̍k-kng/pak-ki̍k-kng/北極光/aurora borealis
 - 【北極光】pak-ke̍k-kng/pak-ki̍k-kng/北極光/northern lights
 - 【北極星】Pak-ke̍k-chhiⁿ/Pak-ki̍k-tshinn/北極星/
+- 【北極星】Pak-ke̍k-chhiⁿ/Pak-ki̍k-tshinn/北極星/North star Polaris
 - 【北極星】Pak-ke̍k-chhiⁿ/Pak-ki̍k-tshinn/北極星/Polaris
 - 【北極星】Pak-ke̍k-chhiⁿ/Pak-ki̍k-tshinn/北極星/Polaris, North Star
 - 【北極星】Pak-ke̍k-chhiⁿ/Pak-ki̍k-tshinn/北極星/the North Celestial pole
+- 【北極星】Pak-ke̍k-chhiⁿ/Pak-ki̍k-tshinn/北極星/the north star Polaris
 - 【北極極冠】pak-ke̍k ke̍k-koan/pak-ki̍k ki̍k-kuan/北極極冠/north polar hood
 - 【北河三】Pak-hô-sam/Pak-hô-sam/北河三/Pollux
 - 【北河二】Pak-hô-jī/Pak-hô-jī/北河二/Castor
 - 【北烏炭橐仔星雲】Pak-o͘-thòaⁿ-lok-á/Pak-oo-thuànn-lok-á/北媒袋星雲/North Coal Sack Nebula
+- 【北緯】pak-hūi/lâm-puànn-kiû/北緯/north latitude
+- 【北緯】pak-hūi/pak-huī/北緯/northern latitude
 - 【北緯】pak-hūi/pak-huī/北緯/north latitude
+- 【北美洲星雲】Pak-bí-chiu seng-hûn/Pak-bí-tsiu sing-hûn/北美洲星雲/North America nebula
 - 【北美洲星雲】Pak-bí-chiu seng-hûn/Pak-bí-tsiu sing-hûn/北美洲星雲/North America Nebula
 - 【北美洲星雲】Pak-bí-chiu-seng-hûn/Pak-bí-tsiu-sing-hûn/北美洲星雲/North America Nebula
 - 【北美洲星雲】Pak-bí-chiu seng-hûn/Pak-bí-tsiu sing-hûn/北美洲星雲/the North America Nebula
+- 【北落師門】Pak-lo̍h-su-mn̂g/Pak-lo̍h-su-mn̂g/北落師門/Fomalhaut
 - 【北雙生仔座望遠鏡】Pak Siang-siⁿ-á-chō Bōng-oán-kiàⁿ/Pak Siang-sinn-á-tsō Bōng-uán-kiànn/北雙子座望遠鏡/Gemini North telescope
 - 【十字架一】Si̍p-jī-kè it/Si̍p-jī-kè it/十字架一/Gacrux
 - 【十字架一】Si̍p-jī-kè it/Si̍p-jī-kè it/十字架一/Gamma Crucis
@@ -553,6 +975,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【半影】pòaⁿ-iáⁿ/puànn-iánn/半影/penumbra
 - 【半徑】pòaⁿ-kèng/puànn-kèng/半徑/radius
 - 【半徑】pòaⁿ-kèng/puànn-kìng/半徑/radius
+- 【協調世界時】hia̍p-tiau sè-kài-sî/hia̍p-tiau sè-kài-sî/協調世界時/Coordinated Universal Time (UTC)
 - 【協調觀測技術】hia̍p-tiau-koan-chhek-ki-su̍t/hia̍p-tiau-kuan-tshik-ki-su̍t/協調觀測技術/coordinated observations
 - 【南冕座】Lâm-bián-chō/Lâm-bián-tsō/南冕座/Corona Australis
 - 【南冕座 R】Lâm-bián-chō R/Lâm-bián-tsō R/南冕座 R/R Coronae Australis
@@ -566,7 +989,9 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【南半球】lâm-pòaⁿ-kiû/lâm-puànn-kiû/南半球/southern hemisphere
 - 【南半球】Lâm-pòaⁿ-kiû/Lâm-puànn-kiû/南半球/southern hemisphere
 - 【南半球】Lâm-pòaⁿ-kiû/Lâm-puànn-kiû/南半球/Southern Hemisphere
+- 【南半球】lâm-pòaⁿ-kiû/lām-puànn-kiû/南半球/southern hemisphere
 - 【南半球】lâm-pòaⁿ-kiû/lâm-puànn-kiû/南半球/south hemisphere
+- 【南半球】lâm-pòaⁿ-kiû/lâm-puànn-kiû/南半球/the southern hemisphere
 - 【南半球】Lâm-pòaⁿ-kiû/Lâm-puànn-kiû/南半球/the South Hemisphere
 - 【南天極】Lâm-thian-ke̍k/Lâm-thian-ki̍k/南天極/south celestial pole
 - 【南天極】Lâm-thian-ke̍k/Lâm-thian-ki̍k/南天極/the South Celestial Pole
@@ -575,26 +1000,45 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【南方古猿】Lâm-hong-kó͘-oân/Lâm-hong-kóo-uân/南方古猿/Australopithecine
 - 【南極】Lâm-ke̍k/Lâm-ki̍k/南極/Antarctica
 - 【南極】lâm-ke̍k/lâm-ki̍k/南極/south pole
+- 【南極】Lâm-ke̍k/Lâm-ki̍k/南極/the South Pole
+- 【南極區】lâm-ke̍k-khu/lâm-ki̍k-khu/南極區/south polar region
 - 【南極座 σ】Lâm-ke̍k-chō sí-ko̍h-mah/Lâm-ki̍k-tsō sí-ko̍h-mah/南極座 σ/Sigma Octantis
 - 【南極星】Lâm-ke̍k-chhiⁿ/Lâm-ki̍k-tshinn/南極星/South Star
 - 【南極星】Lâm-ke̍k-chhiⁿ/Lâm-ki̍k-tshinn/南極星/the South Celestial pole
+- 【南極望遠鏡】Lâm-ke̍k Bōng-oán-kiàⁿ/Lâm-ki̍k Bōng-uán-kiànn/南極望遠鏡/South Pole telescope
 - 【南極望遠鏡】Lâm-ke̍k bōng-oán-kiàⁿ/Lâm-ki̍k bōng-uán-kiànn/南極望遠鏡/the South Pole Telescope
+- 【南極條約】Lâm-ke̍k-tiâu-iok/Lâm-ki̍k-tiâu-iok/南極條約/the Antarctic treaty
+- 【南極極光】lâm-ke̍k ke̍k-kng/lâm-ki̍k ki̍k-kng/南極極光/aurora australis
+- 【南極極光】Lâm-ke̍k ke̍k-kng/Lâm-ki̍k ki̍k-kng/南極極光/aurora australis
+- 【南極極光】lâm-ke̍k ke̍k-kng/lâm-ki̍k ki̍k-kng/南極極光/southern auroras
 - 【南極洲】Lâm-ke̍k-chiu/Lâm-ki̍k-tsiu/南極洲/Antarctica
+- 【南環星雲】Lâm-khoân-seng-hûn/Lâm-khuân-sing-hûn/南環星雲/Southern Ring Nebula
+- 【南緯】lâm-hūi/lām-huī/南緯/southern latitude
 - 【南門星官】Lâm-mn̄g seng-koan/Lâm-mn̄g sing-kuan/南門星官/Nanmen asterism
 - 【南雙生仔天文台】Lâm Siang-siⁿ-á Thian-bûn-tâi/Lâm Siang-sinn-á Thian-bûn-tâi/南雙子天文台/the Gemini South Observatory
 - 【卡達】Khah-ta̍t/Khah-ta̍t/卡達/Qatar
+- 【卵形】nn̄g-hêng/nn̄g-hîng/蛋形/oval-shaped
 - 【厝邊恆星】chhù-piⁿ-hêng-chhiⁿ/tshù-pinn-hîng-tshinn/鄰近恆星/nearby stars
+- 【厝邊星系】chhù-piⁿ seng-hē/tshù-pinn sing-hē/厝邊星系/neighboring galaxy
 - 【厝邊星系】chhù-piⁿ-seng-hē/tshù-pinn-sing-hē/鄰近星系/nearby galaxies
 - 【厝邊星系】chhù-piⁿ seng-hē/tshù-pinn sing-hē/鄰近星系/nearby galaxy
 - 【厝邊星系】chhù-piⁿ-seng-hē/tshù-pinn-sing-hē/鄰近星系/nearby galaxy
+- 【厝邊星系】chhù-piⁿ seng-hē/tshù-pinn sing-hē/鄰近星系/nearby glaxy
 - 【厝邊星系】chhù-piⁿ seng-hē/tshù-piⁿ sing-hē/星系盤/nearby galaxy
 - 【原住民】goân-chū-bîn/guân-tsū-bîn/原住民/indigenous people
 - 【原型】goân-hêng/guân-hîng/原型/prototype
 - 【原型星】goân-hêng-chhiⁿ/guân-hîng-tshinn/原型星/prototype
+- 【原始年歲】goân-sú nî-hòe/guân-sú nî-huè/原始年歲/raw age
 - 【原始彗星】goân-sú hui-chhiⁿ/guân-sú hui-tshinn/原始彗星/pristine comet
 - 【原始輻射】goân-sú hok-siā/guân-sú hok-siā/原始輻射/primordial radiation
+- 【原子】goân-chú/guân-chú/原子/atom
+- 【原子】goân-chú/guân-tsú/原子/atom
+- 【原子核】goân-chú-he̍k/guân-tsú-hi̍k/原子核/atomic nucleus
+- 【原恆星】goân-hêng-chheⁿ/guân-hîng-tshenn/原恆星/protostars
 - 【原恆星】goân-hêng-chhiⁿ/guân-hîng-tshinn/原恆星/proto-star
+- 【原恆星】goân-hêng-chhiⁿ/guân-hîng-tshinn/原恆星/protostar
 - 【原恆星】goân-hêng-chhiⁿ/guân-hîng-tshinn/原恆星/protostars
+- 【原恆星盤】goân-hêng-chhiⁿ pôaⁿ/guân-hîng-tshinn puânnd/原恆星盤/protostellar disk
 - 【𠕇--去】tēng-khì/tīng-khì/硬化/hardened
 - 【參宿一】Chham-siù-it/Tsham-siù-it/參宿一/Alnitak
 - 【參宿七】Chham-siù-chhit/Tsham-siù-tshit/參宿七/Rigel
@@ -603,9 +1047,14 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【參宿五】Chham-siù-ngó͘/Tsham-siù-ngóo/參宿五/Bellatrix
 - 【參宿四】Chhamm-siù-sù/Tsham-siù-sù/參宿四/Betelgeuse
 - 【參宿四】Chham-siù-sù/Tsham-siù-sù/參宿四/Betelgeuse
+- 【反射】hoán-siā/huán-siā/反射/reflect
+- 【反射】hoán-siā/huán-siā/反射/reflecting
 - 【反射】hoán-siā/huán-siā/反射/reflection
+- 【反射式望遠鏡】hoán-siā-sek bōng-oán-kiàⁿ/huán-siā-sik bōng-uán-kiànn/反射式望遠鏡/reflecting telescope
+- 【反射星雲】hoán-siā-seng-hûn/huán-siā-sing-hûn/反射星雲/reflaction nebula
 - 【反射星雲】hoán-siā seng-hûn/huán-siā sing-hûn/反射星雲/reflection nebula
 - 【反射星雲】hoán-siā-seng-hûn/huán-siā-sing-hûn/反射星雲/reflection nebula
+- 【反射星雲】hoán-siā seng-hûn/huán-siā sing-hûn/反射星雲/reflection nebulae
 - 【反射星雲】hoán-siā-seng-hûn/huán-siā-sing-hûn/反射星雲/reflection nebulae
 - 【反射星雲】hoán-siā-seng-hûn/huán-siā-sing-hûn/反射星雲/reflection nebulas
 - 【反輻射點】hoán-hok-siā-tiám/huán-hok-siā-tiám/反輻射點/antiradiant
@@ -614,9 +1063,13 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【可見光波段】khó-kiàn-kng/khó-kiàn-kng/可見光波段/visible light wavelength
 - 【台北 101】Tâi-pak it-khòng-it/Tâi-pak it-khòng-it/台北 101/Taipei 101
 - 【台形星團】Tâi-hêng seng-thoân/Tâi-hîng sing-thuân/梯形星團/the Trapezium star cluster
+- 【右舷】iū-hiân/iū-hiân/右舷/starboard
+- 【合】ha̍p/ha̍p/合/conjunction
+- 【合併】ha̍p-pèng/ha̍p-pìng/合併/merge
 - 【合併】ha̍p-pèng/ha̍p-pìng/合併/merger
 - 【合併星系】ha̍p-pèng seng-hē/ha̍p-pìng sing-hē/合併星系/merging galaxies
 - 【合相】ha̍p-siòng/ha̍p-siòng/合相/conjunction
+- 【合蹛區】ha̍p-tòa-khu/ha̍p-tuà-khu/適居帶/habitable zone
 - 【同步自轉】tóng-pō͘-chū-choán/tóng-pōo-tsū-tsuán/同步自轉/synchronously rotating
 - 【同步自轉】tông-pō͘-chū-choán/tông-pōo-tsū-tsuán/同步自轉/synchronous rotation
 - 【后鬃座】hiō-chang-chō/hiō-tsang-tsō/后髮座/Coma Berenices
@@ -626,6 +1079,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【后鬃座】Hiō-chang-chō/Hiō-tsang-tsō/后髮座/the constellation Coma Bernices
 - 【向心力】hiòng-sim-le̍k/hiòng-sim-li̍k/向心力/centripetal force
 - 【吸積】khip-chek/khip-chik/吸積/accretion
+- 【吸積】khip-chek/khip-tsek/吸積/accretion
 - 【吸積物質】khip-chek bu̍t-chit/khip-tsek bu̍t-chit/吸積物質/accreting matter
 - 【吸積物質】khip-chek bu̍t-chit/khip-tsik bu̍t-tsit/吸積物質/accreting matter
 - 【吸積盤】khip-chek-pôaⁿ/khip-tsik-puânn/吸積盤/accretion disk
@@ -645,6 +1099,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【哈伯遺產資料庫】Ha-peh ûi-sán chu-liāu-khò͘/Ha-peh uî-sán tsu-liāu-khòo/哈伯遺產資料庫/Hubble Legacy Archive
 - 【哈伯遺產資料庫】Ha-peh-ûi-sán-chu-liāu-khò͘/Ha-peh-uî-sán-tsu-liāu-khòo/哈伯遺產資料庫/Hubble Legacy Archive
 - 【哈薩克】Ha-sat-khek/Ha-sat-khik/哈薩克/Kazakhstan
+- 【哈雷彗星】Ha-lûi hūi-chhiⁿ/Ha-luî huī-tshinn/哈雷彗星/Comet Halley
 - 【問號】būn-hō/būn-hō/問號/question mark
 - 【啞鈴星雲】A-lé seng-hûn/A-lé seng-hûn/啞鈴星雲/the Dumbbell Nebula
 - 【啞鐘星雲】É-cheng seng-hûn/É-tsing seng-hûn/啞鈴星雲/the Dumbbell Nebula
@@ -654,6 +1109,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【噴射煙】phùn-siā-ian/phùn-siā-ian/噴射煙/launch plume
 - 【噴流】phùn-lâu/phùn-lâu/噴流/jet
 - 【噴流】phùn-liû/phùn-liû/噴流/jet
+- 【噴流】phùn-liû/phùn-liû/噴流/jets
 - 【噴流】phùn-liû/phùn-liû/噴流/outflow
 - 【噴流絲】phùn-liû-si/phùn-liû-si/噴流絲/outflow filament
 - 【四分儀座】Sì-hun-gî-chō/Sì-hun-gî-tsō/四分儀座/Quadrantid
@@ -662,14 +1118,21 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【四星連珠】Sù-chhiⁿ-liân-chu/Sù-tshinn-liân-tsu/四星連珠/parade of 4 planets
 - 【四葉仔】sì-hio̍h-á/sì-hio̍h-á/四葉草/cloverleaf
 - 【四角形星團】Sì-kak-hêng seng-thoân/Sì-kak-hîng sing-thuân/四邊形星團/Trapezium star cluster
+- 【四跤蛇星座】Sì-kha-chôa seng-hûn/Sì-kha-tsuâ sing-hûn/蜥蜴星座/the constellation of the Lizard (Lacerta)
 - 【固體】kò͘-thé/kòo-thé/固體/solid
+- 【固體火箭推進器】kò͘-thé hóe-chìⁿ thui-chìn-khì/kòo-thé hué-tsìnn thui-tsìn-khì/固體火箭推進器/solid rocket boosters
 - 【國際天文聯合會】Kok-chè-thian-bûn-liân-ha̍p-hōe/Kok-tsè-thian-bûn-liân-ha̍p-huē/國際天文聯合會/International Astronomical Union
+- 【國際天文聯合會】Kok-chè Thian-bûn Liân-ha̍p-hōe/Kok-tsè Thian-bûn Liân-ha̍p-huē/國際天文聯合會/International Astronomical Union (IAU)
 - 【國際太空站】Kok-chè-thài-khong-chām/Kok-chè-thài-khong-chām/國際太空站/the International Space Station
 - 【國際太空站】Kok-chè thài-khong-chām/Kok-tsè thài-khong-tsām/國際太空站/International Space Station
 - 【國際太空站】Kok-chè-thài-khong-chām/Kok-tsè-thài-khong-tsām/國際太空站/International Space Station
+- 【國際太空站】Kok-chè Thài-khong-chām/Kok-tsè Thài-khong-tsām/國際太空站/International Space Station
 - 【國際太空站】Kok-chè-thài-khong-chām/Kok-tsè-thài-khong-tsām/國際太空站/International Space Station (ISS)
+- 【國際太空站】Kok-chè Thài-khong-chām/Kok-tsè Thài-khong-tsām/國際太空站/International Space Station (ISS)
 - 【國際太空站】Kok-chè-thài-khong-chām/Kok-tsè-thài-khong-tsām/國際太空站/the International Space Station (ISS)
 - 【國際太空站】Kok-chè-thài-khong-chûn/Kok-tsè-thài-khong-tsûn/國際太空站/International Space Station (ISS)
+- 【國際太空站】Kok-chè-thài-khong-chûn/Kok-tsè-thài-khong-tsûn/國際太空站/the International Space Station (ISS)
+- 【國際換日線】Kok-chè Ōaⁿ-ji̍t-sòaⁿ/Kok-chè Ōaⁿ-ji̍t-sòaⁿ/國際換日線/International Date Line
 - 【國際暗天協會】Kok-chè-àm-thian-hia̍p-hōe/Kok-tsè-àm-thian-hia̍p-huē/國際暗天協會/International Dark-Sky Association
 - 【國際流星組織】Kok-chè-liû-chhiⁿ-cho͘-chit/Kok-tsè-liû-tshinn-tsoo-tsit/國際流星組織/International Meteor Organization
 - 【國際觀月之夜】Kok-chè-koan-goe̍h-chi-iā/Kok-tsè-kuan-gue̍h-tsi-iā/國際觀月之夜/International Observe the Moon Night
@@ -677,38 +1140,60 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【圓厝頂】îⁿ-chhù-téng/înn-tshù-tíng/圓厝頂/dome
 - 【圓厝頂】îⁿ-chhù-téng/înn-tshù-tíng/圓頂/dome
 - 【圓形極光】îⁿ-hêng ke̍k-kng/înn-hîng ki̍k-kng/圓形極光/circular auroras
+- 【圓形波】îⁿ-hêng-pho/înn-hîng-pho/圓形波/circular ripples
 - 【圓栱橋】oân-kong-kiô/uân-kong-kiô/拱橋/arches
 - 【圓筒】îⁿ-tâng/înn-tâng/圓柱/cylinder
+- 【圓箍仔波】îⁿ-kho͘-á-pho/înn-khoo-á-pho/圓形波/circular ripple
+- 【圓箍仔虹】îⁿ-kho͘-á-khēng/înn-khoo-á-khīng/圓形彩虹/circle rainbow
 - 【圓錐星雲】Îⁿ-chui seng-hûn/Înn-tsui sing-hûn/錐狀星雲/Cone Nebula
+- 【圓錐星雲】Îⁿ-chui-seng-hûn/ÎNN-tsui-sing-hûn/錐狀星雲/the Cone Nebula
 - 【圓錐體】îⁿ-chui-thé/înn-tsui-thé/圓錐體/cone
+- 【圖形術語】tô͘-hêng su̍t-gí/tôo-hîng su̍t-gí/圖形術語/graphic terms
 - 【土星】Thó͘-chhiⁿ/Thóo-tshinn/土星/Saturn
 - 【土星環】Thó͘-chhiⁿ-khoân/Thóo-tshinn-khuân/土星環/ring
+- 【土星環】Thó͘-chhiⁿ-khoân/Thóo-tshinn-khuân/土星環/ring of Saturn
 - 【土星環】thó͘-chhiⁿ-khoân/thóo-tshinn-khuân/土星環/rings of Saturn
 - 【土星環】Thó͘-chhiⁿ-khoân/Thóo-tshinn-khuân/土星環/Saturn's ring
 - 【土星環】Thó͘-chhiⁿ-khoân/Thóo-tshinn-khuân/土星環/Saturns' ring
 - 【土星環】Thó͘-chhiⁿ-khoân/Thóo-tshinn-khuân/土星環/Saturn's Rings
+- 【土星環】Thó͘-chhiⁿ-khoân/Thóo-tshinn-khuân/土星環/Saturn's rngs
 - 【土星環】Thó͘-chhiⁿ-khoân//土星環/Saturn's Ring
+- 【土耳其】Thó͘-jíⁿ-kî/Thóo-jínn-kî/土耳其/Turkey
 - 【土耳其】Thó͘-ní-kî/Thóo-ní-kî/土耳其/Turkey
 - 【土衛】Thó͘-ūi/Thóo-uī/土衛/Moon of Saturn
 - 【土衛】Thó͘-ūi/Thóo-uī/土衛/Saturn's moon
 - 【土衛】Thó͘-ūi/Thóo-uī/土衛/Saturn's Moon
+- 【土衛一 Mimas】Thó͘-ūi-i̍t Mimas/Thóo-uī-i̍t Mimas/土衛一彌瑪斯/Mimas
+- 【土衛二 Enceladus】Thó͘-ūi-jī/Thóo-uī-jī/土衛二 Enceladus/Enceladus
+- 【土衛五 Rhea】Thó͘-ūi-gō͘ Rhea/Thóo-uī-gōo Rhea/土衛五/Rhea
 - 【土衛六 Titan】Thó͘-ūi la̍k Titan/Thóo-uī la̍k Titan/土衛六泰坦/Titan
+- 【地下海洋】tē-hā hái-iûⁿ/tē-hā hái-iûnn/地下海洋/below-surface sea
 - 【地中海】Tē-tiong-hái/Tē-tiong-hái/地中海/Mediterranean
 - 【地光】tē-kng/tē-kng/地光/earthshine，earthlight
 - 【地光反照】tē-kng hoán-chiò/tē-kng huán-tsiò/地光反照/earthshine
 - 【地光反照】tē-kng hoán-chiò/tē-kng huán-tsiò/地球反照/earthshine
 - 【地出】Tē-chhut/Tē-tshut/地出/Earthrise
+- 【地動波】tē-tāng-pho/tē-tāng-pho/地震波/seismic waves
+- 【地動調查】Tē-tāng-tiâu-cha/Tē-tāng-tiâu-tsa/地震調查/Seismic investigations
+- 【地平線】tē-pêng-sòaⁿ/tē-pîng-suànn/地平線/hoirzon
 - 【地平線】tē-pêng-sòaⁿ/tē-pîng-suànn/地平線/horizon
+- 【地方農業】tē-hng lông-gia̍p/tē-hng lông-gia̍p/地方農業/local agriculture
+- 【地熱活跳區】tē-jia̍t oa̍h-thiàu-khu/tē-jia̍t ua̍h-thiàu-khu/地熱活躍區/geothermally active area
 - 【地球低層軌道】Tē-kiû kē-chân kúi-tō/Tē-kiû kē-tsân kuí-tō/地球低層軌道/low Earth orbit
+- 【地球光】Tē-kiû-kng/Tē-kiû-kng/地球光/Earthlight
 - 【地球同步衛星】Tē-kiû-tông-pō͘-ūi-chhiⁿ/Tē-kiû-tông-pōo-uī-tshinn/地球同步衛星/geostationary satellite
 - 【地球同步軌道】Tē-kiû tóng-pō͘-kúi-tō/Tē-kiû tóng-pōo-kuí-tō/地球同步軌道/geosynchronous orbit
 - 【地球同步軌道】tē-kiû tông-pō͘-kúi-tō/tē-kiû tông-pōo-kuí-tō/地球同步軌道/geosynchronous orbit
 - 【地球自轉】tē-kiû chū-choán/tē-kiû tsū-tsuán/地球自轉/Earth spin
 - 【地理南極】tē-lí-lâm-ke̍k/tē-lí-lâm-ki̍k/地理南極/the geographic South Pole
+- 【地磁】tē-chû/tē-tsû/地磁/geomagnetic
 - 【地磁風暴】tē-chû hong-pō/tē-tsû hong-pō/地磁風暴/geomagnetic storm
+- 【地落】tē-lo̍h/tē-lo̍h/地落/Earthset
 - 【地落】Tē-lo̍h/Tē-lo̍h/地落/Earthset
+- 【地質工程】tē-chit/tē-tsit/地質工程/geoengineering
 - 【地面望遠鏡】tē-bīn-bōng-oán-kiàⁿ/tē-bīn-bōng-uán-kiànn/地面望遠鏡/
 - 【地面望遠鏡】tē-bīn-bōng-oán-kiàⁿ/tē-bīn bōng-uán-kiànn/地面望遠鏡/ground-base telescope
+- 【坦平】thán-pêⁿ/thán-pênn/水平/horizontal
 - 【坦徛】thán-khiā/thán-khiā/垂直/vertical
 - 【坦徛方向】thán-khiā hong-hiòng/thán-khiā hong-hiòng/垂直方向/vertical direction
 - 【坦徛方向】thán-khiā hong-hiòng/thán-khiā hong-hiòng/垂直方向/vertical wall
@@ -716,12 +1201,17 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【坦敧】thán-khi/thán-khi/垂直/vertical
 - 【坦敧身星系】thán-khi-sin seng-hē/thán-khi-sin sing-hē/側向星系/edge-on galaxy
 - 【垃圾雪球】lah-sap soat-kiû/lah-sap suat-kiû/髒雪球/dirty snowball
+- 【城市時區】siâⁿ-chhī sî-khu/siânn-tshī sî-khu/城市時區/civil time zone
 - 【基本粒子】ki-pún-lia̍p-chú/ki-pún-lia̍p-tsú/基本粒子/elementary particle
+- 【堅】kian/kian/凝結/condense
 - 【塗帕仔】thô͘-phè-á/thôo-phè-á/擋泥板/fender
 - 【塗粉】thô͘-hún/thôo-hún/灰塵/dust
 - 【塗粉尾】thô͘-hún-bóe/thôo-hún-bué/灰塵尾/dust tail
+- 【塗粉尾溜】thô͘-hún bóe-liu/thôo-hún bué-liu/塗粉尾溜/dust tail
+- 【塗粉尾溜】thô͘-hún-bóe-liu/thôo-hún-bué-liu/塗粉尾溜/dust tail
 - 【塗粉尾溜】thô͘-hún bóe-liu/thôo-hún bué-liu/塵埃尾/dust tail
 - 【塗粉尾溜】thô͘-hún bóe-liu/thôo-hún bué-liu/灰塵尾/dust tail
+- 【塗粉尾溜】thô͘-hún-bóe-liu/thôo-hún bué-liu/灰塵尾/dust tail
 - 【塗粉尾溜】thô͘-hún-bóe-liu/thôo-hún-bué-liu/灰塵尾/dust tail
 - 【塗粉尾溜】thô͘-hún-bóe-liu/thôo-hún-bué-liu/灰塵尾/dusty tail
 - 【塗粉帶】thô͘-hún-tòa/thôo-hún-tuà/塗粉帶/dust lane
@@ -732,16 +1222,26 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【塗粉暗帶】thô͘-hún àm-tòa/thôo-hún àm-tuà/暗灰塵帶/dust lane
 - 【塗粉柱】thô͘-hún-thiāu/thôo-hún-thiāu/灰塵/dust pillar
 - 【塗粉柱】thô͘-hún-thiāu/thôo-hún-thiāu/灰塵柱/dust pillars
+- 【塗粉流】thô͘-hún-liû/thôo-hún-liû/灰塵流/dusty stream
 - 【塗粉烏帶】thô͘-hún-o͘-tòa/thôo-hún-oo-tuà/暗灰塵帶/dark dust bands
 - 【塗粉烏帶】thô͘-hún o͘-tòa/thôo-hún oo-tuà/暗灰塵帶/dark dust lane
 - 【塗粉烏帶】thô͘-hún-o͘-tòa/thôo-hún-oo-tuà/暗灰塵帶/dark dust lane
 - 【塗粉烏瘤】thô͘-hún o͘-liû/thôo-hún oo-liû/暗灰塵結/dark dust knot
+- 【塗粉粒】thô͘-hún-lia̍p/thôo-hún-lia̍p/灰塵粒/dust particle
 - 【塗粉粒】thô͘-hún-lia̍p/thôo-hún-lia̍p/灰塵粒/grains of dust
+- 【塗粉雲】thô͘-hún-hûn/thôo-hún-hûn/塗粉雲/ddust cloud
+- 【塗粉雲】thô͘-hún-hûn/thôo-hún-hûn/塵埃雲/dust cloud
 - 【塗粉雲】thô͘-hún-hûn/thôo-hún-hûn/灰塵雲/dust cloud
+- 【塗粉鬚】thô͘-hún-chhiu/thôo-hún-tshiu/灰塵鬚狀結構/dusty tendrils
 - 【塗肉】thô͘-bah/thôo-bah/土壤/soil
+- 【墜直】tūi-ti̍t/tuī-ti̍t/垂直/vertical
+- 【墨西哥】Be̍k-se-ko/Bi̍k-se-ko/墨西哥/Mexico
 - 【墨西哥潤餅】Be̍k-se-ko jūn-piáⁿ/Bi̍k-se-ko jūn-piánn/墨西哥捲餅/burrito
 - 【墨西哥灣】Be̍k-se-ko-oan/Bi̍k-se-ko-uan/墨西哥灣/the Gulf of Mexico
 - 【墨跡】ba̍k-jiah/ba̍k-jiah/墨跡/inkblot
+- 【壁毯】piah-thán/piah-thán/壁毯/tapestry
+- 【壓力波】ap-le̍k-pho/ap-li̍k-pho/壓力波/air pressure
+- 【壓力波】ap-le̍k-pho/ap-li̍k-pho/壓力波/pressure wave
 - 【夏季大三角】Hā-kùi-tōa-saⁿ-kak/Hā-kuì-tuā-sann-kak/夏季大三角/summer triangle
 - 【夏季大三角】Hā-kùi tōa-saⁿ-kak/Hā-kuì tuā-sann-kak/夏季大三角/Summer Triangle
 - 【夏季大三角】Hā-kùi-tōa-saⁿ-kak/Hā-kuì-tuā-sann-kak/夏季大三角/Summer Triangle
@@ -750,11 +1250,18 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【夏節】hā-cheh/hā-tseh/夏至/summer solstice
 - 【夏節】hā-cheh/hā-tseh/夏至/the summer solstice
 - 【夏至】hā-chì/hā-tsì/夏至/summer solstice
+- 【外太陽系】Gōa Thài-iông-hē/Guā Thài-iông-hē/外太陽系/outer solar system
+- 【外太陽系】Gōa Thài-iông-hē/Guā Thài-iông-hē/外太陽系/the outer Solar System
+- 【外捲螺仔手骨】gōa kńg-lê-á chhiú-kut/guā kńg-lê-á tshiú-kut/外旋臂/outer spiral arm
 - 【外接月暈】gōa-chiap goe̍h-n̄g/guā-tsiap gue̍h-n̄g/外接月暈/circumscribed halo
 - 【外星】gōa-seng/guā-sing/外星/alien
 - 【外星人】gōa-chhiⁿ-lâng/guā-tshinn-lâng/外星人/alien
+- 【外星人】gōa-chhiⁿ-lâng/guā-tshinn-lâng/外星人/space aliens
+- 【外星生物】gōa-chhiⁿ seng-bu̍t/guā-tshinn sing-bu̍t/外星生物/extraterrestrial life
 - 【外星生物學家】gōa-seng-seng-bu̍t-ha̍k-ka/guā-sing-sing-bu̍t-ha̍k-ka/外星生物學家/exobiologists
 - 【外環】gōa-khoân/guā-khuân/外環/outer ring
+- 【外行星】gōa-kiâⁿ-chhiⁿ/guā-kiânn-tshinn/外行星/outer planets
+- 【外行星】gōa-kiâⁿ-chhiⁿ/guā-kiânn-tshinn/外行星/the outer planet
 - 【外行星大氣遺產計畫】Gōa-kiâⁿ-chhiⁿ Tōa-khì Ûi-sán Kè-ōe/Guā-kiânn-tshinn Tuā-khì Uî-sán Kè-uē/外行星大氣遺產計畫/Outer Planets Atmospheres Legacy (OPAL) program
 - 【外部太陽系】gōa-pō͘ thài-iông-hē/guā-pōo thài-iông-hē/外部太陽系/outer solar system
 - 【外部捲螺仔手骨】gōa-pō͘ kńg-lê-á chhiú-kut/guā-pōo kńg-lê-á tshiú-kut/外旋臂/outer spiral arms
@@ -762,36 +1269,60 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【多星系統】tō-chhiⁿ-hē-thóng/tō-tshinn-hē-thóng/多星系統/a multiple system
 - 【多星系統】to-chhiⁿ hē-thóng/to-tshinn hē-thóng/多星系統/multiple star system
 - 【多星系統】tō-chhiⁿ-hē-thóng/tō-tshinn-hē-thóng/多星系統/multiple star system
+- 【多環芳烴】To-khoân-phang-kēng/To-khuân-phang-kīng/多環芳烴/polycyclic aromatic hydrocarbons (PAHs)
 - 【多細胞】to-sè-pau/to-sè-pau/多細胞/multicellular
 - 【多重光照圖】to-têng kng-chiò-tô͘/to-tîng kng-tsiò-tôo/多重光照圖/multi-temporal illumination map
 - 【多重宇宙】to-têng ú-tiū/to-tîng ú-tiū/多重宇宙/multiverse
+- 【多重感光】to-têng kám-kng/to-tîng kám-kng/多重感光/multiple exposures
 - 【多重感光】to-têng kám-kng/to-tîng kám-kng/多重曝光/multiple exposure
+- 【多重虹】to-têng-khēng/to-tîng-khīng/多重虹/supernumerary rainbows
+- 【多鏡片】to-kiàⁿ-phìⁿ/to-kiànn-phìnn/多鏡片/multi-mirror
+- 【夜光雲】iā-kng-hûn/iā-kng-hûn/夜光雲/noctilucent cloud
 - 【夜光雲】iā-kng-hûn/iā-kng-hûn/夜光雲/noctilucent clouds
+- 【夜婆星雲】Iā-pô-seng-hûn/Iā-pô-sing-hûn/夜婆星雲/Bat Nebula
 - 【夜婆星雲】Iā-pô-seng-hûn/Iā-pô-sing-hûn/蝙蝠星雲/the Bat Nebula
 - 【大分子雲】tōa hūn-chú-hûn/tuā hūn-tsú-hûn/大分子雲/large molecular cloud
+- 【大北斗】Tōa-pak-táu/Tuā-pak-táu/大北斗/Big Dipper
+- 【大地測量】tōa-tē-chhek-liông/tuā-tē-tshik-liông/大地測量/geodesy investigations
 - 【大型恆星形成複合體】tōa-hêng hêng-chhiⁿ hêng-sêng ho̍k-ha̍p-thè/tuā-hîng hîng-tshinn hîng-sîng ho̍k-ha̍p-thè/大型恆星形成區複合體/large star forming complex
+- 【大型衝擊事件】tōa-hêng chhiong-kek sū-kiāⁿ/tuā-hîng tshiong-kik sū-kiānn/巨大衝擊事件/tremendous bombardment
 - 【大小麥哲倫星雲】Tōa Sió Be̍h-thiat-lûn seng-hûn/Tuā Sió Be̍h-thiat-lûn sing-hûn/大小麥哲倫星雲/the large and small Magellanic clouds
 - 【大小麥哲倫星雲】Tōa Sió Be̍h-thiat-lûn seng-hûn/Tuā Sió Be̍h-thiat-lûn sing-hûn/大小麥哲倫星雲/the Large and Small Magellanic clouds
 - 【大小麥哲倫星雲】Tōa Sió Be̍h-thiat-lûn seng-hûn/Tuā Sió Be̍h-thiat-lûn sing-hûn/大小麥哲倫星雲/the Large and Small Magellanic Clouds
 - 【大屈折望遠鏡】Tōa-khut-chiat bōng-oán-kiàⁿ/Tuā-khut-tsiat bōng-uán-kiànn/大折射望遠鏡/Great Refractor
+- 【大彗星】Tōa-hui-chhiⁿ/Tuā-hui-tshinn/大彗星/the Great Comet
 - 【大捲螺仔】Tōa-kńg-lê-á/Tuā-kńg-lê-á/大螺旋/the Great Spiral
 - 【大氣亂流】tōa-khì-loān-liû/tuā-khì-luān-liû/大氣亂流/atmospheric turbulence
 - 【大氣層】tōa-khì-chân/tuā-khì-tsân/大氣層/atmosphere
+- 【大氣重力波】tōa-khì tiōng-le̍k-pho/tuā-khì tiōng-li̍k-pho/大氣重力波/atmospheric
+- 【大熊座】Tāi-hîm-chō/Tāi-hîm-tsō/大熊座/Big Dipper
+- 【大熊座】Tāi-hîm-chō/Tāi-hîm-tsō/大熊座/the Great Bear
 - 【大熊座】Tāi-hîm-chō/Tāi-hîm-tsō/大熊座/Ursa Major
 - 【大熊座】Tōa-hîm-chō/Tuā-hîm-tsō/大熊座/Ursa Major
+- 【大犬座 FN 星】Tāi-khián-chō F-N chhiⁿ/Tāi-khián-tsō F-N tshinn/大犬座 FN/FN Canis Majoris
 - 【大犬座】Tāi-khián-chō/Tāi-khián-tsō/大犬座/Canis Major
 - 【大犬座】Tāi-khián-chō/Tāi-khián-tsō/大犬座/the constellation of the Great Overdog
+- 【大犬座 α 星】Tāi-khián-chō alpha chhiⁿ/Tāi-khián-tsō alpha tshinn/大犬座 α/alpha Canis Major
+- 【大犬座 α 星】Tāi-khián-chō Alpha chhiⁿ/Tāi-khián-tsō Alpha tshinn/大犬座 α 星/alpha star of Canis Major
 - 【大球形星團】Tōa-kiû-hêng-seng-thoân/Tuā-kiû-hîng-sing-thuân/大球形星團/the Great Globular Cluster
 - 【大理石】tāi-lí-chio̍h/tāi-lí-tsio̍h/大理石/Marble
 - 【大管薰星雲】Tōa-kóng-hun seng-hûn/Tuā-kóng-hun sing-hûn/雪茄星雲/Cigar Galaxy
+- 【大紅斑】tōa-âng-pan/tuā-âng-pan/大紅斑/Great Red Spot
 - 【大紅斑】Tōa-âng-pan/Tuā-âng-pan/大紅斑/Great Red Spot
+- 【大紅斑】Tōa-âng-pan/Tuā-âng-pan/大紅斑/Great Red Spot (GRS)
 - 【大紅斑】Tōa-âng-pan/Tuā-âng-pan/大紅斑/the Great Red Spot
 - 【大花枝星雲】Tōa-hoe-ki seng-hûn/Tuā-hue-ki sing-hûn/巨烏賊星雲/Giant Squid nebula
+- 【大花枝星雲】Tōa-hoe-ki seng-hûn/Tuā-hue-ki sing-hûn/巨烏賊星雲/the Giant Squid Nebula
+- 【大蝎虎星雲】Tōa-giat-hó͘ seng-hûn/Tuā-giat-hóo sing-hûn/大蝎虎星雲/the Great Lacerta Nebula
 - 【大西洋】Tāi-se-iûⁿ/Tāi-se-iûnn/大西洋/Atlantic
 - 【大西洋】Tāi-se-iûⁿ/Tāi-se-iûnn/大西洋/the Atlantic Ocean
+- 【大角度噴流】tōa-kak-tō͘ phùn-liû/tuā-kak-tōo phùn-liû/大角度噴流/outflow
 - 【大角星】Tōa-kak-chhiⁿ/Tuā-kak-tshinn/大角星/Arcturus
+- 【大質量恆星】tōa-chit-liōng hêng-chheⁿ/tuā-tsit-liōng hîng-tshenn/大質量恆星/massive star
 - 【大質量恆星】tōa-chit-liōng hêng-chhiⁿ/tuā-tsit-liōng hîng-tshinn/大質量恆星/massive star
+- 【大質量恆星】tōa-chit-liōng hêng-chhiⁿ/tuā-tsit-liōng hîng-tshinn/大質量恆星/massive stars
 - 【大霹靂】Tōa-phek-le̍k/Tuā-phik-li̍k/大霹靂/Big Bang
+- 【大霹靂】Tōa-phek-le̍k/Tuā-phik-li̍k/大霹靂/the Big Band
 - 【大頭拇】tōa-thâu-bó/tuā-thâu-bó/大拇指/thumb
 - 【大麥哲倫星系】Tōa Be̍h-thiat-lûn Seng-hē/Tuā Be̍h-thiat-lûn Sing-hē/大麥哲倫星系/Large Magellanic Cloud (LMC)
 - 【大麥哲倫星系】Tōa Be̍h-thiat-lûn-seng-hē/Tuā Be̍h-thiat-lûn-sing-hē/大麥哲倫星系/the Large Magellanic Cloud
@@ -800,18 +1331,26 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【大麥哲倫星雲】Tōa Be̍h-thiat-lûn seng-hûn/Tuā Be̍h-thiat-lûn sing-hûn/大麥哲倫星雲/Large Magellanic Cloud
 - 【大麥哲倫星雲】Tōa-be̍h-thiat-lûn seng-hûn/Tuā-be̍h-thiat-lûn sing-hûn/大麥哲倫星雲/Large Magellanic Cloud (LMC)
 - 【大麥哲倫星雲】Tōa-be̍h-thiat-lûn-seng-hûn/Tuā-be̍h-thiat-lûn-sing-hûn/大麥哲倫星雲/Large Magellanic Cloud (LMC)
+- 【大麥哲倫星雲】Tōa Be̍h-thiat-lûn-seng-hûn/Tuā Be̍h-thiat-lûn-sing-hûn/大麥哲倫星雲/Large Magellanic Clouds
 - 【大麥哲倫星雲】Tōa-be̍h-thiat-lûn-seng-hûn/Tuā-be̍h-thiat-lûn-sing-hûn/大麥哲倫星雲/the Large Magellanic Cloud
 - 【大麥哲倫星雲】Tōa Be̍h-thiat-lûn seng-hûn/Tuā Be̍h-thiat-lûn sing-hûn/大麥哲倫星雲/the Large Magellanic Cloud
+- 【大麥哲倫星雲】Tōa Be̍h-thiat-lûn-seng-hûn/Tuā Be̍h-thiat-lûn-sing-hûn/大麥哲倫星雲/the Large Magellanic Cloud
+- 【大麥哲輪星雲】Tōa Be̍h-tiat-lûn seng-hûn/Tuā Be̍h-tiat-lûn sing-hûn/大麥哲輪星雲/Large Magellanic Cloud (LMC)
 - 【天兔座】Thian-thò͘-chō/Thian-thòo-tsō/天兔座/Lepus
+- 【天北極】Thian-pak-ke̍k/Thian-pak-ki̍k/天北極/North Celestial Pole
+- 【天北極】thian-pak-ke̍k/thian-pak-ki̍k/天北極/the north spin pole
 - 【天區】thian-khu/thian-khu/天區/sky region
 - 【天壇座】Thian-tôaⁿ-chō/Thian-tuânn-tsō/天壇座/the Altar
 - 【天壇座】Thian-tôaⁿ-chō/Thian-tuânn-tsō/天壇座/the constellation Ara
+- 【天宮太空站】Thian-kiong Thài-khong-chām/Thian-kiong Thài-khong-tsām/天宮太空站/Tiangong Space Station
 - 【天宮號太空站】Thian-kiong-hō thài-khong-chām/Thian-kiong-hō thài-khong-tsām/天宮號太空站/Tiangong Space Station
+- 【天宮號太空站】Thian-kiong-hō Thài-khong-chām/Thian-kiong-hō Thài-khong-tsām/天宮號太空站/Tiangong Space Station
 - 【天平動】Thian-pêng-tōng/Thian-pîng-tōng/天平動/libration
 - 【天平動】Thian-pêng-tōng/Thian-pîng-tōng/天平動/Libration
 - 【天文一號】Thian-bûn it-hō/Thian-bûn it-hō/天文一號/Tianwen-1
 - 【天文一號任務】Thian-bûn-it-hō jīm-bū/Thian-bûn-it-hō jīm-bū/天文一號任務/Tianwen-1 mission
 - 【天文單位】thian-bûn-tan-ūi/thian-bûn-tan-uī/天文單位/astronomical unit (AU)
+- 【天文單位】thian-bûn tan-ūi/thian-bûn tan-uī/天文單位/astronomical units
 - 【天文單位】thian-bûn-tan-ūi/thian-bûn-tan-ūi/天文單位/astronomical units
 - 【天文愛好者】thian-bûn ài-hòⁿ-chiá/thian-bûn ài-hònn-tsiá/天文愛好者/sky enthusiasts
 - 【天文攝影師】thian-bûn liap-iáⁿ-su/thian-bûn liap-iánn-su/天文攝影師/astrophotographer
@@ -824,14 +1363,19 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【天津一】Thian-tin-it/Thian-tin-it/天津一/Sadr
 - 【天津一】Thian-tin-it/Thian-tin-it/天津一/the Gamma Cygni
 - 【天津四】Thian-tin-sù/Thian-tin-sù/天津四/Deneb
+- 【天津四】Thian-tin-sù/Thian-tin-sù/天津四/the Deneb
 - 【天爐座 A】Thian-lô͘-chō A/Thian-lôo-tsō A/天爐座 A/Fornax A
 - 【天爐座】Thian-lô͘-chō/Thian-lôo-tsō/天爐座/Fornax
 - 【天爐座】Thian-lô͘-chō/Thian-lôo-tsō/天爐座/the chemical constellation Fornax
 - 【天爐座】Thian-lô͘-chō/Thian-lôo-tsō/天爐座/the constellation of the Furnace (Fornax)
+- 【天爐座星系團】Thian-lô͘-chō seng-hē-thoân/Thian-lôo-tsō sing-hē-thuân/天爐座星系團/Fornax Cluster of galaxies
 - 【天爐座星系團】Thian-lô͘-chō seng-hē-thoân/Thian-lôo-tsō sing-hē-thuân/天爐座星系團/the Fornax Cluster of Galaxies
 - 【天牛角】thian-gû-kak/thian-gû-kak/天牛角/the celestial bull's horn
 - 【天狼星】Thian-lông-chhiⁿ/Thian-lông-tshinn/天狼星/Sirius
 - 【天王星】Thian-ông-chhiⁿ/Thian-ông-tshinn/天王星/Uranus
+- 【天球】thian-kiû/thian-kiû/天球/celestial
+- 【天球】thian-kiû/thian-kiû/天球/celestial hemisphere
+- 【天球】thian-kiû/thian-kiû/天球/celestial sphere
 - 【天球】thian-kiû/thian-kiû/天球/the celestial sphere
 - 【天琴座】Thian-khîm-chō/Thian-khîm-tsō/天琴座/Lyra
 - 【天琴座】Thian-khîm-chō/Thian-khîm-tsō/天琴座流星/the constellation Lyra
@@ -841,6 +1385,8 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【天箭座】Thian-chìⁿ-chō/Thian-tsìnn-tsō/天箭座/Sagitta
 - 【天色圖】thiⁿ-sek-tô͘/thinn-sik-tôo/天光圖/keogram
 - 【天蠍座 Nu 星群】Thian-giat-chō Nu seng-kûn/Thian-giat-tsō Nu sing-kûn/天蠍座 Nu/Nu Scorpii
+- 【天蠍座】Thian-giat-chō/Thian-giat-tsō/天蠍座/Scopius
+- 【天蠍座】Thian-giat-chō/Thian-giat-tsō/天蠍座/Scorpion
 - 【天蠍座】Thian-giat-chō/Thian-giat-tsō/天蠍座/Scorpius
 - 【天蠍座】Thian-giat-chō/Thian-giat-tsō/天蠍座/the constellation of the Scorpion
 - 【天蠍座 δ】Thian-giat-chō Delta/Thian-giat-tsō Delta/天蠍座 δ/Delta Scorpii
@@ -848,18 +1394,26 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【天郎星】Thian-lông-chhiⁿ/Thian-lông-tshinn/天郎星/Sirius
 - 【天關】Thian-koan/Thian-kuan/天關/Zeta Tauri
 - 【天頂】Thian-téng/Thian-tíng/天頂/zenith
+- 【天頂點】Thian-téng-tiám/Thian-tíng-tiám/天頂/the zenith
 - 【天體】thian-thé/thian-thé/天體/object
 - 【天鵝座】Thian-gô-chō/Thian-gô-chō/天鵝座/Cygnus
+- 【天鵝座】Thian-gô-chō/Thian-gô-tsō/天鵝座/constellation of the Swan (Cygnus)
 - 【天鵝座】Thian-gô-chō/Thian-gô-tsō/天鵝座/Cygnus
 - 【天鵝座】Thian-gô-chō/Thian-gô-tsō/天鵝座/the constellation Cygnus
 - 【天鵝座】Thian-gô-chō/Thian-gô-tsō/天鵝座/the constellation of Cygnus
 - 【天鵝座】Thian-gô-chō/Thian-gô-tsō/天鵝座/the constellation of Swan
 - 【天鵝座】Thian-gô-chō/Thian-gô-tsō/天鵝座/the constellation of the Swan
+- 【天鵝座】Thian-gô-chō/Thian-gô-tsō/天鵝座/the Cygnus
+- 【天鵝座 X-1】Thian-gô-chō X-one/Thian-gô-tsō X-one/天鵝座 X-1/Cygnus X-1
 - 【天鵝座 α】Thian-gô-chō alpha/Thian-gô-tsō alpha/天鵝座 α/alpha Cygni
 - 【天鵝座 β 星】Thian-gô-chō Beta chhiⁿ/Thian-gô-tsō Beta tshinn/天鵝座 β/Beta Cygni
 - 【天鵝座 γ】Thian-gô-chō Gamma/Thian-gô-tsō Gamma/天鵝座 γ/the Gamma Cygni
 - 【天鵝座環】Thian-gô-chō Khoân/Thian-gô-tsō Khuân/天鵝座環/the Cygnus Loop
+- 【天鵝座雲牆】Thian-gô-chō hûn-chhiûⁿ/Thian-gô-tsō hûn-tshiûnn/天鵝座雲牆/Cygnus Wall
+- 【天鵝星雲】Thian-gô-seng-hûn/Thian-gô-sing-hûn/天鵝星雲/Swan Nebula
 - 【天鵝環】Thian-gô-khoân/Thian-gô-khuân/天鵝環/Cygnus Loop
+- 【天鷹座必巡】Thian-eng-chō Pit-sûn/Thian-ing-tsō Pit-sûn/天鷹座裂谷/the Aquila Rift
+- 【天鷹座烏暗雲複合體】Thian-eng-chō o͘-àm-hûn ho̍k-ha̍p-thé/Thian-ing-tsō oo-àm-hûn ho̍k-ha̍p-thé/天鷹座烏暗雲複合體/Aquila dark cloud complex
 - 【天鹰座 α】Thian-eng-chō alpha/Thian-ing-tsō alpha/天鹰座 α/alpha Aquilae
 - 【天龍座】Thian-lêng-chō/Thian-lîng-tsō/天龍座/Draco
 - 【天龍號太空船】Thian-lêng-hō thài-khong-chûn/Thian-lîng-hō thài-khong-tsûn/天龍號太空船/Dragon Crew capsule
@@ -867,9 +1421,11 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【太空-Sió】Thài-khong-Sió/Thài-khong-Sió/太空秀/Space Show
 - 【太空人】thài-khong-jîn/thài-khong-jîn/太空人/astronaut
 - 【太空人】thài-khong-jîn/thài-khong-jîn/太空人/astronauts
+- 【太空人】thài-khong-lâng/thài-khong-lâng/太空人/astronauts
 - 【太空實驗室】thài-khong-si̍t-giām-sek/thài-khong-si̍t-giām-sik/太空實驗室/space laboratory
 - 【太空景色公園】Thài-khong-kéng-sek-kong-hn̂g/Thài-khong-kíng-sik-kong-hn̂g/太空景色公園/Space View Park
 - 【太空發射中心】Thài-khong hoat-siā-tiong-sim/Ha-sat-khik/太空發射中心/Cosmodrome
+- 【太空石頭】thài-khong chio̍h-thâu/thài-khong tsio̍h-thâu/太空石頭/space rock
 - 【太空船】thài-khong-chûn/thài-khong-tsûn/太空船/spacecraft
 - 【太空船】thài-khong-chûn/thài-khong-tsûn/太空船/spaceship
 - 【太空艙】thài-khong-chhng/thài-khong-tshng/太空艙/space capsule
@@ -882,12 +1438,19 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【太陽動力天文台】Thài-iông tōng-le̍k thian-bûn-tâi/Thài-iông tōng-li̍k thian-bûn-tâi/太陽動力天文台/Solar Dynamics Observatory (SDO)
 - 【太陽動力學天文台】Thài-iông Tōng-le̍k-ha̍k Thian-bûn-tâi/Thài-iông Tōng-li̍k-ha̍k Thian-bûn-tâi/太陽動力學天文台/the Solar Dynamics Observatory
 - 【太陽哨兵隊】thài-iông siàu-peng-tūi/thài-iông siàu-ping-tuī/太陽哨兵隊/sentinel of the Sun
+- 【太陽圈】Thài-kiông-khoan/Thài-kiông-khuan/太陽圈/Heliosphere
 - 【太陽探測儀】thài-iông thàm-chhek-gî/thài-iông thàm-tshik-gî/太陽探測儀/Solar Probe
 - 【太陽日珥】Thài-iông ji̍t-jíⁿ/Thài-iông ji̍t-jínn/太陽日珥/solar prominence
 - 【太陽望遠鏡】thài-iông bōng-oán-kiàⁿ/thài-iông bōng-uán-kiànn/太陽望遠鏡/solar telescope
+- 【太陽極大期】thài-iông ke̍k-tōa-kî/thài-iông ki̍k-tuā-kî/太陽極大期/solar maximum
 - 【太陽極大期】Thài-iông-ke̍k-tōa-kî/Thài-iông-ki̍k-tuā-kî/太陽極大期/solar maximum
+- 【太陽極大期】Thài-iông Ke̍k-tōa-kî/Thài-iông Ki̍k-tuā-kî/太陽極大期/solar maximum
+- 【太陽極大期】Thài-iông Ke̍k-tōa-kî/Thài-iông Ki̍k-tuā-kî/太陽極大期/Solar Maximum
+- 【太陽極小期】Thài-iông ke̍k-sió-kî/Thài-iông ki̍k-sió-kî/太陽極小期/solar minimum
 - 【太陽極小期】Thài-iông Ke̍k-sió-kî/Thài-iông Ki̍k-sió-kî/太陽極小期/Solar Minimum
 - 【太陽極小期】thài-iông ke̍k-sió-kî/thài-iông ki̍k-sió-kî/太陽極小期/the solar minimum
+- 【太陽活動】thài-iông oa̍h-tāng/thài-iông ua̍h-tāng/太陽活動/solar activity
+- 【太陽活動】Thài-iông oa̍h-tāng/Thài-iông ua̍h-tāng/太陽活動/solar activity
 - 【太陽活動極小期】thài-iông oa̍h-tāng ke̍k-sió-kî/thài-iông ua̍h-tāng ki̍k-sió-kî/太陽活動極小期/solar minimum
 - 【太陽活動極小期】Thài-iông oa̍h-tāng ke̍k-sió-kî/Thài-iông ua̍h-tāng ki̍k-sió-kî/太陽活動極小期/solar minimum
 - 【太陽活動極小期】Thài-iông oa̍h-tāng ke̍k-sió-kî/Thài-iông ua̍h-tāng ki̍k-sió-kî/太陽活動極小期/Solar minimum
@@ -905,6 +1468,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【太陽爍光】Thài-iông sih-kng/Thài-iông sih-kng/陽光閃爍/sunglint
 - 【太陽盤】thài-iông-pôaⁿ/thài-iông-puânn/太陽盤/solar disk
 - 【太陽盤】Thài-iông-pôaⁿ/Thài-iông-puânn/太陽盤/solar disk
+- 【太陽磁場】Thài-iông chû-tiûⁿ/Thài-iông tsû-tiûnn/太陽磁場/Sun's magnetic field
 - 【太陽系】Thài-iông-hē/Thài-iông-hē/太陽系/solar system
 - 【太陽系】Thài-iông-hē/Thài-iông-hē/太陽系/Solar system
 - 【太陽系】Thài-iông-hē/Thài-iông-hē/太陽系/Solar System
@@ -912,9 +1476,13 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【太陽系儀】Thài-iông-hē-gî/Thài-iông-hē-gî/太陽系儀/Orrey
 - 【太陽系內行星】thài-iông-hē lōe-kiâⁿ-chhiⁿ/thài-iông-hē luē-kiânn-tshinn/太陽系內行星/inner planet
 - 【太陽系外行星】thài-iông-hē gōa-kiâⁿ-chhiⁿ/thài-iông-hē guā-kiânn-tshinn/太陽系外行星/inner planet
+- 【太陽絲】thài-iông-si/thài-iông-si/太陽絲/solar filaments
 - 【太陽絲】thài-iông-si/thài-iông-si/太陽絲狀體/solar filament
 - 【太陽絲】thài-iông-si/thài-iông-si/絲狀物/filament
+- 【太陽絲】thài-iông-si/thài-iông-si/絲狀體/filament
 - 【太陽能枋】thài-iông-lêng-pang/thài-iông-lîng-pang/太陽能板/solar panel
+- 【太陽能枋】thài-iông-lêng-pang/thài-iông-lîng-pang/太陽能板/the solar array wing
+- 【太陽能枋陣列】thài-iông lêng-pang tīn-lia̍t/thài-iông lîng-pang tīn-lia̍t/太陽能板陣列/solar array wings
 - 【太陽質量】thài-iông chit-liōng/thài-iông tsit-liōng/太陽質量/solar mass
 - 【太陽質量】thài-iông-chit-liōng/thài-iông-tsit-liōng/太陽質量/solar mass
 - 【太陽質量】Thài-iông chit-liōng/Thài-iông tsit-liōng/太陽質量/solar mass
@@ -926,27 +1494,39 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【太陽雲絲】thài-iông hûn-si/thài-iông hûn-si/太陽絲狀體/filaments on the Sun
 - 【太陽風】thài-iông-hong/thài-iông-hong/太陽風/solar wind
 - 【太陽風】Thài-iông-hong/Thài-iông-hong/太陽風/solar wind
+- 【太陽風】thài-iông-hong/thài-iông-hong/太陽風/the solar wind
 - 【太陽風暴】thài-iông hong-pō/thài-iông hong-pō/太陽風暴/solar storm
 - 【太陽風暴】Thài-iông hong-pō/Thài-iông hong-pō/太陽風暴/solar storm
 - 【失平-pāng】si̍t-pêⁿ-pāng/si̍t-pênn-pāng/失衡/imbalance
 - 【奇怪 ê 電波箍仔】Kî-koài ê Tiān-pho-kho͘-á/Kî-koài ê Tiān-pho-kho͘-á/奇怪電波圓環/Odd Radio Circles (ORCs)
 - 【奈米閃焰】nāi-bí-siám-iām/nāi-bí-siám-iām/奈米閃焰/nanoflares
+- 【奧地利】Ò-tē-lī/Ò-tē-lī/奧地利/Austria
 - 【奮進號】Hùn-chìn-hō/Hùn-tsìn-hō/奮進號/Endeavour
 - 【奮進號太空梭】Hùn-chìn-hō Thài-khong-so/Hùn-tsìn-hō Thài-khong-so/奮進號太空梭/the Space Shuttle Endeavour
 - 【奶仔雲】leng-á-hûn/ling-á-hûn/乳狀雲/mammatus cloud
 - 【奶仔雲】leng-á-hûn/ling-á-hûn/乳狀雲/mammatus clouds
+- 【奶仔雲】lêng-á-hûn/lîng-á-hûn/乳狀雲/mammatus clouds
 - 【好奇號】Hòⁿ-kî-hō/Hònn-kî-hō/好奇號/Curiosity
+- 【好奇號探測車】Hóⁿ-kî-hō/Hónn-kî-hō/好奇號探測車/Curiosity rover
 - 【好奇號探測車】Hòⁿ-kî-hō thàm-chhek-chhia/Hònn-kî-hō thàm-tshik-tshia/好奇號探測車/Curiosity rover
 - 【好奇號探測車】Hòⁿ-kî-hō thàm-chhek-chhia/Hònn-kî-hō thàm-tshik-tshia/好奇號探測車/the Curiosity rover
-- 【娛人節】Ngô͘-jîn-chiat/Ngôo-jîn-tsiat/愚人節/April Fool's Day
+- 【娘仔殼星雲】Niû-á-khak seng-hûn/Niû-á-khak sing-hûn/繭星雲/Cocoon Nebula
+- 【娘仔殼星雲】Niû-á-khak-seng-hûn/Niû-á-khak-sing-hûn/繭星雲/the Cocoon Nebula
+- 【媒介物】mûi-kài-bu̍t/king-hîng tsìn-pho/介質/medium
+- 【媒介物】mûi-kài-bu̍t/muî-kài-bu̍t/介質/medium
+- 【媒材】mûi-châi/muî-tsâi/媒材/medium
 - 【嫦娥】Siông-ngô͘/Siông-ngôo/嫦娥/Chang'e
 - 【嬰仔恆星】îⁿ-á hêng-chhiⁿ/înn-á hîng-tshinn/嬰仔恆星/infant star
 - 【子午線天頂】chú-ngó͘-sòaⁿ-thian-téng/tsú-ngóo-suànn-thian-tíng/天頂/zenith
 - 【孔雀座】Khóng-chhiok-chō/Khóng-tshiok-tsō/孔雀座/the constellation Pavo
+- 【孟加拉】Bēng-ka-la/Bīng-ka-la/孟加拉/Bangladesh
 - 【季節】kùi-cheh/kuì-tseh/季節/season
+- 【孤張感光】ko͘-tiuⁿ kám-kng/koo-tiunn kám-kng/單張曝光/single shot
+- 【孤張感光】ko͘-tiuⁿ kám-kng/koo-tiunn kám-kng/單曝光/single-image
 - 【孤張感光】ko͘-tiuⁿ kám-kng/oo-tiunn kám-kng/單張曝光/single exposure
 - 【宇宙】ú-tiū/ú-tiū/宇宙/universe
 - 【宇宙塗粉】ú-tiū-thô͘-hún/ú-tiū-thôo-hún/宇宙塵埃/cosmic dust
+- 【宇宙尺度】ú-tiū chhioh-tô͘/ú-tiū tshioh-tôo/宇宙尺度/cosmic yardstick
 - 【宇宙島】ú-tiū-tó/ú-tiū-tó/宇宙島/island unierse
 - 【宇宙島】ú-tiū-tó/ú-tiū-tó/宇宙島/island universe
 - 【宇宙巡天計畫】Ú-tiū-sûn-thian-kè-ōe/Ú-tiū-sûn-thian-kè-uē/宇宙巡天計畫/Universe survey
@@ -959,10 +1539,13 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【宇宙紅移】ú-tiū ang-î/ú-tiū ang-î/宇宙紅移/cosmological redshift
 - 【宇宙背景探測衛星】Ú-tiū pōe-kéng thàm-chhek ūi-chhiⁿ/ú-tiū puē-kíng thàm-tshik uī-tshinn/宇宙背景探測衛星/Cosmic Background Explorer (COBE)
 - 【宇宙脹大】ú-tiū-tiùⁿ-tōa/ú-tiū-tiùnn-tuā/宇宙膨脹/expansion of the universe
+- 【宇宙觀】Ú-tiū-koan/Ú-tiū-kuan/宇宙觀/Cosmic View
+- 【宇宙變焦】Ú-tiū Piàn Chiau/Ú-tiū Piàn Tsiau/宇宙變焦/Cosmic Zoom
 - 【宇宙車隊】Ú-tiū-chhia-tūi/Ú-tiū-tshia-tuī/宇宙車隊/The Caravan
 - 【宇宙雕塑】ú-tiū-tiau-sok/ú-tiū-tiau-sok/宇宙雕塑/cosmic sculpture
 - 【定年】tēng-liân/tīng-liân/定年/date
 - 【室女座】Sek-lú-chō/Sik-lú-chō/室女座/constellation Virgo
+- 【室女座】Sek-lú-chō/Sik-lú-tsō/室女座/Virgo
 - 【室女座三重奏】Sek-lú-chō Saⁿ-têng-chàu/Sik-lú-tsō Sann-tîng-tsàu/室女座三重奏/Virgo Trio
 - 【室女座星系團】Sek-lú-chō seng-hē-thoân/Sik-lú-tsō sing-hē-thuân/室女座星系團/the Virgo Cluster of Galaxies
 - 【室女座星系團】Sek-lú-chō seng-hē-thoân/Sik-lú-tsō sing-hē-thuân/室女座星系團/the Virgo Galaxy Cluster
@@ -971,37 +1554,56 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【室女座星系團】Sek-lú-chō seng-hē-thoân/Sik-lú-tsō sing-hē-thuân/室女座星系團/Virgo galaxy cluste
 - 【室女座星系團】Sek-lú-chō seng-hē-thoân/Sik-lú-tsō sing-hē-thuân/室女座星系團/Virgo Galaxy Cluster
 - 【寄託】kià-thok/kià-thok/寄託/project
+- 【密度波】bi̍t-tō͘-pho/bi̍t-tōo-pho/密度波/density waves
 - 【實密天體】cha̍t-ba̍t-thian-thé/tsa̍t-ba̍t-thian-thé/緻密天體/compact object
 - 【寧靜之海】Lêng-chēng-chi-hái/Lîng-tsīng-tsi-hái/寧靜之海/Sea of Tranquility
+- 【寧靜海】Lêng-chēng-hái/Lêng-chēng-hái/寧靜海/Sea of Tranquility
+- 【寧靜海】Lêng-chêng-hái/Lîng-tsîng-hái/寧靜海/the Sea of Serenity
 - 【寬頻】khoan-pîn/khuan-pîn/寬頻/broad-band
 - 【寬頻】khoan-pîn/khuan-pîn/寬頻/broadband
+- 【寶庫】pó-khò͘/pó-khòo/寶庫/treasure troves
+- 【寶瓶座】Pó-pân-chō/Pó-pân-tsō/寶瓶座/Aquarius
+- 【寶瓶座 δ 南流星雨】Pó-pân-chō Delta Lâm liû-chhiⁿ-hō͘/Pó-pân-tsō Delta Lâm liû-tshinn-hōo/寶瓶座 δ 南流星雨/the Southern Delta Aquariids
+- 【寶瓶座 η 流星雨】Pó-pân-chō Eta liû-chhiⁿ-hō͘/Pó-pân-tsō Eta liû-tshinn-hōo/寶瓶座 η 流星雨/Eta Aquarids meteors
 - 【射手座】Siā-chhiu-chō/Siā-tshiu-tsō/射手座/the constellation of the Archer
 - 【對伨】tùi-thīn/tuì-thīn/對稱/symmetric
+- 【對伨】tùi-thīn/tuì-thīn/對稱/uniform
 - 【「對分」「點」】"tùi-pun" "tiám"/"tuì-pun" "tiám"/「對分」「點」/"aequus"-"nox"
 - 【對應天體】tùi-èng-thian-thé/tuì-ìng-thian-thé/對應天體/counterparts
 - 【對應物】tùi-èng-bu̍t/tuì-ìng-bu̍t/對應物/counterpart
 - 【對日照】Tùi-ji̍t-chiò/Tùi-ji̍t-tsiò/對日照/Gegenschein
 - 【對流層】tùi-liû-chân/tuì-liû-tsân/對流層/troposphere
 - 【對流層】tùi-liû-chân/tuì-liû-tsân/對流層/Troposphere
+- 【對角】tùi-kak/tuì-kak/對角/diagonal
+- 【對角】tùi-kak/tuì-kak/對角/diagonally
 - 【對角線】tùi-kak-sòaⁿ/tuì-kak-suànn/對角線/Diagonal
 - 【對角線】tùi-kak-soaⁿ/tuì-kak-suann/對角線/diagonal line
 - 【對齊評估】tùi-chê-phêng-kó͘/tuì-tsê-phîng-kóo/對齊評估/alignment evaluation
+- 【小北斗】Sió-pak-táu/Sió-pak-táu/小北斗/Little Dipper
 - 【小熊座】Sió-hîm-chō/Sió-hîm-tsō/小熊座/Ursa Minor
 - 【小精靈星雲】Sió-cheng-lêng seng-hûn/Sió-tsing-lîng sing-hûn/小精靈星雲/Pacman Nebula
+- 【小精靈星雲】Sió-cheng-lêng-seng-hûn/Sió-tsing-lîng-sing-hûn/小精靈星雲/the Pacman Nebula
+- 【小行星 3200 Phaethon】Sió-kiâⁿ-chhiⁿ saⁿ-chheng-jī Phaethon/Sió-kiânn-tshinn sann-tshing-jī Phaethon/小行星 3200/Asteroid 3200 Phaethon
+- 【小行星 3200】sió-kiâⁿ-chhiⁿ/sió-kiânn-tshinn/小行星 3200/asteroid 3200 Phaethon
+- 【小行星 Didymos】sió-kiâⁿ-chhiⁿ Didymos/sió-kiânn-tshinn Didymos/小行星 Didymos/Didymos
+- 【小行星 Dimorphos】sió-kiâⁿ-chhiⁿ Dimorphos/sió-kiânn-tshinn Dimorphos/小行星 Dimorphos/Dimorphos
+- 【小行星】sió-kiâⁿ-chheⁿ/sió-kiânn-tshenn/小行星/asteroid
 - 【小行星】sió-kiâⁿ-chhiⁿ/sió-kiânn-tshinn/小行星/asteroid
-- 【小行星】sió-kiâⁿ-chhiⁿ/sió-kiânn-tshinn/小行星/astroid
-- 【小行星帶】sió-kiâⁿ-chhiⁿ-tòa/sió-kiânn-tshinn-tuà/小行星帶/astroid belt
+- 【小行星】Sió-kiâⁿ-chhiⁿ/Sió-kiânn-tshinn/小行星/asteroid
 - 【小麥哲倫星系】Sió Be̍h-thiat-lûn Seng-hē/Sió Be̍h-thiat-lûn Sing-hē/小麥哲倫星系/Small Magellanic Cloud (SMC)
 - 【小麥哲倫星雲】Sió Be̍h-thiat-lûn chhiⁿ-hûn/Sió Be̍h-thiat-lûn tshinn-hûn/小麥哲倫星雲/the Small Magellanic clouds
 - 【小麥哲倫星雲】Sió Be̍h-thiat-lûn seng-hē/Sió Be̍h-thiat-lûn sing-hē/小麥哲倫星雲/SMC
 - 【小麥哲倫星雲】Sió Be̍h-thiat-lûn seng-hûn/Sió Be̍h-thiat-lûn sing-hûn/小麥哲倫星雲/Small Magellanic Cloud
+- 【小麥哲倫星雲】Sió Be̍h-thiat-lûn-seng-hûn/Sió Be̍h-thiat-lûn-sing-hûn/小麥哲倫星雲/Small Magellanic Clouds
 - 【小麥哲倫星雲】Sió-be̍h-thiat-lûn-seng-hûn/Sió-be̍h-thiat-lûn-sing-hûn/小麥哲倫星雲/Small Magellanic Cloud (SMC)
 - 【小麥哲倫星雲】Sió Be̍h-thiat-lûn seng-hûn/Sió Be̍h-thiat-lûn sing-hûn/小麥哲倫星雲/Small Magellanic Cloud (SMC)
 - 【小麥哲倫星雲】Sió-be̍h-thiat-lûn seng-hûn/Sió-be̍h-thiat-lûn sing-hûn/小麥哲倫星雲/the Small Magellanic Cloud
 - 【小麥哲倫星雲】Sió Be̍h-thiat-lûn seng-hûn/Sió Be̍h-thiat-lûn sing-hûn/小麥哲倫星雲/the Small Magellanic Cloud
 - 【小麥哲倫星雲】Siò Be̍h-thiat-lûn seng-hûn/Siò Be̍h-thiat-lûn sing-hûn/小麥哲倫星雲/the Small Magellanic Cloud
+- 【小麥哲倫星雲】Sió Be̍h-tiat-lûn Seng-hûn/Sió Be̍h-tiat-lûn Sing-hûn/小麥哲倫星雲/Small Magellanic Cloud
 - 【少年恆星】siàu-liân hêng-chhiⁿ/siàu-liân hîng-tshinn/少年恆星/young tar
 - 【尖峰石林】Chiam-hong-chio̍h-nâ/Tsiam-hong-tsio̍h-nâ/尖峰石林/Pinnacles
+- 【尖箍圓】chiam-kho͘-iⁿ/tsiam-khoo-inn/圓錐/conical
 - 【尪姨 ê 掃帚 星雲】Ang-î ê sàu-chhiú seng-hûn/Ang-î ê sàu-tshiú sing-hûn /女巫的掃帚 星雲/the Witch's Broom Nebula
 - 【尪姨 ê 掃帚 星雲】Ang-î ê sàu-chhiú seng-hûn/Ang-î ê sàu-tshiú sing-hûn /女巫的掃帚 星雲/the Witch’s Broom Nebula
 - 【尪姨頭星雲】Ang-î-thâu-seng-hûn/Ang-î-thâu-sing-hûn/女巫頭星雲/Witch Head Nebula
@@ -1011,19 +1613,29 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【尾蝶花星雲】Bóe-ia̍h-hoe/Bué-ia̍h-hue/鳶尾花星雲/Iris Nebula
 - 【屈尺角】khut-chhioh-kak/khut-tshioh-kak/直角/right angle
 - 【屈折】khut-chiat/khut-tsiat/折射/refract
+- 【屈折】khut-chiat/khut-tsiat/折射/refracting
 - 【屈折】khut-chiat/khut-tsiat/折射/refraction
 - 【屈折式望遠鏡】khut-chiat-sek bōng-oán-kiàⁿ/khut-tsiat-sik bōng-uán-kiànn/折射式望遠鏡/refractor telescope
+- 【屈折率】khut-chiat-lu̍t/khut-tsiat-lu̍t/屈折率/the index of refraction
+- 【屈折率】khut-chiat-lu̍t/khut-tsiat-lu̍t/折射率/index of refraction
+- 【山尖】soaⁿ-chiam/suann-tsiam/山峰/peak
 - 【山崙】soaⁿ-lūn/suann-lūn/山丘/hill
+- 【山腹】soaⁿ-pak/suann-pak/山腰/slopes
+- 【山谷】soaⁿ-kok/suann-kok/峽谷/canyon
 - 【山龍】soaⁿ-lêng/suann-khàm/山脊/South Cliff
+- 【山龍】soaⁿ-lêng/suann-lîng/山脊/ridges
 - 【岩心標本】giâm-sim piau-pún/giâm-sim piau-pún/岩心標本/rock core samples
+- 【岩漿】giâm-chiuⁿ/giâm-tsiunn/岩漿/lava
 - 【岩漿】giâm-chiuⁿ/giâm-tsiunn/岩漿/magma
 - 【島宇宙】tó-ú-tiū/tó-ú-tiū/島宇宙/island universe
 - 【峽灣】kiap-oan/kiap-uan/峽灣/fjord
 - 【崎】kiā/kiā/陡/steep
+- 【崩塌】pang-lap/pang-lap/塌縮/collapse
 - 【崩塌】pang-lap/pang-lap/崩塌/collapse
 - 【崩塌】pang-la̍p/pang-la̍p/崩塌/collapse
 - 【崩塌】pang-thap/pang-thap/崩塌/collapse
 - 【崩陷】pang-hām/pang-hām/崩塌/collapsing
+- 【巡天計畫】sûn-thian-kè-ōe/sûn-thian-kè-uē/巡天計畫/sky survey
 - 【巨型分子雲】kū-hêng hūn-chú-hûn/kū-hîng hūn-tsú-hûn/巨型分子雲/giant molecular cloud
 - 【巨型氣體瓣】kū-hêng khì-thé-pān/kū-hîng khì-thé-pān/巨型氣體瓣/giant lobes of gas
 - 【巨型爍爁噴流】kū-hêng sih-nah phùn-liû/kū-hîng sih-nah phùn-liû/巨型閃電噴流/gigantic jet lightning
@@ -1031,21 +1643,28 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【巨恆星】kū-hêng-chhiⁿ/kū-hîng-tshinn/巨星/giant
 - 【巨恆星】kū-hêng-chhiⁿ/kū-hîng-tshinn/巨星/giant star
 - 【巨蛇座】Kū-siâ-chō/Kū-siâ-tsō/巨蛇座/constellation Serpens
+- 【巨蛇座】Kū-siâ-chō/Kū-siâ-tsō/巨蛇座/Serpens
+- 【巨蛇座尾】Kū-siâ-chō Bóe/Kū-siâ-tsō Bué/巨蛇座尾/Serpens Cauda
+- 【巨蛇座尾溜】Kū-siâ-chō bóe-liu/Kū-siâ-tsō bué-liu/巨蛇座尾/Serpens Cauda
 - 【巨蟹座】Kū-hē-chō/Kū-hē-tsō/巨蟹座/the constellation Cancer
 - 【巨行星】kū-kiâⁿ-chhiⁿ/kū-kiânn-tshinn/巨行星/giant planet
 - 【巨行星】Kū kiâⁿ-chhiⁿ/Kū kiânn-tshinn/巨行星/Giant planet
 - 【巫毒石林】bû-to̍k-chio̍h-nâ/bû-to̍k-tsio̍h-nâ/巫毒石林/hoodoos
 - 【巫毒石林】Bû-to̍k-chio̍h-nâ/Bû-to̍k-tsio̍h-nâ/巫毒石林/Hoodoos
 - 【巴哈馬】Pá-ha-mah/Pá-ha-mah/巴哈馬/Bahamas
+- 【帆船分子雲脊】Phâng-chûn Hun-chú-hûn-chit/Phâng-tsûn Hun-tsú-hûn-tsit/帆船分子雲脊/the Vela Molecular Ridge
 - 【希望號太空船】Hi-bāng-hō thài-khong-chûn/Hi-bāng-hō thài-khong-tsûn/希望號太空船/Hope spacecraft
 - 【希臘】Hi-la̍h/Hi-la̍h/希臘/Greek
 - 【希臘神話】Hi-la̍h sîn-ōe/Hi-la̍h sîn-uē/希臘神話/Greek mythology
+- 【帝國大廈】Tè-kok-tāi-hā/Tè-kok-tāi-hā/帝國大廈/Empire State Building
 - 【帝國大樓】Tè-kok-tōa-lâu/Tè-kok-tuā-lâu/帝國大廈/Empire State Building
 - 【幌動】hàiⁿ-tāng/hàinn-tāng/擺動/wobble
 - 【干樂仔】kan-lo̍k-á/kan-lo̍k-á/陀螺/spinning top
 - 【干樂仔】kan-lo̍k-á/kan-lo̍k-á/陀螺/spinning toy
 - 【平原】pêng-goân/pîng-guân/平原/Planitia
 - 【平流層】pêng-liû-chân/pîng-liû-tsân/平流層/stratosphere
+- 【平流層】Pêng-liû-chân/Pîng-liû-tsân/平流層/stratosphere
+- 【平流層】Pêng-liû-chân/Pîng-liû-tsân/平流層/stratospheric layer
 - 【平流層】pêⁿ-liû-chân/pênn-liû-tsân/平流層/stratosphere
 - 【幻境】hoàn-kéng/huàn-kíng/幻境/mirage
 - 【幻影星系】Hoàn-iáⁿ seng-hē/Huàn-iánn sing-hē/幻影星系/Phantom Galaxy
@@ -1059,43 +1678,65 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【幾何】kí-hô/kí-hô/幾何/geometry
 - 【幾何圖樣】kí-hô tô͘-iūⁿ/kí-hô tôo-iūnn/幾何圖案/geometry
 - 【幾何學】kí-hô-ha̍k/kí-hô-ha̍k/幾何學/geometry
+- 【幾何結構】kí-hô kiat-kò͘/kí-hô kiat-kòo/幾何結構/geometry
 - 【座標】chō-piau/tsō-piau/座標/coordinate
 - 【座標影像】chō-piau-iáⁿ-siōng/tsō-piau-iánn-siōng/座標影像/coordinated image
 - 【座標盤】chō-piau-pôaⁿ/tsō-piau-puânn/座標盤/coordinate dials
 - 【廣義相對論】kóng-gī siong-tùi-lūn/kóng-gī siong-tùi-lūn/廣義相對論/general theory of relativity
 - 【廣義相對論】Kóng-gī-siong-tùi-lūn/Kóng-gī-siong-tuì-lūn/廣義相對論/Theory of General Relativity
+- 【弓形】keng-hêng/king-hîng/弓形/arch
 - 【弓形結構】kiong-hêng kiat-kò͘/kiong-hîng kiat-kòo/弧形結構/arcing structures
 - 【弓形衝擊】kiong-hêng chhiong-kek/kiong-hîng tshiong-kik/弓形衝擊/bow shock
+- 【弓形衝擊波】kiong-hêng chhiong-kek-pho/kiong-hîng tshiong-kik-pho/弓形衝擊波/bow shock 
+- 【弓形震波】keng-hêng chìn-pho/king-hîng tsìn-pho/弓形震波/bow shock
 - 【弓線】keng-sòaⁿ/king-suànn/弧線/arc
+- 【引力】ín-le̍k/ín-li̍k/引力/gravitation
 - 【引力】ín-le̍k/ín-li̍k/引力/gravity
 - 【引力井】ín-le̍k-chíⁿ/ín-li̍k-tsínn/引力井/gravitational well
 - 【引力交互作用】ín-le̍k kau-hō͘-chok-iōng/ín-li̍k kau-hōo-tsok-iōng/引力交互作用/gravitational interaction
 - 【引力交互作用】ín-le̍k kau-hō͘ chok-iōng/ín-li̍k kau-hōo tsok-iōng/引力交互作用/gravitationally interacting
 - 【引力交纏】ín-le̍k-kau-tîⁿ/ín-li̍k-kau-tînn/引力交互作用/gravitationally interacting
 - 【引潮力】ín-tiâu-le̍k/ín-tiâu-li̍k/引潮力/gravitational tidal force
+- 【引潮力】ín-tiâu-le̍k/ín-tiâu-li̍k/引潮力/gravitational tides
 - 【引發】ín-hoat/ín-huat/引發/trigger
 - 【弦】hiân/hiân/弦/string
 - 【弧形結構】hô͘-hêng kiat-kò͘/hôo-hîng kiat-kòo/弧形結構/arcing structure
 - 【張掖】Tiuⁿ-iā/Tiunn-iā/張掖/Zhangye
 - 【強藍光變星】Kiông-nâ-kng Piàn-chhiⁿ/Kiông-nâ-kng Piàn-tshinn/高光度藍變星/Luminous Blue Variable (LBV)
+- 【彎弓橋】oan-kiong-kiô/uan-kiong-kiô/彎弓橋/arc
 - 【彎弓橋】oan-kiong-kiô/uan-kiong-kiô/彎弓橋/arch
+- 【彎弓橋】oan-kiong-kiô/uan-kiong-kiô/拱橋/Arc
+- 【彎弓橋】oan-kiong-kiô/uan-kiong-kiô/拱橋/arches
 - 【彎弓橋】oan-kiong-kiô/uân-kiong-kiô/拱橋/arches
 - 【彎曲度】oan-khiau-tō͘/uan-khiau-tōo/彎曲度/curvature
 - 【彗尾】hūi-bóe/huī-bué/彗尾/comet's tail
 - 【彗尾】hūi-bóe/huī-bué/彗尾/comet tail
 - 【彗尾】hūi-bóe/huī-bué/彗尾/tail
+- 【彗星 2022 E3】Hūi-chhiⁿ jī-khòng-jī-jī E sam/Huī-tshinn jī-khòng-jī-jī E sam/彗星 2022 E3/Comet 2022 E3 (ZTF)
+- 【彗星 C/2017 K2】hūi-chhiⁿ C jī-khòng-it-chhit K-two/huī-tshinn C jī-khòng-it-tshit K-two/ 彗星 C/2017 K2 / C/2017 K2
 - 【彗星 C/2017 (PanSTARRS)】hui-chhiⁿ C jī-khòng-it-chhit (Pan-Starrs) / hui-tshinn C jī-khòng-it-tshit (Pan-Starrs) / 彗星 C/2017 (PanSTARRS) / Comet C/2017 K2 (PanSTARRS)
+- 【彗星 C/2022 E3】hūi-chhiⁿ C jī-khòng-jī-jī E sam/huī-tshinn C jī-khòng-jī-jī E sam/ 彗星 C/2022 E3 / Comet C/2022 E3
+- 【彗星 C/2022 E3】Hūi-chhiⁿ C jī-khòng-jī-jī E sam/Huī-tshinn C jī-khòng-jī-jī E sam/ 彗星 C/2022 E3 / comet C/2022 E3
+- 【彗星 C/2022 E3】hūi-chhiⁿ C jī-khòng-jī-jī E saⁿ/huī-tshinn C jī-khòng-jī-jī E sann/彗星 C/2022 E3 / Comet C/2022 E3
+- 【彗星 C/2022 E3】hūi-chhiⁿ C jī-khòng-jī-jī E-saⁿ/huī-tshinn C jī-khòng-jī-jī E-sann/ 彗星 C/2022 E3 / Comet C/2022 E3
+- 【彗星 C/2022 E3】Hūi-chhiⁿ/Huī-tshinn/ 彗星 C/2022 E3 / Comet C/2022 E3
+- 【彗星 C/2022 U2】hūi-chhiⁿ C jī-khòng-jī-jī U jī/huī-tshinn C jī-khòng-jī-jī U jī/彗星 C/2022 U2/ Comet C/2022 U2
 - 【彗星】hui-chhiⁿ/hui-tshinn/彗星/comet
 - 【彗星】hūi-chhiⁿ/huī-tshinn/彗星/comet
+- 【彗星形雲球】hūi-chhiⁿ-hêng hûn-kiû/huī-tshinn-hîng hûn-kiû/彗狀雲球/cometary globule
 - 【彗星核】hūi-chhiⁿ-he̍k/huī-tshinn-hi̍k/彗星核/comet nucleus
+- 【彗星雲球】hūi-chhiⁿ-hêng hûn-kiû/huī-tshinn-hîng hûn-kiû/彗星雲球/cometary globule
 - 【彗星雲球】hūi-chhiⁿ hûn-kiû/huī-tshinn hûn-kiû/彗星雲球/cometary globule
+- 【彗核】hūi-he̍k/huī-hi̍k/彗核/comet nucleus
 - 【彗核】hūi-he̍k/huī-hi̍k/彗核/comet's core
 - 【彗核】hūi-he̍k/huī-hi̍k/彗核/comet's nucleus
 - 【彗核】hūi-he̍k/huī-hi̍k/彗核/nucleus of comet
 - 【彗鬚】hūi-chhiu/huī-tshiu/彗髮/coma
 - 【彗鬚】hūi-chhiu/huī-tshiu/彗髮/comet's coma
+- 【彗鬚】hūi-chhiu/huī-tshiu/彗鬚/coma
 - 【彗鬚星系團】Hūi-chhiu seng-hē-thoân/Huī-tshiu sing-hē-thuân/彗髮星系團/Coma Cluster of Galaxies
 - 【影像伴】iáⁿ-siōng-phōaⁿ/iánn-siōng-phuānn/伴影像/companion images
+- 【影格】iáⁿ-keh/iánn-keh/幀/frame
 - 【影格】iáⁿ-keh/iánn-keh/影格/frame
 - 【影格】iáⁿ-keh/iánn-keh/影格/video frame
 - 【後壁星】āu-piah-chhiⁿ/āu-piah-tshinn/背景星/background star
@@ -1114,11 +1755,13 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【微流體晶片】bî-liû-thé cheng-phìⁿ/bî-liû-thé tsing-phìnn/微流體晶片/microfluidic chips
 - 【微生物】bî-seng-bu̍t/bî-sing-bu̍t/微生物/microbes
 - 【微重力】bî-tiōng-le̍k/bî-tiōng-li̍k/微重力/microgravity
+- 【微重力透鏡效應】bî-tiōng-le̍k thàu-kiàⁿ-hāu-èng/bî-tiōng-le̍k thàu-kiàⁿ-hāu-èng/微重力透鏡效應/microlensing
 - 【微重力透鏡效應】bî-tiōng-le̍k-thàu-kiàⁿ hāu-èng/bî-tiōng-li̍k-thàu-kiànn hāu-ìng/微重力透鏡效應/gravitational microlensing effect
 - 【微量元素】bî-liōng-goân-sò͘/bî-liōng-guân-sòo/微量元素/trace element
 - 【微閃焰】bî-siám-iām/bî-siám-iām/微閃焰/microflares
 - 【微隕石】bî-ún-se̍k/bî-ún-si̍k/微隕石/micrometeorite
 - 【微類星體】bî-lūi-chhiⁿ-thé/bî-luī-tshinn-thé/微類星體/microquasar
+- 【微類星體】bî lūi-seng-thé/bî luī-sing-thé/微類星體/micoquasa
 - 【微類星體】bî lūi-seng-thé/bî luī-sing-thé/微類星體/microquasar
 - 【心宿二】Sim-siù-jī/Sim-siù-jī/心宿二/Antares
 - 【心形星雲】Sim-hêng-seng-hûn/Sim-hîng-sing-hûn/心狀星雲/the Heart Nebula
@@ -1127,16 +1770,26 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【志願者】chì-goān-chiá/tsì-guān-tsiá/志願者/volunteers
 - 【性命四序區】sìⁿ-miā sù-sī-khu/sìnn-miā sù-sī-khu/適居帶/habitable zone
 - 【恆星】hêng-chhiⁿ/hîng-tshinn/恆星/star
+- 【恆星光】hêng-chheⁿ-kng/hîng-tshenn-kng/星光/starlight
 - 【恆星參考元件 kha-mé-lah】hêng-chhiⁿ-chham-khó-goân-kiāⁿ kha-mé-lah/hîng-tshinn-tsham-khó-guân-kiānn kha-mé-lah/恆星參考元件相機/Stellar Reference Unit camera
 - 【恆星場】hêng-chhiⁿ-tiûⁿ/hîng-tshinn-tiûnn/恆星場/star field
 - 【恆星屑仔雲】hêng-chhiⁿ sap-á-hûn/hîng-tshinn sap-á-hûn/恆星屑仔雲/stellar debris cloud
 - 【恆星形成】hêng-chhiⁿ hêng-sêng/hîng-tshinn hîng-sîng/恆星形成/star formation
+- 【恆星形成】hêng-chhiⁿ-hêng-sêng/hîng-tshinn-hîng-sîng/恆星形成/star formation
 - 【恆星形成】hêng-chhiⁿ hêng-sêng/hîng-tshinn hîng-sîng/恆星形成/star formationg
+- 【恆星形成區】hêng-chheⁿ hêng-sêng-khu/hîng-tshenn hîng-sîng-khu/恆星形成區/star formation region
+- 【恆星形成區】hêng-chheⁿ hêng-sêng-khu/hîng-tshenn hîng-sîng-khu/恆星形成區/star forming region
+- 【恆星形成區】hêng-chheⁿ hêng-sêng-khu/hîng-tshenn hîng-sîng-khu/恆星形成區/star-forming region
+- 【恆星形成區】hêng-chheⁿ hêng-sêng-khu/hîng-tshenn hîng-sîng-khu/恆星形成區/star forming regions
 - 【恆星形成區】hêng-chhiⁿ hêng-sêng-khu/hîng-tshinn hîng-sîng-khu/恆星形成區/regions of star formation
+- 【恆星形成區】hêng-chhiⁿ hêng-sêng-khu/hîng-tshinn hîng-sîng-khu/恆星形成區/sta formation region
+- 【恆星形成區】hêng-chhiⁿ hêng-sêng-khu/hîng-tshinn hîng-sîng-khu/恆星形成區/star formation
+- 【恆星形成區】hêng-chhiⁿ hêng-sêng-khu/hîng-tshinn hîng-sîng-khu/恆星形成區/star formationg region
 - 【恆星形成區】hêng-chhiⁿ hêng-sêng-khu/hîng-tshinn hîng-sîng-khu/恆星形成區/star formation region
 - 【恆星形成區】hêng-chhiⁿ-hêng-sêng-khu/hîng-tshinn-hîng-sîng-khu/恆星形成區/star formation region
 - 【恆星形成區】hêng-chhiⁿ hêng-sêng-khu/hîng-tshinn hîng-sîng-khu/恆星形成區/star forming region
 - 【恆星形成區】hêng-chhiⁿ hêng-sêng-khu/hîng-tshinn hîng-sîng-khu/恆星形成區/star-forming region
+- 【恆星形成區】hêng-chhiⁿ hêng-sêng-khu/hîng-tshinn hîng-sîng-khu/恆星形成區/starforming region
 - 【恆星形成區】hêng-chhiⁿ-hêng-sêng-khu/hîng-tshinn-hîng-sîng-khu/恆星形成區/star forming region
 - 【恆星形成區】hêng-chhiⁿ-hêng-sêng-khu/hîng-tshinn-hîng-sîng-khu/恆星形成區/star-forming region
 - 【恆星形成區】hêng-chhiⁿ-hêng-sêng-khu/hîng-tshinn-hîng-sîng-khu/恆星形成區/starforming region
@@ -1150,25 +1803,32 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【恆星形成發射區】hêng-chhiⁿ-hêng-sêng-hoat-siā-khu/hîng-tshinn-hîng-sîng-huat-siā-khu/恆星形成發射區/star forming emission region
 - 【恆星形成複合體】hêng-chhiⁿ hêng-sêng ho̍k-ha̍p-thé/hîng-tshinn hîng-sîng ho̍k-ha̍p-thé/恆星形成複合體/starforming complex
 - 【恆星形成運動】hêng-chhiⁿ hêng-sêng ūn-tōng/hîng-tshinn hîng-sîng ūn-tōng/恆星形成活動/star formation activity
+- 【恆星托兒所】hêng-chheⁿ thok-jî-só͘/hîng-tshenn thok-jî-sóo/恆星托兒所/stellar nursery
 - 【恆星托兒所】hêng-chhiⁿ thok-jî-só͘/hîng-tshinn thok-jî-sóo/恆星托兒所/stellar nurseries
 - 【恆星托兒所】hêng-chhiⁿ thok-jî-só͘/hîng-tshinn thok-jî-sóo/恆星托兒所/stellar nursery
 - 【恆星托兒所】hêng-chhiⁿ-thok-jî-só͘/hîng-tshinn-thok-jî-sóo/恆星托兒所/stellar nursery
 - 【恆星核】hêng-chhiⁿ-he̍k/hîng-tshinn-hi̍k/恆星核/stellar core
 - 【恆星核心】hêng-chhiⁿ he̍k-sim/hîng-tshinn hi̍k-sim/恆星核心/stellar core
+- 【恆星流】hêng-chheⁿ-liû/hîng-tshenn-liû/恆星流/star streams
+- 【恆星流】hêng-chhiⁿ-liû/hîng-tshinn-liû/恆星流/star stream
 - 【恆星流】hêng-chhiⁿ-liû/hîng-tshinn-liû/恆星流/stellar stream
 - 【恆星流】hêng-chhiⁿ-liû/hîng-tshinn-liû/恆星流/streams of stars
 - 【恆星演化】hêng-chhiⁿ ián-hòa/hîng-tshinn ián-huà/恆星演化/stellar evolution
 - 【恆星爆炸】hêng-chhiⁿ po̍k-chà/hîng-tshinn po̍k-tsà/恆星爆炸/stellar explosion
 - 【恆星社區】hêng-chhiⁿ siā-khu/hîng-tshinn siā-khu/恆星社區/stellar neighborhood
+- 【恆星繭】hêng-chhiⁿ-kián/hîng-tshinn-kián/繭/cocoon
 - 【恆星雲】hêng-chhiⁿ-hûn/hîng-tshinn-hûn/恆星雲/star cloud
 - 【恆星雲】hêng-chhiⁿ-hûn/hîng-tshinn-hûn/恆星雲/star clouds
+- 【恆星風】hêng-chheⁿ-hong/hîng-tshenn-hong/恆星風/stellar wind
 - 【恆星風】hêng-chhiⁿ-hong/hîng-tshinn-hong/恆星風/stellar wind
+- 【恆星風】hêng-chhiⁿ-hong/hîng-tshinn-hong/恆星風/stellar wing
+- 【恐龍】khióng-liông/khióng-liông/恐龍/dinasour
 - 【情人節】Chêng-jîn-chiat/Tsîng-jîn-tsiat/情人節/the Valentine's Day
+- 【惡魔星雲】Ok-mô͘-seng-hûn/Ok-môo-sing-hûn/惡魔星雲/the Boogeyman Nebula
 - 【惡魔角】Ok-mô͘-kak/Ok-môo-kak/惡魔角/Devil Horns
 - 【想像力】sióng-siōng-le̍k/sióng-siōng-li̍k/想像力/imagination
 - 【意大利】I-tá-lī/I-tá-lī/意大利/Italy
 - 【意大利麵星雲】I-tá-lí-mī seng-hûn/I-tá-lí-mī sing-hûn/意大利麵星雲/Simeis 147 (Spaghetti Nebula)
-- 【愚人節】Gû-jîn-chiat/Gû-jîn-tsiat/愚人節/April Fool's Day
 - 【愛因斯坦】Ài-in-su-thán/Ài-in-su-thán/愛因斯坦/Albert Einstein
 - 【愛因斯坦】Ài-in-su-thán/Ài-in-su-thán/愛因斯坦/Einstein
 - 【愛因斯坦十字】Ài-in-su-thán-si̍p-jī/Ài-in-su-thán-si̍p-jī/愛因斯坦十字/The Einstein Cross
@@ -1176,35 +1836,50 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【愛因斯坦環】Ài-in-su-thán-khoân/Ài-in-su-thán-khuân/愛因斯坦環/Einstein Ring
 - 【愛神星】Ài-sîn-chhiⁿ/Ài-sîn-tshinn/愛神星/Eros
 - 【感光】kám-kng/kám-kng/曝光/exposure
+- 【感光】kám-kng/kám-kng/曝光/exposures
 - 【感光劑】kám-kng-che/kám-kng-tse/感光劑/sensitizer
 - 【懸海拔】koân-hái-poa̍t/kuân-hái-pua̍t/高海拔/high altitude
 - 【懸解析度】koân-kái-sek-tō͘/kuân-kái-sik-tōo/高解析度/high resolution
 - 【戰車星座】Chiàn-chhia seng-chō/Tsiàn-tshia sing-tsō/戰車星座/Charioteer
+- 【戰鬥龍 Ara】Chiàn-tàu-lêng/Tsiàn-tàu-lîng/戰鬥龍 Ara/fighting Dragons of Ara
 - 【房宿三】Pâng-siù-sam/Pâng-siù-sam/房宿三/Dschubba
+- 【扇形三角洲】sìⁿ-hêng saⁿ-kak-chiu/sìnn-hîng sann-kak-tsiu/扇形三角洲/the fan-shaped delta
 - 【手動導星】chhiú-tōng tō-chhiⁿ/tshiú-tōng tō-tshinn/手動導星/hand-guided
+- 【手囊山】Chhiú-lông-soaⁿ/Tshiú-lông-suann/手套山/the Mittens
 - 【手扞仔】chhiú-hōaⁿ-á/tshiú-huānn-á/把手/handle
 - 【[扌回]日彗星】Hôe-ji̍t hūi-chhiⁿ/Huê-ji̍t huī-tshinn/掠日彗星/Sungrazing comet
+- 【扛一粒天球 ê Titan 族天神 Atlas】kng chi̍t lia̍p thian-kiû ê Titan cho̍k thian-sîn Atlas/kng tsi̍t lia̍p thian-kiû ê Titan tso̍k thian-sîn Atlas/扛著天球的泰坦族天神阿特拉斯/the astronomical titan Atlas
 - 【投影】tâu-iáⁿ/tâu-iánn/投影/projection
+- 【拍獵月】Phah-la̍h-goe̍h/Phah-la̍h-gue̍h/狩獵月/the Hunter's Moon
 - 【拼接圖】pheng-chiap-tô͘/phing-tsiap-tôo/拼接圖/mosaic
 - 【拼接圖】pheng-chiap-tô͘/phing-tsiap-tôo/拼接圖/mosaicked frames
 - 【拼鬥影像】pheng-tàu iáⁿ-siōng/phing-tàu iánn-siōng/拼接而成的組合影像/mosaic image
+- 【拼鬥影像】pheng-tàu iáⁿ-siōng/phing-tàu iánn-siōng/馬賽克/mosaic
 - 【拼鬥影像】pheng-tàu-iáⁿ-siōng/phing-tàu-iánn-siōng/馬賽克影像/mosaic
 - 【拼鬥影像】pheng-tàu-iáⁿ-siōng/phing-tàu-iánn-siōng/馬賽克影像/mosaic image
 - 【拼鬥影像】pheng-tàu-iáⁿ-siōng/phing-tàu-iánn-siōng/馬賽克拼接圖/mosaic
+- 【指揮官】chí-hui-koaⁿ/tsí-hui-kuann/指揮官/commander
 - 【指揮服務船】chí-hui ho̍k-bū chûn/tsí-hui ho̍k-bū tsûn/指揮服務船/command and service module
 - 【指揮服務艙】Chí-hui Ho̍k-bū-chhong/Tsí-hui Ho̍k-bū-tshong/指揮服務艙/Command and Service Module
+- 【指揮艙】chí-hui-chhng/tsí-hui-tshng/指揮艙/command module
+- 【指揮艙】chí-hui-chhng/tsí-hui-tshng/指揮艙/Command Module
 - 【指頭仔】chéng-thâu-á/tsíng-thâu-á/手指/finger tip
+- 【挑戰號】Thiáu-chiàn-hō/Thiáu-tsiàn-hō/挑戰號/Challenger
 - 【挪威】Ná-ui/Ná-ui/挪威/Norway
 - 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/旋臂/spiral arm
 - 【捲螺仔手骨】kńg-lê-á-chhiú-kut/kńg-lê-á-tshiú-kut/旋臂/spiral arm
+- 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/旋臂/spiral arms
 - 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/螺旋手臂/spiral arm
 - 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/螺旋手臂/spiral arms
+- 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/螺旋手臂、懸臂/spiral arm
 - 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut /螺旋手臂、旋臂/spiral arm
 - 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/螺旋手臂、旋臂/spiral arm
 - 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/螺旋手臂（旋臂）/spiral arm
 - 【捲螺仔手骨】Kńg-lê-á chhiú-kut/Kńg-lê-á tshiú-kut/螺旋手臂、旋臂/spiral arm
+- 【捲螺仔手骨】kńg-lê-á chhiú-ku̍t/kńg-lê-á tshiú-ku̍t/螺旋手臂、旋臂/spiral arm
 - 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/螺旋手臂、旋臂/spiral arms
 - 【捲螺仔手骨】kńg-lê-á-chhiú-kut/kńg-lê-á-tshiú-kut/螺旋手臂、旋臂/spiral arms
+- 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/螺旋星系/spiral galaxy
 - 【捲螺仔手骨】kńg-lê-á chhiú-kut/kńg-lê-á tshiú-kut/螺旋臂/spiral arm
 - 【捲螺仔旋】kńg-lê-á-chn̄g/kńg-lê-á-tsn̄g/漩渦/Swirl
 - 【捲螺仔星系】kńg-lê-á seng-hē/kńg-lê-á sing-hē/旋臂/spiral galaxy
@@ -1213,8 +1888,10 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【捲螺仔星系】kńg-lê-á-seng-hē/kńg-lê-á-sing-hē/螺旋星系/spiral galaxy
 - 【捲螺仔星系】kńg-lê-á seng-hē/kńg-lê-á sing-hē/螺旋星系/Spiral Galaxy
 - 【捲螺仔星系】Kńg-lê-á seng-hē/Kńg-lê-á sing-hē/螺旋星系/spiral galaxy
+- 【捲螺仔星系】kńg-lê-á seng-hē/Sian-lú-tsō sing-hē/螺旋星系/spiral galaxy
 - 【捲螺仔星雲】kńg-lê-á seng-hûn/kńg-lê-á sing-hûn/螺旋星系/spiral nebula
 - 【捲螺仔星雲】kńg-lê-á seng-hûn/kńg-lê-á sing-hûn/螺旋星雲/spiral nebula
+- 【捲螺仔星雲】kńg-lê-á seng-hûn/kńg-lê-á-sing-hûn/螺旋星雲/spiral nebula
 - 【捲螺仔星雲】Kńg-lê-á seng-hûn/Kńg-lê-á sing-hûn/螺旋星雲/the Helix Nebula
 - 【捲螺仔極光】kńg-lê-á ke̍k-kng/kńg-lê-á ki̍k-kng/漩渦極光/vortex aurora
 - 【捲螺仔極光】kńg-lê-á ke̍k-kng/kńg-lê-á ki̍k-kng/螺旋極光/spiral aurora
@@ -1222,35 +1899,51 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【捲螺仔道】kńg-lê-á-tō/kńg-lê-á-tō/龍捲道/Tornado Alley
 - 【捲螺仔風】kńg-lê-á-hong/kńg-lê-á-hong/旋風/cyclone
 - 【捲螺仔風】kńg-lê-á-hong/kńg-lê-á-hong/龍捲風/tornado
+- 【捲螺星雲】kńg-lê-seng-hûn/kńg-lê-sing-hûn/螺旋星雲/Helix Nebula
 - 【捲踅】kńg-se̍h/kńg-se̍h/旋轉/rotate
 - 【捲踅雲】kńg-se̍h-hûn/kńg-se̍h-hûn/旋渦雲/swirling cloud
 - 【捲雲】kńg-hûn/kńg-hûn/捲雲/cirrus cloud
+- 【捷克共合國】Chia̍t-khek kiōng-ha̍p-kok/Tsia̍t-khik kiōng-ha̍p-kok/捷克共合國/the Czech Republic
+- 【掃帚星】sàu-chhiú-chhiⁿ/sàu-tshiú-tshinn/彗星/comet
+- 【掃帚星】sàu-chhiú-chhiⁿ/sàu-tshiú-tshinn/掃帚星/comet
 - 【探測車】thàm-chhek-chhia/thàm-tshek-tshia/探測車/rover
 - 【探測車】thàm-chhek-chhia/thàm-tshik-tshia/探測車/rover
 - 【探測車】Thàm-chhek-chhia/Thàm-tshik-tshia/探測車/rover
 - 【探索】thàm-soh/thàm-soh/探索/explore
+- 【掣流】chhoah-lâu/tshuah-lâu/湍流/turbulent
+- 【接觸未來】Chiap-chhiok Bī-lâi/Tsiap-tshiok Bī-lâi/接觸未來/Contact
 - 【推進器】thui-chìn-khì/thui-tsìn-khì/推進器/thrusters
 - 【掩星】Am-chhiⁿ/Am-tshinn/掩星/occultation
 - 【掩星】iám-chhiⁿ/iám-tshinn/掩星/occultation
+- 【掩星】iám-chhiⁿ/iám-tshinn/掩星/occultations
+- 【掩星現象】Iám-chhiⁿ hiān-siōng/Iám-tshinn hiān-siōng/掩星現象/occultation
+- 【換季】ōaⁿ-kùi/uānn-kuì/換季/change of seasons
 - 【換季】ōaⁿ-kùi/uānn-kuì/換季/change season
 - 【換季日】ōaⁿ-kùi-ji̍t/uānn-kuì-ji̍t/換季日/cross-quarter day
+- 【摩洛哥】Mô͘-lo̍k-ko/Môo-lo̍k-ko/摩洛哥/Morocco
 - 【摩羯座】Mô͘-kiat-chō/Môo-kiat-tsō/摩羯座/Capricornus
 - 【擴散天體】khok-sàn-thian-thé/khok-sàn-thian-thé/擴散天體/diffuse objects
 - 【擴散星雲】khok-sàn-seng-hûn/khok-sàn-sing-hûn/擴散星雲/expanding nebula
 - 【攝影師】liap-iáⁿ-su/liap-iánn-su/攝影師/photographer
 - 【攝影機】liap-iáⁿ-ki/liap-iánn-ki/攝影機/video
+- 【攝氏】liap-sī/liap-sī/攝氏/Celsius
+- 【收冬月】Siu-tang-goe̍h/Siu-tang-gue̍h/收穫月/Harvest Moon
 - 【放電】hòng-tiān/hòng-tiān/放電/discharge
+- 【政府間氣候變化專門委員會】Chèng-hú-kan Khì-hāu Piàn-hòa Choan-mn̂g Úi-goân-hōe/Tsìng-hú kan Khì-hāu Piàn-huà Tsuan-mn̂g Uí-guân-huē/政府間氣候變化專門委員會/Intergovernmental Panel on Climate Change (IPCC)
 - 【敏感度】bín-kám-tō͘/bín-kám-tōo/靈敏度/sensitive
 - 【散射】sàn-siā/sàn-siā/散射/scatter
 - 【散射】sàn-siā/sàn-siā/散射/scattering
+- 【整合試驗】chéng-ha̍p chhì-giām/tsíng-ha̍p tshì-giām/整合試驗/integrated test
 - 【文化遺產】bûn-hòa ûi-sán/bûn-huà uî-sán/文化遺產/cultural heritage
 - 【斜拄形星團】Chhiâ-tu-hêng seng-thoân/Chhiâ-to-hîng sing-thuân/梯形星團/the Trapezium star cluster
 - 【斜糕形星團】Chhiâ-ko-hêng seng-thoân/Chhiâ-ko-hîng sing-thuân/梯形星團/the Trapezium star cluster
+- 【斯里蘭卡】Su-lí-lân-khah/Su-lí-lân-khah/斯里蘭卡/Sri Lanka
 - 【新墨西哥】Sin Be̍k-se-ko/Sin Bi̍k-se-ko/新墨西哥/New Mexico
 - 【新星】sin-seng/sin-sing/新星/nova
 - 【新星】Sin-seng/Sin-sing/新星/Nova
 - 【新星 蛇夫座 RS】Sin-seng Siâ-hu-chō RS/Sin-sing Siâ-hu-tsō RS/新星 蛇夫座 RS/NOVA RS Ophiuchus
 - 【新月】sin-goe̍h/sin-gue̍h/新月/new moon
+- 【新疆】Sin-kiong/Sin-kiong/新疆/Xinjiang
 - 【新視野號太空船】Sin-sī-iá-hō thài-khong-chûn/Sin-sī-iá-hō thài-khong-tsûn/新視野號太空船/New Horizons
 - 【新視野號太空船】Sin Sī-iá-hō Thài-khong-chûn/Sin Sī-iá-hō Thài-khong-tsûn/新視野號太空船/New Horizons
 - 【新視野號機器人太空船】Sin-sī-iá-hō ke-khì-lâng thài-khong-chûn/Sin-sī-iá-hō ke-khì-lâng thài-khong-tsûn/新視野號機器人太空船/the robotic New Horizons spacecraft
@@ -1283,10 +1976,16 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【日珥】ji̍t-jíⁿ/ji̍t-jínn/日珥/solar prominence
 - 【日珥】ji̍t-jíⁿ/ji̍t-jínn/日珥/solar prominences
 - 【日珥】Ji̍t-jíⁿ/Ji̍t-jínn/日珥/solar prominences
+- 【日珥】ji̍t-jíⁿ/ji̍t-jíⁿ/日珥/solar prominence
+- 【日珥】ji̍t-ní/ji̍t-ní/日珥/prominences
 - 【日環食】ji̍t-khoân-si̍t/ji̍t-khuân-si̍t/日環食/annular eclipse
 - 【日環食】Ji̍t-khoân-si̍t/Ji̍t-khuân-si̍t/日環食/Annular Solar Eclipse
+- 【日素】ji̍t-sò͘/ji̍t-sòo/氦/helium
 - 【日華】ji̍t-hôa/ji̍t-huâ/日華/solar corona
+- 【日落】ji̍t-lo̍h/ji̍t-lo̍h/日落/sunset
+- 【日行軌跡】ji̍t-hêng kúi-jiah/ji̍t-hîng kuí-jiah/日行跡/analemma
 - 【日行軌跡】ji̍t-hêng kúi-jiah/ji̍t-hîng kuí-jiah/日行跡/Analemma
+- 【日行軌跡】ji̍t-hêng-kúi-jiah/ji̍t-hîng-kuí-jiah/日行跡/Analemma
 - 【日行軌跡】ji̍t-hêng-kúi-jiah/ji̍t-hîng-kuí-jiah/日行跡/analemmas
 - 【日軌攝影術】ji̍t-kúi-liap-iáⁿ-su̍t/ji̍t-kuí-liap-iánn-su̍t/日軌攝影術/solargraphy
 - 【日食】ji̍t-sit/ji̍t-sit/日食/eclipse
@@ -1297,6 +1996,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【星】chheⁿ/tshenn/星/star
 - 【星】chhiⁿ/tshinn/星/star
 - 【星】seng/sing/星/star
+- 【星伴】seng-phōaⁿ/sing-phuānn/伴星/companion
 - 【星伴】seng-phōaⁿ/sing-phuānn/伴星/companion star
 - 【星伴】seng-phōaⁿ/sing-phuānn/伴星/star companion
 - 【星伴】seng-phōaⁿ/sing-phuānn/星伴/companion star
@@ -1308,26 +2008,38 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【星團】seng-thoân/sing-thuân/星團/cluster of stars
 - 【星團】seng-thoân/sing-thuân/星團/star cluster
 - 【星團】seng-thoân/sing-thuân/星團/star clusters
+- 【星團核心】seng-thoân he̍k-sim/sing-thuân hi̍k-sim/星團核心/the cluster core
 - 【星團複合體】seng-thoân ho̍k-ha̍p-thé/sing-thuân ho̍k-ha̍p-thé/星團複合體/star cluster complex
+- 【星團遺跡】seng-thoân ûi-chek/sing-thuân uî-tsik/星團遺跡/star cluster relics
 - 【星場】seng-tiûⁿ/sing-tiûnn/星場/star field
 - 【星場】seng-tiûⁿ/sing-tiûnn/星場/starfield
 - 【星場】seng-tiûⁿ/sing-tiûnn/星場/starfields
+- 【星塗】seng-thô͘/sing-thôo/星塵/stardust
+- 【星塵】seng-tîn/sing-tîn/星塵/stardust
+- 【星座】seng-chō/sing-tsō/星座/constellation
 - 【星座】seng-chō/sing-tsō/星座/stellar constellation
 - 【星暈】seng-n̄g/sing-n̄g/星暈/stellar halo
+- 【星橋】seng-kiô/sing-kiô/星橋/bridge
 - 【星橋】seng-kiô/sing-kiô/星橋/stellar arch
+- 【星爆星系】seng-po̍k seng-hē/sing-po̍k sing-hē/星爆星系/starburst
 - 【星爆星系】seng-po̍k-seng-hē/sing-po̍k-sing-hē/星爆星系/starburst
+- 【星爆環】seng-po̍k-khoân/sing-po̍k-khuân/星爆環/starburst ring
 - 【星石】chheⁿ-chio̍h/tshenn-tsio̍h/隕石/meteorite
 - 【星石坑】chheⁿ-chio̍h-kheⁿ/tshenn-tsio̍h-khenn/隕石坑/crater
 - 【星空】seng-khong/sing-khong/星空/starscape
+- 【星等】seng-téng/sing-tíng/星等/magnitude
 - 【星粉】seng-hún/sing-hún/星塵/stardust
 - 【星系】seng-hē/seng-hē/星系/galaxies
 - 【星系】seng-hē/sing-hē/星系/galaxies
 - 【星系】seng-hē/sing-hē/星系/galaxy
 - 【星系互食】seng-hē hō͘-chia̍h/sing-hē hōo-tsia̍h/星系互食/galactic cannibalism
 - 【星系伴】seng-hē-phōaⁿ/Gîn-hô-hē/伴星系/galactic companion
+- 【星系伴】seng-hē-phōaⁿ/seng-hē-phōaⁿ/伴星系/companion galaxies
 - 【星系伴】seng-hē-phōaⁿ/sing-hē-phuānn/伴星系/companion galaxy
 - 【星系伴】seng-hē-phōaⁿ/sing-hē-phūann/伴星系/companion galaxy
+- 【星系伴】seng-hē-phōaⁿ/sing-hē-phuānn/星系伴/galaxy companion
 - 【星系伴】seng-hē-pôaⁿ/puânn/伴星系/companion galaxy
+- 【星系卷雲】seng-hē kng-hûn/sing-hē kng-hûn/星系卷雲/galactic cirrus
 - 【星系合併】seng-hē ha̍p-pèng/sing-hē ha̍p-pìng/星系合併/galaxies merger
 - 【星系團】seng-hē-thoân/sing-hē-thuân/星系團/cluster of galaxies
 - 【星系團】seng-hē-thoân/sing-hē-thuân/星系團/culster of galaxiex
@@ -1341,9 +2053,14 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【星系核】seng-hē-he̍k/sing-hē-hi̍k/星系核/galactic bulge
 - 【星系核】seng-hē-he̍k/sing-hē-hi̍k/星系核/galactic core
 - 【星系核】seng-hē-he̍k/sing-hē-hi̍k/星系核/galactic nucleus
+- 【星系核】seng-hē-he̍k/sing-hē-hi̍k/星系核/galaxy's core
 - 【星系核】Seng-hē-he̍k/Sing-hē-hi̍k/星系核/the galaxy's core
+- 【星系核心】seng-hē he̍k-sim/sing-hē hi̍k-sim/星系核心/galactic core
+- 【星系核心】seng-hē he̍k-sim/sing-hē hi̍k-sim/星系核心/galaxy's core
 - 【星系棍】seng-hē-kùn/sing-hē-kùn/星系棍/galactic bar
 - 【星系棍】seng-hē kùn/sing-hē kùn/星系棒/galactic bar
+- 【星系棍仔】seng-hē kùn-á/sing-hē kùn-á/星系棒/galactic bar
+- 【星系殘骸】seng-hē chân-hâi/sing-hē tsân-hâi/星系殘骸/galactic debris
 - 【星系演化】seng-hē-ián-hòa/sing-hē-ián-huà/星系演化/evolution of galaxies
 - 【星系演化】seng-hē ián-hòa/sing-hē ián-huà/星系演化/galaxy evolution
 - 【星系盤】seng-hē-pôaⁿ/puânn/星系盤/galactic disk
@@ -1352,6 +2069,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【星系眼】seng-hē-gán/sing-hē-gán/星系眼/galactic eye
 - 【星系磁場】seng-hē chû-tiûⁿ/sing-hē tsû-tiûnn/星系磁場/galactic magnetic field
 - 【星系線】seng-hē-sòaⁿ/sing-hē-suànn/星系線/galaxy line
+- 【星系群】seng-hē-kûn/sing-hē-kûn/星系群/galaxy cluster
 - 【星系群】seng-hē-kûn/sing-hē-kûn/星系群/group of galaxies
 - 【星系間 ê 星際風】seng-hē-kan ê seng-chè-hong/sing-hē-kan ê sing-tsè-hong/星系間星際風/intergalactic wind
 - 【星系間星雲】Seng-hē-kan Seng-hûn/Sing-hē-kan Sing-hûn/共同照耀星雲/Integrated Flux Nebula (IFN)
@@ -1361,63 +2079,94 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【星表】seng-piáu/seng-piáu/星表/catalog
 - 【星表】seng-pió/sing-pió/星表/cataloge
 - 【星跡】chhiⁿ-jiah/tshinn-jiah/星軌/star trail
+- 【星軌圖】seng-kúi-tô͘/sing-kuí-tôo/星軌圖/startrail image
 - 【星鏈】Seng-liān/Sing-liān/星鏈/Starlink
 - 【星鏈衛星】Seng-liān-ūi-chhiⁿ/Sing-liān-uī-tshinn/星鏈衛星/Starlink satellites
 - 【星鏈衛星網】Seng-liān-ūi-chhiⁿ-bāng/Sing-liān-uī-tshinn-bāng/星鏈衛星網/Starlink constellation
 - 【星鏈通訊衛星】Seng-liān thong-sìn ūi-chhiⁿ/Sing-liān thong-sìn uī-tshinn/星鏈通訊衛星/Starlink satellites
+- 【星際介質】seng-chè-kài-chit/sing-tsè-kài-tsit/星際介質/interstellar medium
 - 【星際分子雲】seng-chè-hun-chú-hûn/sing-tsè-hun-tsú-hûn/星際分子雲/interstellar molecular cloud
+- 【星際塗粉】seng-chè-thô͘-hún/sing-tsè-thô-hún/星際塵埃/interstellar dust
+- 【星際塗粉】seng-chè-thô͘-hún/sing-tsè-thôo-hún/星際塗粉/dust cloud
+- 【星際塗粉】seng-chè thô͘-hún/sing-tsè thôo-hún/星際灰塵/interstella dust
 - 【星際塗粉】seng-chè-thô͘-hún/sing-tsè-thôo-hún/星際灰塵/interstellar dust
 - 【星際塗粉帶】seng-chè thô͘-hún-tòa/sing-tsè thôo-hún-tuà/星際灰塵帶/interstellar dust lanes
 - 【星際塗粉粒】seng-chè-thô͘-hún-lia̍p/sing-tsè-thô͘-hún-lia̍p/星際灰塵粒/interstellar dust particle
+- 【星際塗粉絲】seng-chè thô͘-hún-si/sing-tsè thôo-hún-si/星際灰塵絲狀結構/filaments of interstellar dust
+- 【星際塗粉雲】seng-chè-thô͘-hún-hûn/seng-chè-thô͘-hún-hûn/星際灰塵雲/interstellar dust cloud
 - 【星際塗粉雲】seng-chè thô͘-hún-hûn/sing-tsè thôo-hún-hûn/星際塵埃雲/interstellar dust clouds
+- 【星際塗粉雲】seng-chè-thô͘-hún-hûn/sing-tsè-thôo-hún-hûn/星際灰塵雲/cloud of interstellar dust
+- 【星際塗粉雲】seng-chè-thô͘-hún-hûn/sing-tsè-thôo-hún-hûn/星際灰塵雲/interstellar dust
 - 【星際塗粉雲】seng-chè thô͘-hún-hûn/sing-tsè thôo-hún-hûn/星際灰塵雲/interstellar dust cloud
 - 【星際塗粉雲】seng-chè-thô͘-hún-hûn/sing-tsè-thôo-hún-hûn/星際灰塵雲/interstellar dust cloud
 - 【星際彗星】seng-chè hui-chhiⁿ/sing-tsè hui-tshinn/星際彗星/Interstellar Comet
+- 【星際星雲複合體】seng-chè seng-hûn ho̍k-ha̍p-thé/sing-tsè sing-hûn ho̍k-ha̍p-thé/星際星雲複合體/interstellar complex of nebulae
 - 【星際景緻】seng-chè kéng-tì/sing-tsè kíng-tì/星際景緻/interstellar scene
 - 【星際氣泡】seng-chè-khì-phàu/seng-tsè-khì-phàu/星際氣泡/an interstellar bubble
 - 【星際氣體】seng-chè-khì-thé/sing-tsè-khì-thé/星際氣體/interstellar gas
 - 【星際物質】seng-chè-bu̍t-chit/sing-tsè-bu̍t-tsit/星際物質/interstellar medium
 - 【星際空間】seng-chè-khong-kan/sing-tsè-khong-kan/星際空間/intergalactic space
+- 【星際絹雲】seng-chè kìn-hûn/sing-tsè kìn-hûn/星際卷雲/interstellar cirrus
+- 【星際絹雲】seng-chè-kìn-hûn/sing-tsè-kìn-hûn/星際卷雲/interstellar cirrus
 - 【星際雲】seng-chè-hûn/sing-tsè-hûn/星際氣體/interstellar cloud
+- 【星際雲】seng-chè-hûn/sing-tsè-hûn/星際雲/interstellar cloud
+- 【星際雲】seng-chè-hûn/sing-tsè-hûn/星際雲/interstellar clouds
 - 【星際風】seng-chè-hong/sing-tsè-hong/星際風/Butterfly Nebula
+- 【星際風】seng-chè-hong/sing-tsè-hong/星際風/interstellar winds
 - 【星際飛龍機】seng-chè poe-lêng-ki/sing-tsè pue-lîng-ki/星際飛龍機/starships
 - 【星雲】seng-hûn/sing-hûn/星雲/nebula
+- 【星雲】seng-hûn/sing-hûn/星雲/nebulae
 - 【星雲】seng-hûn/sing-hûn/星雲/nebular
 - 【星雲伴】seng-hûn-phōaⁿ/sing-hûn-phuānn/關連星雲/associated nebulae
 - 【星雲星團目錄】Seng-hûn seng-thoân bo̍k-lo̍k/Sing-hûn sing-thuân bo̍k-lo̍k/星雲星團目錄/the catalog of bright nebulae and star clusters
+- 【星雲暈】seng-hē-n̄g/sing-hē-n̄g/星雲暈/nebula halo
 - 【星雲複合體】seng-hûn ho̍k-ha̍p-thé/sing-hûn ho̍k-ha̍p-thé/星雲複合體/cloud complex
+- 【星雲複合體】seng-hûn ho̍k-ha̍p-thé/sing-hûn ho̍k-ha̍p-thé/星雲複合體/nebula complex
 - 【星雲複合體】seng-hûn ho̍k-ha̍p-thé/sing-hûn ho̍k-ha̍p-thé/星雲複合體/nebular complex
 - 【星雲複合體】seng-hûn ho̍k-ha̍p-thé/sing-hûn ho̍k-ha̍p-thé/星雲複合體/the complex of nebulae
+- 【星雲體】seng-hûn-thé/sing-hûn-thé/星雲體/nebulosity
 - 【春分】chhun-hun-tiám/tshun-hun-tiám/春分/spring equinox
 - 【春分】chhun-hun/tshun-hun/春分/spring equinox
 - 【春分】chhun-hun/tshun-hun/春分/spring equinoxe
 - 【春分】chhun-hun/tshun-hun/春分/the March equinox
 - 【春季星座】chhun-kùi seng-chō/tshun-kuì sing-tsō/春季星座/springtime constellation
 - 【春秋分點】chhun-chhiu hun-tiám/tshun-tshiu hun-tiám/春秋分點/equinox
+- 【春秋分點】chhun-chhiu-hun-tiám/tshun-tshiu-hun-tiám/春秋分點/equinox
 - 【昴宿星團】Báu-siù-seng-thoân/Báu-siù-seng-thoân/昴宿星團/Pleiades star cluster
 - 【昴宿星團】Báu-siù seng-thoân/Báu-siù seng-thuân/昴宿星團/Pleiades star cluster
+- 【昴宿星團】Báu-siù-seng-thoân/Báu-siù-sing-thuân/昴宿星團/Pleaides star cluster
 - 【昴宿星團】Báu-siù-seng-thoân/Báu-siù-sing-thuân/昴宿星團/Pleiades
 - 【昴宿星團】Báu-siù seng-thoân/Báu-siù sing-thuân/昴宿星團/Pleiades star cluster
 - 【昴宿星團】Báu-siù-seng-thoân/Báu-siù-sing-thuân/昴宿星團/Pleiades star cluster
 - 【昴宿星團】Báu-siù-seng-thoân/Báu-siù-sing-thuân/昴宿星團/the Pleiades
 - 【昴宿星團】Báu-siù seng-thoân/Báu-siù sing-thuân/昴宿星團/the Pleiades star cluster
 - 【昴宿星團】Báu-siù-seng-thoân/Báu-siù-sing-thuân/昴宿星團/the Pleiades star cluster
+- 【昴宿星團】Báu-siù-seng-thoân/v/昴宿星團/Pleiades star cluster
 - 【晏】òaⁿ/uànn/晚/later
 - 【晨昏光】sîn-hun-kng/sîn-hun-kng/曙暮光/twilight
 - 【晨昏區】sîn-hun-khu/sîn-hun-khu/暮光區/twilight
+- 【晨昏線】sîn-hun-sòaⁿ/sîn-hun-suànn/晨昏線/terminator
 - 【晨昏線】Sîn-hun-sòaⁿ/Sîn-hun-suànn/晨昏線/Terminator
 - 【晨昏線】sîn-hun-sòaⁿ/sîn-hun-suànn/晨昏線/terminator line
 - 【晨昏線】Sîn-hun-sòaⁿ/Sîn-hun-suànn/晨昏線/the Earth's terminator
 - 【晨昏線】sîn-hun-sòaⁿ/sîn-hun-suànn/晨昏線/twilight
 - 【晨昏線區】Sîn-hun-sòaⁿ-khu/Sîn-hun-suànn-khu/晨昏線區/Terminator region
+- 【普洱市】Phó͘-jíⁿ-chhī/Phóo-jínn-tshī/普洱市/Pu'er city
 - 【晶簇】chiⁿ-chhok/tsinn-tshok/晶簇/crystal clusters
+- 【晶體】chiⁿ-thé/tsinn-thé/晶體/crystals
 - 【智利】Tì-lī/Tì-lī/智利/Chile
 - 【暈輪軌道】n̄g-lûn kúi-tō/n̄g-lûn kuí-tō/暈輪軌道/halo orbit
+- 【暖化潮】loán-hòa-tiâu/luán-huà-tiâu/暖化潮/warming surge
 - 【暗區實驗室】Àm-khu si̍t-giām-sek/Àm-khu si̍t-giām-sik/暗區實驗室/Dark Sector Laboratory
+- 【暗區實驗室】Àm-khu Si̍t-giām-sek/Àm-khu Si̍t-giām-sik/暗區實驗室/Dark Sector Laboratory
 - 【暗塗粉帶】àm-thô͘-hún-tōa/àm-thôo-hún-tuā/暗灰塵帶/dark dust lane
 - 【暗塗粉帶】àm-thô͘-hún-tòa/àm-thôo-hún-tuà/灰塵帶/dust lane
 - 【暗帶】àm-tòa/àm-tuà/帶/bands
+- 【暗帶】àm-tòa/àm-tuà/暗帶/dark belt
+- 【暗帶】àm-tòa/àm-tuà/暗帶/dark belts
+- 【暗星雲】àm-seng-hûn/àm-sing-hûn/暗星雲/dark cloud
 - 【暗星雲】àm-seng-hûn/àm-sing-hûn/暗星雲/dark nebula
+- 【暗星雲複合體】àm-seng-hûn ho̍k-ha̍p-thé/àm-sing-hûn ho̍k-ha̍p-thé/暗星雲複合體/dark nebula complex
 - 【暗濾鏡】àm-lū-kiàⁿ/àm lū-kiànn/暗濾鏡/dark filter
 - 【暗物質】àm-bu̍t-chit/àm-bu̍t-tsit/暗物質/dark matter
 - 【暗能量】àm-lêng-liōng/àm-lîng-liōng/暗能量/dark energy
@@ -1429,21 +2178,32 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【暴風雲】pō-hong-hûn/pō-hong-hûn/暴風雲/storm cloud
 - 【曲度】khiau-tō͘/khiau-tōo/曲率/curvature
 - 【月-nā Lí-sà】Goe̍h-nā Lí-sà/Gue̍h-nā Lí-sà/月娜麗莎/The Moona Lisa
+- 【月佛光】goe̍h-hu̍t-kng/gue̍h-hu̍t-kng/月佛光/crepuscular moon rays
 - 【月偏食】goe̍h-phian-si̍t/gue̍h-phian-si̍t/月偏食/partial lunar eclipse
 - 【月偏食】goe̍h-phian-si̍t/gue̍h-phian-si̍t/月偏食/partial solar eclipse
+- 【月全食】goe̍h-choân-si̍t/goe̍h-choân-si̍t/月全食/total lunar exlipse
 - 【月全食】goe̍h-choân-si̍t/gue̍h-tsuân-si̍t/月全食/lunar eclipse
 - 【月全食】goe̍h-choân-si̍t/gue̍h-tsuân-si̍t/月全食/lunar exlipas
 - 【月全食】goe̍h-choân-si̍t/gue̍h-tsuân-si̍t/月全食/total lunar eclipse
 - 【月全食】Goe̍h-choân-si̍t/Gue̍h-tsuân-si̍t/月全食/total lunar eclipse
 - 【月全食】Goe̍h-choân-si̍t/Gue̍h-tsuân-si̍t/月全食/Total Lunar Eclipse
 - 【月全食】goe̍h-choân-si̍t/gue̍h-tsuân-si̍t/月全食/total solar eclipse
+- 【月全食掩星】Goe̍h-choân-si̍t Iám-chhiⁿ/Gue̍h-tsuân-si̍t Iám-tshinn/月全食掩星/lunar eclipse occultation
 - 【月冕】goe̍h-bián/gue̍h-bián/月冕/lunar corona
 - 【月出】goe̍h-chhut/gue̍h-tshut/月出/moonrise
+- 【月圓】goe̍h-îⁿ/goe̍h-îⁿ/滿月/full moon
+- 【月圓】goe̍h-îⁿ/gue̍h-înn/月圓/full moon
 - 【月圓】goe̍h-îⁿ/gue̍h-înn/滿月/full moon
+- 【月圓】goe̍h-îⁿ/gue̍h-înn/滿月/full Moon
+- 【月圓】goe̍h-îⁿ/gue̍h-înn/滿月/full moons
+- 【月圓】goe̍h-îⁿ/gue̍h-înn/滿月/the Full Moon
 - 【月圓相】goe̍h-îⁿ-siòng/gue̍h-înn-siòng/滿月月相/full phase
 - 【月圓週期】goe̍h-îⁿ chiu-kî/gue̍h-înn tsiu-kî/月圓週期/lunation
 - 【月平線】goe̍h-pêng-sòaⁿ/gue̍h-pîng-suànn/月平線/lunar horizon
 - 【月掩星】goe̍h-iám-chhiⁿ/gue̍h-iám-tshinn/月掩星/lunar occultation
+- 【月掩星】Goe̍h-iám-chhiⁿ/Gue̍h-iám-tshinn/月掩星/Lunar occultations
+- 【月掩火星】Goe̍h iám Hóe-chhiⁿ/Gue̍h iám Hué-tshinn/月掩火星/lunar occultation of Mars
+- 【月掩行星】Goe̍h-iám-kiâⁿ-chhiⁿ/Gue̍h-iám-kiânn-tshinn/月掩行星/lunar occultations of planets 
 - 【月掩金星】Goe̍h-iám Kim-chhiⁿ/Gue̍h-iám Kim-tshinn/月掩金星/Lunar Occultation of Venus
 - 【月暈】goe̍h-n̄g/gue̍h-n̄g/月暈/lunar halo
 - 【月暈】goe̍h-n̄g/gue̍h-n̄g/月暈/lunar halo（冰晶反射/peng-chiⁿ hoán-siā/ping-tsinn huán-siā）
@@ -1453,7 +2213,10 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【月海】Goe̍h-hái/Gue̍h-hái/月海/lunar mare
 - 【月海】goe̍h-hái/gue̍h-hái/月海/lunar maria
 - 【月海】Goe̍h-hái/Gue̍h-hái/月海/Lunar maria
+- 【月海】goe̍h-hái/gue̍h-hái/月海/maria
 - 【月狗】goe̍h-káu/gue̍h-káu/月狗/moondogs
+- 【月球】Goe̍h-kiû/Gue̍h-kiû/月球/Moon
+- 【月球探測車】Goe̍h-kiû Thàm-chhek-chhia/Gue̍h-kiû Thàm-tshik-tshia/月球探測車/Lunar Rover
 - 【月球探測軌道太空船】Goe̍h-kiû thàm-chhek kúi-tō thài-khong-chûn/Gue̍h-kiû thàm-tshik kuí-tō thài-khong-tsûn/月球勘測軌道飛行器/Lunar Reconnaissance Orbiter spacecraft
 - 【月球探測軌道衛星】Goe̍h-kiû thàm-chhek kúi-tō ūi-chhiⁿ/Gue̍h-kiû thàm-tshik kuí-tō uī-tshinn/月球勘測軌道飛行器/Lunar Reconnaissance Orbiter
 - 【月球日】goe̍h-kiû-ji̍t/gue̍h-kiû-ji̍t/月球日/lunar day
@@ -1462,34 +2225,56 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【月盤】goe̍h-pôaⁿ/gue̍h-pôann/月盤/lunar disk
 - 【月盤】goe̍h-pôaⁿ/gue̍h-puânn/月盤/lunar disk
 - 【月盤】goe̍h-pôaⁿ/gue̍h-puânn/月盤/moon disk
+- 【月盤】goe̍h-pôaⁿ/gue̍h-puânn/月盤/the lunar disk
 - 【月相】goe̍h-siòng/gue̍h-siòng/月相/lunar phase
 - 【月相】goe̍h-siòng/gue̍h-siòng/月相/moon phase
 - 【月相】goe̍h-siòng/gue̍h-siòng/月相/phase of the Moon
+- 【月相矩陣圖】goe̍h-siòng kū-tīn-tô͘/gue̍h-siòng kū-tīn-tôo/月相矩陣圖/Lunation Matrix
+- 【月眉】goe̍h-bâi/gue̍h-bâi/弦月/crescent moon
+- 【月眉】goe̍h-bâi/gue̍h-bâi/新月/crescent
 - 【月眉】goe̍h-bâi/gue̍h-bâi/新月/new moon
 - 【月眉】goe̍h-bâi/gue̍h-bâi/眉月/crescent
+- 【月眉】goe̍h-bâi/gue̍h-bâi/眉月/crescent moon
 - 【月眉形】goe̍h-bâi-hêng/gue̍h-bâi-hîng/新月/a crescent phase
 - 【月眉形】goe̍h-bâi-hêng/gue̍h-bâi-hîng/新月形/crescent
 - 【月眉形】goe̍h-bâi-hêng/gue̍h-bâi-hîng/新月形/crescent moon
 - 【月眉星雲】Goe̍h-bâi seng-hûn/Gue̍h-bâi sing-hûn/眉月星雲/Crescent Nebula
 - 【月眉相】goe̍h-bâi-siòng/gue̍h-bâi-siòng/新月月相/crescent phase
+- 【月眉相】goe̍h-bâi siòng/gue̍h-bâi siòng/眉月相/crescent phase
 - 【月華】goe̍h-hôa/gue̍h-huâ/月華/lunar corona（水珠反射/chúi-chu hoán-siā/tsuí-tsu huán-siā）
 - 【月華】goe̍h-hôa/gue̍h-huâ/月華/moon corona
+- 【月落】goe̍h-lo̍h/gue̍h-lo̍h/月落/moonset
+- 【月行軌跡】goe̍h-hêng kúi-jiah/gue̍h-hîng kuí-jiah/月行跡/analemma of the Moon
 - 【月食】goe̍h-si̍t/gue̍h-si̍t/月食/lunar eclipse
 - 【月食】Goe̍h-si̍t/Gue̍h-si̍t/月食/Lunar Eclipse
 - 【有效感光度】iú-hāu kám-kng-tō͘/iú-hāu kám-kng-tōo/有效感光度/effective photographic sensitivity
 - 【有機物】iú-ki-bu̍t/iú-ki-bu̍t/有機物/organisms
 - 【有環 ê 氣態巨行星】ū-khoân-ê khì-thài kū-kiâⁿ-chhiⁿ/ū-khuân-ê khì-thài kū-kiânn-tshinn/環系氣態巨行星/ringed gas giant
+- 【望遠鏡】bōng-oán-kiàⁿ/bōng-uán-kiànn/望遠鏡/small telescope
 - 【望遠鏡】bōng-oán-kiàⁿ/bōng-uán-kiànn/望遠鏡/telescope
+- 【木星】Bo̍k-chheⁿ/Bo̍k-tshenn/木星/Jupiter
 - 【木星】Bo̍k-chhiⁿ/Bo̍k-tshinn/木星/Jupiter
+- 【木星】Bo̍k-chhiⁿ/Thóo-chhiⁿav/木星/Jupiter
 - 【木星四大衛星】Bo̍k-chhiⁿ Sì-tōa-ūi-chhiⁿ/Bo̍k-tshinn Sì-tuā-uī-tshinn/木星四大衛星/Jovian giant
+- 【木星環】Bo̍k-chhiⁿ-khoân/Bo̍k-tshinn-khuân/木星環/Jupiter's Ring
 - 【木星系統】Bo̍k-chhiⁿ hē-thóng/Bo̍k-tshinn hē-thóng/木星系統/Jovian system
+- 【木星雲】Bo̍k-chhiⁿ-hûn/Bo̍k-tshinn-hûn/木星雲/Jovian cloud
+- 【木星雲】Bo̍k-chhiⁿ-hûn/Bo̍k-tshinn-hûn/木星雲/Jupiter's cloud
 - 【木衛】Bo̍k-ūi/Bo̍k-uī/木衛/Jupiter's moon
 - 【木衛】Bo̍k-ūi/Bo̍k-uī/木衛/Jupiter's moons
 - 【木衛】bo̍k-ūi/bo̍k-uī/木衛/satellite of Jupiter
+- 【木衛一 Io】Bo̍k-ōe-it Io/Bo̍k-uē-it Io/木衛一埃歐/Io
 - 【木衛一 Io】Bo̍k-ūi-it Io/Bo̍k-uī-it Io/木衛一/Io
+- 【木衛一 Io】Bo̍k-ūi it Io/Bo̍k-uī-it Io/木衛一埃歐/Io
+- 【木衛一 Io】Bo̍k-ūi-it Io/Bo̍k-uī-it Io/木衛一埃歐/Io
 - 【木衛三 Ganymede】Bo̍k-ūi-saⁿ Ganymede/Bo̍k-uī-sann Ganymede/木衛三/Ganymede
 - 【木衛三 Ganymede】Bo̍k-ūi-saⁿ Ganymede/Bo̍k-uī-sann Ganymede/木衛三 甘尼米德/Ganymede
+- 【木衛三 Ganymede】Bo̍k-ūi-saⁿ Ganymede/Bo̍k-uī-sann Ganymede/木衛三蓋尼米德/Ganymede
 - 【木衛二 Europa】Bo̍k-ūi-jī Europa/Bo̍k-uī-jī Europa/木衛二/Europa
+- 【木衛二 Europa】Bo̍k-ūi-jī Europa/Bo̍k-uī-jī Europa/木衛二歐羅巴/Europa
+- 【木衛五 Amalthea】Bo̍k-uī gō͘ Amalthea/Bo̍k-uī gōo Amalthea/木衛五阿馬爾塞/Amalthea
+- 【木衛十五 Adrastea】Bo̍k-ūi cha̍p-gō͘ Adrastea/Bo̍k-uī tsa̍p-gōo Adrastea/木衛十五阿德剌斯忒亞/Adrastea
+- 【木衛十六 Metis】Bo̍k-ūi cha̍p-la̍k Metis/Bo̍k-uī tsa̍p-la̍k Metis/木衛十六梅蒂斯/Metis
 - 【木衛四 Callisto】Bo̍k-ūi-sì Callisto/Bo̍k-uī-sì Callisto/木衛四/Callisto
 - 【木衛食】Bo̍k-ūi-si̍t/Bo̍k-uī-si̍t/木衛食/Jovian moons in eclipse
 - 【本地宇宙】pún-tē ú-tiū/pún-tē ú-tiū/本地宇宙/local universe
@@ -1500,6 +2285,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【本底星系團】Pún-té Seng-hē-thoân/Pún-té Sing-hē-thuân/本底星系團/the Local Group
 - 【本影】pún-iáⁿ/pún-iánn/本影/central umbra
 - 【本影】pún-iáⁿ/pún-iánn/本影/inner shadow
+- 【本影】pún-iáⁿ/pún-iánn/本影/umbra
 - 【本影】Pún-iáⁿ/Pún-iánn/本影/umbra
 - 【本影】pún-iáⁿ/pún-iánn/本影/umbral shadow
 - 【本影】Pún-iáⁿ/Pún-iánn/本影/umbral shadow
@@ -1510,8 +2296,10 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【本星系群】Pún-seng-hē-kûn/Pún-sing-hē-kûn/本星系群/the Local galaxy group
 - 【本星系群】Pún-seng-hē-kûn/Pún-sing-hē-kûn/本星系群/the local group
 - 【本星系群】Pún-seng-hē-kûn/Pún-sing-hē-kûn/本星系群/the Local Group
+- 【本星系群】Pún-seng-hē-kûn/Pún-sing-hē-kûn/本星系群/the Local Group of galaxies
 - 【杜鵑座 47】Tō͘-koan-chō sì-cha̍p-chhit/Tōo-kuan-tsō sì-tsa̍p-tshit/杜鵑座 47/47 Tuc, 47 Tucanae
 - 【杜鵑座】Tō͘-koan-chō/Tōo-kuan-tsō/杜鵑座/Tucana
+- 【東手囊山】Tang Chhiú-lông-soaⁿ/Tang Tshiú-lông-suann/東手套山/the East Mitten Buttes
 - 【東海】Tang-hái/Tang-hái/東海/the Eastern Sea
 - 【東海】Tang-hái/Tang-hái/東海/the Mare Orientale
 - 【松仔】chhêng-á/tshîng-á/松仔/pine tree
@@ -1522,6 +2310,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【柑仔色】kam-á-sek/kam-á-sik/橘色/orange color
 - 【柱仔形冰晶】thiāu-á-hêng peng-chiⁿ/thiāu-á-hîng ping-tsinn/柱狀冰晶/column ice crystals
 - 【柱仔雲】thiāu-á-hûn/thiāu-á-hûn/雲柱/pillar
+- 【核反應】he̍k-hoán-èng/hi̍k-huán-ìng/核反應/nuclear creation
 - 【核子光譜望遠鏡陣列】He̍k-chú-kng-phó͘ bōng-oán-kiàⁿ tīn-lia̍t/Hi̍k-tsú-kng-phóo bōng-uán-kiànn tīn-lia̍t/核子光譜望遠鏡陣列/Nuclear Spectroscopic Telescope Array (NuSTAR)
 - 【核子反應爐】he̍k-chú-hoán-èng-lô͘/hi̍k-tsú-huán-ìng-lôo/核子反應爐/nuclear furnace
 - 【核心】he̍k-sim/hi̍k-sim/核心/core
@@ -1529,19 +2318,26 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【核心環】he̍k-sim-khoân/hi̍k-sim-khuân/核心環/nuclear ring
 - 【核桃】hu̍t-thô͘/hu̍t-thôo/核桃/walnut
 - 【核球】he̍k-kiû/hi̍k-kiû/核球/galacti bulge
+- 【核融合】he̍k-iông-ha̍p/hi̍k-iông-ha̍p/核融合/fusion
 - 【核融合】he̍k-iông-ha̍p/hi̍k-iông-ha̍p/核融合/nuclear fusion
+- 【核融合】he̍k-iông-ha̍p//核融合/nuclear fusion
 - 【梢風】sau-hong/sau-hong/風化/weathered
 - 【棍仔形吸石】kùn-á-hêng khi̍p-chio̍h/kùn-á-hîng khi̍p-tsio̍h/棒狀磁鐵/bar magnet
+- 【棍仔形結構】kùn-á-hêng kiat-kò͘/kùn-á-hîng kiat-kòo/棍仔形結構/barred structures
 - 【棍仔球桮星系】kùn-á-kiû-poe/kùn-á-kiû-pue/曲棍球星系/the Hockey Stick
 - 【棍仔球桮星系】Kùn-á-kiû-poe seng-hē/Kùn-á-kiû-pue seng-hē/曲棍球棍星系/Hockey Stick Galaxy
 - 【棍螺仔星系】Kún-lê-á seng-hē/Kún-lê-á sing-hē/棒旋星系/barred spiral galaxy
 - 【棍螺仔星系】kùn-lê-á seng-hē/kùn-lê-á sing-hē/棒旋星系/barred spiral galaxy
 - 【棍螺仔星系】kùn-lê-á seng-hē/kùn-lê-á sing-hē/棒旋星系/Barred Spiral Galaxy
+- 【棍螺仔星系】kùn-lê-á seng-hē/kùn-lê-á sing-hē/棒旋星系/barred spiral glaxy
+- 【棍螺仔星系】kùn-lê-á seng-hē/kùn-lê-á sing-hē/棒旋星系/bar spiral galaxy
 - 【棕樹】chang-chhiu/tsang-tshiu/棕櫚樹/palm tree
-- 【棕矮行星】chang-é-kiâⁿ-chhiⁿ/tsang-é-kiânn-tshinn/棕矮行星/Brown dwarf
+- 【棕矮星】chang-é-chhiⁿ/tsang-é-tshinn/棕矮星/Brown dwarf
 - 【森林】som-lîm/som-lîm/森林/forest
+- 【楊樹】iûⁿ-chhiu/iûnn-tshiu/楊樹/Poplar
 - 【業餘】gia̍p-î/gia̍p-î/業餘/amateur
 - 【業餘】gia̍p-û/gia̍p-û/業餘/amateur
+- 【業餘天文學家】gia̍p-û thian-bûn ha̍k-ka/gia̍p-û thian-bûn ha̍k-ka/業餘天文學家/amateur astronomer
 - 【極光】ke̍k-kng/ke̍k-kng/極光/aurora
 - 【極光】ke̍k-kng/ki̍k-kng/極光/aurona
 - 【極光】ke̍k-kng/ki̍k-kng/極光/aurora
@@ -1551,18 +2347,26 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【極光 kha-tián】ke̍k-kng kha-tián/ki̍k-kng kha-tián/極光窗簾/auroral curtain
 - 【極光冕】ke̍k-kng-bián/ki̍k-kng-bián/極光冕/auroral corona
 - 【極光帶】ke̍k-kng-tòa/ki̍k-kng-tuà/極光帶/auroral bands
+- 【極光湧】ke̍k-kng-éng/ki̍k-kng-íng/極光波浪/aurora surge
+- 【極冠】ke̍k-koan/ki̍k-kuan/極冠/polar cap
+- 【極區】ke̍k-khu/ki̍k-khu/極區/polar region
+- 【極區中氣層雲】ke̍k-khu tiong-khì-chân-hûn/ki̍k-khu tiong-khì-tsân-hûn/極區中氣層雲/polar mesospheric cloud
 - 【極地】ke̍k-tē/ki̍k-tē/極地/extreme environment
 - 【極地】ke̍k-tē/ki̍k-tē/極地/pole
 - 【極地中氣層雲】ke̍k-tē tiong-khì-chân-hûn//極地中氣層雲/polar mesopheric clouds
+- 【極地平流層雲】Ke̍k-tē-pêng-liû-chân-hûn/Ki̍k-tē-pîng-liû-tsân-hûn/極地平流層雲/polar stratospheric cloud
 - 【極夜】ke̍k-iā/ki̍k-iā/永夜/Polar Night
 - 【極晝】ke̍k-tàu/ki̍k-tàu/永晝/Polar Day
 - 【極端海拔】ke̍k-toan hái-poa̍t/ki̍k-tuan hái-pua̍t/極端海拔/extreme altitudes
 - 【極端海拔】ke̍k-toan/ki̍k-tuan/極端海拔/extreme altitude
 - 【標本】piau-pún/piau-pún/樣本/sample
+- 【標本回送船】piau-pún hôe-sàng-chûn/piau-pún huê-sàng-tsûn/樣品返回膠囊/sample return capsule
+- 【標本管】piau-pún-kóng/piau-pún-kóng/標本管/sample tube
 - 【標槍】pio-chhiuⁿ/pio-tshiunn/標槍/javelin
 - 【標誌性】piau-chì-sèng/piau-tsì-sìng/標誌性/iconic
 - 【模擬】bô͘-gí/bôo-gí/模擬/simulation
 - 【模組】bô͘-cho͘/bôo-tsoo/模組/module
+- 【樹仔椏】chhiū-á-oe/tshiū-á-ue/樹枝/branch
 - 【樹林仔】chhiū-nâ-á/tshiū-nâ-á/樹林/trees
 - 【樹椏】chhiū-oe/tshiū-ue/樹枝/branches
 - 【機制】ki-chè/ki-tsè/機制/mechanism
@@ -1573,9 +2377,11 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【次鏡】chù-kiàⁿtsù-kiànn/次鏡/secondary mirror
 - 【歇陣噴泉】hioh-chūn-phùn-chôaⁿ/hioh-tsūn-phùn-tsuânn/間歇泉/geyser
 - 【歐洲南方天文台】Au-chiu Lâm-hong Thian-bûn-tâi/Au-tsiu Lâm-hong Thian-bûn-tâi/歐洲南方天文台/European Southern Observatory
+- 【歐洲服務艙】Au-chiu ho̍k-bū-chhng/Au-tsiu ho̍k-bū-tshng/歐洲服務艙/European Service Module
 - 【正向】chiàⁿ-hiòng/tsiànn-hiòng/正向/face-on
 - 【正向星系】chiàⁿ-hiòng seng-hē/tsiànn-hiòng sing-hē/正向星系/face-on galaxy
 - 【正向星系】chiàⁿ-hiòng-seng-hē/tsiànn-hiòng-sing-hē/正向星系/face-on galaxy
+- 【正向星系】Chiàⁿ-hiòng-seng-hē/Tsiànn-hiòng-sing-hē/正向星系/face-on galaxy
 - 【正電爍爁】chiàⁿ-tiān sih-nah/tsiànn-tiān sih-nah/正閃電/positive lightning
 - 【正電爍爁】chiàⁿ-tiān sih-nah/tsiànn-tiān sih-nah/正電閃電/positive lightning
 - 【正面星系】chiàⁿ-bīn seng-hē/tsiànn-bīn sing-hē/正面星系/face-on galaxy
@@ -1585,8 +2391,10 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【武仙座 τ 流星雨】Bú-sian-chō Tau liû-chhiⁿ-hō͘/Bú-sian-tsō Tau liû-tshinn-hōo/武仙座 τ 流星雨/Tau Herculids Meteors
 - 【歲差】Hòe-chha/Huè-tsha/歲差/precession
 - 【歸納】kui-la̍p/kui-la̍p/歸納/generalization
+- 【殕光】phú-kng/phú-kng/灰光/ashen glow
 - 【殕色】phú-sek/phú-sik/灰色/grey
 - 【殘核】chân-he̍k/tsân-hi̍k/殘核/remnant core
+- 【殮布】liām-pò͘/liām-pòo/殮布/shroud
 - 【毅力號】Gē-le̍k-hō/Gē-li̍k-hō/毅力號/Perseverance
 - 【毅力號】Thê-ô͘ seng-hûn/Thê-ùi sing-hûn/毅力號/Pelican Nebula
 - 【毅力號任務】Gē-le̍k-hō jīm-bū/Gē-li̍k-hō jīm-bū/毅力號任務/Perseverance mission
@@ -1595,24 +2403,35 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【毅力號探測車】Gē-le̍k-hō thàm-chhek-chhia/Gē-li̍k-hō thàm-tshik-tshia/毅力號探測車/Perseverance rover
 - 【毅力號探測車】Gē-le̍k-hō thàm-chhek-chhia/Gē-li̍k-hō thàm-tshik-tshia/毅力號探測車/Perseverance rover (Percy)
 - 【毅力號登陸器】Gē-le̍k-hō teng-lio̍k-khì/Gē-li̍k-hō ting-lio̍k-khì/毅力號登陸器/Perseverance  lander
+- 【母恆星】bú-hêng-chheⁿ/bú-hîng-tshenn/母恆星/parent star
+- 【母恆星】bú-hêng-chhiⁿ/bú-hêng-chhiⁿ/母恆星/parent
 - 【母恆星】bú hêng-chhiⁿ/bú hîng-tshinn/母恆星/parent star
+- 【母恆星】bú-hêng-chhiⁿ/bú-hîng-tshinn/母恆星/parent star
+- 【母星】bú-chheⁿ/bú-tshenn/母星/parent star
 - 【母星】bú-chhiⁿ/bú-tshinn/母星/parent star
 - 【母星系】bú-seng-hē/bú-sing-hē/母星系/home galaxies
 - 【母星系】bú-seng-hē/bú-sing-hē/母星系/home galaxy
+- 【母行星】bú-kiâⁿ-chheⁿ/bú-kiânn-tshenn/母行星/parent planet
+- 【母行星】bú-kiâⁿ-chhiⁿ/bú-kiânn-tshinn/母行星/parent planet
 - 【比薩大教堂】Pí-sat Tōa-kàu-tn̂g/Pí-sat Tuā-kàu-tn̂g/比薩大教堂/the Duomo of Pisa
 - 【比薩敧塔】Pí-sat khi-thah/Pí-sat khi-thah/比薩斜塔/the Leaning Tower
 - 【毛捲雲】mo͘-kńg-hûn/moo-kńg-hûn/毛捲雲/cirrus fibrate
+- 【毛蟹星雲】Mô͘-hē-seng-hûn/Môo-hē-sing-hûn/毛蟹星雲/the Crab Nebula
 - 【毛蟹星雲】Mô͘-hē-seng-hûn/Môo-hē-sing-hûn/蟹狀星雲/Crab Nebular
 - 【毛蟹星雲】Mô͘-hē-seng-hûn/Môo-hē-sing-hûn/蟹狀星雲/the Crab Nebula
 - 【毛蟹星雲】Mô͘-hē seng-hûn/Môo-hē sing-hûn/蟹狀星雲/zodiacal light
 - 【毛蟹星雲脈動星】Mô͘-hē-seng-hûn be̍h-tōng-chhiⁿ/Môo-hē-sing-hûn be̍h-tōng-tshinn/蟹狀星雲脈衝星/the Crab Pulsar
 - 【毛蟹星雲脈動星】Mo͘-hē-seng-hûn Be̍k-tōng-chhiⁿ/Moo-hē-sing-hûn Bi̍k-tōng-tshinn/毛蟹星雲脈衝星/the Crab Pulsar
+- 【毛蟹星雲脈動星】Mô͘-hē-seng-hûn me̍h-tōng-chhiⁿ/Môo-hē-sing-hûn me̍h-tōng-tshinn/毛蟹星雲脈動星/the Crab Pulsar
 - 【毛蟹星雲脈動星】Mô͘-hē-seng-hûn me̍h-tōng-chhiⁿ/Môo-hē-sing-hûn me̍h-tōng-tshinn/蟹狀星雲脈動星/Crab Pulsar
 - 【毫秒】hô-bió/hô-bió/毫秒/millisecond
+- 【毫米】hô-bí/hô-bí/毫米/millimeter
 - 【氘】to/to/氘/deuterium
+- 【氣候捲螺仔圖】khì-hāu kńg-lê-á-tô͘/khì-hāu kńg-lê-á-tôo/氣候螺旋圖/climate spiral
 - 【氣態巨行星】khì-thài kū-kiâⁿ-chheⁿ/khì-thài kū-kiânn-tshenn/氣態巨行星/gas giant
 - 【氣態巨行星】khì-thài kū-kiâⁿ-chhiⁿ/khì-thài kū-kiânn-tshinn/氣巨行星/gas giant
 - 【氣態巨行星】Khì-thài kū-kiâⁿ-chhiⁿ/Khì-thài kū-kiânn-tshinn/氣巨行星/Gas giant
+- 【氣態巨行星】khì-thài kū kiâⁿ-chhiⁿ/khì-thài kū kiânn-tshinn/氣態巨行星/gas giant
 - 【氣態巨行星】khì-thài kū-kiâⁿ-chhiⁿ/khì-thài kū-kiânn-tshinn/氣態巨行星/gas giant
 - 【氣態巨行星】khì-thài kū-kiâⁿ-chhiⁿ/khì-thài kū-kiânn-tshinn/氣態巨行星/gas giant planet
 - 【氣旋】khì-soân/khì-suân/氣旋/cyclone
@@ -1620,11 +2439,17 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【氣波星雲】Khì-pho seng-hûn/Khì-pho sing-hûn/氣泡星雲/Bubble Nebular
 - 【氣波星雲】Khì-pho-seng-hûn/Khì-pho-sing-hûn/氣泡星雲/the Bubble Nebula
 - 【氣波星雲】Khì-pho-seng-hûn/Khì-pho-sing-hûn/氣波星雲/Bubble Nebula
+- 【氣波雲】khí-pho-hûn/khí-pho-hûn/氣波雲/bubble-shape
 - 【氣溶膠】khì-iûⁿ-ka/khì-iûnn-ka/氣溶膠/aerosol
+- 【氣空】khì-khang/khì-khang/氣孔/fumarole
 - 【氣輝】khì-hui/khì-hui/氣輝/airglow
 - 【氣輝】khì-hui/khì-hui/氣輝/Airglow
+- 【氣輝】khì-hui/khì-hui/氣輝/airglow gravity waves
 - 【氣輝帶】khì-hui-tòa/khì-hui-tuà/氣輝帶/airglow bands
+- 【氣輝波】khì-hui-pho/khì-hui-pho/氣輝波/airglow ripples
+- 【氣體丸】khì-thé-oân/khì-thé-uân/氣體結/gas knot
 - 【氣體殼】khì-thé-khak/khì-thé-khak/氣體殼/gaseous shroud
+- 【氣體雲】khì-thé-hûn/khì-thé-hûn/氣體雲/gas clouds
 - 【氦】hāi/hāi/氦/helium
 - 【氦】hāi/hāi/氦/Helium
 - 【氧】ióng/ióng/氧氣/oxygen
@@ -1636,78 +2461,109 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【水星】chúi-chhiⁿ/tsuí-tshinn/水星/Mercury
 - 【水星】Chúi-chhiⁿ/Tsuí-tshinn/水星/Mercury
 - 【水星紅石 3 號】Chúi-chhiⁿ Âng-chio̍h saⁿ hō/Tsuí-tshinn Âng-tsio̍h sann hō/水星紅石 3 號/Mercury-Redstone 3
+- 【水晶】peng-chiⁿ/ping-tsinn/水晶/crystals
 - 【水沖】chúi-chhiâng/tsuí-tshiâng/瀑布/waterfall
 - 【水沖】chúi-chhiâng/tsuí-tshiân/瀑布/waterfall
 - 【水沖星雲】Chúi-chhiâng-seng-hûn/Tsuí-tshiâng-sing-hûn/瀑布星雲/the Waterfall nebula
 - 【水波痕】chúi-pho-hûn/tsuí-pho-hûn/漣漪/ripples
 - 【水煙】chúi-ian/tsuí-ian/水蒸氣/water vapor
+- 【水煙】chúi-ian/tsuí-ian/水蒸汽/steam
 - 【水瓶座】Chúi-pân-chō/Tsuí-pân-tsō/水瓶座/Aquarius
 - 【水瓶座 R 星】Chúi-pân-chō R chhiⁿ/Tsuí-pân-tsō R tshinn/水瓶座 R 星/R Aquarii
 - 【水素】chúi-sò͘/tsuí-sòo/氫/H
+- 【水素】chúi-sò͘/tsuí-sòo/氫/hydorgen
 - 【水素】chúi-sò͘/tsuí-sòo/氫/hydrogen
+- 【水素】chúi-sò͘/tsuí-sòo/氫/Hydrogen
+- 【水素】chúi-sò͘/tsuí-sòo/氫/hydrogen gas
 - 【水素】chúi-sò͘/tsuí-sòo/氫氣/hydrogen
 - 【水素】chúi-sò͘/tsuí-sòo/水素/hydrogen
 - 【水素氣體】chúi-sò͘ khì-thé/tsuí-sòo khì-thé/氫氣/hydrogen gas
+- 【水素離子區】Chúi-sò͘-lī-chú-khu/Tsuí-sòo-lī-tsú-khu/氫離子區/H II region
 - 【水蒸氣】chúi-cheng-khì/tsuí-tsing-khì/水蒸氣/water vapor
+- 【水蒸汽】chúi-cheng-khì/tsuí-tsing-khì/水蒸汽/steam
 - 【水蒸汽】chúi-cheng-khì/tsuí-tsing-khì/水蒸汽/vapor
 - 【永夜】éng-iā/íng-iā/永夜/Polar Night
 - 【永晝】éng-tàu/íng-tàu/永晝/Polar Day
 - 【沉積】tîm-chek/tîm-tsik/沉積/deposit
 - 【沉積層】tîm-chek-chân/tîm-tsik-tsân/沉積層/deposite layer
-- 【沙塵暴】soa-tîn-pō/soa-tîn-pō/沙塵暴/dust storm
+- 【沉積岩】tîm-chek-giâm/tîm-tsik-giâm/沉積岩/Sedimentary rocks
 - 【沙岩】soa-giâm/sua-giâm/沙岩/sandstone
 - 【沙崙】soa-lūn/sua-lūn/沙丘/dune
 - 【沙條崙】soa-tiâu-lûn/sua-tiâu-lûn/條紋沙丘/striped sand dunes
+- 【沙漏形星雲】soa-lāu-hêng seng-hûn/sua-lāu-hîng sing-hûn/沙漏形星雲/hourglass-shape nebula
 - 【沙漠】soa-bo̍k/soa-bo̍k/沙漠/desert
 - 【沙漠】soa-bo̍k/sua-bo̍k/沙漠/desert
+- 【河外星系】hô-gōa-seng-hē/hô-guā-sing-hē/河外星系/extra-galactic
 - 【法國 Eiffel 塔】Hoat-kok Eiffel thah/Huat-kok Eiffel thah/巴黎鐵塔、埃菲爾鐵塔/Eiffel Tower
 - 【波多黎各】Pho-to-lê-koh/Pho-to-lê-koh/波多黎各/Puerto Rico
+- 【波江座】Pho-kang-chō/Pho-kang-tsō/波江座/Eridanus
 - 【波紋】pho-bûn/pho-bûn/波紋/ripple
+- 【波音 747SP 飛龍機】Pho-im chhit-sù-chhit SP poe-lêng-ki/Pho-im tshit-sù-tshit SP pue-lîng-ki/波音 747SP 飛機/Boeing 747SP aircraft
 - 【泰坦】Thài-thán/Thài-thán/泰坦/Titan
 - 【泰坦】Thài-thàn/Thài-thàn/泰坦/Titan
+- 【泰姬瑪哈陵】Thài-ki Má-ha-lêng/Thài-ki Má-ha-lîng/泰姬瑪哈陵/Taj Mahal
 - 【洞察號】Tōng-chhat-hō/Tōng-tshat-hō/洞察號/InSight
+- 【洞窟星雲】Tōng-khut seng-hûn/Tōng-khut sing-hûn/洞穴星雲/Cave Nebula
 - 【活動區】oa̍h-tōng-khu/ua̍h-tōng-khu/活動區/active region
 - 【活潑星系】oa̍h-phoat-seng-hē/ua̍h-phuat-sing-hē/活躍星系/active galaxy
 - 【活火山】oa̍h-hóe-soaⁿ/ua̍h-hué-suann/活火山/active volcano
+- 【活火山】oa̍h-hóe-soaⁿ/ua̍h-hué-suann/活火山/active volcanoes
+- 【活跳區】oa̍h-thiàu-khu/ua̍h-thiàu-khu/活躍區/active region
 - 【活跳星系】oa̍h-thiàu seng-hē/ua̍h-thiàu sing-hē/活躍星系/active galaxies
 - 【活跳星系】oah-thiàu-seng-hē/uah-thiàu-sing-hē/活躍星系/active galaxy
 - 【活跳星系】oa̍h-thiàu-seng-hē/ua̍h-thiàu-sing-hē/活躍星系/active galaxy
 - 【活跳星系核】Oah-thiàu-seng-hē-he̍k/Uah-thiàu-sing-hē-hi̍k/活躍星系核/Active Galactic Nuclei
 - 【活跳星系核】oa̍h-thiàu seng-hē-he̍k/ua̍h-thiàu sing-hē-hi̍k/活躍星系核/active galactic nucleus
+- 【流星】liû-chheⁿ/liû-tshenn/流星/meteor
 - 【流星】liû-chhiⁿ/liû-tshinn/對日照/Meteor
 - 【流星】liû-chhiⁿ/liû-tshinn/流星/meteor
+- 【流星】liû-chhiⁿ/liû-tshinn/流星/meteors
+- 【流星流】liû-chhiⁿ-liû/liû-tshinn-liû/流星流/meteroid stream
+- 【流星爍】liû-chheⁿ-sih/liû-tshenn-sih/流星閃/meteor flash
 - 【流星西北雨】liû-chhiⁿ sai-pak-hō͘/liû-tshinn sai-pak-hōo/流星暴雨/storm of meteors
 - 【流星雨】liû-chhiⁿ-hō͘/liû-tshinn-hōo/流星雨/meteor shower
 - 【流星雨】liû-chhiⁿ-hō͘/liû-tshinn-hōo/流星雨/meteor showers
+- 【流星雨極大期】liû-chhiⁿ-hō͘ ke̍k-tōa-kî/liû-tshinn-hōo ki̍k-tuā-kî/流星雨極大期/the shower maximum
+- 【流星風】liû-chhiⁿ-hong/liû-tshinn-hong/流星風/meteor wind
 - 【流星體】liû-chhiⁿ-thé/liû-tshinn-thé/流星體/meteoroid
 - 【浮筒站】phû-tâng-chām/phû-tâng-tsām/浮標站/floating buoys
 - 【浮雕】phû-tiau/phû-tiau/浮雕/anaglyph
 - 【海䖳】hái-thē/hái-thē/水母/jellyfish
 - 【海嘯】hái-siàu/hái-siàu/海嘯/tsunami
 - 【海山二】Hái-sán jī/Hái-sán jī/海山二/Eta Carinae
+- 【海平面】hái-pêng-bīn/hái-pîng-bīn/海平面/sea level
 - 【海拔】hái-poa̍t/hái-pua̍t/海拔/altitude
 - 【海䖳星雲】Hái-thē seng-hûn/Hái-thē sing-hûn/水母星雲/Jellyfish Nebula
+- 【海洋女神 Pleione】Hái-iûⁿ lú-sîn Pleione/Hái-iûnn lú-sîn Pleione/海洋女神普勒俄涅/the sea-nymph Pleione
 - 【海洋陣列】hái-iûⁿ tīn-lia̍t/hái-iûnn tīn-lia̍t/海洋陣列/array of seas
 - 【海王星】Hái-ông-chhiⁿ/Hái-ông-tshinn/海王星/Neptune
 - 【海翁星系】Hái-ang seng-hē/Hái-ang sing-hē/鯨魚星系/the Whale Galaxy
+- 【海翁星系】Hái-ang-seng-hē/Hái-ang-sing-hē/鯨魚星系/the Whale Galaxy
 - 【海翁星系】Hái-ang seng-hē/Hái-ang sing-hē/鯨魚星系/Whale Galaxy
 - 【海衛】Hái-ūi/Hái-uī/海衛/Neptune's satteliate
-- 【海豬頭星雲】Hái-ti thâu seng-hûn/Hái-ti thâu sing-hûn/海豚頭星雲/the Dolphin-head Nebula
+- 【海衛一 Triton】Hái-ūi-it Triton/Hái-uī-it Triton/海衛一/Triton
+- 【海豬仔座】Hái-ti-á-chō/Hái-ti-á-tsō/海豚座/the constellation Delphinus
+- 【海豬仔頭星雲】Hái-ti-á thâu seng-hûn/Hái-ti-á thâu sing-hûn/海豚頭星雲/the Dolphin-head Nebula
 - 【海馬星雲】Hái-bé-seng-hûn/Hái-bé-sing-hûn/海馬星雲/the Seahorse Nebula
+- 【海鷗星雲】Hái-o͘-seng-hûn/Hái-oo-sing-hûn/海鷗星雲/the Seagull Nebula
 - 【液態】e̍k-thài/i̍k-thài/液態/liquid
 - 【液態 gá-suh】e̍k-thài gá-suh/i̍k-thài gá-suh/液化天然氣/liquefied natural gas
 - 【液態水】e̍k-thài-chúi/i̍k-thài-tsuí/液態水/liquid water
+- 【液態淡水】e̍k-thài tām-chúi/i̍k-thài tām-tsuí/液態淡水/liquid fresh water
 - 【液體】e̍k-thé/i̍k-thé/液體/liquid
+- 【淋金水】lâm kim-chúi/lâm kim-tsuí/鍍金/gold-plated
 - 【淚珠形】lūi-chu-hêng/luī-tsu-hîng/淚珠形/teardrop shape
 - 【渦輪星系】O-lûn-seng-hē/O-lûn-sing-hē/渦狀星系/the Whirlpool Galaxy
 - 【渦輪星系】O-lûn seng-hē/O-lûn sing-hē/渦狀星系/Whirlpool Galaxy
 - 【渲染運算技術】soan-jiám ūn-sǹg-ki-su̍t/suan-jiám ūn-sǹg-ki-su̍t/渲染運算技術/rendering techniques
+- 【游離邊界】iû-lî pian-kài/iû-lî pian-kài/游離界面/ionization front
 - 【溫室效應】Un-sek-hāu-èng/Un-sik-hāu-ìng/溫室效應/greenhouse effect
 - 【溼版火棉膠處理法】si̍p-pán hóe-mî-ka chhú-lí-hoat/si̍p-pán hué-mî-ka tshú-lí-huat/溼版火棉膠處理法/wet-plate collodion process
 - 【滑鼠】ku̍t-chhí/ku̍t-tshí/滑鼠/mouse
 - 【滒落來】kō--lo̍h-lâi/kō--lo̍h-lâi/滾下來/roll down
 - 【滾踅】kún-se̍h/kún-se̍h/滾動/tumbling
 - 【漏壼】lāu-ô͘/lāu-ôo/沙漏/hourglass
+- 【漏壼】lāu-ô͘/lāu-ôo/漏斗/hourglass
 - 【演算法】ián-soàn-hoat/ián-suàn-huat/演算法/algorithm
 - 【演算法】ián-soàn-hoat/ián-suàn-huat/演算法/algorithms
 - 【潛在威脅小行星】chiâm-chāi-ui-hia̍p Sió-kiâⁿ-chhiⁿ/tsiâm-tsāi-ui-hia̍p Sió-kiânn-tshinn/潛在威脅小行星/Potentially Hazardous Asteroids (PHAs)
@@ -1717,31 +2573,42 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【潮汐力】tiâu-sek-le̍k/tiâu-sik-li̍k/潮汐力/tide force
 - 【潮汐尾溜】tiâu-se̍k bóe-liu/tiâu-si̍k bué-liu/潮汐尾/tidal tail
 - 【潮汐尾溜】tiâu-se̍k bóe-liu/tiâu-si̍k bué-liu/潮汐尾/tidal tails
+- 【潮汐屑仔】tiâu-se̍k sap-á/tiâu-si̍k sap-á/潮汐碎片/tidal debris
 - 【潮汐屑仔】tiâu-se̍k-sap-á/tiâu-si̍k-sap-á/潮汐碎片/tidal debris
 - 【潮汐殘骸】tiâu-se̍k chân-hâi/tiâu-si̍k tsân-hâi/潮汐殘骸/tidal debris
 - 【潮汐殘骸】tiâu-se̍k chân-hâi/tiâu-si̍k tsân-hâi/潮汐殘骸/tital debris
+- 【潮汐重力】tiâu-se̍k tiōng-le̍k/tiâu-si̍k tiōng-li̍k/潮汐重力/tidal gravity
 - 【澳洲平方公里陣列探路者】Ò-chiu pêng-hong-kong-lí tīn-lia̍t thàm-lō͘-chiá/Ò-tsiu pîng-hong-kong-lí tīn-lia̍t thàm-lōo-tsiá/澳洲平方公里陣列探路者/the Australian Square Kilometer Array Pathfinder (ASKAP)
 - 【激發】kek-hoat/kik-hoat/激發/energized
 - 【激發】kek-hoat/kik-huat/激發/energized
 - 【激發】kek-hoat/kik-huat/激發/excited state
 - 【濃厚】lông-hō͘/lông-hōo/濃厚/dense
 - 【濾光片】lū-kng-phìⁿ/lū-kng-phìnn/濾光片/filter
+- 【濾光片】lū-kng-phìⁿ/lū-kng-phìnn/濾片/filter
 - 【濾片】lī-phìⁿ/lī-phìnn/濾片/filter
 - 【濾鏡】lī-kiàⁿ/lī-kiànn/濾鏡/filter
 - 【濾鏡】lū-kiàⁿ/lū-kiànn/濾鏡/filter
 - 【濾鏡】lū-kiàⁿ/lū-kiànn/濾鏡/filters
+- 【火圓】hóe-îⁿ/hué-înn/滿火星/full Mars
+- 【火圓】hóe-îⁿ/hué-înn/滿火星/full Mars 
+- 【火山烌】hóe-soaⁿ-hu/hué-suann-hu/火山灰/volcanic ash
 - 【火星 ê 人面】Hóe-chhiⁿ ê jîn-bīn/Hué-tshinn ê jîn-bīn/火星的人面/Face on Mars
+- 【火星】Hóe-chheⁿ/Hué-tshenn/火星/Mars
 - 【火星】hóe-chhiⁿ/hué-tshinn/火星/Mars
 - 【火星】Hóe-chhiⁿ/Hué-tshinn/火星/Mars
 - 【火星任務】Hóe-chhiⁿ-jīm-bū/Hué-tshinn-jīm-bū/火星任務/Mars mission
+- 【火星全球探勘者】Hóe-chhiⁿ Choân-kiû Thàm-kham-chiá/Hué-tshinn Tsuân-kiû Thàm-kham-tsiá/火星全球探勘者/Mars Global Surveyor
 - 【火星大氣層】Hóe-chhiⁿ tōa-khì-chân/Hué-tshinn tuā-khì-tsân/火星大氣層/Martian atmosphere
+- 【火星快車號】Hóe-chhiⁿ Khoài-chhia-hō/Hué-tshinn Khuài-tshia-hō/火星快車號/Mars Express
 - 【火星探測軌道衛星】Hóe-chhiⁿ Thàm-chhek-kúi-tō-ūi-chhiⁿ/Hué-tshinn Thàm-tshik-kuí-tō-uī-tshinn/火星偵察軌道衛星/Mars Reconnaissance Orbiter
 - 【火星探測軌道衛星】Hóe-chhiⁿ thàm-chhek-kúi-tō-ūi-chhiⁿ/Hué-tshinn thàm-tshik-kuí-tō-uī-tshinn/火星探測軌道衛星/Mars Reconnaissance Orbiter’s
 - 【火星日】Hóe-chhiⁿ-ji̍t/Hué-tshinn-ji̍t/火星日/martian day
 - 【火星日】hóe-chhiⁿ-ji̍t/hué-tshinn-ji̍t/火星日/sol
+- 【火星日】hóe-chhiⁿ-ji̍t/hué-tshinn-ji̍t/火星日/Sol
 - 【火星日】Hóe-chhiⁿ-ji̍t/Hué-tshinn-ji̍t/火星日/Sol
 - 【火星第零工】Hóe-chhiⁿ tē-lêng-kang/Hué-tshinn tē-lîng-kang/第零火星日/Sol 0
 - 【火星酸素原位資源利用實驗儀】Hóe-chhiⁿ sǹg-sò͘ goân-ūi chu-goân lī-iōng si̍t-giām-gî/Hué-tshinn sǹg-sòo guân-uī tsu-guân lī-iōng si̍t-giām-gî/火星氧氣原位資源利用實驗儀/Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE)
+- 【火流星】hóe-liû-chheⁿ/hué-liû-tshenn/火流星/fireball
 - 【火流星】hóe-liû-chhiⁿ/hóe-liû-chhiⁿ/火流星/fireball
 - 【火流星】hóe-liû-chhiⁿ/hóe-liû-chhiⁿ/火流星/fireball meteor
 - 【火流星】hóe-liû-chhiⁿ/hué-liû-tshinn/火流星/fireball
@@ -1750,9 +2617,12 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【火炎星星雲】Hóe-iām-chhiⁿ seng-hûn/Hué-iām-tshinn sing-hûn/火炎之星星雲/Flaming Star Nebula
 - 【火炭袋仔星雲】Hóe-thòaⁿ tē-á chhiⁿ-hûn/Hué-thuànn tē-á tshinn-hûn/煤袋星雲/Coalsack Nebula
 - 【火烌雲】hóe-hu-hûn/hué-hu-hûn/灰燼雲/ash cloud
+- 【火焰星雲】Hóe-iām-seng-hûn/Hué-iām-sing-hûn/火焰星雲/Flame Nebula
+- 【火焰星雲】Hóe-iām-seng-hûn/Hué-iām-sing-hûn/火焰星雲/the Flame Nebula
 - 【火環日食】Hóe-khoân ji̍t-si̍t/Hué-khuân ji̍t-si̍t/日環食/Ring of Fire
 - 【火環日食】hóe-khoân ji̍t-si̍t/hué-khuân ji̍t-si̍t/火環日食/ring of fire eclipse
 - 【火箭】hóe-chìⁿ/hué-tsìnn/火箭/rocket
+- 【火箭】Hóe-chìⁿ/Hué-tsìnn/火箭/rocket
 - 【火箭演習】Hóe-chìⁿ ián-si̍p/Hué-tsìnn ián-si̍p/火箭演習/rocket maneuver
 - 【火舌】hóe-chi̍h/hué-tsi̍h/火焰/flames
 - 【火舌星雲】Hóe-chi̍h seng-hûn/Hué-tsi̍h sing-hûn/火焰星雲/Flame Nebula
@@ -1767,23 +2637,35 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【火衛二 Deimos】Hóe-ūi-jī Deimos/Hué-uī-jī Deimos/火衛二 戴摩斯/Deimos
 - 【火金蛄】hóe-kim-ko͘/hué-kim-koo/螢火蟲/filefly
 - 【火金蛄】hóe-kim-ko͘/hué-kim-koo/螢火蟲/firefly
+- 【炭分子】thòaⁿ-hun-chú/thuànn-hun-tsú/碳分子/carbon molecules
+- 【炭素】thòaⁿ-sò͘/thuànn-sòo/碳/carbon
 - 【烏影錐】o͘-iáⁿ-chui/oo-iánn-tsui/烏影錐/shadow cone
 - 【烏托邦平原】O͘-thok-pang pêng-goân/Oo-thok-pang pîng-guân/烏托邦平原/Utopia Planitia
 - 【烏托邦平原】O͘-thok-pang pêng-goân/OO-thok-pang pîng-guân/烏托邦平原/Utopia Planitia
 - 【烏拉圭】O͘-la-kui/Oo-la-kui/烏拉圭/Uruguay
+- 【烏暗分子雲】o͘-àm-hūn-chú-hûn/oo-àm-hūn-tsú-hûn/暗分子雲/dark molecular cloud
+- 【烏暗分子雲】o͘-àm-hun-chú-hûn/oo-àm-hun-tsú-hûn/暗分子雲/dark molecular molecular
+- 【烏暗吸收星雲】o͘-àm khip-siu seng-hûn/oo-àm khip-siu sing-hûn/暗吸收星雲/dark absorption nebulae
 - 【烏暗塗粉球】o͘-àm thô͘-hún-kiû/oo-àm thôo-hún-kiû/黑暗塵埃球/globules of dark dust
+- 【烏暗星雲】o͘-àm-seng-hûn/oo-àm-sing-hûn/暗星雲/dark nebula
+- 【烏暗星雲】o͘-àm-seng-hûn/oo-àm-sing-hûn/暗星雲/dark nebulae
 - 【烏暗星雲】o͘-àm-seng-hûn/oo-àm-sing-hûn/烏暗星雲/dark nebulae
+- 【烏暗物質】o͘-àm bu̍t-chit/oo-àm bu̍t-tsit/暗物質/dark matter
 - 【烏暗物質】o͘-àm-bu̍t-chit/oo-àm-bu̍t-tsit/暗物質/dark matter
 - 【烏暗物質】o͘-àm-bu̍t-chit/oo-àm-bu̍t-tsit/烏暗物質/dark matter
 - 【烏暗雲】o͘-àm-hûn/oo-àm-hûn/暗雲/dark cloud
+- 【烏暗雲】o͘-àm-hûn/oo-àm-hûn/烏暗雲/dark cloud
 - 【烏洞】o͘-tōng/oo-tōng/烏洞/black hole
 - 【烏洞】o͘-tōng/oo-tōng/黑洞/black hole
+- 【烏洞】o͘-tōng/oo-tōng/黑洞/blackhole
+- 【烏洞】o͘-tōng/oo-tōng/黑洞/blackholoe
 - 【烏洞】o͘-tōng/o͘-tōng/黑洞/black hole
 - 【烏洞二重奏】o͘-tōng jī-têng-chàu/oo-tōng jī-tîng-tsàu/黑洞二重奏/dynamic duo
 - 【烏洞合併】O͘-tōng ha̍p-pèng/Oo-tōng ha̍p-pìng/黑洞合併/black holes merge
 - 【烏洞噴流】o͘-tōng phùn-liû/oo-tōng phùn-liû/黑洞噴流/black hole jet
 - 【烏溪】O͘-khe/Oo-khe/暗河/Dark River
 - 【烏炭橐仔星雲】O͘-thòaⁿ-lok-á-seng-hûn/Oo-thuànn-lok-á-sing-hûn/煤袋星雲/Coalsack Nebula
+- 【烏炭色】o͘-thòaⁿ-sek/oo-thuànn-sik/炭黑色/charcoal-dark color
 - 【烏煙黗】o͘-ian-thûn/oo-ian-thûn/煤煙/soot
 - 【烏碳橐仔星雲】O͘-thòaⁿ-lok-á seng-hûn/Oo-thuànn-lok-á sing-hûn//Coal Sack Nebula
 - 【烏色大理石】O͘-sek tāi-lí-chio̍h/Oo-sik tāi-lí-tsio̍h/黑色大理石/Black Marble
@@ -1791,7 +2673,9 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【烏鴉座】O͘-a-chō/Oo-a-tsō/烏鴉座/constellation Corvus
 - 【烏鴉座】O͘-a-chō/Oo-a-tsō/烏鴉座/the Corvus
 - 【無夠分感光】bô-kàu-hun kám-kng/bô-kàu-hun kám-kng/曝光不足/underexpose
+- 【無對伨】bô tùi-thīn/bô tuì-thīn/不對稱/asymmetric
 - 【無對伨】bô tùi-thīn/bô tùi-thīn/不對稱/asymmetry
+- 【無透光】bô thàu-kng/bô thàu-kng/不透明/opaque
 - 【無透光】bô-thàu-kng/bô-thàu-kng/不透明/opaque
 - 【煙流】ian-liû/ian-liû/羽狀流/plume
 - 【煙雲】ian-hûn/ian-hûn/煙雲/ wispy cloud
@@ -1799,14 +2683,16 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【煙霧鹽】ian-bū-iâm/ian-bū-iâm/鹽氣溶膠/salt-aerosol
 - 【熊掌星雲】Hîm-chiúⁿ seng-hûn/Hîm-tsiúnn sing-hûn/熊掌星雲/the Bear's Paw Nebula
 - 【熔岩】iông-gâm/iông-gâm/熔岩/lava
+- 【熔岩】iông-giâm/iông-giâm/熔岩/molten lava
+- 【熔岩海】iông-giâm-hái/iông-giâm-hái/熔岩海/seas of molten lava
 - 【熔岩煙流】iông-giâm-ian-liû/iông-giâm-ian-liû/熔岩羽流/lava plume
+- 【熱傳導】jia̍t-thoân-tō/jia̍t-thuân-tō/熱傳導/heat transport
 - 【熱應力】jia̍t-èng-le̍k/jia̍t-ìng-li̍k/熱應力/thermal stress
 - 【熱木星】jia̍t-bo̍k-chhiⁿ/jia̍t-bo̍k-tshinn/熱木星/hot Jupiter
 - 【熱核爆炸】jia̍t-he̍k po̍k-chà/jia̍t-hi̍k po̍k-tsà/熱核爆炸/thermonuclear detonation
 - 【熱核爆炸】jia̍t-he̍k po̍k-chà/jia̍t-hi̍k po̍k-tsà/熱核爆炸/thermonuclear explosion
 - 【熱核爆炸】jia̍t-he̍k-po̍k-chà/jia̍t-hi̍k-po̍k-tsà/熱核爆炸/thermonuclear explosion
 - 【熱氣層】jia̍t-khì-chân/jia̍t-khì-tsân/熱氣層/thermosphere
-- 【熱氣體】jia̍t-khì-thé/jia̍t-khì-thé/熱氣體/hot gas
 - 【燃燒集中架】Jiân-sio-chi̍p-tiong-kè/Jiân-sio-tsi̍p-tiong-kè/燃燒集中架/Combustion Integration Rack
 - 【燈塔】teng-thah/ting-thah/燈塔/beacon
 - 【爁光】nà-kng/nà-kng/閃爍/twinkle
@@ -1820,14 +2706,18 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【牛犁】gû-lê/gû-lê/牛犁/the Plough
 - 【牛犅座】Gû-káng-chō/Gû-káng-tsō/公牛座/the constellation of Bull
 - 【牛郎星】Gû-lông-chhiⁿ/Gû-lông-tshinn/牛郎星/Altair
+- 【牛郎星】Gû-nn̂g-chhiⁿ/Gû-nn̂g-tshinn/牛郎星/Altair
 - 【牧夫座】Bo̍k-hu-chō/Bo̍k-hu-tsō/牧夫座/Bootes
+- 【牧夫座】Bo̍k-hu-chō/Bo̍k-hu-tsō/牧夫座/the constellation Bootes
 - 【物理定律】bu̍t-lí-tēng-lu̍t/bu̍t-lí-tīng-lu̍t/物理定律/physical laws
 - 【物理定數】bu̍t-lí-tēng-sò͘/bu̍t-lí-tīng-sòo/物理常數/physical constants
 - 【物質流】bu̍t-chit-liû/bu̍t-tsit-liû/物質流/material stream
 - 【物質流】bu̍t-chit-liû/bu̍t-tsit-liû/物質流/stream of materials
 - 【物鏡】bu̍t-kiàⁿ/bu̍t-kiànn/物鏡/objective lens
 - 【特徵】te̍k-teng/te̍k-teng/特徵/feature
+- 【特徵光】te̍k-teng-kng/ti̍k-ting-kng/特徵光/characteristic glow
 - 【特徵光】te̍k-teng-kng/ti̍k-ting-kng/特徵光/characteristic light
+- 【特徵光】te̍k-teng-kng/ti̍k-ting-kng/特徵光/charesrestic line
 - 【特徵發射光】te̍k-teng hoat-siā-kng/ti̍k-ting huat-siā-kng/特徵發射光/characteristic glow
 - 【特徵發射光】te̍k-teng-hoat-siā-kng/ti̍k-ting-huat-siā-kng/特徵發射光/characteristic glow
 - 【特徵發射光】te̍k-teng hoat-siā-kng/ti̍k-ting huat-siā-kng/特徵發射光/the characteristic glow
@@ -1845,9 +2735,12 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【狹頻】e̍h-pîn/e̍h-pîn/窄頻/narrow band
 - 【狹頻】e̍h-pîn/e̍h-pîn/窄頻/narrow-band
 - 【狹頻】e̍h-pîn/e̍h-pîn/窄頻/narrowband
+- 【狼月】Lông-goe̍h/Lông-gue̍h/狼月/Wolf Moon
+- 【狼窟星雲】Lông-khut-seng-hûn/Lông-khut-sing-hûn/狼洞星雲/Wolf's Cave Nebula
 - 【猴頭星雲】Kâu-thâu seng-hûn/Kâu-thâu sing-hûn/猴頭星雲/Monkey Head Nebula
 - 【獅仔伴山】Sai-á-phōaⁿ-soaⁿ/Sai-á-phuānn-suann/一對獅子峰/the Lions
 - 【獅仔座 I 星系群】Sai-á-chō it seng-hē-kûn/Sai-á-tsō it sing-hē-kûn/獅仔座 I 星系群/Leo I galaxy group
+- 【獅仔座】Sai-á-chō/Sai-á-tsō/獅子座/constellation of Leo
 - 【獅仔座】Sai-á-chō/Sai-á-tsō/獅子座/the constellation Leo
 - 【獅仔座】Sai-á-chō/Sai-á-tsō/獅子座/the constellation of Leo
 - 【獅仔座三生仔】Sai-á-chō saⁿ-sìⁿ-á/Sai-á-tsō sann-sìnn-á/獅子座三胞胎/Leo Triplet
@@ -1859,41 +2752,60 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【獨創號】To̍k-chhòng-hō/ti̍t-sing-ki/獨創號/Ingenuity
 - 【獨創號】To̍k-chhòng-hō/To̍k-tshòng-hō/獨創號/Ingenuity
 - 【獨創號直升機】To̍k-chhòng-hō ti̍t-seng-ki/To̍k-tshòng-hō ti̍t-sing-ki/獨創號直升機/Ingenuity Helicopter
+- 【獨立感光】to̍k-li̍p kám-kng/to̍k-li̍p kám-kng/獨立曝光/individual exposures
 - 【獨角獸】to̍k-kak-siù/to̍k-kak-siù/獨角獸/unicorn
+- 【獨角獸座】To̍k-kak-siù-chō/To̍k-kak-siù-tsō/獨角獸座/the constellation of the Unicorn
+- 【獵戶座】La̍h-hō͘-chō/La̍h-hōo-tsō/獵戶座/constellation of the Hunter
 - 【獵戶座】La̍h-hō͘-chō/La̍h-hōo-tsō/獵戶座/Orion
 - 【獵戶座】La̍h-hō͘-chō/La̍h-hōo-tsō/獵戶座/Orion constellation
 - 【獵戶座】La̍h-hō͘-chō/La̍h-hōo-tsō/獵戶座/the constellation of Origion
 - 【獵戶座】La̍h-hō͘-chō/La̍h-hōo-tsō/獵戶座/the constellation of Orion
+- 【獵戶座】La̍h-hō͘-chō/La̍h-hōo-tsō/獵戶座/the constellation Orion
 - 【獵戶座】La̍h-hō͘-chō/La̍h-hōo-tsō/獵戶座/the Orion
 - 【獵戶座 λ 環】La̍h-hō͘-chō lambda khoân/La̍h-hōo-tsō lambda khuân/獵戶座 λ 環/Sh2-264 (Lambda Orionis Ring)
+- 【獵戶座 σ】La̍h-hō͘-chō Sigma/La̍h-hō͘-chō Sigma/獵戶座 σ/Sigma Orionis
 - 【獵戶座分子雲複合體】La̍h-hō͘-chō hun-chú-hûn ho̍k-ha̍p-thé/La̍h-hōo-tsō hun-tsú-hûn ho̍k-ha̍p-thé/獵戶座分子雲複合體/Orion molecular cloud complex
 - 【獵戶座分子雲複合體】La̍h-hō͘-chō hun-chú-hûn ho̍k-ha̍p-thé/La̍h-hōo-tsō hun-tsú-hûn ho̍k-ha̍p-thé/獵戶座分子雲複合體/Orion Molecular Cloud Complex
+- 【獵戶座大分子雲】La̍h-hō͘-chō tōa hun-chú-hûn/La̍h-hōo-tsō tōa hun-tsú-hûn/獵戶座大分子雲/Orion's giant molecular cloud
 - 【獵戶座大星雲】La̍h-hō͘-chō tōa-seng-hûn/La̍h-hōo-tsō tuā-sing-hûn/獵戶座大星雲/The Great Nebula of Orion
+- 【獵戶座太空船】La̍h-hō͘-chō Thài-khong-chûn/La̍h-hōo-tsō Thài-khong-tsûn/獵戶座太空船/Orion spacecraf
+- 【獵戶座太空船】La̍h-hō͘-chō thài-khong-chûn/La̍h-hōo-tsō thài-khong-tsûn/獵戶座太空船/Orion spacecraft
+- 【獵戶座太空船】La̍h-hō͘-chō thài-khong-chûn/La̍h-hōo-tsō thài-khong-tsûn/獵戶座太空船/the Orion spacecraft
+- 【獵戶座寶劍】La̍h-hō͘-chō pó-kiàm/La̍h-hōo-tsō pó-kiàm/獵戶座寶劍/Orion's sword
+- 【獵戶座寶劍】La̍h-hō͘-chō pó-kiàm/La̍h-hōo-tsō pó-kiàm/獵戶座寶劍/the Sword of Orion
 - 【獵戶座手骨】La̍h-hō͘-chō chhiú-kut/La̍h-hōo-tsō tshiú-kut/獵戶座旋臂/Orion Arm
+- 【獵戶座手骨】La̍h-hō͘-chō chhiú-kut/La̍h-hōo-tsō tshiú-kut/獵戶座旋臂/the Orion Arm
+- 【獵戶座手骨】La̍h-hō͘-chō/La̍h-hōo-tsō/獵戶座手臂/Orion Arm
 - 【獵戶座星雲】La̍h-hō͘-chō seng-hûn/a̍h-hōo-tsō sing-hûn/獵戶座星雲/Orion Nebula
 - 【獵戶座星雲】La̍h-hō͘-chō seng-hûn/La̍h-hōo-tsō sing-hûn/獵戶座星雲/Origin Nebula
 - 【獵戶座星雲】La̍h-hō͘-chō seng-hûn/La̍h-hōo-tsō sing-hûn/獵戶座星雲/Orion Nebula
+- 【獵戶座星雲】La̍h-hō͘-chō seng-hûn/La̍h-hōo-tsō sing-hûn獵戶座星雲/Orion Nebula
 - 【獵戶座星雲】La̍h-hō͘-chō-seng-hûn/La̍h-hōo-tsō-sing-hûn/獵戶座星雲/Orion Nebula
 - 【獵戶座星雲】La̍h-hō͘-chō seng-hûn/La̍h-hōo-tsō sing-hûn/獵戶座星雲/the Orion Nebula
+- 【獵戶座星雲複合體】La̍h-hō͘-chō seng-hûn hok-ha̍p-thé/La̍h-hōo-tsō sing-hûn hok-ha̍p-thé/獵戶座星雲複合體/Orion Nebula complex
 - 【獵戶座流】La̍h-hō͘-chō-liû/La̍h-hōo-tsō-liû/獵戶座流/Streams of Orion
+- 【獵戶座流星雨】La̍h-hō͘-chō liû-chhiⁿ-hō͘/La̍h-hōo-tsō liû-tshinn-hōo/獵戶座流星雨/Orionid meteors
 - 【獵戶座皮帶】La̍h-hō͘-chō phôe-tòa/La̍h-hōo-tsō phuê-tuà/獵戶座皮帶/Belt of Orion
-- 【獵戶座皮帶】La̍h-hō͘-chō phôe-tòa/La̍h-hōo-tsō phuê-tuà/獵戶座皮帶/Orion's belt
 - 【獵戶座皮帶】La̍h-hō͘-chō phôe-tòa/La̍h-hōo-tsō phuê-tuà/獵戶座腰帶/Origin Belt
 - 【獵戶座皮帶】La̍h-hō͘-chō phôe-tòa/La̍h-hōo-tsō phuê-tuà/獵戶座腰帶/Orion belt
 - 【獵戶座皮帶】La̍h-hō͘-chō phôe-tòa/La̍h-hōo-tsō phuê-tuà/獵戶座腰帶/Orion's belt
 - 【獵戶座皮帶】La̍h-hō͘-chō-phôe-tòa/La̍h-hōo-tsō-phuê-tuà/獵戶座腰帶/Orion's belt
 - 【獵戶座皮帶】La̍h-hō͘-chō phôe-tòa/La̍h-hōo-tsō phuê-tuà/獵戶座腰帶/the belt of Orion
+- 【獵戶座皮帶】La̍h-hō͘-chō phôe-tòa/La̍h-hōo-tsō phuê-tuà/獵戶座腰帶/the Belt of Orion
 - 【獵犬座】La̍h-khián-chō/La̍h-khián-tsō/獵犬座/Canes Venatici
 - 【獵犬座】La̍h-khián-chō/La̍h-khián-tsō/獵犬座/the Canes Venatici
 - 【獵鷹 9 號】La̍h-eng káu hō/La̍h-ing káu hō/獵鷹 9 號/Falcon 9
 - 【獵鷹 9 號星雲】La̍h-eng káu hō seng-hûn/La̍h-ing káu hō sing-hûn/獵鷹 9 號星雲/Falcon 9 Nebula
+- 【獵鷹號】La̍h-eng-hō/La̍h-ing-hō/獵鷹號/the Falcon
 - 【獵鷹號登陸器】La̍h-eng-hō teng-lio̍k-khì/La̍h-ing-hō ting-lio̍k-khì/獵鷹號登陸器/the Eagle lander
 - 【玄武岩柱】hiân-bú-giâm-thiāu/hiân-bú-giâm-thiāu//basalt columns
 - 【玉夫座】Gio̍k-hu-chō/Gio̍k-hu-tsō/玉夫座/Sculptor
-- 【王蟲紩法】Ông-thâng-thīⁿ-hoat/Ông-thâng-thīnn-huat/王蟲縫法/Nausicaa sutures
+- 【玉夫座】Gio̍k-hu-chō/Gio̍k-hu-tsō/玉夫座/the constellation Sculptor
 - 【玫瑰星雲】Mûi-kùi seng-hûn/Muî-kuì sing-hûn/玫瑰星雲/Rosette nebula
+- 【玫瑰星雲】Mûi-kùi-seng-hûn/Muî-kuì-sing-hûn/玫瑰星雲/Rosette Nebula
 - 【玫瑰星雲】Mûi-kùi seng-hûn/Mûi-kùi sing-hûn/玫瑰星雲/Rosette Nebula
 - 【玫瑰星雲】Mûi-kùi-seng-hûn/Mûi-kùi-sing-hûn/玫瑰星雲/Rosette Nebula
+- 【珠母雲】Chu-bú-hûn/Tsu-bú-hûn/珠母雲/mother-of-pearl cloud
 - 【珪素】ke-sò͘/ke-sòo/矽/silicon
 - 【球形星團】kiû-hêng-seng-thoân/kiû-hîng-sing-thuân/球形星團/globular cluster
 - 【球形星團】kiû-hêng seng-thoân/kiû-hîng sing-thuân/球形星團/Globular star cluster
@@ -1903,6 +2815,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【球形星團】kiû-hêng seng-thoân/kiû-hîng sing-thuân/球狀星團/globular clusters of stars
 - 【球形星團】kiû-hêng-seng-thoân/kiû-hîng-sing-thuân/球狀星團/globular star cluster
 - 【球形星團】kiû-hêng-seng-thoân/kîu-hîng-sing-thuân/球狀星團/globular star cluster
+- 【球形星團】kûi-hêng seng-thoân/kuî-hîng sing-thuân/球形星團/globular cluster
 - 【瑞典】Sūi-tián/Sūi-tián/瑞典/Sweden
 - 【璇石】soān-chio̍h/suān-tsio̍h/鑽石/diamond
 - 【環地平線弧】khoân-tē-pêng-sòaⁿ-hô͘/khuân-tē-pîng-suànn-hôo/環地平線弧/circumhorizon arc
@@ -1915,6 +2828,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【環星系】Khoân-chhim seng-hē/Khuân-sing-hē/環星系/Ring galaxy
 - 【環溝仔】khoân-kau-á/khuân-kau-á/裂縫/ring's gap
 - 【環食】khoân-si̍t/khuân-si̍t/環食/annular eclipse
+- 【瓜地馬拉】Koa-tē-má-la/Kua-tē-má-la/瓜地馬拉/Guatemalan
 - 【甘肅】Kam-siok/Kam-siok/甘肅/Gansu
 - 【甜箍麭】tiⁿ-kho͘-pháng/tinn-khoo-pháng/甜甜圈/donut
 - 【生物化學殘骸】seng-bu̍t hòa-ha̍k chân-hâi/sing-bu̍t huà-ha̍k tsân-hâi/生物化學殘骸/biochemical remnants
@@ -1924,20 +2838,28 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【甲烷】kah-oân/kah-uân/甲烷/methane
 - 【畢宿五】Pit-siù-gō͘/Pit-siù-gōo/畢宿五/Aldebaran
 - 【畢宿五】Pit-siù-ngó͘/Pit-siù-ngóo/畢宿五/Aldebaran
+- 【畢宿五】Pi̍t-siù-ngó͘/Pi̍t-siù-ngóo/畢宿五/Aldebaran
+- 【畢宿星團】Pi̍t-siù-seng-thoân/Pi̍t-siù-sing-thuân/畢宿星團/Hyades
 - 【畢宿星團】Pit-siù-seng-thoân/Pit-siù-sing-thuân/畢宿星團/Hyades star cluster
 - 【畢宿星團】Pit-siù-seng-thoân/Pit-siù-sing-thuân/畢宿星團/Perseus
 - 【畢宿星團】Pit-siù seng-thoân/Pit-siù sing-thuân/畢宿星團/Pleiades
 - 【畢宿星團】Pit-siù seng-thoân/Pit-siù sing-thuân/畢宿星團/the Hyades star cluster
 - 【痟大質量烏洞】siáu-tōa-chit-liōng-o͘-tōng/siáu-tuā-tsit-liōng-oo-tōng/超大質量黑洞/supermassive black hole
+- 【登月小艇】teng-goe̍h sió-théng/ting-gue̍h sió-thíng/登月小艇/Lunar Module
 - 【登月小艇】teng-goe̍h-sió-théng/ting-gue̍h-sió-thíng/登月小艇/Lunar Module
+- 【登月小艇】Teng-goe̍h-sió-théng/Ting-gue̍h-sió-thíng/登月小艇/Lunar Module
 - 【登月小艇】teng-goe̍h sió-théng/ting-gue̍h sió-thíng/登月小艇/the lunar module
+- 【登月艙】Teng-goe̍h-chhng/Ting-gue̍h-tshng/登月艙/Lunar Module
 - 【登月艙】Teng-goe̍h-chhong/Ting-gue̍h-tshong/登月艙/Apollo 11
+- 【登月計畫】teng-goe̍h kè-ōe/ting-gue̍h kè-uē/登月計畫/Moonshot
 - 【登陸】teng-lio̍k/ting-lio̍k/登陸/land
 - 【登陸】teng-lio̍k/ting-lio̍k/著陸/touchdown
+- 【𠕇登陸】tēng teng-lio̍k/tīng ting-lio̍k/硬登陸/hard landing
+- 【登陸器】teng-lio̍k-khì/ting-lio̍k-khì/登陸器/lander
 - 【登陸地點】teng-lio̍k tē-tiám/ting-lio̍k tē-tiám/登陸地點/landing site
-- 【登陸小艇】Teng-lio̍k-sió-théng/Ting-lio̍k-sió-thíng/登陸小艇/Lander
 - 【登陸船】teng-lio̍k-chûn/ting-lio̍k-tsûn/登陸船/lander
 - 【發射光斑】hoat-siā kng-pan/huat-siā kng-pan/發射光斑/flecks of emission
+- 【發射區】hoat-siā-khu/huat-siā-khu/發射區/emission region 
 - 【發射星雲】hoat-siā-seng-hûn/hoat-siā-sing-hûn/發射星雲/emission nebulas
 - 【發射星雲】hoat-siā seng-hûn/huat-siā sing-hûn/發射星雲/emission nebula
 - 【發射星雲】hoat-siā-seng-hûn/huat-siā-sing-hûn/發射星雲/emission nebula
@@ -1946,11 +2868,14 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【發射星雲】hoat-siā-seng-hûn/huat-siā-sing-hûn/發射星雲/emission nebular
 - 【發射星雲】hoat-siā seng-hûn/huat-siā sing-hûn/發射星雲/emission nebulas
 - 【發射星雲】hoat-siā-seng-thoân/huat-siā-sing-thuân/發射星雲/emission nebula
+- 【發射源】hoat-siā-goân/huat-siā-guân/發射源/source
+- 【發射線】hoat-siā-sòaⁿ/hoat-siā-suànn/發射線/emission
 - 【發射線】hoat-siā-sòaⁿ/huat-siā-suànn/發射線/emission
 - 【發射線】hoat-siā-sòaⁿ/huat-siā-suànn/發射線/emission line
 - 【發射線】hoat-siā-sòaⁿ/huat-siā-sùann/發射線/emission line
 - 【發射線區域】hoat-siā-sòaⁿ khu-he̍k/huat-siā sing-hûn/發射線區域/emission region
 - 【白厝頂 歇陣噴泉】Pe̍h-chhù-téng hioh-chūn-phùn-chôaⁿ/Pe̍h-tshù-tíng hioh-tsūn-phùn-tsuânn/白圓頂 間歇泉/White Dome Geyser
+- 【白矮星】peh-é-chhiⁿ/peh-é-tshinn/白矮星/white dwarf
 - 【白矮星】pe̍h-é-chhiⁿ/pe̍h-é-tshinn/白矮星/white dwarf
 - 【白矮星】Pe̍h-é-chhiⁿ/Pe̍h-é-tshinn/白矮星/White Dwarf
 - 【白矮星】pe̍h-é-chhiⁿ/pe̍h-é-tshinn/白矮星/white dwarf star
@@ -1962,7 +2887,8 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【目鏡】bo̍k-kiàⁿ/bo̍k-kiànn/目鏡/eyepiece
 - 【直升機】ti̍t-seng-ki/ti̍t-seng-ki/直升機/helicopter
 - 【直升機】ti̍t-seng-ki/ti̍t-sing-ki/直升機/helicopter
-- 【直升機】ti̍t-seng-ki/ti̍t-sing-ki/直升機/Ingenuity
+- 【直升機】ti̍t-seng-ki/ti̍t-sing-ki/直升機/helicopters
+- 【直徑】ti̍t-kèng/ti̍t-kèng/直徑/diameter
 - 【直徑】ti̍t-kèng/ti̍t-kìng/直徑/diameter
 - 【直覺】ti̍t-kak/ti̍t-kak/直覺/intuition
 - 【相位】siòng-ūi/siòng-uī/相位/phase
@@ -1971,18 +2897,28 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【相對光度】siong-tùi-kng-tō͘/siong-tuì-kng-tōo/相對光度/relative brightness
 - 【相對論噴流】siong-tùi-lūn phùn-liû/siong-tuì-lūn phùn-liû/相對論噴流/relativistic jet
 - 【相對論粒子】siong-tùi-lūn lia̍p-chú/siong-tuì-lūn lia̍p-tsú/相對論粒子/relativistic particle
+- 【相拄】sio-tú/sio-tú/相遇/encounters
+- 【相挵】sio-lòng/sio-lòng/碰撞/collision
+- 【相挵】sio-lòng/sio-lòng/碰撞/collisions
 - 【相機】siòng-ki/siòng-ki/相機/camera
 - 【相碰星系】sio-pōng seng-hē/sio-pōng sing-hē/碰撞星系/colliding galaxies
 - 【真珠母雲】chin-chu-bó-hûn/tsin-tsu-bó-hûn/真珠母雲/mother of pearl clouds
 - 【真珠袚鍊】chin-chu-phoa̍h-liān/tsin-tsu-phua̍h-liān/珍珠項鍊/the String of Pearls
+- 【真珠雲】Chin-chu-hûn/Tsin-tsu-hûn/珍珠雲/nacreous cloud
+- 【矩尺座】Kū-chhioh-chō/Kū-tshioh-tsō/矩尺座/Norma
 - 【矮恆星】é-hêng-chhiⁿ/é-hîng-tshinn/矮恆星/Dwarf star
+- 【矮星】é-chheⁿ/é-tshenn/矮星/dwarf star
 - 【矮星】é-chhiⁿ/é-tshinn/矮星/Dwarf star
 - 【矮星系】é-seng-hē/é-sing-hē/矮星系/dwarf galaxy
+- 【矮行星】é-kiâⁿ-chheⁿ/é-kiânn-tshenn/矮行星/dwarf planet
 - 【矮行星】é-kiâⁿ-chhiⁿ/é-kiânn-tshinn/矮行星/dwarf planetwor
 - 【石卵】chio̍h-nn̄g/tsio̍h-nn̄g/鵝卵石/pebbles
 - 【石坑】chio̍h-kheⁿ/tsio̍h-khenn/石坑/crater
+- 【石拱門】chio̍h-kóng-mn̂g/tsio̍h-kóng-mn̂g/石拱門/rock arch
+- 【石灰石】chio̍h-hoe-chio̍h/tsio̍h-hue-tsio̍h/石灰石/
 - 【石灰石】chio̍h-hoe-chio̍h/tsio̍h-hue-tsio̍h/石灰石/limestone
 - 【矽】sia̍k/sia̍k/矽/silicon
+- 【矽酸鹽】se̍k-sng-iâm/si̍k-sng-iâm/矽酸鹽/silicate
 - 【砂岩】soa-giâm/sua-giâm/砂岩/sandstone
 - 【研】géng/gíng/研磨/abrade
 - 【砲擊】phàu-kek/phàu-kik/砲擊/bombardment
@@ -1990,7 +2926,11 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【硫】liû/liû/硫/sulfur
 - 【硫磺】liû-hông/liû-hông/硫/sulfer
 - 【硫磺】liû-hông/liû-hông/硫/sulfur
+- 【硫磺】liû-hông/liû-hông/硫/Sulfur
+- 【硫磺】liû-hông/liû-hông/硫磺/sulfur
 - 【碳】thòaⁿ/thuànn/碳/carbon
+- 【碳素】thòaⁿ-sò͘/thuànn-sòo/碳/carbon
+- 【碳素複合體】thòaⁿ-sò͘ ho̍k-ha̍p-thé/thuànn-sòo ho̍k-ha̍p-thé/碳複合體/carbon compounds
 - 【磁力線】chû-le̍k-sòaⁿ/tsû-li̍k-suànn/磁力線/magnetic field line
 - 【磁力週期】chû-le̍k chiu-kî/tsû-li̍k tsiu-kî/磁力週期/magnetic cycle
 - 【磁化電漿流】chû-hòa tiān-chiuⁿ-liû/tsû-huà tiān-tsiunn-liû/磁化電漿流/magnetized plasma
@@ -2000,15 +2940,19 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【磁性】chû-sèng/tsû-sìng/磁性/sulfur
 - 【磁極】chû-ke̍k/tsû-ki̍k/磁極/magnetic pole
 - 【磁週期】chû-chiu-kî/tsû-tsiu-kî/磁週期/magnetic cycle
+- 【磨擦力】mô͘-chhat-le̍k/môo-tshat-li̍k/磨擦力/friction
 - 【磨蝕風】mô͘-sit-hong/môo-sit-hong/磨蝕風/abrasive winds
+- 【磷】lîn/lîn/磷/phosphorus
 - 【礦物】khòng-bu̍t/khòng-bu̍t/礦物/minerals
 - 【祝融號】Chiok-iông-hō/Tsiok-iông-hō/祝融號/Zhurong
 - 【祝融號】Chiok-iông/Tsiok-iông/祝融號/Zhurong
 - 【禪師】Siâm-su/Siâm-su/禪師/Zen master
 - 【禮拜】lé-pài/lé-pài/禮拜天/Sunday
+- 【秋分】chhiu-hun/tshiu-hun/秋分/autumnal equinox
 - 【秋分】chhiu-hun/tshiu-hun/秋分/autumn equinox
 - 【秋分】chhiu-hun/tshiu-hun/秋分/autumn equinoxe
 - 【秋分】chhiu-hun/tshiu-hun/秋分/September's equinox
+- 【秋分】chhiu-hun/tshiu-hun/秋分/the autumnal equinox
 - 【秋分】chhiu-hun/tshiu-hun/秋分/the September equinox
 - 【科幻史詩】kho-hoàn sú-si/kho-huàn sú-si/科幻史詩/science fiction epic
 - 【科氏力】Kho-sī-le̍k/Kho-sī-li̍k/科氏力/Coriolis force
@@ -2016,12 +2960,17 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【秒差距】bió-chha-kū/bió-tsha-kū/秒差距/parsec
 - 【稜鏡】lêng-kiàⁿ/lîng-kiànn/稜鏡/prism
 - 【稜鏡】lêng-kiāⁿ/lîng-kiānn/稜鏡/prism
+- 【積雲】chek-hûn/tsik-hûn/積雲/cumulus cloud
 - 【空氣擋仔】khong-khì-tòng-á/khong-khì-tòng-á/空氣煞車/air-brake
 - 【空氣阻力】khong-khì chó͘-le̍k/khong-khì tsóo-li̍k/空氣阻力/air resistance
 - 【穿差】chhēng-chhah/tshīng-tshah/穿著/dressing
+- 【突尼西亞】Tu̍t-nî-se-a/Tu̍t-nî-se-a/突尼西亞/Tunisia
+- 【窒素】chek-sò͘/tsik-sòo/氦/helium
 - 【窒素】chek-sò͘/tsik-sòo/氮/nitrogen
 - 【窒素】chek-sò͘/tsik-sòo/氮氣/nitrogen
+- 【窒素】chi̍t-sò͘/tsi̍t-sòo/氦/helium
 - 【窒素】chit-sò͘/tsit-sòo/氮/nitrogen
+- 【窒素】chi̍t-sò͘/tsi̍t-sòo/氮/nitrogen
 - 【窒素】chit-sò͘/tsit-sòo/氮氣/nitrogen
 - 【窒素冰】chek-sò͘-peng/tsik-sòo-ping/氮冰/ice of Nitrogen
 - 【窒素冰】chek-sò͘-peng/tsik-sòo-ping/氮冰/nitrogen ice
@@ -2029,7 +2978,10 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【窗仔布】thang-á-pò͘/thang-á-pòo/窗簾/curtains
 - 【立在】chhāi/tshāi/位於/locate
 - 【立方體】li̍p-hong-thé/li̍p-hong-thé/立方體/cube
+- 【立體浮雕】li̍p-thé phû-tiau/li̍p-thé phû-tiau/立體浮雕/stereo anaglyph
 - 【立體浮雕影像】li̍p-thé phû-tiau iáⁿ-siōng/li̍p-thé phû-tiau iánn-siōng/立體浮雕影像/stereo anaglyphic view
+- 【立體相片】li̍p-thé siòng-phìⁿ/li̍p-thé siòng-phìnn/立體相片/Anaglyph
+- 【童乩星雲】Tâng-ki-seng-hûn/Tâng-ki-sing-hûn/巫師星雲/the Wizard Nebula
 - 【竹鼠日】Tek-chhí-ji̍t/Tik-tshí-ji̍t/土撥鼠日/Groundhog Day
 - 【笑面貓星系群】Chhiò-bīn-niau seng-kûn/Tshiò-bīn-niau sing-kûn/笑面貓星系群/the Cheshire Cat galaxy group
 - 【第 2975 區】tē jī-kiú-chhit-ngó͘ khu/tē jī-kiú-tshit-ngóo khu/第 2975 區/region 2975
@@ -2039,10 +2991,18 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【策略】chhek-lio̍k/tshik-lio̍k/策略/strategy
 - 【箭頭】chìⁿ-thâu/tsìnn-thâu/箭頭/arrow
 - 【節點】cheh-tiám/tseh-tiám/至點/solstice
+- 【粒子】lia̍p-chú/lia̍p-chú/粒子/particle
 - 【粒子】lia̍p-chú/lia̍p-tsú/粒子/particle
+- 【粒子】lia̍p-chú/lia̍p-tsú/粒子/particles
+- 【粒子流】lia̍p-chú-liû/lia̍p-tsú-liû/粒子流/particle showers
+- 【粒子風】lia̍p-chú-hong/lia̍p-tsú-hong/粒子風/particle winds
+- 【粒子風】lia̍p-chú-hong/lia̍p-tsú-hong/粒子風/winds of particles
 - 【精差】cheng-chha/tsing-tsha/誤差/error
 - 【精確度】cheng-khak-tō͘/tsing-khak-tōo/精確度/accuracy
 - 【系列】hē-lia̍t/hē-lia̍t/系列/sequence
+- 【系外星系】hē-gōa-seng-hē/hē-guā-sing-hē/系外星系/extragalactic
+- 【系外行星】hē-gōa kiâⁿ-chheⁿ/hē-guā kiânn-tshenn/系外行星/exoplanet
+- 【系外行星】hē-gōa-kiâⁿ-chheⁿ/hē-guā-kiânn-tshenn/系外行星/exoplanets
 - 【系外行星】hē-gōa kiâⁿ-chhiⁿ/hē-guā kiânn-tshinn/系外行星/exoplanet
 - 【系外行星】hē-gōa-kiâⁿ-chhiⁿ/hē-guā-kiânn-tshinn/系外行星/exoplanet
 - 【系外行星】hē-gōa-kiâⁿ-chhiⁿ/hē-guā-kiânn-tshinn/系外行星/exoplanets
@@ -2054,13 +3014,17 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【紅外線】âng-gōa-sòaⁿ/âng-guā-suànn/紅外線/infrared light
 - 【紅外線平流層天文台】Âng-gōa-sòaⁿ pêng-liû-chân thian-bûn-tâi/Âng-guā-suànn pîng-liû-tsân thian-bûn-tâi/紅外線平流層天文台/the Stratospheric Observatory for Infrared Astronomy (SOFIA)
 - 【紅外線平流層望遠鏡】Âng-gōa-sòaⁿ pêⁿ-liû-chân bōng-oán-kiàⁿ/Âng-guā-suànn pênn-liû-tsân bōng-uán-kiànn/紅外線平流層望遠鏡/Stratospheric Observatory for Infrared Astronomy (SOFIA)
+- 【紅外線影像】âng-gōa-sòaⁿ iáⁿ-siōng/âng-guā-suànn iánn-siōng/紅外線影像/infrared images
 - 【紅外線波段】âng-gōa-sòaⁿ pho-toān/âng-guā-suànn pho-tuān/紅外線波段/infrared wavelength
+- 【紅嬰仔恆星】âng-eⁿ-á hêng-chheⁿ/âng-enn-á hîng-tshenn/嬰兒恆星/infant stars
+- 【紅巨星】âng-kū-chheⁿ/âng-kū-tshenn/紅巨星/red giant
 - 【紅巨星】âng-kū-chhiⁿ/âng-kū-tshinn/紅巨星/red giant
 - 【紅巨星】âng-kū-chhiⁿ/âng-kū-tshinn/紅巨星/red giant star
 - 【紅巨星】Âng-kū-chhiⁿ/Âng-kū-tshinn/紅巨星/red giant star
 - 【紅巨星】âng-kū-chhiⁿ/âng-kū-tshinn/紅巨星/Red giant stars
 - 【紅巨星】âng-kū-chhiⁿ/âng-kū-tshinn/紅巨星/red supergiant
 - 【紅水沖】âng-chúi-chhiâng/âng-tsuí-tshiâng/火瀑布/firefall
+- 【紅矮星】âng-é-chheⁿ/âng-é-tshenn/紅矮星/red dwarf star
 - 【紅石火箭】Âng-chio̍h hóe-chìⁿ/Âng-tsio̍h hué-tsìnn/紅石火箭/Redstone rocket
 - 【紅移】ang-î/ang-î/紅移/redshift
 - 【紅移】âng-î/âng-î/紅移/redshift
@@ -2068,11 +3032,13 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【紅色精靈】Âng-sek-cheng-lêng/Âng-sik-tsing-lîng/紅色精靈/Red Spirite
 - 【紅色精靈】âng-sek-cheng-lêng/âng-sik-tsing-lîng/紅色精靈/red sprite
 - 【紅色精靈】Âng-sek-cheng-lêng/Âng-sik-tsing-lîng/紅色精靈/red sprite
+- 【紅色精靈】Âng-sek-cheng-lêng/Âng-sik-tsing-lîng/紅色精靈/Red Sprite
 - 【紅色精靈】Âng-sek-cheng-lêng/Âng-sik-tsing-lîng/紅色精靈/sprite lightning
 - 【紋理】bûn-lí/bûn-lí/紋理/texture
 - 【紐西蘭】Niú-se-lân/Niú-se-lân/紐西蘭/New Zealand
 - 【紙影戲】chóa-iáⁿ-hì/tsuá-iánn-hì/皮影戲/shadow play
 - 【紙箔】chóa-po̍h/tsuá-po̍h/金屬箔紙/foil
+- 【紫外光】chí-gōa-kng/chí-gōa-kng/紫外光/ultroviolet
 - 【紫外光】chí-gōa-kng/tsí-guā-kng/紫外光/ultraviolet
 - 【紫外光】chi-gōa-kng/tsi-guā-kng/紫外光/ultraviolet light
 - 【紫外光】chi-gōa-kng/tsi-guā-kng/紫外光/Ultraviolet light
@@ -2082,11 +3048,13 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【紫外光輻射】chí-gōa-kng-hok-siā/tsí-guā-kng-hok-siā/紫外光輻射/ultraviolet radiation
 - 【紫禁城】Chí-kìm-siâⁿ/Tsí-kìm-siânn/紫禁城/the Forbidden City
 - 【紮電】chah-tiān/tsah-tiān/帶電/charged
+- 【累積光通量】lúi-chek kng-thong-liōng/luí-tsik kng-thong-liōng/累積光通量/integrated flux
 - 【細台望遠鏡】sè-tâi bōng-oán-kiàⁿ/sè-tâi bōng-uán-kiànn/小台望遠鏡/small telescope
 - 【細頂草帽仔星系】Sè-téng Chháu-bō-á seng-hē/Sè-tíng Tsháu-bō-á sing-hē/小闊邊帽星系、小墨西哥帽星系/Little Sombrero
 - 【組織晶片】cho͘-chit cheng-phìⁿ/tsoo-chit tsing-phìnn/組織晶片/tissue chips
 - 【結規丸】kiat kui-oân/kiat kui-uân/結核/concretion
 - 【絹雲】kìn-hûn/kìn-hûn/卷雲/cirrus clouds
+- 【經度】keng-tō͘/king-tōo/經度/longitude
 - 【維度】ûi-tō͘/uî-tōo/維度/dimensions
 - 【線索】sòaⁿ-soh/suànn-soh/線索/clue
 - 【緯度】hūi-tō͘/huī-tōo/緯度/high-latitude
@@ -2097,12 +3065,21 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【縮時攝影】sok-sî-liap-iáⁿ/sok-sî-liap-iánn/縮時攝影/time-lapse
 - 【縮時攝影】sok-sî-liap-iáⁿ/sok-sî-liap-iánn/縮時攝影/timelapse
 - 【縮時攝影】sok-sî-liap-iáⁿ/sok-sî-liap-iánn/縮時攝影/time-lapse sequences
+- 【縮時攝影】sok-sî-liap-iáⁿ/sok-sî-liap-iánn/縮時攝影/time-lapse video
 - 【縮時攝影影片】sok-sî-liap-iáⁿ/sok-sî-liap-iánn/縮時攝影影片/time-lapse video
+- 【織女星】Chit-lú-chheⁿ/Tsit-lú-tshenn/織女星/Vega
 - 【織女星】Chit-lú-chhiⁿ/Tsit-lú-tshinn/織女星/Vega
+- 【繞射】jiàu-siā/jiàu-siā/繞射/diffract
 - 【繞射】jiàu-siā/jiàu-siā/繞射/diffraction
+- 【繞射】jiàu-siā/jiàu-siā/繞射/interfere
 - 【繞射光尖】jiàu-siā-kng-chiam/jiàu-siā-kng-chiam/繞射針狀體/diffraction spikes
+- 【繞射光尖】jiàu-siā kng-chiam/jiàu-siā kng-tsiam/繞射光尖/diffraction spike
+- 【繞射光尖】jiàu-siā-kng-chiam/jiàu-siā-kng-tsiam/繞射光尖/diffraction spike
+- 【繞射光尖】jiàu-siā-kng-chiam/jiàu-siā-kng-tsiam/繞射光尖/diffraction spikes
+- 【繞射光尖】jiàu-siā kng-chiam/jiàu-siā kng-tsiam/繞射尖光/diffraction spikes
 - 【繞射光尖】jiàu-siā-kng-chiam/jiàu-siā-kng-tsiam/繞射針狀體/diffraction spikes
 - 【繞射圖樣】jiàu-siā tô͘-iūⁿ/jiàu-siā tôo-iūnn/繞射圖案/diffraction pattern
+- 【繞射效應】jiàu-siā hāu-èng/jiàu-siā hāu-ìng/繞射效應/diffraction
 - 【繞射極限】jiàu-siā-ke̍k-hān/jiàu-siā-ki̍k-hān/繞射極限/diffraction limit
 - 【繞射釘】jiàu-siā-teng/jiàu-siā-ting/繞射尖峰/diffraction spike
 - 【繡針星系】Siù-chiam seng-hē/Siù-tsiam sing-hē/針星系/Needel Galaxy
@@ -2111,10 +3088,12 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【美國割包星系】Bí-kok-koah-pau seng-hē/Bí-kok-kuah-pau sing-hē/漢堡星系/Hamburger Galaxy
 - 【美國割包星系】Bí-kok koah-pau seng-hē/Bí-kok kuah-pau sing-hē/漢堡星系/the Hamburger Galaxy
 - 【美國國家電波天文台】Bí-kok kok-ka tiān-pho thian-bûn-tâi/Bí-kok kok-ka tiān-pho thian-bûn-tâi/美國國家電波天文台/National Rdio Astronomy Observatory (NRAO)
+- 【美國號】Bí-kok-hō/Bí-kok-hō/美國號/America
 - 【翻頭】hoan-thâu/huan-thâu/回頭/turn
 - 【翼股】si̍t-kó͘/si̍t-kóo/翅膀/wing
 - 【老人座】Lāu-lâng-chō/Lāu-lâng-tsō/老人座/the Old Man
 - 【老人星】Lāu-lâng-chhiⁿ/Lāu-lâng-tshinn/老人星/Canopus
+- 【聖人】sèng-jîn/sìng-jîn/聖人/Saint (St.)
 - 【聖誕彗星】Sèng-tàn-hui-chhiⁿ/Sìng-tàn-hui-tshinn/聖誕彗星/Christmas Comet
 - 【聯合冰川】Liân-ha̍p-peng-chhoan/Liân-ha̍p-ping-tshuan/聯合冰川/the Union Glacier
 - 【聯合冰川】Liân-ha̍p-peng-chhoan/Liân-ha̍p-ping-tshuan/聯合冰川/Union Glacier
@@ -2122,10 +3101,14 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【聯合國教科文組織】Liân-ha̍p-kok Kàu-kho-bûn cho͘-chit/Liân-ha̍p-kok Kàu-kho-bûn tsoo-tsit/聯合國教科文組織/UNESCO
 - 【聲波距離】siaⁿ-pho kū-lî/siann-pho kū-lî/聲波距離/sonified distances
 - 【聳毛日冕結構】chhàng-mn̂g ji̍t-bián kiat-kò͘/tshàng-mn̂g ji̍t-bián kiat-kòo/流泛日冕結構/sweeping coronal structures
+- 【肉眼】jio̍k-gán/jio̍k-gán/肉眼/naked-eye
+- 【肉眼】jio̍k-gán/jio̍k-gán/肉眼/unaided eye
 - 【肖像】siàu-siōng/siàu-siōng/肖像/portrait
 - 【肚胿仔星系】Tō͘-koai-á seng-hē/Tōo-kuai-á sing-hē/蝌蚪星系/Tadpoles galaxy
 - 【肚胿仔星雲】Tō͘-koai-á seng-hûn/Tōo-kuai-á sing-hûn/蝌蚪星雲/Auriga
+- 【肚胿仔星雲】Tō͘-koai-á seng-hûn/Tōo-kuai-á sing-hûn/蝌蚪星雲/Tadpole Nebula
 - 【背景星】pōe-kéng-chhiⁿ/puē-kéng-tshinn/背景星/background star
+- 【背景星】pōe-kéng-chhiⁿ/puē-kíng-tshinn/背景星/background star
 - 【背景輻射】pōe-kéng hok-siā/puē-kíng hok-siā/背景輻射/background radiation
 - 【脈動星】be̍h-tōng-chhiⁿ/be̍h-tōng-tshinn/脈動星/pulsar
 - 【脈動星】me̍h-tōng-chheⁿ/me̍h-tōng-tshenn/脈動星/pulsar
@@ -2138,46 +3121,76 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【膨月】phòng-goe̍h/phòng-gue̍h/凸月/gibbous Moon
 - 【膨月】phòng-goe̍h/phòng-gue̍h/凸月/the Gibbous Moon
 - 【自主無人船】chū-chú-bô-lâng-chún/tsū-tsú-bô-lâng-tsún/自主無人船/autonomous drone ship
+- 【自搝引力】chū-giú ín-le̍k/tsū-giú ín-li̍k/自我引力/self-gravity
 - 【自旋】chū-soân/tsū-suân/自旋/spin
 - 【自旋軸】chū-soân-te̍k/tsū-suân-ti̍k/自旋軸/spin axis
 - 【自由 7 號】Chū-iû chhit hō/Tsū-iû tshit hō/自由 7 號/Freedom 7
 - 【自由女神】Chū-iû-lú-sîn/Tsū-iû-lú-sîn/自由女神/the Statue of Libert
+- 【自由女神星雲】Chū-iû-lú-sîn seng-hûn/Tsū-iû-lú-sîn sing-hûn/自由女神星雲/Statue of Liberty nebula
+- 【自由爆炸】chū-iû po̍k-chà/tsū-iû po̍k-tsà/自由爆炸/free explosion
 - 【自由落體】chū-iû lo̍h-thé/tsū-iû lo̍h-thé/自由落體/free-fall
 - 【自翕】chū-hip/tsū-hip/自拍/selfie
+- 【自轉】chū-choán/tsū-tsuán/自轉/rotation
+- 【自轉】chū-choán/tsū-tsuán/自轉/spin
+- 【自轉軸】chū-choán-tek/tsū-tsuán-tik/自轉軸/axis of rotation
 - 【自轉軸】chū-choán-te̍k/tsū-tsuán-ti̍k/自轉軸/axis of rotation
 - 【自轉軸】chū-choán-te̍k/tsū-tsuán-ti̍k/自轉軸/rotational axis
+- 【自轉軸】chū-choán-te̍k/tsū-tsuán-ti̍k/自轉軸/rotation axis
+- 【自轉軸】chū-choán-tek/tsū-tsuán-tik/自轉軸/spin axis
 - 【自轉軸】chū-choán-te̍k/tsū-tsuán-ti̍k/自轉軸/spin axis
 - 【臭氧】chhàu-ióng/tshàu-ióng/臭氧/ozone
+- 【臭氧層】chhàu-ióng-chân/tshàu-ióng-tsân/臭氧層/ozone layer
 - 【至點】chi-tiám/tsi-tiám/至點/solstice
 - 【至點】chì-tiám/tsì-tiám/至點/solstice
+- 【航海家 1 號】Hâng-hái-ka it hō/Hâng-hái-ka it hō/航海家 1 號/Voyager 1
+- 【航海家 2 號】Hâng-hái-kā jī hō/Hâng-hái-kā jī hō/航海家 2 號/Voyager 2
 - 【航海家 2 號太空船】Hâng-hái-ka thài-khong-chûn/Hâng-hái-ka thài-khong-tsûn/航海家 2 號太空船/Voyager 2 spacecraft
 - 【航海家】hâng-hái-ka/hâng-hái-ka/航海家/navigator
+- 【航海家一號】Hâng-hái-kā it hō/Hâng-hái-kā it hō/航海家一號/Voyager 1
+- 【航海家二號】Hâng-hái-kā jī hō/Hâng-hái-kā jī hō/航海家二號/Voyager 2
+- 【航海時區】hâng-hái sî-khu/hâng-hái sî-khu/航海時區/nautical time zones
 - 【航空天文相片】hâng-khong thian-bûn siòng-phìⁿ/hâng-khong thian-bûn siòng-phìnn/航空天文相片/airborne astrophotograph
 - 【航空學】hâng-khong-ha̍k/hâng-khong-ha̍k/航空學/aeronautics
 - 【船尾座】chûn-bóe-chō/tsûn-bué-tsō/船尾座/Puppis
+- 【船尾座】Chûn-bóe-chō/Tsûn-bué-tsō/船尾座/Puppis constellation
+- 【船帆座】Chûn-phâng-chō/Tsûn-phâng-tsō/船帆座/Vela constellation
 - 【船底座】Chûn-té-chō/Tsûn-té-tsō/船底座/Carina
 - 【船底座】Chûn-té-chō/Tsûn-té-tsō/船底座/constellation of Carina
 - 【船底座】Chûn-té-chō/Tsûn-té-tsō/船底座/the constellation Carina
+- 【船底座】Chûn-té-chō/Tsûn-té-tsō/船底座/the constellation of Carina
 - 【船底座大星雲】Chûn-té-chō tōa-chhiⁿ-hûn/Tsûn-té-tsō tuā-tshinn-hûn/船底座大星雲/the Great Carina Nebula
+- 【船底座星雲】Chûn-té-chō seng-hûn/Tsûn-té-tsō sing-hûn/船底座星雲/Carina Nebula
 - 【船底座星雲】Chûn-té-chō-seng-hûn/Tsûn-té-tsō-sing-hûn/船底座星雲/Carina Nebula
+- 【船底座星雲】Chûn-té-chō/Tsûn-té-tsō/船底座星雲/the Carina Nebula
 - 【色球層】sek-kiû-chân/sik-kiû-tsân/色球層/chromosphere
 - 【色球層】sek-kiû-chân/sik-kiû-tsân/色球層/photosphere
 - 【花月】Hoe-goe̍h/Hue-gue̍h/花月/Full Flower Moon
 - 【花月】Hoe-goe̍h/Hue-gue̍h/花月/the Flower Moon
+- 【花柄】hoe-pèⁿ/hue-pènn/花柄/stem
 - 【花葉】hoe-hio̍h/hue-hio̍h/花瓣/petal
+- 【英仙座 A】Eng-sian-chō A/Ing-sian-tsō A/英仙座 A/Perseus A
 - 【英仙座】Eng-sian-chō/Ing-sian-tsō/英仙座/Perseid
 - 【英仙座】Eng-sian-chō/Ing-sian-tsō/英仙座/Perseus
+- 【英仙座】Eng-sian-chō/Ing-sian-tsō/英仙座/the Perseus
+- 【英仙座 h】Eng-sian-chō h/Ing-sian-tsō h/英仙座 h/h Persei
 - 【英仙座 η】Eng-sian-chō è-thà/Ing-sian-tsō è-thà/英仙座 η/h Perseus
 - 【英仙座 ξ】Eng-sian-chō ksi/Ing-sian-tsō ksi/英仙座 ξ/Xi Persei
+- 【英仙座 χ】Eng-sian-chō chi/Ing-sian-tsō chi/英仙座 χ/chi Persei
 - 【英仙座 χ】Eng-sian-chō khai/Ing-sian-tsō khai/英仙座 χ/Chi Perseus
 - 【英仙座分子雲】Eng-sian-chō hun-chú-hûn/Ing-sian-tsō hun-tsú-hûn/英仙座分子雲/Perseus molecular cloud
+- 【英仙座星系團】Eng-sian-chō seng-hē-thoân/Ing-sian-tsō sing-hē-thuân/英仙座星系團/Perseus Cluster of Galaxies
+- 【英仙座流星】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hōo/英仙座流星/Perseid meteor shower (Perseids)
 - 【英仙座流星】Eng-sian-chō liû-chhiⁿ/Ing-sian-tsō liû-tshinn/英仙座流星/Perseid
 - 【英仙座流星】Eng-sian-chō liû-chhiⁿ/Ing-sian-tsō liû-tshinn/英仙座流星/perseid meteor
+- 【英仙座流星】Eng-sian-chō liû-chhiⁿ/Ing-sian-tsō liû-tshinn/英仙座流星/Perseid meteor
 - 【英仙座流星】Eng-sian-chō liû-chhiⁿ/Ing-sian-tsō liû-tshinn/英仙座流星/Perseids
+- 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hō͘lta Lâm Liû-tshinn-hōo/英仙座流星雨/the Perseids
 - 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hōo/英仙座流星雨/Perseid meteor shower
 - 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hōo/英仙座流星雨/Perseid Meteor Shower
 - 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hōo/英仙座流星雨/Perseid meteor shower, Perseid Rain
 - 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hōo/英仙座流星雨/Perseid shower
+- 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hōo/英仙座流星雨/the Perseid Meteor Shower
+- 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hōo/英仙座流星雨/the Perseid meteor shower (the Perseids)
 - 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ-hō͘/Ing-sian-tsō liû-tshinn-hōo/英仙座流星雨/the Perseids
 - 【英仙座流星雨】Eng-sian-chō liû-chhiⁿ/Ing-sian-tsō liû-tshinn/英仙座流星雨/Perseid shower
 - 【英仙座流星雨大爆發】Eng-sian-chō liû-chhiⁿ-hō͘ tōa-po̍k-hoat/Ing-sian-tsō liû-tshinn-hōo tuā-po̍k-huat/英仙座流星雨大爆發/Perseid Outburst
@@ -2187,6 +3200,8 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【草帽仔星系】Chháu-bō-á seng-hē/Tsháu-bō-á sing-hē/闊邊帽星系、墨西哥帽星系/Sombrero
 - 【草帽仔星系】Chháu-bō-á seng-hē/Tsháu-bō-á sing-hē/闊邊帽星系、墨西哥帽星系/the Sombrero Galaxy
 - 【草莓月娘】Chháu-m̂ goe̍h-niû/Tsháu-m̂ gue̍h-niû/草莓月亮/strawberry moon
+- 【華氏】hôa-sī/huâ-sī/攝氏/Fahrenheit
+- 【萬有引力】bān-iú-ín-le̍k/bān-iú-ín-li̍k/萬有引力/gravitation
 - 【萬聖節】Bān-sèng-cheh/Bān-sìng-tseh/萬聖節/Halloween
 - 【落落來】lak--lo̍h-lâi/lak--lo̍h-lâi/掉下來/drop
 - 【葡萄牙 ê】Phô-tô-gê ê/Phô-tô-gê ê/葡萄牙/Portuguese
@@ -2200,38 +3215,52 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【藍光星】nâ-kng-chhiⁿ/nâ-kng-tshinn/藍色恆星/blue star
 - 【藍巨星】nâ-kū-chhiⁿ/nâ-kū-tshinn/藍巨星/blue supergiant
 - 【藍移】nâ-î/nâ-î/藍移/blueshift
+- 【藍色光點】Nâ-sek-kng-tiám/Nâ-sik-kng-tiám/暗淡藍點/Pale Blue Dot
 - 【藍色反射星雲】nâ-sek hoán-siā-seng-hûn/nâ-sik huán-siā-sing-hûn/藍色反射星雲/blue reflection nebulae
 - 【藍色噴流】nâ-sek-phùn-liû/nâ-sik-phùn-liû/藍色噴流/blue jet
 - 【藍色星團】nâ-sek seng-thoân/nâ-sik sing-thuân/藍色星團/blue cluster
+- 【藍色星團】nâ-sek seng-thoân/nâ-sik sing-thuân/藍色星團/blue star clusters
 - 【藍色星團】nâ-sek-seng-thoân/nâ-sik-sing-thuân/藍色星團/blue star clusters
+- 【藍色時間】nâ-sek sî-kan/nâ-sek sî-kan/藍色時間/blue hour
 - 【藍色時間】nâ-sek sî-kan/nâ-sik sî-kan/藍色時間/blue hour
 - 【藍色浪星】nâ-sek lōng-chhiⁿ/nâ-sik lōng-tshinn/藍掉隊星/blue straggler
+- 【藍色馬頭星雲】Nâ-sek Bé-thâu-seng-hûn/Nâ-sik Bé-thâu-sing-hûn/藍色馬頭星雲/Blue Horsehead Nebula
 - 【虛擬粒子】hi-gí-lia̍p-chú/hi-gí-tiān-tsú/虛擬粒子/virtual particle
 - 【虛線】hi-sòaⁿ/hi-suànn/虛線/dashed line
 - 【虹】khēng/khīng/彩虹/rainbow
 - 【虹】khēng/khīng/彩虹/Rainbows
+- 【虹彩】khēng-chhái/khīng-tshái/虹彩/Iridescence
 - 【虹氣輝】khēng khì-hui/khīng khì-hui/彩虹氣輝/rainbow airglow
+- 【虹波】khēng-pho/khīng-pho/彩虹波/iridescent wave
 - 【蛇夫座 RS】Siâ-hu-chō RS/Siâ-hu-tsō RS/蛇夫座 RS/RS Ophiuchi
 - 【蛇夫座】Siâ-hu-chō/Siâ-hu-tsō/蛇夫座/Ophiuchus
 - 【蛇夫座】Siâ-hu/Siâ-hu/蛇夫座/Ophiuchus
 - 【蛇夫座 β】Siâ-hu-chō Beta/Siâ-hu-tsō Beta/蛇夫座 β/Beta Ophiuchi
+- 【蛇夫座 ζ】Siâ-hu-chō zeta/Siâ-hu-tsō zeta/蛇夫座 ζ/zeta Ophiuchi
+- 【蛇夫座 ρ】Siâ-hu-chō rho/Siâ-hu-tsō rho/蛇夫座 ρ/rho Ophiuchi
 - 【蛇夫座 ρ】Siâ-hu-chō Rho/Siâ-hu-tsō Rho/蛇夫座 ρ/Rho Ophiuchi
 - 【蛇夫座 ρ 星】Siâ-hu-chō Rho chhiⁿ/Siâ-hu-tsō Rho tshinn/蛇夫座 ρ/Rho Ophiuchi
 - 【蛇尾座】Siâ-bóe-chō/Siâ-bué-tsō/蛇尾座/Serpens Cauda
 - 【蛛形】tu-hêng/tu-hîng/蛛形/arachnalogical
 - 【蜂岫】phang-siū/phang-siū/蜂巢/beehive
 - 【蜂岫星團】Phang-siū-seng-thoân/Phang-siū-sing-thuân/蜂巢星團/Praesepe
+- 【蜘蛛星群】Ti-tu seng-kûn/Ti-tu sing-kûn/蜘蛛星群/Tarantula Stars
 - 【蜘蛛星雲】Ti-tu seng-hûn/Ti-tu sing-hûn/蜘蛛星雲/Tarantula Nebula
 - 【蜘蛛星雲】Ti-tu-seng-hûn/Ti-tu-sing-hûn/蜘蛛星雲/Tarantula Nebula
+- 【蜘蛛星雲】Ti-tu seng-hûn/Ti-tu sing-hûn/蜘蛛星雲/the Tarantula Zone
 - 【蜜月】bi̍t-goa̍t/bi̍t-gua̍t/蜜月/Honey Moon
 - 【蝌蚪星系】Tō͘-koai-á seng-hē/Tōo-kuai-á sing-hē/肚胿仔星系/the Tadpole Galaxy
+- 【蝎虎座 10】Giat-hó͘-chō cha̍p/Giat-hóo-tsō tsa̍p/蝎虎座 10/10 Lacertae
+- 【蝴蝶星雲】Ô͘-tia̍p-seng-hûn/Ôo-tia̍p-sing-hûn/蝴蝶星雲/Butterfly Nebula
 - 【蝶仔星雲】Iā-á-seng-hûn/Iā-á-sing-hûn/蝴蝶星雲/Butterfly Nebula
 - 【蝶仔星雲】Ia̍h-á-seng-hûn/Ia̍h-á-sing-hûn/蝴蝶星雲/Butterfly Nebula
-- 【蝶鬚星系】Ia̍h-chhiu seng-hē/Ia̍h-tshiu sing-hē/觸鬚星系/Antennae galaxies
-- 【蝶鬚星系】Ia̍h-chhiu-seng-hē/Ia̍h-tshiu-sing-hē/觸鬚星系/the Antennae
+- 【蝶仔鬚星系】Ia̍h-á-chhiu seng-hē/Ia̍h-á-tshiu sing-hē/觸鬚星系/Antennae galaxies
+- 【蝶仔鬚星系】Ia̍h-á-chhiu seng-hē/Ia̍h-á-tshiu sing-hē/觸鬚星系/the Antennae
+- 【螢光】êng-kng/îng-kng/螢光/fluorescing
 - 【蠍仔】giat-á/giat-á/蠍子/Scorpius
 - 【蠍仔座】Giat-á-chō/Giat-á-tsō/天蠍座/the constellation Scorpius
 - 【蠍仔座 δ】Giat-á-chō Delta/Giat-á-tsō Delta/天蠍座 δ/Delta Scorpii
+- 【血月】hoeh-goe̍h/hueh-gue̍h/血月/Blood Moon
 - 【血月】Hoeh-goe̍h/Hueh-gue̍h/血月/Blood Moon
 - 【血色月食】Hoeh-se̍k goe̍h-si̍t/Hueh-si̍k gue̍h-si̍t/血色月食/Blood Moon eclipse
 - 【行星】kiâⁿ-chheⁿ/kiânn-tshenn/行星/planet（較袂佮「恆星」hêng-chheⁿ 仝音）
@@ -2241,10 +3270,13 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【行星合相】kiâⁿ-chhiⁿ ha̍p-siòng/kiânn-tshinn ha̍p-siòng/行星合相/planetary conjunction
 - 【行星型星雲】kiâⁿ-chhiⁿ-hêng seng-hûn/kiânn-tshinn-hîng sing-hûn/行星狀星雲/planetary nebular
 - 【行星形成】kiâⁿ-chhiⁿ hêng-sêng/kiânn-tshinn hîng-sîng/行星形成/planet-forming
+- 【行星形星雲】kiâⁿ-chheⁿ-hêng seng-hûn/kiânn-tshenn-hîng sing-hûn/行星狀星雲/Planetary Nebula
 - 【行星形星雲】kiâⁿ-chhiⁿ-hêng seng-hûn/kiânn-tshinn-hîng sing-hûn/行星形星雲/planetary nebula
 - 【行星形星雲】kiâⁿ-chhiⁿ-hêng-seng-hûn/kiânn-tshinn-hîng-sing-hûn/行星形星雲/planetary nebula
+- 【行星形星雲】kiâⁿ-chhiⁿ-hêng seng-hûn/kiânn-tshinn-hîng sing-hûn/行星形星雲/planetery nebula
 - 【行星形星雲】kiâⁿ-chhiⁿ-hêng seng-hûn/kiânn-tshinn-hîng sing-hûn/行星狀星雲/planetary nebula
 - 【行星形星雲】kiâⁿ-chhiⁿ-hêng-seng-hûn/kiânn-tshinn-hîng-sing-hûn/行星狀星雲/planetary nebula
+- 【行星形星雲】kiâⁿ-chhiⁿ-hêng seng-hûn/kiânn-tshinn-hîng sing-hûn/行星狀星雲/planetary nebulae
 - 【行星形星雲】kiâⁿ-chhiⁿ-hêng seng-hûn/kiânn-tshinn-hîng sing-hûn/行星狀星雲/planetary nebular
 - 【行星形星雲】kiâⁿ-chhiⁿ-hêng seng-hûn/kiânn-tshinn-hîng sing-hûn/行星狀星雲/planetery nebula
 - 【行星盤】kiâⁿ-chhiⁿ-pôaⁿ/kiânn-tshinn-puânn/行星盤/planetary disk
@@ -2255,18 +3287,26 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【行星間旅行】kiâⁿ-chhiⁿ-kán lú-hêng/kiânn-tshinn-kán lú-hîng/行星間旅行/interplanetary voyage
 - 【行星間紀念碑】kiâⁿ-chhiⁿ kan kì-liām-pi/kiânn-tshinn kan kì-liām-pi/行星間紀念碑/interplanetary monuments
 - 【衍生】ián-seng/ián-sing/衍生/derive
+- 【衛星】ōe-chheⁿ/uē-tshenn/衛星/satellite
 - 【衛星】ōe-chhiⁿ/uē-tshinn/衛星/Moon
+- 【衛星】ūi-chhiⁿ/uī-tshinn/衛星/moon
 - 【衛星】ūi-chhiⁿ/uī-tshinn/衛星/Moon
 - 【衛星】ūi-chhiⁿ/uī-tshinn/衛星/satellite
+- 【衛星伴】ōe-chhiⁿ-phōaⁿ/uē-tshinn-phuānn/伴衛星/companion satellite
+- 【衛星星系】ōe-chheⁿ-seng-hē/uē-tshenn-sing-hē/衛星星系/satellite galaxy
 - 【衛星星系】ūi-chhiⁿ-seng-hē/ūi-chhiⁿ-seng-hē/衛星星系/satellite galaxies
 - 【衛星星系】ūi-chhiⁿ seng-hē/uī-tshinn sing-hē/衛星星系/satellite galaxies
+- 【衛星星系】ūi-chhiⁿ-seng-hē/uī-tshinn-sing-hē/ 衛星星系/satellite galaxies
 - 【衛星星系】ūi-chhiⁿ-seng-hē/uī-tshinn-sing-hē/衛星星系/satellite galaxies
 - 【衛星星系】ūi-chhiⁿ seng-hē/uī-tshinn sing-hē/衛星星系/satellite galaxy
 - 【衛星星系】ūi-chhiⁿ-seng-hē/uī-tshinn-sing-hē/衛星星系/satellite galaxy
+- 【衛星星系】ūi-chhiⁿ seng-hē//衛星星系/satellite galaxy
 - 【衛星星群】ūi-chhiⁿ seng-kûn/uī-tshinn sing-kûn/衛星星群/satellite constellation
 - 【衛星矮星系】ūi-chhiⁿ é-seng-hē/tshù-piⁿ sing-hē/衛星矮星系/dwarf satellite galaxy
 - 【衛星陣列】ūi-chhiⁿ tīn-lia̍t/uī-tshinn tīn-lia̍t/衛星陣列/satellite array
 - 【衝】chhèng/tshìng/衝/outburst
+- 【衝】chhiong/tshiong/衝/opposition
+- 【衝】chhiong/tshiong/衝/Opposition
 - 【衝】Chhiong/Tshiong/衝/opposition
 - 【衝擊波】chhiong-kek-phō/tshiong-kik-phō/衝擊波/shock
 - 【衝擊波】chhiong-kek-phō/tshiong-kik-phō/衝擊波/shocks
@@ -2274,16 +3314,21 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【衝擊波】chhiong-kek-phō/tshiong-kik-phō/衝擊波/shockwave
 - 【衝擊波前】chhiong-kek-pho-chiân/tshiong-kik-pho-tsiân/衝擊波前/shock front
 - 【表岩屑仔】piáu-giâm-sap-á/piáu-giâm-sap-á/表岩屑/regolith
+- 【表面溫度分析計畫】Piáu-bīn Un-tō͘ Hun-sek kè-ōe/Piáu-bīn Un-tōo Hun-sik kè-uē/表面溫度分析計畫/Surface Temperature Analysis
 - 【表面積】piáu-bīn-chek/piáu-bīn-tsik/表面積/surface area
 - 【表面重力】piáu-bīn tiōng-le̍k/piáu-bīn tiōng-li̍k/表面重力/surface gravity
 - 【表面重力】piáu-bīn-tiōng-le̍k/piáu-bīn-tiōng-li̍k/表面重力/surface gravity
 - 【袚鍊星雲】Phoa̍h-liān seng-hûn/Phua̍h-liān sing-hûn/項鍊星雲/Necklace Nebula
 - 【補給船】pó͘-kip-chûn/póo-kip-tsûn/補給船/supply ship
+- 【複合】ho̍k-ha̍p/ho̍k-ha̍p/複合/recombination
+- 【複合】ho̍k-ha̍p/ho̍k-ha̍p/複合/recombine
+- 【複合線】ho̍k-ha̍p-sòaⁿ/ho̍k-ha̍p-suànn/複合線/recombination line
 - 【複合體】ho̍k-ha̍p-thé/ho̍k-ha̍p-thé/複合體/complex
 - 【西元 1054 年】se-goân it-khòng-ngó͘-sù nî/se-guân it-khòng-ngóo-sù nî/西元 1054 年/1054 AD
 - 【西元 4385 年】se-goân sù-sam-pat-ngó͘/se-guân sù-sam-pat-ngóo/西元 4385 年/4385 AD
 - 【西北雨】sai-pak-hō͘/sai-pak-hōo/西北雨/downpour
 - 【西北雨】sai-pak-hō͘/sai-pak-hōo/雷陣雨/drenching rain
+- 【西手囊山】Sai Chhiú-lông-soaⁿ/Sai Tshiú-lông-suann/西手套山/the West Mitten Buttes
 - 【西班牙舞者星系】Se-pan-gâ-bú-chiá seng-hē/Se-pan-gâ-bú-tsiá sing-hē/西班牙舞者星系/The Spanish Dancer
 - 【見本】kiàn-pún/kiàn-pún/樣本/sample
 - 【視場】sī-tiûⁿ/sī-tiûnn/視場/field of view
@@ -2302,12 +3347,18 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【視覺化】sī-kak-hòa/sī-kak-huà/視覺化/visualization
 - 【視覺化】sī-kak-hòa/sī-kak-huà/視覺化/visualize
 - 【視角】sī-kak/sī-kak/視角/angular size
+- 【視角】sī-kak/sī-kak/視角/perspective
+- 【視角度】sī-kak-tō͘/sī-kak-tōo/視角度/angular size
 - 【視角度】sī-kak-tō͘/sī-kak-tōo/視角度/angule
 - 【視運動】sī-ūn-tōng/sī-ūn-tōng/視運動/apparent motion
 - 【視野】sī-iá/sī-iá/視野/field of view
+- 【視野】sī-iá/sī-iá/視野/field-of-view
 - 【視野】sī-iá/sī-iá/視野/horizons
 - 【視野】sī-iá/sī-iá/視野、視場/field of view
+- 【視闊度】sī-khoah-tō͘/sī-khuah-tōo/視寬度/angular width
+- 【視闊度】sī-khoah-tō͘/sī-khuah-tōo/視寬度/apparent width 
 - 【視闊度】sī-khoah-tō͘/sī-khuah-tōo/視闊度/apparent width
+- 【觀星圖】koan-seng-tô͘/kuan-sing-tôo/觀星圖/sky map
 - 【觀星者】koan-seng-chiá/kuan-sing-tsiá/觀星者/skygazers
 - 【觀測會著的宇宙】koan-chhek-ē-tio̍h ê ú-tiū/kuan-tshik-ē-tio̍h ê ú-tiū/可觀測的宇宙/observable universe
 - 【觀測站】koan-chhek-chām/kuan-tshik-tsām/觀測站/Observing Station
@@ -2317,13 +3368,16 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【角大細】kak-tōa-sè/kak-tuā-sè/角大小/angular size
 - 【角寸尺】kak-chhùn-chhioh/kak-tshùn-tshioh/角尺寸/angular size
 - 【角寸尺】kak-chhun-chio̍h/kak-tshun-tsio̍h/角寸尺/angular size
+- 【角尺】kak-chhioh/kak-chhioh/角尺/Carpenter's Square
 - 【角距離】kak-kū-lî/kak-kū-lî/角距離/angular distance
 - 【角距離】kak-kū-lî/kak-kū-lî/角距離/angular separation
 - 【角距離】kak-kū-lî/kak-kū-lî/角距離/angular seperation
 - 【解凍】kái-tòng/kái-tòng/解凍/defrost
 - 【解析】kái-sek/kái-sik/解析/resolve
 - 【解析度】kái-sek-tō͘/kái-sik-tōo/解析度/resolution
+- 【解離】kái-lî/kái-lî/解離/dissolve
 - 【調適光學】tiâu-sek-kng-ha̍k/tiâu-sik-kng-ha̍k/調適光學/adaptive optics
+- 【譜斑】phó͘-pan/phóo-pan/譜斑/plages
 - 【變位】piàn-ūi/piàn-uī/位移/displacement
 - 【變星】piàn-chhiⁿ/piàn-tshinn/變星/variable star
 - 【變星】piàn-seng/piàn-sing/變星/variable star
@@ -2333,20 +3387,31 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【變色杜定暗星雲】Piàn-sek-tō͘-tēng Àm-seng-hûn/Piàn-sik-tōo-tīng Àm-sing-hûn/蝘蜓暗星雲/Chamaeleon Dark Nebulas
 - 【變色杜定紅外線星雲】Piàn-sek tō͘-tēng Âng-gōa-sòaⁿ seng-hûn/Piàn-sik tōo-tīng Âng-guā-suànn sing-hûn/變色杜定紅外線星雲/the Chamaeleon Infrared Nebula (Cha IRN)
 - 【象管】chhiūⁿ-kńg/tshiūnn-kńg/象鼻/elephant trunk
+- 【象管】chhiūⁿ-kńg/tshiūnn-kńg/象鼻/elephant trunks
 - 【象管星雲】Chhiūⁿ-kńg seng-hûn/Tshiūnn-kńg sing-hûn/象鼻星雲/Elephant's Trunk Nebula
+- 【象管星雲】Chhiūⁿ-kńg seng-hûn/Tshiūnn-kńg sing-hûn/象鼻星雲/the Elephant's Trunk Nebula
 - 【象管星雲】Chhiūⁿ-kńg seng-hûn/Tshiūnn-kńg sing-hûn/象鼻管星雲/Elephant's Trunk Nebula
 - 【象限儀座】Siòng-hān-gî-chō/Siòng-hān-gî-tsō/象限儀座/Quadrans Muralis
 - 【象限儀座流星雨】Siòng-hān-gî-chō liû-chhiⁿ-hō͘/Siòng-hān-gî-tsō liû-tshinn-hōo/象限儀座流星雨/Quadrantids
+- 【象鼻星雲】Chhiūⁿ-phīⁿ seng-hûn/Tshiūnn-phīnn sing-hûn/象鼻星雲/the Elephant's Trunk Nebula
 - 【貓掌星雲】Niau-chiúⁿ seng-hûn/Niau-tsiúnn sing-hûn/貓掌星雲/the Cat's Paw Nebula
+- 【貓眼星雲】Niau-gán-seng-hûn/Niau-gán-sing-hûn/貓眼星雲/the Cat's Eye nebula
 - 【貓眼星雲】Niau-gán-seng-hûn/Niau-gán-sing-hûn/貓眼星雲/the Cat's Eye Nebula
 - 【質子】chit-chú/tsit-tsú/質子/proton
 - 【質子】chit-chú/tsit-tsú/質子/protons
 - 【赤經】chhek-keng/tshek-king/赤經/right ascension
 - 【赤緯】chhek-hūi/tshik-huī/赤緯/declination
+- 【赤道】chhek-tō/chhek-tō/赤道/equator
+- 【赤道】chhek-tō/tshek-tō/赤道/equator
+- 【赤道】chhek-tō/tshek-tō/赤道/equatorial
 - 【赤道】chhek-tō/tshik-tō/赤道/equator
+- 【赤道】chhiah-tō/tshiah-tō/赤道/equator
 - 【赤道脊】chhek-tō-chit/tshik-tō-tsit/赤道脊/equatorial ridge
+- 【走標星雲】Cháu-pio-seng-hûn/Tsáu-pio-sing-hûn/跑者星雲/the Running Man Nebula
 - 【走路雞星雲】Cháu-lō͘-ke seng-hûn/Tsáu-lōo-ke sing-hûn/走雞星雲/Running Chicken Nebula
 - 【起源太空公司】Khí-goân thài-khong kong-si/Khí-guân thài-khong kong-si/起源太空公司/Origin.Space
+- 【起源號任務】Khí-goân-hō jīm-bū/Khí-guân-hō jīm-bū/起源號任務/Genesis mission
+- 【起源號太空船】Khí-goân-hō thài-khong-chûn/Khí-guân-hō thài-khong-tsûn/起源號太空船/Genesis spaceship
 - 【起蛟龍】khí-kau-lêng/khí-kau-lîng/海嘯/tsunami
 - 【起跤龍震波】khí-kha-lêng chìn-pho/khí-kha-lîng tsìn-pho/龍捲風震波/tsunami shock wave
 - 【超大望遠鏡】chhiau-tōa bōng-oán-kiàⁿ/tshiau-tuā bōng-uán-kiànn/超大望遠鏡/Very Large Telescope (VLA)
@@ -2369,6 +3434,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【超新星】chhiau-sin-seng/tshiau-sin-sing/超新星/Supernova
 - 【超新星】chhiau-sin-seng/tshiau-sin-sing/超新星/supernovas
 - 【超新星安魂曲】Chhiau-sin-seng An-hûn-khiok/Tshiau-sin-sing An-hûn-khiok/超新星安魂曲/SN Requiem
+- 【超新星殘骸】chhiau-sin-seng chân-hâi/tshiau-sin-sing tsân-hâi/超新星殘骸/supernova explosion
 - 【超新星殘骸】chhiau-sin-seng chân-hâi/tshiau-sin-sing tsân-hâi/超新星殘骸/supernova remnant
 - 【超新星殘骸】chhiau-sin-seng chân-hâi/tshiau-sin-sing tsân-hâi/超新星殘骸/supernova remnant
 - 【超新星殘骸】chhiau-sin-seng-chân-hâi/tshiau-sin-sing-tsân-hâi/超新星殘骸/supernova remnant
@@ -2377,27 +3443,36 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【超新星爆炸】chhiau-sin-seng-po̍k-chà/tshiau-sin-sing-po̍k-tsà/超新星爆炸/supernova explosion
 - 【超新星爆炸】chhiau-sin-seng po̍k-chà/tshiau-sin-sing po̍k-tsà/超新星爆炸/supernova explosions
 - 【超新星爆炸】chhiau-sin-seng po̍k-chà/tshiau-sin-sing tsân-hâi/超新星爆炸/supernova explosion
+- 【超新星衝擊】chhiau-sin-seng chhiong-kek/tshiau-sin-sing tshiong-kik/超新星衝擊/supernova shock
 - 【超新星衝擊波】chhiau-sin-seng chhiong-kek-pho/tshiau-sin-sing tshiong-kik-pho/超新星衝擊波/supernova shockwave
 - 【超空間】chhiau-khong-kan/tshiau-khong-kan/超空間/hyperspace
 - 【超級 i-chhí-go͘h 月娘】chhiau-kip i-chhí-go͘h goe̍h-niû/tshiau-kip i-tshí-gooh gue̍h-niû/超級草莓月娘/Strawberry Supermoon
 - 【超級地球】Chhiau-kip Tē-kiû/Tshiau-kip Tē-kiû/超級地球/Super-Earth
 - 【超級月娘】chhiau-kip goe̍h-niû/tshiau-kip gue̍h-niû/超級月亮/supermoon
 - 【超級月娘】chhiau-kip-goe̍h-niû/tshiau-kip-gue̍h-niû/超級月亮/supermoon
+- 【超級月娘】chhiau-kip-goe̍h-niû/tshiau-kip-gue̍h-niû/超級月娘/supermoon
 - 【超級胞】chhiau-kip-pau/tshiau-kip-pau/超級胞/supercell
 - 【超級花血月】Chhiau-kip hoe-hoeh-goe̍h/Tshiau-kip hue-hueh-gue̍he/超級花血月/Super Flower Blood Moon
 - 【超級草莓月娘】Chhiau-kip Chháu-m̂ goe̍h-niû/Tshiau-kip Tsháu-m̂ gue̍h-niû/超級草莓月亮/Strawberry Supermoon
 - 【超級行星】chhiau-kip-kiâⁿ-chhiⁿ/tshiau-kip-kiânn-tshinn/超級行星/Super planet
+- 【超級闊幅】chhiau-kip khoah-pak/tshiau-kip khuah-pak/超廣角/extremely wide angle
 - 【超紫外光影像望遠鏡】Chhiau-chí-gōa-kng iáⁿ-siōng bōng-oán-kiàⁿ/Tshiau-tsí-guā-kng iánn-siōng bōng-uán-kiànn/超紫外光影像望遠鏡/Extreme ultraviolet Image Telescope (EIT)
+- 【超音速】chhiau-im-sok/tshiau-im-sok/超音速/supersonic
 - 【超音速流】chhiau-im-sok-liû/tshiau-im-sok-liû/超音速流/supersonic river
 - 【趣味 ê 宇宙旅行】Chhù-bī ê ú-tiū lú-hêng/Tshù-bī ê ú-tiū lú-hîng/有趣的宇宙旅行/An Interesting Voyage
 - 【趨度】chhu-tō͘/tshu-tōo/斜度/tilt
+- 【趨角】chhu-kak/tshu-kak/傾斜/tilts
 - 【趨雪場】chhu-soat-tiûⁿ/tshu-suat-tiûnn/滑雪場/Ski Resort
 - 【足-kheh】chiok-kheh/tsiok-kheh/很擠/crowded
 - 【足大陣列 (VLA) 電波望遠鏡】Chiok-tōa-tīn-lia̍t (VLA) tiān-pho-bōng-oán-kiàⁿ/Tsiok-tuā-tīn-lia̍t (VLA) tiān-pho-bōng-uán-kiànn/極大陣列 (VLA) 電波望遠鏡/Very Large Array (VLA) radio telescope
+- 【距陣】kū-tīn/kū-tīn/距陣/matrix
 - 【距離尺度】kū-lî chhioh-tō͘/kū-lî tshioh-tōo/距離尺度/distance scale
+- 【距離尺度】kū-lī chhioh-tô͘/kū-lī tshioh-tôo/距離尺度/distance scale
+- 【跤爪】kha-jiáu/kha-jiáu/爪子/claw
 - 【跤苴仔】kha-chū-á/kha-tsū-á/腳墊/footpad
 - 【踅地低軌道】se̍h-tē kē kúi-tō/se̍h-tē kē kúi-tō/繞地低軌道/low Earth orbit
 - 【踅地國際太空站】Se̍h-tē Kok-chè-thài-khong-chûn/Se̍h-tē Kok-tsè-thài-khong-tsûn/繞地國際太空站/Earth-orbiting ISS
+- 【踅地球低軌道】se̍h-tē-kiû kē-kúi-tō/se̍h-tē-kiû kē-kuí-tō/低地球軌道/low Earth orbit
 - 【踅地衛星】se̍h-tē-ūi-chhiⁿ/se̍h-tē-uī-tshinn//Earth-orbiting satellite
 - 【踅地衛星】se̍h-tē ūi-chhiⁿ/se̍h-tē uī-tshinn/繞地衛星/Earth-orbit satellite
 - 【踅地衛星】se̍h-tē ūi-chhiⁿ/se̍h-tē uī-tshinn/繞地衛星/orbiting satellite
@@ -2406,32 +3481,50 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【踅月月球探測軌道太空船】Se̍h-goe̍h Goe̍h-kiû-thàm-chhek-kúi-tō Thài-khong-chûn/Se̍h-gue̍h Gue̍h-kiû-thàm-tshik-kuí-tō Thài-khong-tsûn/繞月月球勘測軌道太空船/Moon-orbiting Lunar Reconnaissance Orbiter
 - 【車葉仔】chhia-hio̍h-á/tshia-hio̍h-á/車葉仔/rotor
 - 【軌道】kúi-tō/kuí-tō/軌道/orbit
+- 【軌道機動系統 iăn-jín】kúi-tō ki-tōng hē-thóng iăn-jín/kuí-tō ki-tōng hē-thóng iăn-jín/軌道機動系統引擎/Orbital Maneuvering System engine
 - 【軌道站】kúi-tō-chām/kuí-tō-tsām/軌道站/orbiting station
 - 【軌道衛星】Hóe-chhiⁿ-ji̍t/Hué-tshinn-ji̍t/軌道衛星/Sol
+- 【軌道衛星】kúi-tō-ūi-chhiⁿ/kuí-tō-uī-tshinn/軌道衛星/orbiter
+- 【軌道面】kúi-tō-bīn/kuí-tō-bīn/軌道面/orbital plane
 - 【軒轅十四】Hian-oân cha̍p-sì/Hian-uân tsa̍p-sì/軒轅十四/Regulus
 - 【較狹 ê 噴流】khah e̍h ê phùn-liû/khah e̍h ê phùn-liû/窄噴流/jets
 - 【較闊 ê 噴流】khah khoah ê phùn-liû/khah khuah ê phùn-liû/寬噴流/outflows
+- 【輔助 iăn-jín】hú-chō͘ iăn-jín/hú-tsōo iăn-jín/輔助引擎/auxillary engine
+- 【輕型意大利小行星成像立方衛星】Khin-hêng I-tà-lī Sió-kiâⁿ-chhiⁿ Sêng-siōng Li̍p-hong-Ōe-chhiⁿ/Khin-hîng I-tà-lī Sió-kiânn-tshinn Sîng-siōng Li̍p-hong-Uē-tshnn/輕型意大利小行星成像立方衛星/the Light Italian CubeSat for Imaging Asteroids (LICIACube)
+- 【輝光】hui-kng/hui-kng/輝光/glow
+- 【輝度】hui-tō͘/hui-tōo/亮度/brightnes
 - 【輝度】hui-tō͘/hui-tōo/亮度/brightness
-- 【輻射】hok-siā/hok-siā/光輻射/radiation
+- 【輻射】hok-siā/hok-siā/輻射/radiate
 - 【輻射】hok-siā/hok-siā/輻射/radiation
 - 【輻射光】hok-siā-kng/hok-siā-kng/輻射/radiations
 - 【輻射壓力】hok-siā-ap-le̍k/hok-siā-ap-li̍k/輻射壓/radiation pressure
+- 【輻射壓力】hok-siā ap-le̍k/hok-siā ap-li̍k/輻射壓力/radiation pressure
+- 【輻射紋】hok-siā-bûn/hok-siā-bûn/輻射紋/ray
+- 【輻射線】hok-siā-suànn/hok-siā-suànn/輻射線/radiation
 - 【輻射點】hok-siā-tiám/hok-siā-tiám/輻射點/radiant
 - 【輻射點】hok-siā-tiám/hok-siā-tiám/輻射點/radiant point
+- 【輻射點】hok-siā-tiám/hok-siā-tiám/輻射點/radiate point
 - 【轉返船】tńg-hoán-chûn/tńg-huán-tshûn/返回器/returner capsule
 - 【農村】lông-chhoan/lông-tshoan/農村/farmstead
+- 【近地天體】kīn-tē-thian-thé/kīn-tē-thian-thé/近地天體/near earth objects
 - 【近地小行星】kūn-tē-sió-kiâⁿ-chhiⁿ/kūn-tē-sió-kiânn-tshinn/近地小行星/near-Earth asteroid
 - 【近地點】kīn-tē-tiám/kīn-tē-tiám/近地點/perigee
-- 【近地點】kīn-tē-tiám/kīn-tē-tiám/近地點/perihelion
 - 【近地點】kūn-tē-tiám/kūn-tē-tiám/近地點/perigee
 - 【近日點】kīn-ji̍t-tiám/kīn-ji̍t-tiám/近日點/perihelion
+- 【近木軌道 11】kīn-bo̍k kúi-tō 11/īn-bo̍k kuí-tō 11/近木軌道 11/perijove 11
 - 【近木軌道六】kīn-bo̍k kúi-tō/kīn-bo̍k kuí-tō/近木軌道六/perijove 6
+- 【近木點】kīn-bo̍k-tiám/kīn-bo̍k-tiám/近木點/perijove
 - 【近紅外線 kha-mé-lah】kīn-âng-gōa-sòaⁿ kha-mé-lah/kīn-âng-guā-suànn kha-mé-lah/近紅外線相機/NIRcam
 - 【近紅外線】Kīn-âng-gōa-sòaⁿ/Kīn-âng-guā-suànn/紅外線/Infrared
+- 【近紅外線】kīn-âng-gōa-sòaⁿ/kīn-âng-guā-suànn/近紅外線/near-infrared
+- 【近紅外線相機】kīn-âng-gōa-sòaⁿ siòng-ki/kīn-âng-guā-suànn siòng-ki/近紅外線相機/NIRcam
 - 【近距離接觸】kīn-kū-lî chiap-chhiok/kīn-kū-lî tsiap-tshiok/近距離接觸/close encounter
 - 【迵地雷達】thàng-tē-lûi-ta̍t/thàng-tē-luî-ta̍t/透地雷達/ground-penetrating radar
+- 【迷宮】bê-kiong/bê-kiong/迷宮/labyrinth
 - 【追蹤劑】tui-chong-che/tui-tsong-tse/追蹤劑/tracer
 - 【逆溫層】ge̍k-un-chân/gi̍k-un-tsân/逆溫層/inversion layer
+- 【逆行軌道】ge̍k-hêng kúi-tō/gi̍k-hîng kuí-tō/逆行軌道/retrograde orbi
+- 【逆行軌道】ge̍k-hêng kúi-tō/gi̍k-hîng kuí-tō/逆行軌道/retrograde orbit
 - 【透早星】thàu-chá-chhiⁿ/thàu-chá-chhiⁿ/晨星/morning star
 - 【透早星】thàu-chá-chhiⁿ/thàu-tsá-tshinn/晨星/morning planet
 - 【透早星】Thàu-chá-chhiⁿ/Thàu-tsá-tshinn/晨星/the Morning Star
@@ -2451,21 +3544,27 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【連紲譜】liân-sòa-phó͘/liân-suà-phóo/連續譜/continuum
 - 【週期彗星】chiu-kî hūi-chhiⁿ/tsiu-kî huī-tshinn/週期彗星/periodic comet
 - 【週期彗星】chiu-kî-hūi-chhiⁿ/tsiu-kî-huī-tshinn/週期彗星/periodic comet
+- 【週期性彗星】chiu-kî-sèng hui-chhiⁿ/tsiu-kî-sìng hui-tshinn/週期性彗星/periodic Comet
 - 【週期性彗星】chiu-kî-sèng hūi-chhiⁿ/tsiu-kî-sìng huī-tshinn/週期性彗星/periodic comet
+- 【週期性彗星】chiu-kî-sèng hūi-chiⁿ/tsiu-kî-sìng huī-tsinn/週期性彗星/periodic comet
+- 【週期表】chiu-kî-pió/tsiu-kî-pió/週期表/periodic table
 - 【進動】chìn-tōng/tsìn-tōng/進動/precession
 - 【過分感光】kòe-hun kám-kng/kuè-hun kám-kng/過度曝光/overexpose
 - 【遙控-kha-mé-lah】iâu-khòng-kha-mé-lah/iâu-khòng-kha-mé-lah/遙控相機/remote camera
 - 【遙遠星系】iâu-oán-seng-hē/iâu-uán-sing-hē/遙遠星系/distant galaxies
-- 【遠地點】oán-tē-tiám/uán-tē-tiám/遠地點/aphelion
 - 【遠地點】oán-tē-tiám/uán-tē-tiám/遠地點/apogee
 - 【遠地點】Oán-tē-tiám/Uán-tē-tiám/遠地點/apogee
 - 【遠征 65 號任務】Oán-cheng la̍k-cha̍p-gō͘ hō jīm-bū/Uán-tsing la̍k-tsa̍p-gōo hō jīm-bū/遠征 65 號任務/Expedition 65
+- 【遠日點】oán-ji̍t-tiám/uán-ji̍t-tiám/遠日點/aphelion
+- 【遠逆行軌道】oán-ge̍k-hêng kúi-tō/uán-gi̍k-hîng kuí-tō/遠逆行軌道/distant retrograde orbit
 - 【避障 kha-mé-lah 】Phiah-chiòng kha-mé-lah/hiah-tsiòng kha-mé-lah/避障相機/Hazard Camera
 - 【避障 kha-mé-lah】phiah-chiòng kha-mé-lah/phiah-tsiòng kha-mé-lah/避障相機/Hazard Avoidance Camera
 - 【邪眼星系】Siâ-gán seng-hē/Siâ-gán seng-hē/邪眼星系/the Evil Eye Galaxy
 - 【郡】kūn/kūn/郡/county
 - 【酸素】sàng-sò͘/sàng-sòo/氧/oxygen
+- 【酸素】sàng-sò͘/sàng-sòo/氧/Oxygen
 - 【酸素】sàng-sò͘/sàng-sòo/氧氣/oxygen
+- 【酸素】sàng-sò͘/sàng-sò͘/氧/oxygen
 - 【酸素】sng-sò͘/sng-sòo/氧/O
 - 【酸素】sng-sò͘/sng-sòo/氧/oxygen
 - 【酸素】sng-sò͘/sng-sòo/氧/Oxygen
@@ -2476,11 +3575,15 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【酸素分子】sng-sò͘ hun-chú/sng-sòo hun-tsú/氧氣分子/oxygen molecules
 - 【酸素原子】sng-sò͘ goân-chú/sng-sòo guân-tsú/氧原子/atomic oxygen
 - 【酸素原子】sng-sò͘ goân-chú/sng-sòo guân-tsú/氫原子/hydorgen atom
+- 【里程埤】lí-têng-pi/lí-tîng-pi/里程埤/milestone
 - 【重元素】tāng-goân-sò͘/tāng-guân-sòo/重元素/heavy element
+- 【重元素】tāng-goân-sò͘/tāng-guân-sòo/重元素/heavy elements
 - 【重元素】tāng-goân-sò͘/tāng-guân-sòo/重元素/heavy element（除了 H 以外攏是重元素）
+- 【重力】tiōng-le̍k/tiōng-li̍k/重力/gravity
 - 【重力交互作用】tiōng-le̍k kāu-hō͘ chok-iōng/tiōng-li̍k kāu-hōo tsok-iōng/重力交互作用/gravitational interactions
 - 【重力場】tiōng-le̍k-tiûⁿ/tiōng-li̍k-tiûnn/重力場/gravitational field
 - 【重力崩塌】tiōng-le̍k pang-lap/tiōng-li̍k pang-lap/重力塌縮/gravitationally collapse
+- 【重力崩塌】tiōng-le̍k pang-lap/tiōng-li̍k pang-lap/重力崩塌/gravitational collapse
 - 【重力崩塌】tiōng-le̍k pang-thap/tiōng-li̍k pang-thap/重力崩塌/gravitational collapse
 - 【重力弧】tiōng-le̍k-hô͘/tiōng-li̍k-hôo/重力弧/gravitational arc
 - 【重力收縮】tiōng-le̍k-siu-sok/tiōng-li̍k-siu-sok/重力收縮/gravitationally contracting
@@ -2500,8 +3603,10 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【重力透鏡拗彎】tiōng-le̍k-thàu-kiàⁿ-áu-oan/tiōng-li̍k-thàu-kiànn-áu-uan/重力透鏡偏折/gravitational lensing deflection
 - 【重力透鏡效應】tiōng-le̍k-thàu-kiàⁿ hāu-èng/tiōng-li̍k-thàu-kiànn hāu-ìng/重力透鏡效應/graviational lensing effect
 - 【重力透鏡效應】tiōng-le̍k-thàu-kiàⁿ-hāu-èng/tiōng-li̍k-thàu-kiànn-hāu-ìng/重力透鏡效應/gravitational lens effect
+- 【重力透鏡效應】tiōng-le̍k-thàu-kiàⁿ hāu-èng/tiōng-li̍k-thàu-kiànn hāu-ìng/重力透鏡效應/gravitational lensing efect
 - 【重力透鏡效應】tiōng-le̍k thàu-kiàⁿ hāu-èng/tiōng-li̍k thàu-kiànn hāu-ìng/重力透鏡效應/gravitational lensing effect
 - 【重力透鏡效應】tiōng-le̍k-thàu-kiàⁿ hāu-èng/tiōng-li̍k-thàu-kiànn hāu-ìng/重力透鏡效應/gravitational lensing effect
+- 【重力透鏡效應】tiōng-le̍k thàu-kiàⁿ/tiōng-li̍k thàu-kiànn/重力透鏡效應/gravitational lensing
 - 【重子物質】tiōng-chú-bu̍t-chit/tiōng-tsú-bu̍t-tsit/重子物質/baryonic matter
 - 【重組】têng-cho͘/tîng-tsoo/重組/recombination
 - 【重組】têng-cho͘/tîng-tsoo/重組/recombining
@@ -2512,6 +3617,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【量子力學色光效應】liōng-chú le̍k-ha̍k sek-kng hāu-èng/liōng-tsú li̍k-ha̍k sik-kng hāu-ìng/量子力學色彩效應/quantum mechanical color effects
 - 【量子決定】liōng-chú koat-tēng/liōng-tsú kuat-tīng/量子決定/quantum decision
 - 【量子簡併物質】liōng-chú-kán-pèng-bu̍t-chit/liōng-tsú-kán-pìng-bu̍t-tsit/量子簡併物質/quantum-degenerate matter
+- 【金仔島】Kim-á-tó/Kim-á-tó/金島/île d’Or island
 - 【金星】Kim-chhiⁿ/Kim-tshinn/金星/Venus
 - 【金星凌日】Kim-chhiⁿ Lêng-ji̍t/Kim-tshinn Lîng-ji̍t/金星凌日/Venusian transit across the Sun
 - 【金星快車衛星太空船】Kim-chhiⁿ khoài-chhia ūi-chhiⁿ thài-kiông-chûn/Kim-tshinn khuài-tshia uī-tshinn thài-kiông-tsûn/金星特快車衛星太空船/orbiting Venus Express spacecraft
@@ -2521,12 +3627,16 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【金牛座】Kim-gû-chō/Kim-gû-tsō/金牛座/the constellation Taurus
 - 【金牛座 T 型變星】Kim-gû-chō T-hêng piàn-seng/Kim-gû-tsō T-hîng piàn-sing/金牛座 T 型變星/T Tauri stars
 - 【金牛座 T 星】Kim-gû-chō T chhiⁿ/Kim-gû-tsō T tshinn/金牛座 T 星/T Tauri
+- 【金牛座 α 星】Kim-gû-chō Alpha chheⁿ/Kim-gû-tsō Alpha tshenn/金牛座 α 星/Taurus' alpha star
 - 【金牛座分子雲】Kim-gû-chō hūn-chú-hûn/Kim-gû-tsō hūn-tsú-hûn/金牛座分子雲/the Taurus molecular cloud
 - 【金環日食】kim-khoân ji̍t-si̍t/kim-khuân ji̍t-si̍t/日環食/annular eclipse
 - 【金環日食】kim-khoân ji̍t-si̍t/kim-khuân ji̍t-si̍t/日環食/annular solar eclipse
 - 【金環日食】Kim-khoân ji̍t-si̍t/Kim-khuân ji̍t-si̍t/日環食/Annular Solar Eclipse
 - 【金環日食】kim-khoân ji̍t-si̍t/kim-khuân ji̍t-si̍t/金環日食/annular solar eclipse
 - 【釘仔馬】teng-á-bé/ting-á-bé/獨角獸/unicorn
+- 【釘仔馬】teng-á-bé/ting-á-bé/獨角獸/Unicorn
+- 【釘仔馬座】Teng-á-bé-chō/Ting-á-bé-tsō/獨角獸座/the constellation of the Unicorn
+- 【針形管】chiam-hêng-kóng/tsiam-hîng-kóng/針形管/spicule
 - 【針空顯影】chiam-khang hián-iáⁿ/tsiam-khang hián-iánn/針孔成像/pinhole imaging
 - 【針空顯影 kha-mé-lah】chiam-khang hián-iáⁿ kha-mé-lah/tsiam-khang hián-iánn kha-mé-lah/針孔成像相機/pinhole camera
 - 【鈉】la̍p/la̍p/鈉/sodium
@@ -2541,8 +3651,10 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【銀核】gîn-he̍k/gîn-hi̍k/銀核/core
 - 【銀核】gîn-he̍k/gîn-hi̍k/銀核/galactic core
 - 【銀河】Gîn-hô/Gîn-hô/銀河/Milky Way
+- 【銀河】Gîn-hô/Gîn-hô/銀河/the Galaxy
 - 【銀河】Gîn-hô/Gîn-hô/銀河/the Milky Way
 - 【銀河中央棍仔】Gîn-hô tiong-ng kùn-á/Gîn-hô tiong-ng kùn-á/銀河中央棒/central Galactic bar
+- 【銀河中心】Gîn-hô tiong-sim/Gîn-hô tiong-sim/銀河中心/Galactic center
 - 【銀河中心盤】Gîn-hô tiong-sim-pôaⁿ/Gîn-hô tiong-sim-puânn/銀河中心盤/Galaxy's central plane
 - 【銀河中心 (銀心)】gîn-hô-tiong-sim (gîn-sim)/gîn-hô-tiong-sim (gîn-sim)/銀河中心 (銀心)/galactic center
 - 【銀河帶】Gîn-hô-tòa/Gîn-hô-tuà/銀河帶/band of Milky Way
@@ -2553,33 +3665,49 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【銀河必縫】Gîn-hô-pit-phāng/Gîn-hô-pit-phāng/大裂縫/the Great Rift
 - 【銀河環】gîn-hô-khôaⁿ/gîn-hô-khuânn/銀河環/the milky Ring
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/Galactic disk
+- 【銀河盤】gîn-hô-pôaⁿ/gîn-hô-puânn/銀河盤/galactic plane
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/galactic plane
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/Galactic plane
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/plane of Milky Way galaxy
+- 【銀河盤】gîn-hô-pôaⁿ/gîn-hô-puânn/銀河盤/plane of our galaxy
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/plane of our galaxy
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/plane of our Milky Way
+- 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/plane of our Milky Way galaxy
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/plane of the Milky Way
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/the Milky Way disk
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/the plane of Milky Way
 - 【銀河盤】gîn-hô-pôaⁿ/gîn-hô-puânn/銀河盤/the plane of our Milky Way
+- 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/the plane of our Milky Way Galaxy
+- 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/the plane of our own Milky Way galaxy
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/the plane of the Milky Way
 - 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-pûann/銀河盤/the plane of the Milky Way
+- 【銀河盤】Gîn-hô-pôaⁿ/Gîn-hô-puânn/銀河盤/the plan of the Milky Way
 - 【銀河盤仔】Gîn-hô poân-á/Gîn-hô puân-á/銀河盤面/Galactic plane
+- 【銀河系】Gîn-hô-hē/Gîn-hô-hē/the Milky Way Galaxy
 - 【銀河系】Gîn-hô-hē/Gîn-hô-hē/銀河/Milky Way galaxy
+- 【銀河系】Gîn-hô-hē/Gîn-hô-hē/銀河/the Milky Way galaxy
 - 【銀河系】Gîn-hô-hē/Gîn-hô-hē/銀河系/Milky Way
 - 【銀河系】Gîn-hô-hē/Gîn-hô-hē/銀河系/Milky Way galaxy
 - 【銀河系】Gîn-hô-hē/Gîn-hô-hē/銀河系/Milky Way Galaxy
 - 【銀河系】Gîn-hô-hē/Gîn-hô-hē/銀河系/the Milky Way
 - 【銀河系】Gîn-hô-hē/Gîn-hô-hē/銀河系/the Milky Way galaxy
+- 【銀河系】Gîn-hô-hē/Gîn-hô-hē/銀河系/the Milky Way Galaxy
+- 【銅】tâng/tâng/銅/copper
 - 【鋏仔】giap-á/liû-hông/夾子/clamps
+- 【錐狀細胞】chui-chōng-sè-pau/tsui-tsōng-sè-pau/錐狀細胞/cone cell
 - 【鎂】bí/bí/鎂/magnesium
 - 【鎖匙空星雲】Só-sî-khang/Só-sî-khang/鎖匙空星雲/the Keyhole Nebula
 - 【鎳】gia̍t/gia̍t/鎳/nickel
 - 【鏡像】kiàⁿ-siōng/kiànn-siōng/鏡像/mirrored
 - 【鐵】thih/thih/鐵/iron
+- 【鐵砧雲】thih-tiam-hûn/thih-tiam-hûn/砧狀雲/anvil cloud
+- 【長尾星】tn̂g-bóe-chhiⁿ/tn̂g-bué-tshinn/長尾星/comet
 - 【長期演化】tn̂g-kî ián-hòa/tn̂g-kî ián-huà/長期演化/secular evolution
 - 【長株圓】tn̂g-tu-îⁿ/tn̂g-tu-înn/橢圓/elliptical
+- 【長株圓】tn̂g-tu-îⁿ/tn̂g-tu-înn/橢圓/oval
+- 【長株圓】tn̂g-tu-îⁿ/tn̂g-tu-înn/橢圓圓/oval
 - 【長株圓】tn̂g-tu-îⁿ/tn̂g-tu-înn/橢圓形/elliptical
+- 【長株圓星系】tn̂g-tu-îⁿ seng-hē/tn̂g-tu-înn sing-hē/橢圓星系/elliptical
 - 【長株圓星系】tn̂g-tu-îⁿ seng-hē/tn̂g-tu-înn sing-hē/橢圓星系/elliptical galaxies
 - 【長株圓星系】tn̂g-tu-îⁿ seng-hē/tn̂g-tu-înn sing-hē/橢圓星系/elliptical galaxy
 - 【長株圓星系】tn̂g-tu-îⁿ seng-hē/tn̂g-tu-înn sing-hē/長株圓星系/ elliptical galaxy
@@ -2589,30 +3717,41 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【長株圓軌道】tn̂g-tu-îⁿ kúi-tō/tn̂g-tu-înn kuí-tō/橢圓軌道/eccentric orbits
 - 【長株圓軌道】tn̂g-tu-îⁿ kúi-tō/tn̂g-tu-înn kuí-tō/橢圓軌道/elliptical orbit
 - 【長株圓軌道】tn̂g-tu-îⁿ kúi-tō/tn̂g-tu-înn kúi-tō/橢圓軌道/elliptical orbit
+- 【長株圓軌道】tn̂g-tu-îⁿ kúi-tō/tn̂g-tu-înn kuí-tō/橢圓軌道/oblong orbit
 - 【長焦鏡頭】tn̂g-chiau kiàⁿ-thâu/tn̂g-tsiau kiànn-thâu/長焦鏡頭/telephoto lens
 - 【長篙圓】tn̂g-ko-îⁿ/tn̂g-ko-înn/橢圓/elliptical
 - 【長蛇座星系團】Tn̂g-siâ-chō seng-hē-thoân/Tn̂g-siâ-tsō sing-hē-thuân/長蛇座星系團/the Hydra Cluster of Galaxies
+- 【長蛇座星系團】//長蛇座星系團/the Hydra Cluster of Galaxies
 - 【長軸】tn̂g-te̍k/tn̂g-ti̍k/長軸/long axis
 - 【長週期彗星】tn̂g-chiu-kî hui-chhiⁿ/tn̂g-tsiu-kî hui-tshinn/長週期彗星/long-period comet
+- 【長週期彗星】tn̂g-chiu-kî hūi-chhiⁿ/tn̂g-tsiu-kî huī-tshinn/長週期彗星/long-period comet
+- 【長週期彗星】tn̂g-chiu-kî hūi-chhiⁿ/tn̂g-tsiu-kî huī-tshinn/長週期彗星/long-period comets
 - 【長頷頸仔】tn̂g ām-kún-á/tn̂g ām-kún-á/長脖子/long-necked
 - 【閃焰】siám-iām/siám-iām/閃焰/flare
 - 【閃焰區】siám-iām-khu/siám-iām-khu/閃焰區/flare region
 - 【開放星團】khai-hòng-seng-thoân/hai-hòng-sing-thuân/開放星團/open cluster
 - 【開放星團】khai-hòng seng-thoân/khai-hòng sing-thuân/開放星團/open cluster
 - 【開放星團】khai-hòng-seng-thoân/khai-hòng-sing-thuân/開放星團/open cluster
+- 【開放星團】khai-hòng-seng-thoân/khai-hòng-sing-thuân/開放星團/open cluster of stars
 - 【開放星團】khai-hòng-seng-thoân/khai-hòng-sing-thuân/開放星團/open clusters
 - 【開放星團】khai-hòng seng-thoân/khai-hòng sing-thuân/開放星團/open star cluster
 - 【開放星團】khai-hòng-seng-thoân/khai-hòng-sing-thuân/開放星團/open star cluster
+- 【開放星團】khai-hòng-seng-thoân/khai-hòng-sing-thuân/開放星團/open star cluster 
 - 【間接】kàn-chiap/kàn-tsiap/間接/indirectly
 - 【閬空】làng-khang/làng-khang/空腔/cavity
 - 【閬縫】làng-phāng/làng-phāng/縫隙/crack
+- 【闊幅】khoah-pak/khuah-pak/寬場/wide field
 - 【闊幅】Khoah-pak/Khuah-pak/寬幅/wide field
+- 【闊幅】khoah-pak/khuah-pak/廣角/wide-field
+- 【闊幅紅外線巡天探測衛星】Khoah-pak Âng-gōa-sòaⁿ Sûn-thian Thàm-chhek ōe-chheⁿ/Khuah-pak Âng-guā-suànn Sûn-thian Thàm-tshik uē-tshenn/廣域紅外線巡天探測衛星/Wide Field Infrared Survey Explorer (WISE)
 - 【闊幅鏡頭】khoah-pak kiàⁿ-thâu/khuah-pak kiànn-thâu/廣角鏡頭/wide angle lens
+- 【闊頻】khoah-pîn/khuah-pîn/寬頻/broad band
 - 【闊頻】khoah-pîn/khuah-pîn/寬頻/broadband
 - 【闊頻】khoah-pîn/khuah-pîn/闊頻/broadband
 - 【闊頻】khoan-pîn/khuan-pîn/寬頻/broadband
 - 【阿根廷】A-kun-têng/A-kun-tîng/阿根廷/Argentina
 - 【阿波羅 11 號】A-pho-lô cha̍p-it hō/A-pho-lô tsa̍p-it hō/阿波羅 11 號/Apollo 11
+- 【阿波羅 13 號】A-pho-lô cha̍p-saⁿ hō/A-pho-lô tsa̍p-sann hō/阿波羅 13 號/Apollo 13 
 - 【阿波羅 14 號】A-pho-lô cha̍p-sì hō/A-pho-lô tsa̍p-sì hō/阿波羅 14 號/Apollo 14
 - 【阿波羅 14 號任務】A-pho-lô cha̍p-sì hō jīm-bū/A-pho-lô tsa̍p-sì hō jīm-bū/阿波羅 14 號任務/Apollo 14 mission
 - 【阿波羅 14 號月球任務】A-pho-lô cha̍p-sì hō͘ goe̍h-kiû jīm-bū/A-pho-lô tsa̍p-sì hōo gue̍h-kiû jīm-bū/阿波羅 14 號月球任務/Apollo 14 lunar mission
@@ -2622,14 +3761,19 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【阿波羅】A-pho-lô/A-pho-lô/阿波羅/Apollo
 - 【阿波羅太空人】A-pho-lô thài-khong-jîn/A-pho-lô thài-khong-jîn/阿波羅太空人/the Apollo astronauts
 - 【阿聯酋】A-liân-siû/A-liân-siû/阿聯酋/UAE
+- 【降落】kàng-lo̍h/kàng-lo̍h/著陸/tochdown
 - 【降落傘】kàng-lo̍h-sòaⁿ/kàng-lo̍h-suànn/降落傘/parachute
 - 【降落傘】Kàng-lo̍h-sòaⁿ/Kàng-lo̍h-suànn/降落傘/parachute
+- 【降落傘】kàng-lo̍h-sòaⁿ/kàng-lo̍h-suànn/降落傘/parachutes
+- 【降落器】kàng-lo̍h-khì/kàng-lo̍h-khì/降落器/lander
 - 【降落火箭】kàng-lo̍h hóe-chìⁿ/kàng-lo̍h hué-tsìnn/降落火箭/decent stage
 - 【陣列望遠鏡】tīn-lia̍t bōng-oán-kiàⁿ/tīn-lia̍t bōng-uán-kiànn/陣列望遠鏡/array
 - 【隔熱枋】keh-jia̍t-pang/keh-jia̍t-pang/隔熱罩/heat shield
 - 【隕石】ún-chio̍h/ún-tsio̍h/隕石/meteorite
 - 【隕石】ún-se̍k/ún-si̍k/隕石/meteorite
+- 【隕石】ún-se̍k/ún-si̍k/隕石/meteorites
 - 【隕石坑】ún-se̍k-kheⁿ/ún-si̍k-khenn/隕石坑/crater
+- 【隕石坑】ún-se̍k-kheⁿ/ún-si̍k-khenn/隕石坑/craters
 - 【隕石坑盆地】ún-se̍k-kheⁿ phûn-tē/ún-si̍k-khenn phûn-tē/隕石坑盆地/impact basins
 - 【隕石屑仔】ún-se̍k-sap-á/ún-si̍k-sap-á/隕石屑仔/fragment of a meteorite
 - 【隕石盆地】ún-se̍k phûn-tē/ún-si̍k phûn-tē/隕石盆地/impact basin
@@ -2638,10 +3782,14 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【雕塑】tiau-sok/tiau-sok/雕塑/sculpt
 - 【雕塑品】tiau-sok-phín/tiau-sok-phín/雕塑品/sculpture
 - 【雙丸彗核】siang-oân hūi-he̍k/siang-uân huī-hi̍k/雙瓣彗核/double-lobed nucleus
+- 【雙原子】siang-goân-chú/siang-guân-tsú/雙原子/diatomic
 - 【雙原子碳】siang-goân-chú-thòaⁿ/siang-guân-tsú-thuànn/雙原子碳/diatomic carbon
+- 【雙小行星改道實驗】Siang-sió-kiâⁿ-chhiⁿ kái-tō si̍t-giām/Siang-sió-kiânn-tshinn kái-tō si̍t-giām/雙小行星改道實驗/Double Asteroid Redirection Test (DART)
 - 【雙小行星重新定向測驗】Siang Sió-kiânn-tshinn Tiông-sin-tīng-hiòng Tshik-giām/Siang Sió-kiânn-tshinn Tiông-sin-tīng-hiòng Tshik-giām/雙小行星重新定向測驗/Double Asteroid Redirection Test (DART)
+- 【雙弧極光】siang-hô͘ ke̍k-kng/siang-hôo ki̍k-kng/雙弧極光/double-arced aurora
 - 【雙捲螺】siang-kńg-lê/siang-kńg-lê/雙螺旋/duo spiral
 - 【雙星】siang-chhiⁿ/siang-tshinn/雙星/binary stars
+- 【雙星】siang-chhiⁿ/siang-tshinn/雙星/twin stars
 - 【雙星團】siang-seng-thoân/siang-sing-thuân/雙星團/double star cluster
 - 【雙星團】Siang-seng-thoân/Siang-sing-thuân/雙星團/the double cluster
 - 【雙星系】siang-seng-hē/siang-sing-hē/雙星系/binary galaxies
@@ -2650,14 +3798,19 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【雙星系統】siang-chhiⁿ hē-thóng/siang-tshinn hē-thóng/雙星系統/binary star system
 - 【雙星系統】siang-chhiⁿ-hē-thóng/siang-tshinn-hē-thóng/雙星系統/binary star system
 - 【雙星系統】Siang-chhiⁿ-hē-thóng/Siang-tshinn-hē-thóng/雙星系統/Binary star system
+- 【雙星系統】siang-chhiⁿ hē-thóng/siang-tshinn hē-thóng/雙星系統/binary system
 - 【雙星系統】siang-chhiⁿ-hē-thóng/siang-tshinn-hē-thóng/雙星系統/binary system
 - 【雙星系統】siāng-chhiⁿ hē-thóng/siāng-tshinn hē-thóng/雙星系統/binary system
 - 【雙星系統】siang-chhiⁿ hē-thóng/siang-tshinn hē-thóng/雙星系統/double star system
+- 【雙曲線】siang-khiau-sòaⁿ/siang-khiau-suànn/雙曲線/hyperbolic
 - 【雙極】Siang-ke̍k/Siang-ki̍k/偶極子/dipole
+- 【雙極】siang-ke̍k/siang-ki̍k/雙極/bipolar
+- 【雙極對稱】siang-ke̍k tùi-chhèng/siang-ki̍k tuì-tshìng/雙極對稱/bipolar symmetry
 - 【雙烏洞】siang-o͘-tōng/siang-oo-tōng/雙黑洞/binary black hole
 - 【雙生仔座】siang-siⁿ-á-chō/siang-sinn-á-tsō/雙子座/Gemini
 - 【雙生仔座】Siang-siⁿ-á-chō/Siang-sinn-á-tsō/雙子座/Gemini
 - 【雙生仔座】siang-siⁿ-á-chō/siang-sinn-á-tsō/雙子座/the constellation Gemini
+- 【雙生仔座】Siang-siⁿ-á-chō/Siang-sinn-á-tsō/雙生仔座/Gemini
 - 【雙生仔座】Siang-siⁿ-á-chō/Siang-tsú-tsō/雙子座/Gemini
 - 【雙生仔座 β】Siang-siⁿ-á-chō Beta/Siang-sinn-á-tsō Beta/雙子座 β/Beta Geminorum
 - 【雙生仔座 η】Siang-siⁿ-á-chō Eta/Siang-sinn-á-tsō Eta/雙子座 η/Eta Geminorum
@@ -2665,15 +3818,19 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【雙生仔座 υ】Siang-siⁿ-á-chō Upsilon/Siang-sinn-á-tsō Upsilon/雙子座 υ/Upsilon Geminorum
 - 【雙生仔座流星雨】Siang-siⁿ-á-chō liû-chhiⁿ-hō͘/Siang-sinn-á-tsō liû-tshinn-hōo//Geminids meteor shower
 - 【雙生仔座流星雨】Siang-siⁿ-á-chō liû-chhiⁿ-hō͘/Siang-sinn-á-tsō liû-tshinn-hōo/雙子座流星雨/Geminid
+- 【雙生仔座流星雨】Siang-siⁿ-á-chō liû-chhiⁿ-hō͘/Siang-sinn-á-tsō liû-tshinn-hōo/雙子座流星雨/Geminid meteor shower
 - 【雙生仔座流星雨】Siang-siⁿ-á-chō liû-chhiⁿ-hō͘/Siang-sinn-á-tsō liû-tshinn-hōo/雙子座流星雨/Geminid Meteor Shower
 - 【雙生仔座流星雨】Siang-siⁿ-á-chō liû-chhiⁿ-hō͘/Siang-sinn-á-tsō liû-tshinn-hōo/雙子座流星雨/Geminids
+- 【雙生仔座流星雨】Siang-siⁿ-á-chō liû-chhiⁿ-hō͘/Siang-sinn-á-tsō liû-tshinn-hōo/雙生仔座流星雨/Geminids
 - 【雙生仔星座】Siang-siⁿ-á seng-chō/Siang-sinn-á sing-tsō/雙胞胎星座/the constellation of the Twins
 - 【雙生仔星座】Siang-siⁿ-á seng-hûn/Siang-sinn-á sing-hûn/雙子星座/the constellation of Twins
 - 【雙筒千里鏡】siang-tâng chhian-lí-kiàⁿ/siang-tâng tshian-lí-kiànn/雙筒望遠鏡/binocular
 - 【雙筒千里鏡】siang-tâng chhian-lí-kiàⁿ/siang-tâng tshian-lí-kiànn/雙筒望遠鏡/binoculars
+- 【雙筒千里鏡】siang-tâng-chhian-lí-kiàⁿ/siang-tâng-tshian-lí-kiànn/雙筒望遠鏡/binoculars
 - 【雙筒望遠鏡】siang-tâng bōng-oán-kiàⁿ/siang-tâng bōng-uán-kiànn/雙筒望遠鏡/binoculars
 - 【雙筒望遠鏡】siang-tâng-bōng-oán-kiàⁿ/siang-tâng-bōng-uán-kiànn/雙筒望遠鏡/binoculars
 - 【雙離子化】siang-lî-chú-hòa/siang-lî-tsú-huà/雙離子化/doubly ionized
+- 【雙電離酸素原子】siang tiān-lī sàng-sò͘ goân-chú/siang tiān-lī sàng-sòo guân-tsú/雙電離氧原子/doubly ionized oxygen atom ([O III])
 - 【雙魚座】Siang-hî-chō/Siang-hî-tsō/雙魚座/Pisces
 - 【雙鼠星雲】Siang-chhí seng-hē/Siang-tshí sing-hē/雙鼠星系/Mice galaxy
 - 【雞卵形】ke-nn̄g-hêng/ke-nn̄g-hîng/雞蛋形/oval
@@ -2681,10 +3838,17 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【離子】lî-chú/lî-tsú/離子/ion
 - 【離子化 ê 軌跡】lî-chú-hòa ê kúi-jiah/lî-tsú-huà ê kuí-jiah/離子尾/ionization trail
 - 【離子化】lî-chú-hòa/lî-tsú-huà/離子化/ionization
+- 【離子化】lī-chú-hòa/lī-tsú-huà/離子化/ionization
 - 【離子化】lî-chú-hòa/lî-tsú-huà/離子化/ionized
 - 【離子尾】lî-chú-bóe/lî-tsú-bué/離子尾/ion tail
+- 【離子尾溜】lī-chú bóe-liu/lī-tsú bué-liu/離子尾/ion t
 - 【離子尾溜】lî-chú bóe-liu/lî-tsú bué-liu/離子尾/ion tail
+- 【離子尾溜】lî-chú-bóe-liu/lî-tsú bué-liu/離子尾/ion tail
 - 【離子尾溜】lî-chú-bóe-liu/lî-tsú-bué-liu/離子尾/ion tail
+- 【離子尾溜】lī-chú bóe-liu/lī-tsú bué-liu/離子尾/ion tail
+- 【離子尾溜】lī-chú-bóe-liu/lī-tsú-bué-liu/離子尾/ion tail
+- 【離子尾溜】lî-chú bóe-liu/lî-tsú bué-liu/離子尾溜/ion tail
+- 【離子尾溜】lī-chú-bóe-liu/lī-tsú-bué-liu/離子尾溜/ion tail
 - 【離子氣體球】lî-chú-khì-thé-kiú/lî-tsú-khì-thé-kiú/離子氣體球/ionized ball
 - 【離子水素】lî-chú chúi-sò͘/lî-tsú tsuí-sòo/離子氫/ionized hydrogen
 - 【離子流】lî-chú-liû/lî-tsú-liû/離子流/ion stream
@@ -2692,13 +3856,26 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【雪月】Soat-goe̍h/Suat-gue̍h/雪月/Snow Moon
 - 【雪梨】Soat-lê/Suat-lê/雪梨/Sydney
 - 【雪梨歌劇院】Soat-lê Koa-kio̍k-īⁿ/Suat-lê Kua-kio̍k-īnn/雪梨歌劇院/Sydney Opera House
+- 【雪煙】soat-ian/suat-ian/plume/羽狀物
+- 【雪煙】soat-ian/suat-ian/羽狀結構/plumes
+- 【雲暈】hûn-n̄g/hûn-n̄g/雲暈/halo
+- 【雲柱】hûn-thiāu/hûn-thiāu/柱狀物/pillar
+- 【雲柱】hûn-thiāu/hûn-thiāu/柱狀結構/pillars
 - 【雲柱】hûn-thiāu/hûn-thiāu/雲柱/pillar
+- 【雲核】hûn-he̍k/hûn-hi̍k/核/core
+- 【雲橐仔】hûn-lok-á/hûn-lok-á/雲胞/cloud pockets
 - 【雲橐仔】hûn-lok-á/hûn-lok-á/雲袋/cloud pockets
+- 【雲波】hûn-pho/hûn-pho/雲波/cloud ripple
+- 【雲流】hûn-liû/hûn-liû/流狀結構/flowing shapes
 - 【雲絲】hûn-si/hûn-si/絲狀物/filament
 - 【雲絲】hûn-si/hûn-si/絲狀結構/filament
+- 【雲絲】hûn-si/hûn-si/絲狀結構/filaments
+- 【雲絲】hûn-si/hûn-si/絲狀結構/gas filaments
 - 【雲絲】hûn-si/hûn-si/絲狀體/filament
 - 【雲絲】hûn-si/hûn-si/雲絲/filament
+- 【雲絲】hûn-si/hûn-si/雲絲/filaments
 - 【雲脊】hûn-chit/hûn-tsit/雲脊/ridge
+- 【雲錐】hûn-chui/hûn-tsui/錐狀結構/cones
 - 【雲霧】bông-bū/bông-bū/霧霾/haze
 - 【雷公雨】lûi-kong-hō͘/luî-kong-hōo/暴風雨/thunderstorm
 - 【雷公雨】lûi-kong-hō͘/lûi-kong-hōo/雷雨/thunderstorm
@@ -2708,8 +3885,11 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【雷暴】lûi-pō/luî-pō/雷暴/thunderstorm
 - 【雷暴雲】lûi-pō-hûn/luî-pō-hûn/雷暴雲/thunderstorm cloud
 - 【雷神 Thor】Lûi-sîn Thor/Luî-sîn Thor/雷神索爾/Thor
+- 【雷達】lûi-ta̍t/luî-ta̍t/雷達/radar
+- 【雷雨】lûi-hō͘/luî-hōo/雷雨/thunderstorm
 - 【雷雲】lûi-hûn/luî-hûn/雷雲/thundercloud
 - 【雷霆超級月娘】Lûi-têng Chhiau-kip goe̍h-niû/Luî-tîng Tshiau-kip gue̍h-niû/雷霆超級月亮/Thunder Supermoon
+- 【電子 bó͘-lu-to͘h】tiān-chú bó͘-lu-to͘h/tiān-tsú bóo-lu-tooh/電子伏特/electron volt
 - 【電子】tiān-chú/tiān-tsú/電子/electron
 - 【電子流】tiān-chú-liû/tiān-tsú-liû/電子流/electrons streaming
 - 【電波】tiān-pho/tiān-pho/電波/radio
@@ -2728,6 +3908,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【電波陣列望遠鏡】tiān-pho tīn-lia̍t bōng-oán-kiàⁿ/tiān-pho tīn-lia̍t bōng-uán-kiànn/電波陣列望遠鏡/radio array
 - 【電漿】tiān-chiuⁿ/tiān-tsiunn/電漿/plasma
 - 【電漿噴流】tiān-chiuⁿ phùn-lâu/tiān-chiunn phùn-lâu/電漿噴流/jets of streaming plasma
+- 【電漿絲】tiān-chiuⁿ-si/tiān-tsiunn-si/絲狀結構的電漿/filaments of plasma
 - 【電火布】tiān-hóe-pò͘/tiān-hué-pòo/電線膠帶/duct tape
 - 【電磁波】tiān-chû-pho/tiān-tsû-pho/電磁波/electromagnetic spectrum
 - 【電磁波】tiān-chû-pho/tiān-tsû-pho/電磁波/electromagnetic wave
@@ -2737,34 +3918,48 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【電腦模擬】tiān-náu bô͘-gí/tiān-náu bôo-gí/電腦模擬/computer simulation
 - 【電腦螢幕】tiān-náu-êng-bō͘/tiān-náu-îng-bōo/電腦螢幕/monitor
 - 【電荷】tiān-hô/tiān-hô/電荷/charge
+- 【電離】tiān-lī/tiān-lī/電離/ionized
 - 【電離層】tiān-lî-chân/tiān-lî-tsân/電離層/ionosphere
+- 【電離水素氣體】tiān-lī chúi-sò͘ khì-thé/tiān-lī tsuí-sòo khì-thé/電離氫氣/ionized hydrogen gas
 - 【電離軌跡】tiān-lî kúi-jiah/tiān-lî kúi-jiah/電離軌跡/ionization trail
 - 【電離鋒面】tiān-lî hong-bīn/tiān-lî hong-bīn/電離鋒面/ionization front
 - 【電離鋒面】tiān-lī hong-bīn/tiān-lī hong-bīn/電離鋒面/ionization front
+- 【震動】chìn-tōng/tsìn-tōng/震動/shaking
+- 【震波】chìn-pho/tsìn-pho/震波/shock wave
 - 【震波】chìn-pho/tsìn-pho/震波/shockwave
 - 【震盪】chìn-tōng/tsìn-tōng/震盪/oscillations
 - 【霜仔角】sng-á-kak/sng-á-kak/冰雹/hail
 - 【露台】lō͘-tâi/lōo-tâi/陽台/balcony
 - 【露西亞】Lō͘-se-a/Lōo-se-a/俄羅斯/Russia
+- 【靈魂星雲】Lêng-hûn-seng-hûn/Lîng-hûn-sing-hûn/靈魂星雲/the Soul Nebula
 - 【青色 ê 莎莎醬】chheⁿ-sek ê sa-sa-chiùⁿ/tshenn-sik ê sa-sa-tsiùnn/青色莎莎醬/salsa verde
+- 【青色彗星】Chhiⁿ-sek hūi-chhiⁿ/Tshinn-sik huī-tshinn/綠色彗星/the Green Comet
 - 【青色爍光】chhiⁿ-sek sih-kng/tshinn-sik sih-kng/綠閃/Green Flash
+- 【青銅時代】Chhiⁿ-tâng sî-tāi/Tshinn-tâng sî-tāi/青銅時代/Bronze Age
 - 【靜態影像】chēng-thāi iáⁿ-siōng/tsīng-thài iánn-siōng/靜態影像/still image
 - 【靜海】Chēng-hái/Tsīng-hái/靜海/Mare Tranquillitatis
 - 【面殼】bīn-khak/bīn-khak/面罩/visor
 - 【面紗星雲】Bīn-se-seng-hûn/Bīn-se-sing-hûn/面紗星雲/the Veil Nebula
 - 【面紗星雲】Bīn-se seng-hûn/Bīn-se sing-hûn/面紗星雲/Veil Nebula
 - 【頂切線弧】téng-chhiat-sòaⁿ-hô͘/tíng-tshiat-suànn-hôo/上切線弧/upper tangent arc
+- 【頂半月】téng-pòaⁿ-goe̍h/tíng-puànn-gue̍h/頂半月/first quarter moon
 - 【頂層大氣】teng-chân tōa-khì/tíng-tsân tuā-khì/上層大氣 /upper atmosphere
+- 【頂層大氣】téng-chân tōa-khì/tíng-tsân tuā-khì/頂層大氣/upper atmosphere
 - 【頂月眉】téng-goe̍h-bâi/tíng-gue̍h-bâi/上弦月/first quarter Moon
 - 【頂月眉】téng-goe̍h-bâi/tíng-gue̍h-bâi/上弦月/first-quarter Moon
 - 【頂月眉】téng-goe̍h-bâi/tíng-gue̍h-bâi/新月/young crescent phase
 - 【頂節火箭】téng-chiat hóe-chìⁿ/tíng-tsiat hué-tsìnn/上節火箭/upper stage
 - 【頂膨月】téng-phòng-goe̍h/tíng-phòng-gue̍h/上凸月/waxing gibbous moon
+- 【頂膨月】téng-phòng-goe̍h/tíng-phòng-gue̍h/盈凸月/waxing gibbous phase
+- 【頭巾雲】thâu-kin-hûn/thâu-kin-hûn/幞狀雲/Pileus Cloud
 - 【頭殼頂 ê 羽飾】thâu-khak-téng ê ú-sek/thâu-khak-tíng ê ú-sik/頭上羽飾/head feather
 - 【頭盔】thâu-khoe/thâu-khue/頭盔/helmet
 - 【頻率】pîn-lu̍t/pîn-lu̍t/頻率/frequency
 - 【頻譜圖】pîn-phó͘-tô͘/pîn-phóo-tôo/頻譜圖/spectrogram
+- 【類地行星】lūi-tē-kiâⁿ-chheⁿ/luī-tē-kiânn-tshenn/類地行星/terrestrial planet
+- 【類太陽恆星】lūi-thài-iông hêng-chheⁿ/luī-thài-iông hîng-tshenn/類太陽恆星/sun-like star
 - 【類太陽恆星】lūi-thài-iông hêng-chhiⁿ/luī-thài-iông hîng-tshinn/類太陽恆星/sun-like star
+- 【類太陽恆星】lūi Thài-iông hêng-chhiⁿ/luī Thài-iông hîng-tshinn/類太陽恆星/sun-like star
 - 【類星體】lūi-seng-thé/luī-sing-thé/類星體/quasar
 - 【類稜鏡繞射光柵】lūi-lêng-kiàⁿ jiàu-siā kng-sa/luī-lîng-kiànn jiàu-siā kng-sa/類稜鏡繞射光柵/prism-like diffraction grating
 - 【顯微鏡】hián-bî-kiàⁿ/hián-bî-kiànn/顯微鏡/microscope
@@ -2772,19 +3967,27 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【顯目】hiáⁿ-ba̍k/hiánn-ba̍k/顯目/striking
 - 【風化作用】hong-hòa chok-iōng/hong-huà tsok-iōng/風化作用/weathering
 - 【風吹】hong-chhoe/hong-tshue/風車/pinwheel
+- 【風吹星系】Hong-chhoe-seng-hē/Hong-tshue-sing-hē/風箏星系/the Pinwheel Galaxy
 - 【風吹星系】hong-chhoe seng-hē/hong-tshue sing-hē/風車星系/the Pinwheel Galaxy
 - 【風吹星系】Hong-chhoe-seng-hē/Hong-tshue-sing-hē/風車星系/the Pinwheel Galaxy
 - 【風暴】hong-pō/hong-pō/風暴/storm
 - 【風暴中心】hong-pō tiong-sim/hong-pō tiong-sim/風暴中心/storm center
+- 【風暴洋】Hong-pō-iûⁿ/Hong-pō-iûnn/風暴洋/the Ocean of Storms
+- 【風暴洋】Hong-pō-iûⁿ/Hong-pō-iûnn/風暴洋/the Oceanus Procellarum
 - 【風稜石】hong-lêng-chio̍h/hong-lîng-tsio̍h/風稜石/ventifact
 - 【風颱】hong-thai/hong-thai/颶風/hurricane
+- 【風颱尾】hong-thai-bóe/hong-thai-bué/颶風尾流/the remnants of Hurricane
 - 【颶風】kū-hong/kū-hong/颶風/hurricane
 - 【颶風】kū-hong/kū-hong/颶風/hurricanes
+- 【飛碟】hui-tia̍p/hui-tia̍p/飛碟/flying saucer 
 - 【飛行夜婆星雲】Hui-hêng-iā-pô seng-hûn/Hui-hîng-iā-pô sing-hûn/飛行蝙蝠星雲/Flying Bat Nebula
+- 【飛行幽靈星雲】Hui-hêng Iu-lêng Seng-hûn/Hui-hîng Iu-lîng Sing-hûn/飛行幽靈星雲/Flying Ghost Nebula
 - 【飛行甲板】hui-hêng-kah-pán/hui-hîng-kah-pán/飛行甲板/flight deck
+- 【飛行翕相機】hui-hêng hip-siòng-ki/hui-hîng hip-siòng-ki/空拍機/drone
 - 【飛馬座 51】Hui-má-chō gō͘-cha̍p-it/Hui-má-tsō gōo-tsa̍p-it/飛馬座 51/51 Pegasi
 - 【飛馬座】Hui-má-chō/Hui-má-tsō/飛馬座/Pegasus
 - 【飛馬座 LL】Hui-má-chō/Hui-má-tsō/飛馬座 LL/LL Pegasi
+- 【飛魚座】Hui-hî-chō/Hui-hî-tsō/飛魚座/Volans
 - 【飛魚座】Poe-hî-chō/Pue-hî-tsō/飛魚座/Volans
 - 【食季】si̍t-kùi/si̍t-kuì/食季/eclipse season
 - 【食日】si̍t-goe̍h/si̍t-gue̍h/食日/eclipsed sun
@@ -2801,6 +4004,7 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【香格里拉】Hiáng-keh-lí-la/Hiáng-keh-lí-la/香格里拉/Shangri-La
 - 【馬尾水沖】Bé-bóe chúi-chhiâng/Bé-bué tsuí-tshiâng/馬尾瀑布/Horsetail Fall
 - 【馬德里】Má-tek-lí/Má-tik-lí/馬德里/Madrid
+- 【馬頭星雲】Bé-thâu-seng-hûn/Bé-thâu-seng-hûn/馬頭星雲/Horsehead Nebula
 - 【馬頭星雲】Bé-thâu seng-hûn/Bé-thâu sing-hûn/馬頭星雲/Horsehead nebula
 - 【馬頭星雲】Bé-thâu seng-hûn/Bé-thâu sing-hûn/馬頭星雲/Horsehead Nebula
 - 【馬頭星雲】Bé-thâu-seng-hûn/Bé-thâu-sing-hûn/馬頭星雲/Horsehead Nebula
@@ -2816,8 +4020,11 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【高增益】ko cheng-ek/ko tsing-ik/高增益/high gain
 - 【高海拔層】ko-hái-poa̍t-chân/ko-hái-pua̍t-tsân/高海拔層/high altitude layer
 - 【高緯度】ko-hūi-tō͘/ko-huī-tōo/高緯度/high-latitude
+- 【高能光】ko-lêng-kng/ko-lîng-kng/高能光/energetic light
 - 【高能帶電粒子】ko-lêng tòa-tiān lia̍p-chú/ko-lîng tuà-tiān lia̍p-tsú/高能帶電粒子/energetic charged particles
+- 【高解析度】ko kái-sek-tō͘/ko kái-sik-tōo/高解析度/high-resolution
 - 【高解析度】ko-kái-sek-tō͘/ko-kái-sik-tōo/高解析度/high-resolution
+- 【鬱金香星雲】Ut-kim-hiong seng-hûn/Ut-kim-hiong sing-hûn/鬱金香星雲/the Tulip Nebula
 - 【鬱金香星雲】Ut-kim-hiong seng-hûn/Ut-kim-hiong sing-hûn/鬱金香星雲/Tulip Nebula
 - 【鬼宿星團】Kúi-siù-seng-thoân/Kuí-siù-sing-thuân/鬼宿星團/Beehive cluster
 - 【鬼頭刀星座】Kúi-thâu-to seng-chō/Kuí-thâu-to sing-tsō/劍魚星座/the constellation Dorado
@@ -2826,35 +4033,52 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【魔鬼馬鞍山】Mô͘-kúi Bé-oaⁿ-soaⁿ/Môo-kuí Bé-uann-suann/魔鬼馬鞍山/a montain of Devil's Saddle
 - 【魚眼】hî-gán/hî-gán/魚眼/fisheye
 - 【魚眼鏡頭】hî-gán-kiàⁿ-thâu/hî-gán-kiànn-thâu/魚眼鏡頭/fisheye
+- 【魚眼鏡頭】hî-gán-kiàⁿ-thâu/hî-gán-kiàⁿ-thâu/魚眼鏡頭/fisheye lens
 - 【鱷魚的尻脊骿】Kho̍k-hî-ê-kha-chiah-phiaⁿ/Kho̍k-hî-ê-kha-tsiah-phiann/鱷魚的背/gator-back rocks
 - 【鳳凰】hōng-hông/hōng-hông/鳳凰/phoenix
+- 【鴟鴞星雲】Ba̍h-hio̍h seng-hûn/Ba̍h-hio̍h seng-hûn/老鷹星雲/Eagle Nebula
 - 【鴟鴞星雲】Ba̍h-hio̍h seng-hûn/Ba̍h-hio̍h sing-hûn/老鷹星雲/Eagle Nebula
 - 【鴟鴞星雲】Ba̍h-hio̍h-seng-hûn/Ba̍h-hio̍h-sing-hûn/老鷹星雲/Eagle Nebula
+- 【鴟鴞星雲】Ba̍h-hio̍h-seng-hûn/Ba̍h-hio̍h-sing-hûn/老鷹星雲/the Eagle Nebula
 - 【鴟鴞星雲 ê 仙女】Ba̍h-hio̍h-seng-hûn ê Sian-lú/Ba̍h-hio̍h-sing-hûn ê Sian-lú/老鷹星雲的仙女/Fairy of Eagle Nebula
+- 【鴟鴞星雲的仙女】Ba̍h-hio̍h-seng-hûn ê Sian-lú/Ba̍h-hio̍h-sing-hûn ê Sian-lú/老鷹星雲的仙女/Fairy of Eagle Nebula
+- 【鴟鴞號】Ba̍h-hio̍h hō/Ba̍h-hio̍h hō/老鷹號/Eagle
+- 【鴟鴞號登月小艇】Ba̍h-hio̍h hō teng-goe̍h sió-théng/Ba̍h-hio̍h hō ting-gue̍h sió-thíng/老鷹號登月小艇/Eagle Lunar Module
 - 【鵜鶘星雲】Thê-ô͘ seng-hûn/Thê-ôo sing-hûn/鵜鶘星雲/Pelican Nebula
 - 【鵜鶘星雲】Thê-ô͘-seng-hûn/Thê-ôo-sing-hûn/鵜鶘星雲/Pelican Nebula
 - 【鵜鶘星雲】Thê-ô͘-seng-hûn/Thê-ôo-sing-hûn/鵜鶘星雲/Pelican Nebular
 - 【鵜鶘星雲】Thê-ô͘ seng-hûn/Thê-ôo sing-hûn/鵜鶘星雲/the Pelican Nebula
+- 【鵜鶘星雲】Thê-ô͘-seng-hûn/Thê-ô͘-seng-hûn/鵜鶘星雲/the Pelican Nebula
 - 【鷹仔囝星雲】Eng-á-kiáⁿ seng-hûn/Ing-á-kiánn sing-hûn/鷹仔囝星雲/the Baby Eagle Nebula
+- 【鹿豹座】Lo̍k-pà-chō/Lo̍k-pà-tsō/鹿豹座/Camelopardalis
 - 【麒麟座】Kî-lîn-chō/Kî-lîn-tsō/麒麟座/Monoceros
 - 【麒麟座 R1 星雲複合體】Kî-lîn-chō R-one seng-hûn ho̍k-ha̍p-thé/Kî-lîn-tsō R-one sing-hûn ho̍k-ha̍p-thé/麒麟座 R1 星雲複合體/Monoceros R1 cloud complex
 - 【麒麟座 V838】Kî-lîn-chō V pat-sam-pat/Kî-lîn-tsō V pat-sam-pat/麒麟座 V838/V838 Mon
 - 【麒麟星座】Kî-lîn ê seng-chō/Kî-lîn ê sing-tsō/麒麟星座/constellation of the Unicorn
+- 【麒麟鹿座】Kî-lîn-lo̍k-chō/Kî-lîn-lo̍k-tsō/長頸鹿座/Camelopardalis
+- 【麒麟鹿座】Kî-lîn-lo̍k-chō/Kî-lîn-lo̍k-tsō/長頸鹿座/constellation of the Giraffe
 - 【麒麟鹿座】Kî-lîn-lo̍k-chō/Kî-lîn-lo̍k-tsō/鹿豹座/Camelopardalis
 - 【黃光巨星】n̂g-kng kū-chhiⁿ/n̂g-kng kū-tshinn/黃巨星/yellowish giant star
 - 【黃道】n̂g-tō/n̂g-tō/黃道/zodiacal
 - 【黃道光】n̂g-tō-kng/n̂g-tō-kng/黃道光/zodiacal light
+- 【黃道光】n̂g-tō-kng/n̂g-tō-kng/黃道光/Zodiacal light
 - 【黃道塗粉】n̂g-tō-thô͘-hún/n̂g-tō-thôo-hún/黃道灰塵/zodiacal dust
 - 【黃道星座】n̂g-tō seng-chō/n̂g-tō sing-tsō/黃道星座/zodiacal constellation
 - 【黃道面】n̂g-tō-bīn/n̂g-tō-bīn/黃道面/ecliptic
 - 【黃道面】n̂g-tō-bīn/n̂g-tō-bīn/黃道面/ecliptic plane
 - 【黃道面】n̂g-tō-bīn/n̂g-tō-bīn/黃道面/the plane of the ecliptic
+- 【黃道面】N̂g-tō͘-bīn/N̂g-tōo-bīn/黃道面/the ecliptic plane
+- 【黃金】n̂g-kim/n̂g-kim/黃金/gold
 - 【黎巴嫩】Lê-pa-lūn/Lê-pa-lūn/黎巴嫩/Lebanon
 - 【齊齊】chiâu-chê/tsiâu-tsê/均勻/uniform
 - 【齊齊】chiâu-chê/tsiâu-tsê/齊齊/uniform
+- 【龍卵星雲】Lêng-nn̄g-seng-hûn/Lîng-nn̄g-sing-hûn/龍蛋星雲/Dragon's Egg Nebula
+- 【龍蝦星雲】Lêng-hê-seng-hûn/Lîng-hê-sing-hûn/龍蝦星雲/the Lobster Nebula 
 - 【龍骨座 AG 星】Liông-kut-chō AG chhiⁿ/Liông-kut-tsō AG tshinn/船底座 AG/AG Carinae, AG Car
 - 【龍骨座 Eta 星】Liông-kut-chō Eta chhiⁿ/Liông-kut-tsō Eta tshinn/船底座 Eta/Eta Carinae
 - 【龍骨座 Eta 星】Liông-kut-chō Eta-seng/Liông-kut-tsō Eta-sing/船底座 η 星、海山二/Eta Carinae
+- 【龍骨座】Lêng-kut-chō/Lîng-kut-tsō/船底座/Carina
+- 【龍骨座】Lêng-kut-chō/Lîng-kut-tsō/船底座/constellation of Carina
 - 【龍骨座】Lêng-kut-chō/Lîng-kut-tsō/船底座/the constellation Carina
 - 【龍骨座】Liông-kut-chō/Liông-kut-tsō/船底座/Carina
 - 【龍骨座】Liông-kut-chō/Liông-kut-tsō/船底座/Carina Nebula
@@ -2866,5 +4090,6 @@ On November 12, the com- 【】///et's perigee, its closest approach to Earth, w
 - 【龍骨座大星雲】Liông-kut-chō Tōa-seng-hûn/Liông-kut-tsō Tuā-sing-hûn/船底座大星雲/the Great Nebula in Carina
 - 【龍骨座星雲】Lêng-kut-chō seng-hûn/Lîng-kut-tsō sing-hûn/船底座星雲/Carina Nebula
 - 【龍骨座星雲】Lêng-kut-chō seng-hûn/Lîng-kut-tsō sing-hûn/船底座星雲/the Carina Nebula
+- 【龍骨座星雲】Liông-kut-chō/Liông-kut-tsō/龍骨座星雲/the Carina Nebula
 - 【龍骨座星雲】Liông-kut-chō seng-hûn/Liông-kut-tsō sing-hûn/船底座星雲/Carina Nebula
 - 【龍骨座星雲】Liông-kut-chō-seng-hûn/Liông-kut-tsō-sing-hûn/船底座星雲/Carina Nebula
