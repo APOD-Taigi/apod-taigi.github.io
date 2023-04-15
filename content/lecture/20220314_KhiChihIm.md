@@ -3,7 +3,7 @@ title: 齒舌音 ch chh j s
 date: 2022-03-14
 publishdate: 2022-03-14T00:00:00+08:00
 tags: [天文台語教室]
-summary: 舌尖音 t th n l
+summary: 齒舌音 ch chh j s
 ---
 
 ## ch / ts（ㄗ）chi / tsi（ㄐ）
