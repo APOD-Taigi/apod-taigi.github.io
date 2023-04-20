@@ -3,7 +3,7 @@ title: 2023/4/20 ê 日食
 date: 2023-04-16
 publishdate: 2023-04-16T00:00:00+08:00
 tags: [日偏食, 日全食, 日環食, 全環食, 日食, 初虧, 食甚, 復圓]
-hero: 2023042_solar_eclipse.png
+hero: 20230420_solar_eclipse.png
 summary: 到底月相 ê 台語愛按怎講 leh？
 ---
 
