@@ -3,7 +3,7 @@ title: 2023/4/20 ê 日全食
 date: 2023-04-20
 publishdate: 2023-04-20T14:00:00+08:00
 tags: [日全食, 璇石環, 璇石手指]
-hero: 2023042_solar_eclipse.png
+hero: 20230420_dimond_ring_TAM.jpg
 summary: 2023/4/20 ê 日全食
 ---
 
@@ -19,6 +19,3 @@ summary: 2023/4/20 ê 日全食
 
 
 相片授權： 臺北天文通 台北天文教育館
-
-
-
