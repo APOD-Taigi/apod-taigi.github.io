@@ -1,2 +1,2 @@
 -r requirements.txt
-pre-commit==2.10.1
+pre-commit==3.3.3
