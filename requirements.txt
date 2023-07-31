@@ -2,10 +2,6 @@
 beautifulsoup4==4.9.3
 click==7.1.2
 feedparser==6.0.2
-google-api-python-client==1.12.8
-google-auth-oauthlib==0.4.2
 Markdown==3.3.3
-markdownify==0.6.3
 pendulum==2.1.2
 PyYAML==5.4.1
-requests==2.25.1
