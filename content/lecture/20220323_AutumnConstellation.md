@@ -19,4 +19,4 @@ summary: 秋季星座
 - 秋季四角形 Chhiu-kùi sì-kak-hêng
 - 南魚座 Lâm-hî-chō
 - 北落師門 Pak-lo̍h-su-mn̂g
- -水瓶座chúi-pân-chō
+- 水瓶座 Chúi-pân-chō
