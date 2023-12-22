@@ -9,7 +9,7 @@ summary: 冬季星座
 ## 冬季星座
 - 獵戶座 La̍h-hō͘-chō
 - 金牛座 Kim-gû-chō
-- 大犬座 Tāi-khián-chō
+- 大犬座 Tōa-khián-chō
 - 小犬座 Sió-khián-chō
 - 天兔座 Thian-thò͘-chō / 兔仔座 Thò͘-á-chō
 - 雙子座 Siang-chú-chō / 雙生仔座 Siang-siⁿ-á-chō
@@ -19,6 +19,6 @@ summary: 冬季星座
 - 北河三 Pak-hô-sam
 - 五車二 Ngó͘-ki-jī
 - 御夫座 Gū-hu-chō
-- 昴宿星團 Báu-siù-seng-thoân / 七姊妹仔星團 chhit-chí-mōe-á-seng-thoân
-- 冬季大三角 Tâng-kúi tōa-saⁿ-kak
-- 冬季六角形 Tâng-kúi la̍k-kak-hêng
+- 昴宿星團 Báu-siù-seng-thoân / 七姊妹仔星團 Chhit-chí-mōe-á-seng-thoân
+- 冬季大三角 Tâng-kúi Tōa-saⁿ-kak
+- 冬季六角形 Tâng-kúi La̍k-kak-hêng
