@@ -8,7 +8,7 @@ summary: 夏季星座
 
 ## 春季星座
 - 天鷹座 Thian-eng-chō / 鷹仔座 Eng-á-chō / 鴟鴞座 Ba̍h-hiō-chō
-- 牛郎星 Gû-lông-chhiⁿ
+- 牛郎星 Gû-nn̂g-chhiⁿ
 - 織女星 Chit-lú-chhiⁿ
 - 天琴座 Thian-khîm-chō
 - 天鵝座 Thian-gô-chō
