@@ -7,7 +7,7 @@ summary: 春季星座
 ---
 
 ## 春季星座
-- 北斗星 Pak-táu-chhiⁿ / 北斗七星 Pak-táu-chhit-chhiⁿ
+- 北斗星 Pak-táu-chhiⁿ
 - 大熊座 Tōa-hîm-chō
 - 小熊座 Sió-hîm-chō
 - 獅子座 Sai-chú-chō / 獅仔座 Sai-á-chō
