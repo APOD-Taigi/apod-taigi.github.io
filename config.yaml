@@ -19,5 +19,8 @@ taxonomies:
 
 markup:
   goldmark:
+    extensions:
+      typographer:
+        disable: true
     renderer:
       unsafe: true
