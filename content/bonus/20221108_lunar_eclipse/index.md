@@ -43,4 +43,3 @@ summary: LATTE 望遠鏡 ê 月全食
 [asiaa]: https://www.facebook.com/asiaa.tw
 [latte]: https://www.facebook.com/profile.php?id=100083033237244
 [chinese]: https://www.facebook.com/photo?fbid=145877861523321&set=a.107057958738645
-

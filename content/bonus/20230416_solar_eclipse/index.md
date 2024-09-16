@@ -31,5 +31,3 @@ summary: 2023/4/20 ê 日食
 - 【初虧】chho͘-khui/tshoo-khui/初虧/first contact
 - 【食甚】si̍t-sīm/si̍t-sīm/食甚/Maximum eclipse
 - 【復圓】ho̍k-îⁿ/ho̍k-înn/復圓/fourth contact
-
-
