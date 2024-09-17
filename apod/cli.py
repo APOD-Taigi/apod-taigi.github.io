@@ -145,6 +145,90 @@ def update_podcasts():
 
 
 @cli.command()
+def update_vocabularies():
+    translations = {}
+
+    for file_path in glob.glob("content/daily/*/*/*.md"):
+        if not re.match(r"\d{8}\.md", Path(file_path).name):
+            continue
+        date = Path(file_path).name.split(".")[0]
+
+        with open(file_path) as fp:
+            daily_text = fp.read()
+
+        new_translations = get_translations(daily_text)
+        for translation in new_translations:
+            key = translation["hanlo"].upper().replace("-", " ")
+            if not key:
+                continue
+            if key in translations:
+                translations[key]["dates"].append(date)
+                if sorted(translations[key]["dates"])[-1] == date:
+                    translations[key]["translation"] = translation
+            else:
+                translations[key] = {"dates": [date], "translation": translation}
+
+    write_vocabularies(translations)
+
+
+def get_translations(daily_text):
+    result = []
+    in_vocab_section = False
+    for line in daily_text.split("\n"):
+        if line.startswith("## ") and "詞彙學習" in line:
+            in_vocab_section = True
+            continue
+        if "{{% /apod %}}" in line:
+            in_vocab_section = False
+            break
+        if in_vocab_section:
+            if line.startswith("|") and len(line.split("|")) == 7:
+                hanlo, poj, kip, mandarin, english = line.split("|")[1:6]
+                if hanlo.strip() == "漢羅":
+                    continue
+                if "-" in hanlo:
+                    continue
+                result.append(
+                    {
+                        "hanlo": hanlo.strip(),
+                        "poj": poj.strip(),
+                        "kip": kip.strip(),
+                        "mandarin": mandarin.strip(),
+                        "english": english.strip(),
+                    }
+                )
+
+    return result
+
+
+def write_vocabularies(translations):
+    title = f"""---
+title: 天文台語詞彙對照表
+date: {pendulum.now().format('YYYY-MM-DD')}
+publishdate: {pendulum.now().format('YYYY-MM-DDT00:00:00+08:00')}
+tags: [天文台語詞彙對照表]
+summary: 天文台語詞彙對照表
+---
+
+## 【漢羅】POJ／KIP／華語／English
+"""
+    with open("content/vocabulary.md", "w") as fp:
+        fp.write(title)
+
+        for _, value in sorted(translations.items()):
+            dates = value["dates"]
+            hanlo = value["translation"]["hanlo"]
+            poj = value["translation"]["poj"]
+            kip = value["translation"]["kip"]
+            mandarin = value["translation"]["mandarin"]
+            english = value["translation"]["english"]
+            post_links = [f"[{date}](https://apod.tw/daily/{date})" for date in dates]
+            fp.write(
+                f'- 【{hanlo}】{poj}／{kip}／{mandarin}／{english} ({", ".join(post_links)})\n'
+            )
+
+
+@cli.command()
 def convert_vocabularies_to_table():
     for file_path in glob.glob("content/daily/*/*/*.md"):
         if not re.match(r"\d{8}\.md", Path(file_path).name):
@@ -177,8 +261,8 @@ def convert_vocabularies_to_table():
                         hanlo = target.split("【")[1].split("】")[0]
                         translations = target.split("】")[1]
                         if len(translations.split("/")) == 4:
-                            poj, kip, chinese, english = translations.split("/")
-                            fp.write(f"|{hanlo}|{poj}|{kip}|{chinese}|{english}|\n")
+                            poj, kip, mandarin, english = translations.split("/")
+                            fp.write(f"|{hanlo}|{poj}|{kip}|{mandarin}|{english}|\n")
                         else:
                             print(f"{date}: {line[2:].strip()}")
                             fp.write(line)
