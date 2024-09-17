@@ -1,4 +1,6 @@
+import glob
 import re
+from pathlib import Path
 
 import click
 import markdown
@@ -140,3 +142,43 @@ def update_podcasts():
                     meta_start_passed = True
 
                 fp.write(line)
+
+
+@cli.command()
+def convert_vocabularies_to_table():
+    for file_path in glob.glob("content/daily/*/*/*.md"):
+        if not re.match(r"\d{8}\.md", Path(file_path).name):
+            continue
+        date = Path(file_path).name.split(".")[0]
+
+        with open(file_path) as fp:
+            lines = fp.readlines()
+
+        with open(file_path, "w") as fp:
+            in_vocab_section = False
+            for line in lines:
+                if line.startswith("## 詞彙學習") and "漢羅/POJ/KIP/華語/English" in line:
+                    in_vocab_section = True
+                    fp.write("## 詞彙學習\n\n")
+                    fp.write("|漢羅|POJ|KIP|華語|English|\n")
+                    fp.write("|-|-|-|-|-|\n")
+                    continue
+                if "{{% /apod %}}" in line:
+                    fp.write("\n")
+                    in_vocab_section = False
+
+                if not in_vocab_section:
+                    fp.write(line)
+                else:
+                    if line.startswith("- "):
+                        target = line[2:].strip()
+
+                        # 【標誌性】piau-chì-sèng/piau-tsì-sìng/標誌性/iconic
+                        hanlo = target.split("【")[1].split("】")[0]
+                        translations = target.split("】")[1]
+                        if len(translations.split("/")) == 4:
+                            poj, kip, chinese, english = translations.split("/")
+                            fp.write(f"|{hanlo}|{poj}|{kip}|{chinese}|{english}|\n")
+                        else:
+                            print(f"{date}: {line[2:].strip()}")
+                            fp.write(line)
