@@ -55,7 +55,7 @@ https://apod.tw/daily/{date}/
 影像：
 音樂：P!SCO - 鼎鼎
 聲優：{vocal}
-翻譯：An-Li Tsai (NSYSU)
+翻譯：An-Li Tsai (TARA)
 原文：https://apod.nasa.gov/apod/ap{date[2:]}.html\n"""
     )
 
