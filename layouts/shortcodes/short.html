@@ -1,0 +1,5 @@
+{{- $url := .Get 0 }}
+{{- $embed_url := replace $url "shorts" "embed" }}
+<div class="video">
+  <iframe src="{{ $embed_url }}"></iframe>
+</div>
