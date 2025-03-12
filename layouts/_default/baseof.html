@@ -4,10 +4,21 @@
   {{ partial "head" . }}
   <body>
     {{ partial "nav" . }}
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
-    {{ partial "footer" . }}
-    {{ partial "sprites" . }}
+    <main>{{ block "main" . }}{{ end }}</main>
+    {{ partial "footer" . }} {{ partial "sprites" . }}
+    <script>
+      function traverseAndReplace(node) {
+        if (node.nodeType === Node.TEXT_NODE) {
+          if (node.nodeValue.includes("--")) {
+            node.nodeValue = node.nodeValue.replace(/--/g, "-\u2060-");
+          }
+        } else {
+          for (let i = 0; i < node.childNodes.length; i++) {
+            traverseAndReplace(node.childNodes[i]);
+          }
+        }
+      }
+      traverseAndReplace(document.body);
+    </script>
   </body>
 </html>
