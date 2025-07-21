@@ -174,8 +174,26 @@ def parse_apod(html):
     if embed and 'youtube' in embed.get('src', ''):
         video_url = embed['src']
 
-    # 3. Credit
+    # 3. Credit session
     credit_md, credit_refs = parse_credit(soup)
+
+    # 解析 special_notice
+    special_notice_md = ""
+    tomorrow_b = None
+    for b in soup.find_all("b"):
+        if re.search(r"Tomorrow'?s picture", b.text, re.IGNORECASE):
+            tomorrow_b = b
+            break
+    if tomorrow_b:
+        # 找到前一個兄弟節點
+        prev = tomorrow_b.previous_sibling
+        # 跳過空白或換行
+        while prev and (isinstance(prev, str) and prev.strip() == ""):
+            prev = prev.previous_sibling
+        # 若是 <b> 且有 <a>
+        if prev and getattr(prev, "name", None) == "b" and prev.find("a"):
+            special_notice_md = mdify(str(prev), heading_style="ATX").strip()
+    
 
     # 4. Explanation
     explanation_md = ""
@@ -264,6 +282,7 @@ def parse_apod(html):
         "explanation": explanation_md,
         "explanation_refs": explanation_refs,
         "additional_links": additional_links,
+        "special_notice": special_notice_md,
     }
 
 def get_date_from_url(url):
@@ -277,6 +296,26 @@ def get_date_from_url(url):
     day = m.group(3)
     yyyymmdd = f"{year}{month}{day}"
     return f"{year}/{month}", yyyymmdd, day
+
+def merge_lines(text):
+    # 先把多個空行保留為段落分隔
+    paragraphs = re.split(r'\n\s*\n', text)
+    merged = []
+    for p in paragraphs:
+        lines = [line.strip() for line in p.splitlines() if line.strip()]
+        buf = ""
+        for line in lines:
+            if buf:
+                buf += " " + line
+            else:
+                buf = line
+            # 若以 . ? ! 結尾就換行
+            if re.search(r'[.?!]$', buf):
+                merged.append(buf)
+                buf = ""
+        if buf:
+            merged.append(buf)
+    return '\n'.join(merged)
 
 # filepath: /home/altsai/project/20201228.APOD-taigi/github/apod-taigi.github.io/data/apod_fetch_to_md.py
 def to_markdown(data, date_str, yyyymmdd, day):
@@ -301,14 +340,38 @@ def to_markdown(data, date_str, yyyymmdd, day):
     # 將 explanation 內容插入 ## [English] 段落下，refs 放在文章最後
     lines = md.splitlines()
     out = []
-    inserted = False
-    for i, line in enumerate(lines):
+    inserted_hanlo = False
+    inserted_english = False
+
+    #for i, line in enumerate(lines):
+    for line in lines:
+        #out.append(line)
+        # 在台文翻譯那行前插入 special_notice
+        if line.strip().startswith("- 台文翻譯") and data.get("special_notice"):
+            out.append(f"- {data['special_notice']}")
         out.append(line)
-        if not inserted and line.strip().startswith("## [English]"):
+        # 自動插入 explanation 到 [漢羅]
+        if not inserted_hanlo and line.strip().startswith("## [漢羅]"):
             out.append("")
             if data['explanation']:
-                out.append(data['explanation'])
-            inserted = True
+                # 去除 markdown link，只留純文字
+                hanlo_text = data['explanation']
+                # 去除 markdown link [text](url)
+                hanlo_text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', hanlo_text)
+                # 去除 markdown reference link [text][ref]
+                hanlo_text = re.sub(r'\[([^\]]+)\]\[[^\]]+\]', r'\1', hanlo_text)
+                # 去除 HTML <a> 標籤
+                hanlo_text = re.sub(r'<a [^>]*>(.*?)</a>', r'\1', hanlo_text)
+                hanlo_text = merge_lines(hanlo_text)
+                out.append(hanlo_text)
+            inserted_hanlo = True
+        # 也插到 [English]
+        if not inserted_english and line.strip().startswith("## [English]"):
+            out.append("")
+            if data['explanation']:
+                english_text = merge_lines(data['explanation'])
+                out.append(english_text)
+            inserted_english = True
     # refs 放在全文最後
     if data.get("explanation_refs"):
         out.append("")
