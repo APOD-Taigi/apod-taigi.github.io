@@ -14,6 +14,7 @@ SOURCE_MAP = {
 IP_RIGHT_MAP = {
     "Copyright": "版權",
     "License": "許可",
+    "Processing": "處理",
     # ...可擴充...
 }
 
