@@ -25,7 +25,17 @@ def fetch_apod_html(url):
     return res.text
 
 def parse_credit(soup):
+    source_type = ""
+    source_key_en = ""
+    source_link = None
+    ip_right_type = ""
+    ip_right_key_en = ""
+    ip_right_link = None
     refs = {}
+
+
+
+    # 處理 author 與 source 的部分
     # 找 <b> 內容以 : 結尾且在 SOURCE_MAP
     b_tag = None
     source_type = ""
@@ -78,14 +88,139 @@ def parse_credit(soup):
         a.replace_with(f"[{text}][{ref_key}]")
 
     # 將所有內容接成一行
-    author = replace_text(soup2.get_text(separator="", strip=True))
-    author = re.sub(r'\s+', ' ', author)  # 多個空白合併成一個空白
+    author_1 = replace_text(soup2.get_text(separator="", strip=True))
+    author_1 = re.sub(r'\s+', ' ', author_1)  # 多個空白合併成一個空白
 
     # 保留 markdown link
     for a_md in re.findall(r'\[.*?\]\[.*?\]', str(soup2)):
-        author = author.replace(a_md.replace('[', '').replace(']', ''), a_md)
+        author_1 = author_1.replace(a_md.replace('[', '').replace(']', ''), a_md)
 
-    credit = f"{source_type}: {author}" if source_type else author
+
+
+
+
+    # 1. 找出有符合 source_map 的 <b> 行
+    b_tag = None
+    for b in soup.find_all("b"):
+        b_text = b.get_text(strip=True)
+        for k in SOURCE_MAP:
+            if b_text.startswith(k):
+                b_tag = b
+                break
+        if b_tag:
+            break
+
+    if not b_tag:
+        return "", refs
+
+    b_content = b_tag.get_text()
+    parent = b_tag.parent
+    parent_html = str(parent)
+    after_b = parent_html.split(str(b_tag), 1)[-1]
+
+    # 解析 source 與 ip_right
+    if "&" in b_content:
+        # 例如 "Image Credit & Copyright:"
+        left, right = b_content.split("&", 1)
+        source_part = left.strip()
+        ip_right_part = right.strip()
+        # ip_right_part 可能含有冒號
+        if ":" in ip_right_part:
+            ip_right_part = ip_right_part.split(":", 1)[0].strip()
+        # 取得 source_type
+        for k in SOURCE_MAP:
+            if source_part.startswith(k):
+                source_type = SOURCE_MAP.get(k, k)
+                source_key_en = k
+                break
+        # 取得 ip_right_type
+        for k in IP_RIGHT_MAP:
+            if ip_right_part.startswith(k):
+                ip_right_type = IP_RIGHT_MAP.get(k, k)
+                ip_right_key_en = k
+                break
+        # author html
+        if ":" in b_content:
+            author_html = b_content.split(":", 1)[-1].strip()
+        else:
+            # fallback: 取 <b> 之後的文字
+            author_html = BeautifulSoup(after_b, "html.parser").get_text().strip()
+    else:
+        # 沒有 &，直接取 source
+        left, right = b_content.split(":", 1)
+        source_part = left.strip()
+        # 取得 source_type
+        for k in SOURCE_MAP:
+            if source_part.startswith(k):
+                source_type = SOURCE_MAP.get(k, k)
+                source_key_en = k
+                break
+        # 取得冒號後的 author
+        author_html = right.strip()
+
+    # 尋找 source link
+    for a in b_tag.find_all("a"):
+        text = a.text.strip()
+        if text == source_key_en:
+            url = a.get("href")
+            ref_key = re.sub(r'\W+', '_', text)
+            refs[ref_key] = url
+            source_link = ref_key
+            break
+
+    # 尋找 ip_right link
+    for a in b_tag.find_all("a"):
+        text = a.text.strip()
+        if (ip_right_type and (text == ip_right_type or (ip_right_key_en and text == ip_right_key_en))):
+            url = a.get("href")
+            ref_key = re.sub(r'\W+', '_', text)
+            refs[ref_key] = url
+            ip_right_link = ref_key
+            break
+
+    # # 解析 author 與 link
+    # author_links = []
+    # for a in parent.find_all("a"):
+    #     text = a.text.strip()
+    #     if text and text not in [source_key_en, ip_right_type] and (not ip_right_key_en or text != ip_right_key_en):
+    #         url = a.get("href")
+    #         ref_key = re.sub(r'\W+', '_', text)
+    #         refs[ref_key] = url
+    #         author_links.append(f"[{text}][{ref_key}]")
+    # # 再抓 author_html 裡的純文字
+    # soup2 = BeautifulSoup(author_html, "html.parser")
+    # texts = [t for t in soup2.stripped_strings if t not in [a.text.strip() for a in soup2.find_all("a")]]
+    # author_links.extend(texts)
+    # if not author_links and author_html:
+    #     author_links.append(author_html)
+    # author = ", ".join([item for item in author_links if item.strip()])
+
+    # 組合 source
+    if source_type:
+        if source_link and source_link in refs:
+            source = f"[{source_type}][{source_link}]"
+        else:
+            source = source_type
+    else:
+        source = ""
+
+    # 組合 ip_right
+    if ip_right_type:
+        if ip_right_link and ip_right_link in refs:
+            ip_right = f"[{ip_right_type}][{ip_right_link}]"
+        else:
+            ip_right = ip_right_type
+    else:
+        ip_right = ""
+
+    # 組合 credit 格式
+    if source and ip_right:
+        credit = f"{source} kah {ip_right}: {author_1}"
+    elif source:
+        credit = f"{source}: {author_1}"
+    else:
+        credit = f"{ip_right}: {author_1}"
+
     return credit, refs
 
 def parse_apod(html):
