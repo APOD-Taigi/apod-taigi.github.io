@@ -105,6 +105,7 @@ def parse_apod(html):
     # 3. Credit session
     credit_md, credit_refs = parse_credit(soup)
 
+    # 4. 解析 special_notice
     # 解析 special_notice
     special_notice_md = ""
     tomorrow_b = None
@@ -113,17 +114,26 @@ def parse_apod(html):
             tomorrow_b = b
             break
     if tomorrow_b:
-        # 找到前一個兄弟節點
-        prev = tomorrow_b.previous_sibling
-        # 跳過空白或換行
-        while prev and (isinstance(prev, str) and prev.strip() == ""):
-            prev = prev.previous_sibling
-        # 若是 <b> 且有 <a>
-        if prev and getattr(prev, "name", None) == "b" and prev.find("a"):
-            special_notice_md = mdify(str(prev), heading_style="ATX").strip()
-    
+        parent = tomorrow_b
+        while parent and parent.name != "center":
+            parent = parent.parent
+        if parent:
+            html_block = ""
+            for elem in parent.children:
+                if elem == tomorrow_b:
+                    break
+                if isinstance(elem, str) and not elem.strip():
+                    continue
+                html_block += str(elem)
+            if html_block.strip():
+                special_notice_md = mdify(html_block, heading_style="ATX").strip()
+                # 去除 markdown 粗體
+                special_notice_md = re.sub(r"\*\*(.+?)\*\*", r"\1", special_notice_md)
+                # 若不是以 - 開頭，手動加上
+                if special_notice_md and not special_notice_md.lstrip().startswith("-"):
+                    special_notice_md = f"- {special_notice_md}"
 
-    # 4. Explanation
+    # 5. Explanation
     explanation_md = ""
     explanation_refs = ""
     explanation_b = None
@@ -264,6 +274,7 @@ def to_markdown(data, date_str, yyyymmdd, day):
         url=apod_url,
         credit=data['credit'],  # 這裡 credit 會寫入 md
         english="",  # 先留空，稍後插入
+        special_notice=data.get("special_notice", ""),
     )
     # 將 explanation 內容插入 ## [English] 段落下，refs 放在文章最後
     lines = md.splitlines()
@@ -275,8 +286,8 @@ def to_markdown(data, date_str, yyyymmdd, day):
     for line in lines:
         #out.append(line)
         # 在台文翻譯那行前插入 special_notice
-        if line.strip().startswith("- 台文翻譯") and data.get("special_notice"):
-            out.append(f"- {data['special_notice']}")
+        #if line.strip().startswith("- 台文翻譯") and data.get("special_notice"):
+        #    out.append(f"- {data['special_notice']}")
         out.append(line)
         # 自動插入 explanation 到 [漢羅]
         if not inserted_hanlo and line.strip().startswith("## [漢羅]"):

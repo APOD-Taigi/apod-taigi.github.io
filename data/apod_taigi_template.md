@@ -12,6 +12,7 @@ summary:
 
 - 原始文章：[{title}]({url})
 - {credit}
+{special_notice}
 - 台文翻譯：[An-Li Tsai][An-Li Tsai] ([TARA][TARA])
 
 
