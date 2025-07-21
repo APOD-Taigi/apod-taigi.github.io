@@ -15,7 +15,7 @@ summary:
 - 台文翻譯：[An-Li Tsai][An-Li Tsai] ([TARA][TARA])
 
 
-## [漢羅] {title} 
+## [漢羅] {title}
 
 <!--
 這裡是你的中文翻譯內容
