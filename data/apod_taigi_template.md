@@ -1,4 +1,4 @@
---- 
+---
 title: 
 date: {date}
 publishdate: {publishdate}
