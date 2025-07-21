@@ -32,7 +32,7 @@ def parse_credit(soup):
     for b in soup.find_all("b"):
         b_text = b.get_text(strip=True)
         for k in SOURCE_MAP:
-            if b_text == f"{k}:":
+            if b_text.startswith(k):
                 b_tag = b
                 source_type = SOURCE_MAP[k]
                 break
@@ -131,7 +131,7 @@ def parse_apod(html):
                 special_notice_md = re.sub(r"\*\*(.+?)\*\*", r"\1", special_notice_md)
                 # 若不是以 - 開頭，手動加上
                 if special_notice_md and not special_notice_md.lstrip().startswith("-"):
-                    special_notice_md = f"- {special_notice_md}"
+                    special_notice_md = f"\n- {special_notice_md}"
 
     # 5. Explanation
     explanation_md = ""
