@@ -11,7 +11,7 @@ params:
   ga_analytics: G-TSYX69CJNK
 
 permalinks:
-  daily: /daily/:filename/
+  daily: /daily/:contentbasename/
 
 taxonomies:
   category: categories
