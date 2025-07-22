@@ -8,7 +8,7 @@ hero: {hero}
 summary: 
 ---
 
-{{% apod %}}
+{{{{% apod %}}}}
 
 - 原始文章：[{title}]({url})
 - {credit}{special_notice}
@@ -43,7 +43,7 @@ summary:
 
 
 
-{{% /apod %}}
+{{{{% /apod %}}}}
 [An-Li Tsai]: mailto:thianbun.taigi@gmail.com
 [TARA]: https://www.astro.ncu.edu.tw/taova/index.php/tara-trip/
 
