@@ -47,6 +47,6 @@ summary:
 [An-Li Tsai]: mailto:thianbun.taigi@gmail.com
 [TARA]: https://tara.tw
 
-[copyright]: https://apod.nasa.gov/apod/fap/lib/about_apod.html#srapply
+[Copyright]: https://apod.nasa.gov/apod/fap/lib/about_apod.html#srapply
 [License3]: https://creativecommons.org/licenses/by-nc-nd/3.0/
 [License2]:https://creativecommons.org/licenses/by-nc-nd/2.0/

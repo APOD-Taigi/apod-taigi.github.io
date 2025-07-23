@@ -279,36 +279,35 @@ def parse_apod(html):
             break
 
     if explanation_b:
-        # 只抓 explanation <b> 後面第一個段落，遇到空行或 Tomorrow's picture 就停
+        # 只抓 explanation <b> 後面第一個段落，遇到粗體 Tomorrow's picture 就停
         expl_html = ""
         sib = explanation_b.next_sibling
         while sib:
-            # 停在遇到下一個 <b> 或 <hr>
-            if getattr(sib, "name", None) in ("b", "hr"):
+            # 只遇到 <b> 且內容有 Tomorrow's picture 才 break
+            if getattr(sib, "name", None) == "b" and re.search(r"Tomorrow'?s picture", sib.get_text(), re.IGNORECASE):
                 break
-            # 若遇到 "Tomorrow's picture" 則停止（但不抓這一行）
-            if isinstance(sib, str) and re.search(r"Tomorrow'?s picture:", sib, re.IGNORECASE):
-                break
-            # 若遇到 <p> 或 <center> 就停止
-            if getattr(sib, "name", None) in ("p", "center"):
-                break
-            if (isinstance(sib, str) and sib.strip() == "") or (getattr(sib, "name", None) == "br"):
-                # 檢查是否已經有內容，若有則停止
-                if expl_html.strip():
-                    break
+            # 其他 <b> 或 <hr> 直接收集
+            #if getattr(sib, "name", None) in ("b", "hr"):
+            else:
+                expl_html += str(sib)
+                sib = sib.next_sibling
+                continue
+            # 其他條件都不 break
             expl_html += str(sib)
             sib = sib.next_sibling
         # markdown 化，先將相對連結轉為絕對連結
         def abs_link(m):
-            url = m.group(2)
+            url = m.group(1)  # 這是 href 的網址
+            text = m.group(2) # 這是 <a> 的顯示文字
             if url.startswith("http"):
                 return m.group(0)
             # 若是 apod 內部連結（如 ap210320.html），補上主網址
             if url.startswith("ap") and url.endswith(".html"):
                 abs_url = f"https://apod.nasa.gov/apod/{url}"
-                return f'[{m.group(1)}]({abs_url})'
+                return f'[{text}]({abs_url})'
             return m.group(0)
-        expl_html = re.sub(r'<a href="([^"]+)">([^<]+)</a>', lambda m: f'<a href="{m.group(1) if m.group(1).startswith("http") else ("https://apod.nasa.gov/apod/" + m.group(1))}">{m.group(2)}</a>' if m.group(1).startswith("ap") and m.group(1).endswith(".html") else m.group(0), expl_html)
+        #expl_html = re.sub(r'<a href="([^"]+)">([^<]+)</a>', lambda m: f'<a href="{m.group(1) if m.group(1).startswith("http") else ("https://apod.nasa.gov/apod/" + m.group(1))}">{m.group(2)}</a>' if m.group(1).startswith("ap") and m.group(1).endswith(".html") else m.group(0), expl_html)
+        expl_html = re.sub(r'<a href="([^"]+)">([^<]+)</a>', abs_link, expl_html)
         explanation_md_raw = mdify(expl_html, heading_style="ATX").strip()
         # markdown link 轉為 [text][ref]，並收集 refs
         link_pattern = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)')
@@ -461,6 +460,11 @@ def save_markdown(md, date_path, yyyymmdd):
     outdir = os.path.join(project_root, "content", "daily", date_path)
     os.makedirs(outdir, exist_ok=True)
     outfile = os.path.join(outdir, f"{yyyymmdd}.md")
+    if os.path.exists(outfile):
+        ans = input(f"{outfile} 已存在，是否要覆蓋？(y/N): ").strip().lower()
+        if ans != "y":
+            print("已取消儲存。")
+            return
     with open(outfile, "w", encoding="utf-8") as f:
         f.write(md)
     print(f"已儲存 {outfile}")
