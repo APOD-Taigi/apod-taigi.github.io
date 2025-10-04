@@ -278,24 +278,46 @@ def parse_apod(html):
             explanation_b = b
             break
 
-    if explanation_b:
+    if explanation_b:   # 如果有找到 Explanation
         # 只抓 explanation <b> 後面第一個段落，遇到粗體 Tomorrow's picture 就停
         expl_html = ""
         sib = explanation_b.next_sibling
         while sib:
-            # 只遇到 <b> 且內容有 Tomorrow's picture 才 break
-            if getattr(sib, "name", None) == "b" and re.search(r"Tomorrow'?s picture", sib.get_text(), re.IGNORECASE):
+            # 停止條件：遇到 <b> Tomorrow's picture </b>
+            if getattr(sib, "name", None) == "b" and "Tomorrow's picture" in sib.get_text(strip=True):
                 break
-            # 其他 <b> 或 <hr> 直接收集
-            #if getattr(sib, "name", None) in ("b", "hr"):
-            else:
-                expl_html += str(sib)
-                sib = sib.next_sibling
-                continue
-            # 其他條件都不 break
-            expl_html += str(sib)
-            sib = sib.next_sibling
-        # markdown 化，先將相對連結轉為絕對連結
+            # 停止條件：遇到 <p> <center>
+            if isinstance(sib, str) and "<p> <center>" in sib:
+                break
+            # 因為抓取段落無效，我 comment 掉這些條件
+            # 停在遇到 <b> 或其他標籤，且內容有 Tomorrow's picture 就 break
+            # if getattr(sib, "name", None) in ("b", "strong") and re.search(r"Tomorrow'?s picture", sib.get_text(strip=True), re.IGNORECASE):
+            #     break
+            # # 如果是純文字且有 Tomorrow's picture 也要 break
+            # if isinstance(sib, str) and re.search(r"Tomorrow'?s picture", sib.strip(), re.IGNORECASE):
+            #     break
+            # # 遇到 <p> <center> 也 break
+            # if isinstance(sib, str) and "<p> <center>" in sib:
+            #     break
+            # 停止條件：遇到 <p> 並且下一個節點是 <center>
+            if getattr(sib, "name", None) == "p" and sib.find_next_sibling() and sib.find_next_sibling().name == "center":
+                break
+            # 停止條件：遇到 <center> 並且前一個節點是 <p>
+            if getattr(sib, "name", None) == "center" and sib.previous_sibling and sib.previous_sibling.name == "p":
+                break
+            expl_html += str(sib)   # 將當前節點加入 expl_html
+            sib = sib.next_sibling  # 移動到下一個兄弟節點
+        print(expl_html)
+        print('======================')
+        
+        #     else:
+        #         expl_html += str(sib)
+        #         sib = sib.next_sibling
+        #         continue
+        #     # 其他條件都不 break
+        #     expl_html += str(sib)
+        #     sib = sib.next_sibling
+        # # markdown 化，先將相對連結轉為絕對連結
         def abs_link(m):
             url = m.group(1)  # 這是 href 的網址
             text = m.group(2) # 這是 <a> 的顯示文字
@@ -306,8 +328,8 @@ def parse_apod(html):
                 abs_url = f"https://apod.nasa.gov/apod/{url}"
                 return f'[{text}]({abs_url})'
             return m.group(0)
-        #expl_html = re.sub(r'<a href="([^"]+)">([^<]+)</a>', lambda m: f'<a href="{m.group(1) if m.group(1).startswith("http") else ("https://apod.nasa.gov/apod/" + m.group(1))}">{m.group(2)}</a>' if m.group(1).startswith("ap") and m.group(1).endswith(".html") else m.group(0), expl_html)
-        expl_html = re.sub(r'<a href="([^"]+)">([^<]+)</a>', abs_link, expl_html)
+        expl_html = re.sub(r'<a href="([^"]+)">([^<]+)</a>', lambda m: f'<a href="{m.group(1) if m.group(1).startswith("http") else ("https://apod.nasa.gov/apod/" + m.group(1))}">{m.group(2)}</a>' if m.group(1).startswith("ap") and m.group(1).endswith(".html") else m.group(0), expl_html)
+        #expl_html = re.sub(r'<a href="([^"]+)">([^<]+)</a>', abs_link, expl_html)
         explanation_md_raw = mdify(expl_html, heading_style="ATX").strip()
         # markdown link 轉為 [text][ref]，並收集 refs
         link_pattern = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)')
@@ -425,7 +447,7 @@ def to_markdown(data, date_str, yyyymmdd, day):
         #    out.append(f"- {data['special_notice']}")
         out.append(line)
         # 自動插入 explanation 到 [漢羅]
-        if not inserted_hanlo and line.strip().startswith("## [漢羅]"):
+        if not inserted_hanlo and line.strip().startswith("## [英文]"):
             out.append("")
             if data['explanation']:
                 # 去除 markdown link，只留純文字
