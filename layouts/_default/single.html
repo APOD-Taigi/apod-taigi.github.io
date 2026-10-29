@@ -18,7 +18,7 @@
               <iframe src="https://player.vimeo.com/video/{{ $videoId }}?title=0&byline=0&portrait=0" allow="fullscreen" allowfullscreen></iframe>
             </div>
           {{ else }}
-            <img src="{{ .Params.hero }}" alt="{{ . }}" class="post_thumbnail">
+            <img src="{{ .Params.hero }}" alt="{{ .Title }}" class="post_thumbnail">
           {{ end }}
         {{ end }}
           {{ .Content }}
